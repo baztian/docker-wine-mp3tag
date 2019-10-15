@@ -11,3 +11,4 @@ This is a dockerized version of the Windows software
 
     connect with VNC client to IP of base host
     Fluxbox run from main.sh and Mp3Tag run from app.sh on boot
+    open Bash and run "mp3tag.sh" script 
