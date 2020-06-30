@@ -1,0 +1,622 @@
+﻿LANGAUTHOR Maurício Meneghini Fauth, Daniel Biazoto
+LANGCONTACT mauriciofauth@gmail.com
+LANGVERSION 3.00
+LANGNAME Brazilian Portuguese
+LANGNAMELOC Português Brasileiro
+SLangCancel Cancelar
+SLangOk &OK
+SLangErrCatch Erro no Tempo de Execução\n\nArquivo:\t{1}\nLinha:\t{2}\n\nO programa encontrou uma exceção inesperada e encontra-se em estado indefinido. Por favor, feche o programa e envie o arquivo\n\n{3}\n\ne uma descrição detalhada do erro para o nosso suporte técnico.\n\ne-mail: support@mp3tag.de
+SLangErrCheck Erro no Tempo de Execução\n\nArquivo:\t{1}\nLinha:\t{2}\nTermo:\t{3}\nCódigo:\t0x{4}\n\nO programa encontrou uma exceção inesperada e encontra-se em estado indefinido. Por favor, feche o programa e envie o arquivo\n\n{5}\n\ne uma descrição detalhada do erro para o nosso suporte técnico.\n\ne-mail: support@mp3tag.de
+SLangErrDriveCannotBeAccessed A unidade {1} não pode ser acessada.
+SLangErrFileCannotBeAccessed O arquivo {1} não pode ser acessado.
+SLangErrFileCannotBeDeleted O arquivo {1} não pode ser excluído.\n\n» Por favor, certifique-se de que outros processos não estejam usando o arquivo.
+SLangErrFolderCannotBeAccessed A pasta {1} não pode ser acessada.
+SLangErrFolderCannotBeDeleted A pasta {1} não pode ser excluída.\n\n» Por favor, certifique-se de que outros processos não estejam usando a pasta.
+SLangErrHelpBrowserIsNotAvailable O Mp3tag não foi capaz de exibir o arquivo de ajuda em seu navegador padrão.
+SLangErrHelpSystemIsNotAvailable O sistema de ajuda não está disponível.\n\n» Por favor, reinstale {1}.
+SLangErrHelpTopicIsNotAvailable O tópico de ajuda não está disponível.\n\n» Por favor, entre em contato com nosso suporte técnico.\n\ne-mail: support@mp3tag.de
+SLangErrNotEnoughFreeDiskSpace Não há espaço livre no dispositivo {1}.\n\n» Por favor, garanta, pelo menos, {2} de espaço nesta unidade.
+SLangErrRegistryCannotBeAccessed Erro na leitura dos dados\n\nImpossível acessar o Registro do Windows.
+SLangMsgItemExistsAlready Já existe uma entrada com esta descrição.\n\n» Por favor, use outra descrição.
+SLangMsgFirstSteps Por favor, tome algum tempo para se acostumar com os primeiros passos.
+SLangMsgShutdownInfo Por favor, aguarde enquanto o {1} é encerrado.
+SLangWrnAppIsAlreadyRunning Uma sessão deste aplicativo já está em execução.
+SLangWrnAppHasToBeRestarted O Mp3tag deve ser reiniciado para que as mudanças tenham efeito.\n\nVocê deseja reiniciar o Mp3tag agora?
+SLangWrnNameContainsInvalidCharacters A descrição contém caracteres inválidos.\n\n» Por favor, use outra descrição.
+SLangWrnStartLogging Você iniciou o {1} com o parâmetro de linha de comando FLOG1. Este parâmetro é usado para fins de depuração.\n\nDeseja iniciar a função de registro?
+_C_ABORT Abortar
+_C_ABORTING Abortando...
+_C_APP_ST_ALBUM Ál&bum
+_C_APP_ST_ARTIST &Artista
+_C_APP_ST_COMMENT &Comentário
+_C_APP_ST_FOLDER &Pasta
+_C_APP_ST_GENRE &Gênero
+_C_APP_ST_TITLE &Título
+_C_APP_ST_TRACK &Faixa
+_C_APP_ST_YEAR A&no
+_C_CANCEL Cancelar
+_C_CANCELING Cancelando...
+_C_CLOSE Fechar
+_C_DLG_CDDBCONFIRM_CAPTION Lista de resultados da pesquisa...
+_C_DLG_CDDBCONFIRM_CHK_DISCID Copiar ID do disco para o campo de comentário
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 Copiar ID do disco para o campo DISCID
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER Compilação...
+_C_DLG_CDDBCONFIRM_CHK_SORT Sugerir classificação
+_C_DLG_CDDBCONFIRM_ST_INFO Mais de um resultado foi encontrado.\nPor favor, escolha um:
+_C_DLG_CDDBCONFIRM_ST_INFO2 Há {2} resultados da pesquisa do banco de dados {1}.\nPor favor, escolha um:
+_C_DLG_CDDBCONFIRM_STC_TOP Ajustar informações da tag
+_C_DLG_CDDBINPUT_CAPTION Insira a ID freedb
+_C_DLG_CDDBINPUT_ST_CATEGORY Categoria:
+_C_DLG_CDDBINPUT_ST_ID ID do freedb:
+_C_DLG_CDDBSTYLE_CAPTION freedb
+_C_DLG_CDDBSTYLE_RD_CDROM determinar a partir do CD de áu&dio inserido
+_C_DLG_CDDBSTYLE_RD_ENTER inserir manualmente
+_C_DLG_CDDBSTYLE_RD_MP3 determinar a partir dos arquivos selecionados
+_C_DLG_CDDBSTYLE_RD_SEARCH determinar através de pesquisa na web
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL determinar através de pesquisa em texto
+_C_DLG_CDDBSTYLE_STC_TOP ID do freedb...
+_C_DLG_COLUMNS_CAPTION Colunas
+_C_DLG_COLUMNS_TOP Ajustar visibilidade das colunas
+_C_DLG_TAGS Editar as informações da tag
+_C_DLG_TTF_TOP Selecione o formato da sequência
+_C_HELP A&juda
+_C_MNU_ACTIONS &Ações\tALT+6
+_C_MNU_CON &Converter
+_C_MNU_CON_FTF N&ome do arquivo - Nome do arquivo\tALT+3
+_C_MNU_CON_FTT &Nome do arquivo - Tag\tALT+2
+_C_MNU_CON_TFF Arquivo de te&xto - Tag\tALT+4
+_C_MNU_CON_TTF &Tag - Nome do arquivo\tALT+1
+_C_MNU_CON_TTT T&ag - Tag\tALT+5
+_C_MNU_EDIT &Editar
+_C_MNU_EDIT_COPY &Copiar\tCtrl+C
+_C_MNU_EDIT_CUT &Recortar\tCtrl+X
+_C_MNU_EDIT_INVERTSELECTION &Inverter seleção\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT Selecionar &próximo arquivo\tCtrl+N
+_C_MNU_EDIT_PASTE C&olar\tCtrl+V
+_C_MNU_EDIT_SELECT Selecionar &todos os arquivos\tCtrl+A
+_C_MNU_EDIT_UNDO &Desfazer\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL &Remover seleção\tCtrl+U
+_C_MNU_EXTRA &Ferramentas
+_C_MNU_EXTRA_OPTIONS &Opções...\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS Restaurar todos os &campos de entrada\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS Valores padrão nos campos de entrada\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD Assistente para auto-numeração...\tCtrl+K
+_C_MNU_FILE &Arquivo
+_C_MNU_FILE_ADD Adicionar pasta...
+_C_MNU_FILE_CDDB freedb...\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL freedb (Local)...\tCtrl+L
+_C_MNU_FILE_COPY Copiar...
+_C_MNU_FILE_DELETE Excluir...
+_C_MNU_FILE_DIR Alterar &pasta...\tCtrl+D
+_C_MNU_FILE_EXIT &Sair\tAlt+F4
+_C_MNU_FILE_EXPORT &Exportar...\tCtrl+E
+_C_MNU_FILE_FAVDIR Pasta &favorita\tCtrl+F
+_C_MNU_FILE_MOVE Mover...
+_C_MNU_FILE_PLALL Lista de reprodução (todos os arquivos)\tCtrl+P
+_C_MNU_FILE_PLAY Reproduzir
+_C_MNU_FILE_PLAYLIST Carregar lista de reprodução...
+_C_MNU_FILE_PLSEL Lista de reprodução (arquivos selecionados)
+_C_MNU_FILE_PROPERTIES Propriedades...
+_C_MNU_FILE_READ Ler &tag\tCtrl+T
+_C_MNU_FILE_REMOVE &Remover tag\tCtrl+R
+_C_MNU_FILE_REMOVEFILE Re&mover\tDel
+_C_MNU_FILE_RENAME Renomear\tF2
+_C_MNU_FILE_SAVE &Salvar tag\tCtrl+S
+_C_MNU_FILE_SAVECONFIG Salvar &configuração...
+_C_MNU_FREEDB f&reedb
+_C_MNU_FREEDB_INDEX Criar índice local
+_C_MNU_FS_EXT Campos adicionais
+_C_MNU_FS_FNCT Funções
+_C_MNU_FS_INFO Campos de informações
+_C_MNU_FS_REM Remover do histórico
+_C_MNU_FS_REMALL Remover tudo do histórico...
+_C_MNU_FS_REMALL_MSG Tem certeza de que deseja remover todos os itens?
+_C_MNU_HELP A&juda
+_C_MNU_HELP_ABOUT Sobre o Mp3tag...
+_C_MNU_HELP_DONATE Doação
+_C_MNU_HELP_FINDER Tó&picos...\tF1
+_C_MNU_HELP_FIRSTSTEPS &Primeiros Passos
+_C_MNU_HELP_KEYBOARD Atalhos do &Teclado
+_C_MNU_HELP_SUPPORT Suporte Online...
+_C_MNU_HELP_UPGRADE Verificar atualizações...
+_C_MNU_HELP_WWW &Website do Mp3tag...
+_C_MNU_TAGSOURCES Fo&ntes
+_C_MNU_TOOLS &Ferramentas
+_C_MNU_VIEW E&xibir
+_C_MNU_VIEW_COLUMNS &Configurar colunas...
+_C_MNU_VIEW_FILTER &Filtro\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY Autoaplicar filtro
+_C_MNU_VIEW_ID3 Painel de Tags\tCtrl+Q
+_C_MNU_VIEW_REFRESH &Atualizar\tF5
+_C_MNU_VIEW_SORTBY Clas&sificar por
+_C_MNU_VIEW_TAGS &Tags...\tALT+T
+_C_MNU_VIEW_TOOLBAR &Barra de ferramentas
+_C_MNU_SB_ACTIONS Aplica ações definidas pelo usuário (conversão maiúscula/minúscula, substituição, ...) aos arquivos selecionados.
+_C_MNU_SB_CON_FTF Renomear arquivos a partir de um padrão baseado no nome anterior.
+_C_MNU_SB_CON_FTT Importar tags a partir de nomes de arquivo.
+_C_MNU_SB_CON_TFF Importar tags a partir de um arquivo de texto.
+_C_MNU_SB_CON_TTF Renomear arquivos a partir de um padrão baseado nas tags.
+_C_MNU_SB_CON_TTT Formatar tags baseando-se em tags.
+_C_MNU_SB_EDIT_COPY Copiar texto selecionado ou a tag do arquivo selecionado para a área de transferência.
+_C_MNU_SB_EDIT_CUT Recortar texto selecionado ou a tag do arquivo selecionado para a área de transferência.
+_C_MNU_SB_EDIT_INVERTSELECTION Inverter a seleção atual.
+_C_MNU_SB_EDIT_NEXT Selecionar o próximo arquivo na lista de arquivos.
+_C_MNU_SB_EDIT_PASTE Colar o conteúdo da área de transferência no local atual do cursor ou no arquivo selecionado.
+_C_MNU_SB_EDIT_SELECT Selecionar arquivos da lista de arquivos.
+_C_MNU_SB_EDIT_UNDO Desfazer a última operação.
+_C_MNU_SB_EDIT_UNSELECTALL Desfazer a seleção de todos os arquivos.
+_C_MNU_SB_EXTRA_OPTIONS Mostrar a caixa de diálogo de opções.
+_C_MNU_SB_EXTRA_RESET_EDITS Remover texto de todos os campos de entrada do painel de tags.
+_C_MNU_SB_EXTRA_SET_EDITS Mudar todos os campos de entrada do painel de tags para os valores padrão.
+_C_MNU_SB_EXTRA_TRACKWIZARD Executar o assistente para auto-numeração de faixas.
+_C_MNU_SB_FILE_ADD Adicionar uma pasta à lista de arquivos.
+_C_MNU_SB_FILE_CDDB Obter informações, via internet, sobre o CD de áudio inserido ou sobre os arquivos de áudio selecionados.
+_C_MNU_SB_FILE_CDDBLOCAL Obter informações, através do banco de dados freedb local, sobre o CD de áudio inserido ou sobre os arquivos de áudio selecionados.
+_C_MNU_SB_FILE_COPY Copiar os arquivos selecionados para outra pasta.
+_C_MNU_SB_FILE_DELETE Apagar os arquivos selecionados.
+_C_MNU_SB_FILE_DIR Mudar a pasta de trabalho atual.
+_C_MNU_SB_FILE_EXIT Sair do programa.
+_C_MNU_SB_FILE_EXPORT Exportar a tag e informações de arquivo dos arquivos selecionados.
+_C_MNU_SB_FILE_FAVDIR Mudar para a pasta padrão.
+_C_MNU_SB_FILE_FREEDBINDEX Criar índice do banco de dados freedb local para efetuar pesquisas locais.
+_C_MNU_SB_FILE_MOVE Mover os arquivos selecionados para outra pasta.
+_C_MNU_SB_FILE_PLALL Criar uma lista de reprodução de todos os arquivos.
+_C_MNU_SB_FILE_PLAY Executar os arquivos selecionados.
+_C_MNU_SB_FILE_PLAYLIST Carrega o conteúdo de uma lista de reprodução.
+_C_MNU_SB_FILE_PLSEL Criar lista de reprodução dos arquivos selecionados.
+_C_MNU_SB_FILE_PROPERTIES Mostrar as propriedades do arquivo selecionado.
+_C_MNU_SB_FILE_READ Ler tag do arquivo selecionado para o campo de entrada do painel de tags.
+_C_MNU_SB_FILE_REMOVE Remover tag do arquivo selecionado.
+_C_MNU_SB_FILE_REMOVEFILE Remover os arquivos selecionados.
+_C_MNU_SB_FILE_RENAME Renomear o arquivo selecionado.
+_C_MNU_SB_FILE_SAVE Salvar a tag nos arquivos selecionados.
+_C_MNU_SB_FILE_SAVECONFIG Salvar configuração atual em um arquivo de configuração.
+_C_MNU_SB_HELP_ABOUT Informações sobre o Mp3tag.
+_C_MNU_SB_HELP_CONTEXT Mostrar a ajuda de contexto para campos clicados, menus e janelas.
+_C_MNU_SB_HELP_DONATE Por favor, considere fazer uma doação para ajudar no desenvolvimento do Mp3tag.
+_C_MNU_SB_HELP_FINDER Mostrar conteúdo de ajuda.
+_C_MNU_SB_HELP_FIRSTSTEPS Exibir uma pequena introdução ao Mp3tag.
+_C_MNU_SB_HELP_KEYBOARD Exibir lista de atalhos de teclado.
+_C_MNU_SB_HELP_SUPPORT Ir para os fóruns do Mp3tag.
+_C_MNU_SB_HELP_UPGRADE Verifica por atualizações do Mp3tag.
+_C_MNU_SB_HELP_WWW Ir para o site do Mp3tag.
+_C_MNU_SB_UPDIR Mudar para uma pasta acima.
+_C_MNU_SB_VIEW_COLUMNS Mostrar caixa de diálogo para personalizar as colunas da lista de arquivos.
+_C_MNU_SB_VIEW_FILTER Filtrar lista de arquivos.
+_C_MNU_SB_VIEW_ID3 Exibir/ocultar o painel de tags.
+_C_MNU_SB_VIEW_REFRESH Atualizar a lista de arquivos.
+_C_MNU_SB_VIEW_TAGS Exibir a caixa de diálogo de tag estendida.
+_C_MNU_SB_VIEW_TOOLBAR Exibir/ocultar a barra de ferramentas.
+_C_MNU_SB_WND_IDLE Pronto
+_C_MNU_SB_WND_MAXIMIZE Estender a janela à tela inteira
+_C_MNU_SB_WND_MINIMIZE Minimizar a janela para um botão da barra de tarefas
+_C_MNU_SB_WND_MOVE Mover a janela
+_C_MNU_SB_WND_RESTORE Restaurar janela, de tela cheia ou minimizado, para o tamanho normal
+_C_MNU_SB_WND_SIZE Mudar o tamanho da janela
+_C_MULTILINE Multilinha
+_C_OK &OK
+_C_OPT_ACTIONGROUPS Grupos de ação
+_C_OPT_ACTIONS Ações
+_C_OPT_ACTIONS_TYPE Selecione o tipo de ação
+_C_OPT_ADVANCED Avançado
+_C_OPT_ADVANCED_ID3V2LANG Código do idioma do comentário ID3v2(ISO-639-2)
+_C_OPT_ADVANCED_LISTCHAPTERS Listar capítulos como arquivos separados
+_C_OPT_CAPTION Opções
+_C_OPT_CDDB_CAPTION freedb
+_C_OPT_CDDB_CHK_USEPROXY Usar pr&oxy
+_C_OPT_CDDB_FRM_CDDB Servidor freedb
+_C_OPT_CDDB_FRM_LOCALPATH Caminho do freedb &local:
+_C_OPT_CDDB_FRM_PROXY Proxy
+_C_OPT_CDDB_RD_FMT_UNIX Formato UNIX
+_C_OPT_CDDB_RD_FMT_WIN Formato Windows
+_C_OPT_CDDB_ST_ADDRESS En&dereço:
+_C_OPT_CDDB_ST_EMAIL &E-mail:
+_C_OPT_CDDB_ST_NAME &Nome:
+_C_OPT_CDDB_ST_PATH Caminho:
+_C_OPT_CDDB_ST_PORT Porta:
+_C_OPT_CDDB_ST_PROXYNAME &Servidor proxy:
+_C_OPT_CDDB_ST_PROXYPORT Po&rta:
+_C_OPT_CDDB_ST_PWD Sen&ha:
+_C_OPT_CDDB_ST_TIMEOUT Tempo-limite:
+_C_OPT_CDDB_ST_USERNAME &Nome de usuário:
+_C_OPT_CDDB3_CAPTION Local freedb
+_C_OPT_CON_FRM_FTT &Nome do arquivo - Tag
+_C_OPT_CON_FRM_TFF Arquivo de te&xto - Tag
+_C_OPT_CON_FRM_TTF &Tag - Nome do arquivo
+_C_OPT_CON_ST_FNAME Nome do arquivo:
+_C_OPT_CON_ST_FS Sequência de formato:
+_C_OPT_DIR Pastas
+_C_OPT_DIR_COVER Pasta de capas de álbum
+_C_OPT_EMPTY_HINT Por favor, selecione um tópico abaixo
+_C_OPT_EXP_CAPTION Exportar
+_C_OPT_EXP_CHK_APPEND Anexar dados
+_C_OPT_EXP_CHK_WRITEBOM Escrever BOM
+_C_OPT_EXP_FRM_EXPORT Exportar configuração
+_C_OPT_EXP_RD_TRACK Faixa
+_C_OPT_EXP_ST_FNAME Nome do arquivo a ser exportado:
+_C_OPT_EXP_ST_NAME Nome da nova configuração exportação
+_C_OPT_FMT_CASE Conversão maiúscula/minúscula
+_C_OPT_FMT_FRM_FTF Nome de arquivo - Nome de arquivo
+_C_OPT_FMT_ST_BEGIN Palavras começam a partir de/depois de qualquer:
+_C_OPT_FMT_ST_FNAME_NEW Novo formato do nome do arquivo:
+_C_OPT_FMT_ST_FNAME_OLD Antigo formato do nome do arquivo:
+_C_OPT_FMT2 Substituir
+_C_OPT_FMT2_CASE diferenciar maiúsculas/minúsculas
+_C_OPT_FMT2_COL_ORIGINAL Original
+_C_OPT_FMT2_COL_REPLACE Substituir por
+_C_OPT_FMT2_ONLYWORDS apenas palavra inteira
+_C_OPT_GEN_CAPTION Geral
+_C_OPT_GEN_CHK_AUTOSAVE Salvar tags ao &usar setas/ao clicar
+_C_OPT_GEN_CHK_FOLDERSTART iniciar nesta pasta
+_C_OPT_GEN_CHK_GRID Mostrar as linhas da grade na janela
+_C_OPT_GEN_CHK_JUMPONEDIT Selecionar o próximo arquivo automaticamente ao editar
+_C_OPT_GEN_CHK_KEEPFILETIME Manter data de modificação original do arquivo
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Manter arquivos movidos na lista de arquivos
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS em avisos de Ações
+_C_OPT_GEN_CHK_MSG_CHANGE após alterar
+_C_OPT_GEN_CHK_MSG_CUT ao recortar tags
+_C_OPT_GEN_CHK_MSG_DEL após excluir
+_C_OPT_GEN_CHK_MSG_DELETEFILE ao excluir arquivos
+_C_OPT_GEN_CHK_MSG_EXPORT ao exportar tags
+_C_OPT_GEN_CHK_MSG_PASTE ao colar tags
+_C_OPT_GEN_CHK_MSG_REMOVETAGS ao remover tags
+_C_OPT_GEN_CHK_MSG_SAVE após salvar
+_C_OPT_GEN_CHK_PL Criar &lista de reprodução automaticamente
+_C_OPT_GEN_CHK_RELPL Entradas relativas à pasta de trabalho
+_C_OPT_GEN_CHK_AUTOCOMPLETE Auto-completar em caixas de seleção
+_C_OPT_GEN_CHK_SELECTFILES Selecionar arquivos automaticamente
+_C_OPT_GEN_CHK_SORTNATURAL Usar classificação natural
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH &Exibir a pasta atual no título da janela
+_C_OPT_GEN_FRM_GEN Geral
+_C_OPT_GEN_FRM_MSG Exibir mensagem
+_C_OPT_GEN_FRM_PL &Nome da lista de reprodução
+_C_OPT_GEN_RD_PLALL de todos os arquivos
+_C_OPT_GEN_RD_PLSEL dos arquivos selecionados
+_C_OPT_GEN_ST_FAVDIR Pasta favorita:
+_C_OPT_GEN2_CAPTION Mensagens
+_C_OPT_GENRES Gêneros definidos pelo usuário
+_C_OPT_GENRES_HIDESTANDARD Exibir apenas os gêneros definidos pelo usuário
+_C_OPT_ID3_CHK_ISO88591 Sempre escrever tags em ISO-8859-1 em vez de UTF-16
+_C_OPT_ID3_CHK_LEADINGZEROS Zeros antes dos números das faixas (01, 02, ...)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND ID3v2 somente se ID3v1 for muito pequeno
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ Ler
+_C_OPT_ID3_FRM_REMOVE Remover
+_C_OPT_ID3_FRM_WRITE Escrever
+_C_OPT_LIB Biblioteca
+_C_OPT_LIB_CHK_ENABLE Habilitar Biblioteca
+_C_OPT_LIB_CHK_RESTRICT Somente incluir estas pastas
+_C_OPT_LIB_CLEANUP Limpar Biblioteca
+_C_OPT_MAPPING Mapeamento
+_C_OPT_MAPPING_FRM Mapeamentos de campo definidos pelo usuário 
+_C_OPT_MAPPING_SOURCE Fonte
+_C_OPT_MAPPING_TARGET Alvo
+_C_OPT_PLAYLIST_CAPTION Lista de reprodução
+_C_OPT_PLAYLIST_EXTENDED Escrever informações adicionais
+_C_OPT_PLAYLIST_NOFOLDERS Não criar pastas
+_C_OPT_PLAYLIST_SHOWDLG Exibir confirmação para o nome do arquivo
+_C_OPT_TAG Tags
+_C_OPT_TAGS_COVER Nome padrão do arquivo da capa do disco:
+_C_OPT_TAGS_EXT Modo de salvar para << e >> na tela de tags estendidas:
+_C_OPT_TAGS_FILEFILTER Restringir arquivos de entrada a:
+_C_OPT_TAGS_NOIMG &Não exibir a primeira imagem da pasta como capa do disco
+_C_OPT_TOOLS Ferramentas
+_C_OPT_TOOLS_CHK_DEFAULT Usar programa especial ao clicar duas vezes:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES para todos os arquivos selecionados
+_C_OPT_TOOLS_COL_PARAM Parâmetro
+_C_OPT_TOOLS_COL_PATH Caminho
+_C_OPT_TOOLS_EDIT Ferramenta de personalização. Nome e Caminho são obrigatórios.
+_C_OPT_TOOLS_FRM_DEFAULT Ferramenta padrão
+_C_OPT_TOOLS_FRM_TOOLS Ferramentas
+_C_OVERWRITE &Sobrescrever
+_C_RENAME &Renomear
+_C_TT_CDDB freedb...
+_C_TT_CDDBLOCAL freedb (local)...
+_C_TT_CLOSE Fechar
+_C_TT_DIR Alterar pasta...
+_C_TT_EDIT_UNDO Desfazer
+_C_TT_EXPORT Exportar
+_C_TT_FAVDIR Pasta favorita
+_C_TT_FILE_ADD Adicionar pasta...
+_C_TT_FILE_COPY Copiar para...
+_C_TT_FILE_DELETE Excluir...
+_C_TT_FILE_MOVE Mover para...
+_C_TT_FILE_PLAY Tocar
+_C_TT_FILE_PROPERTIES Propriedades...
+_C_TT_FILE_RENAME Renomear
+_C_TT_FTF Nome do arquivo - Nome do arquivo
+_C_TT_FTT Nome do arquivo - Tag
+_C_TT_HELP Tópicos de ajuda...
+_C_TT_OPT Opções...
+_C_TT_PLALL Criar lista de reprodução com todos os arquivos
+_C_TT_PLSEL Criar lista de reprodução com os arquivos selecionados
+_C_TT_REFRESH Atualizar a lista de arquivos
+_C_TT_REMOVE Remover tags
+_C_TT_SAVE Salvar
+_C_TT_TFF Arquivo de texto - Tag
+_C_TT_TTF Tag - Nome do arquivo
+_C_TT_TTT Tag - Tag
+_C_TT_UPDIR Acima
+_C_WIZARD_TRACKS Assistente para auto-numeração
+_C_WIZARD_TRACKS_BEGIN Começar do número:
+_C_WIZARD_TRACKS_DESC Atribuir números de faixas e discos
+_C_WIZARD_TRACKS_DISC_BEGIN Iniciar pelo número do disco
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Zeros à esquerda para números de disco (01, 02, ...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Salvar contagem total de discos
+_C_WIZARD_TRACKS_DISCNUMBER Número do disco
+_C_WIZARD_TRACKS_RESETFOLDERS Reiniciar contador para cada pasta
+_C_WIZARD_TRACKS_SAVETOTAL Salvar o número total de faixas
+_C_WIZARD_TRACKS_TRACKNUMBER Número da faixa
+_M_ERR_CANCEL Processo cancelado.
+_M_ERR_CDDB_CD Erro ao ler o CD de áudio
+_M_ERR_CDDB_CONNECT Erro ao conectar ao servidor: {1}
+_M_ERR_CDDB_NOENTRY Não foi encontrada uma entrada apropriada para o ID do freedb {1} no banco de dados freedb local.
+_M_ERR_CDDB_NOENTRYINLOCALBD Não foi encontrada uma entrada apropriada para o ID do freedb {1} no banco de dados local '{2}'.
+_M_ERR_CDDB_PARSER A consulta não retornou nenhum resultado.
+_M_ERR_CDDB_READ Erro ao ler dados de {1}
+_M_ERR_CONFIGURATION Impossível importar configuração.
+_M_ERR_COPY Impossível copiar os arquivos selecionados!
+_M_ERR_DELETE Impossível apagar os arquivos selecionados!
+_M_ERR_FILECREATE O arquivo \"{1}\" não pôde ser criado.
+_M_ERR_FILEDELETE O arquivo \"{1}\" não pôde ser excluído.
+_M_ERR_FILENAMEALREADYEXISTS O arquivo \"{1}\" já existe.
+_M_ERR_FILENAMEALREADYEXISTS2 O arquivo \"{1}\" não foi renomeado.
+_M_ERR_FILEOPABORTED O conteúdo da pasta atual pode ter sido alterado.\n\nVocê gostaria de reler a pasta atual?
+_M_ERR_FILEOPEN O arquivo \"{1}\" não pôde ser aberto.
+_M_ERR_FILEREADONLY O arquivo \"{1}\" é somente leitura.\n\nDeseja que o Mp3tag desabilite a proteção de gravação deste e de qualquer outro arquivo somente leitura?
+_M_ERR_FOLDERCANNOTBEACCESSED Erro de acesso\n\nA pasta \"{1}\" não pôde ser acessada.
+_M_ERR_INVALID_FILENAME Por favor, especifique um nome de arquivo válido.
+_M_ERR_INVALID_FTF_FS A sequência \"{1}\" não é válida para um nome de arquivo.
+_M_ERR_INVALID_TOKEN {1}:\nOs seguintes caracteres não são permitidos em nomes de arquivo:\n\\ / : * ? \" < > |\n\nDeseja corrigí-los automaticamente?
+_M_ERR_MOVE Não foi possível mover os arquivos selecionados!
+_M_ERR_ONLINE_NOTFOUND Desculpe, nenhuma entrada corresponde a seu critério de pesquisa.
+_M_ERR_OPT_CDDB_NOADDRESS Por favor, digite um endereço de um servidor freedb.
+_M_ERR_OPT_CDDB_NOEMAIL Por favor, digite seu e-mail em 'Opções, freedb, Servidor'. Ele será usado para efetuar o login de acesso ao servidor do freedb.
+_M_ERR_OPT_CDDB_NONAME Por favor, digite um nome válido para a configuração.
+_M_ERR_OPT_CDDB_NOPORT Por favor, digite o número da porta do servidor freedb.
+_M_ERR_PARSELINE Não foi possível analisar a linha {1}.
+_M_ERR_PLAY Não foi possível abrir o arquivo \"{1}\"!
+_M_ERR_READ_FILE Impossível abrir o arquivo \"{1}\" para leitura.
+_M_ERR_RENAME_FILE Não foi possível renomear o arquivo \"{1}\" para \"{2}\".
+_M_ERR_RETRY Do you want to retry?
+_M_ERR_TL_NOTAGS Nenhuma entrada correspondente ao arquivo \"{1}\".
+_M_ERR_WRITE_FILE O arquivo \"{1}\" não pode ser aberto para gravação.
+_M_ERR_YN \n\nVocê deseja continuar?
+_M_LOG_FMT_FNAME {1} de {2} arquivos renomeados.\n
+_M_LOG_FMT_TAG Tags formatadas em {1} de {2} arquivos.\n
+_M_LOG_FTF Renomeados {1} de {2} de arquivos.
+_M_LOG_FTT Tag obtida de {1} de {2} arquivos.
+_M_LOG_PL_ALL Lista de reprodução \"{1}\" criada com todos os arquivos ({2}).
+_M_LOG_PL_SEL Lista de reprodução \"{1}\" criada com os arquivos ({2}) selecionados.
+_M_LOG_REMOVE Removida a tag do arquivo \"{1}\".
+_M_LOG_REMOVED Removida a tag de {1} de {2} arquivos.
+_M_LOG_REMOVE_NOTAG Nenhuma tag no arquivo \"{1}\".
+_M_LOG_SAVE Tag salva no arquivo \"{1}\".
+_M_LOG_SAVED Tag salva em {1} de {2} arquivos.
+_M_LOG_TFF Tags importadas do arquivo \"{1}\" e salva em {2} de {3} arquivos.
+_M_LOG_TFF_S As tags foram importadas de \"{1}\" para um arquivo.
+_M_LOG_TTF {1} de {2} arquivos foram renomeados.
+_M_STAT_PLAY Reproduzindo o arquivo \"{1}\"...
+_M_STR_ACTION_ADJUSTCOVER Ajustar capa
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Formato
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_SIZE Tamanho máximo
+_M_STR_ACTION_CODEPAGE Converter página de código
+_M_STR_ACTION_CODEPAGE_DESC Página de código
+_M_STR_ACTION_EXPORTCOVER Exportar a capa de álbum para arquivo
+_M_STR_ACTION_EXPORTCOVER_DUPES Exportar as capas de álbum duplicadas
+_M_STR_ACTION_EXPORTCOVER_TYPES Exportar somente capas do tipo
+_M_STR_ACTION_FORMAT Formatar valor
+_M_STR_ACTION_GUESS Adivinhar valores
+_M_STR_ACTION_GUESSPATTERN Padrão para adivinhação
+_M_STR_ACTION_GUESSSOURCE Formato original
+_M_STR_ACTION_IMPORTCOVER Importar capa de álbum do arquivo
+_M_STR_ACTION_IMPORTCOVER_FS Formatar sequência para o nome da imagem:
+_M_STR_ACTION_IMPORTCOVER_DELETE &Excluir capa de álbum existente
+_M_STR_ACTION_IMPORTCOVER_TYPE Importar capas de álbum como:
+_M_STR_ACTION_IMPORTTEXT Importar arquivo de texto
+_M_STR_ACTION_MERGEDUPLICATEFIELDS Unir campos duplicados
+_M_STR_ACTION_REGEXP Substituir por expressão regular
+_M_STR_ACTION_REGEXP_EXP Expressão regular
+_M_STR_ACTION_REGEXP_MATCH Substituir por
+_M_STR_ACTION_REMOVEDUPES Excluir campos duplicados
+_M_STR_ACTION_REM Excluir campos
+_M_STR_ACTION_REM_DESC Campos a excluir (separados por ponto-e-vírgula):
+_M_STR_ACTION_REM_EX Remover campos exceto
+_M_STR_ACTION_REM_EX_DESC Campos a manter (separados por ponto-e-vírgula):
+_M_STR_ACTION_SPLITFIELDS Dividir campos com o separador
+_M_STR_ACTIONGROUP_NAME Nome do grupo de ação
+_M_STR_ALBUM Álbum
+_M_STR_ALBUMARTIST Artista do álbum
+_M_STR_ALL_FILEDLGFILTER Todos os arquivos (*.*)|*.*||
+_M_STR_ARTIST Artista
+_M_STR_AUTHOR Autor
+_M_STR_BACK < &Voltar
+_M_STR_BROWSE_COPY Copiar para:
+_M_STR_BROWSE_MOVE Mover para:
+_M_STR_BROWSE_TEXT Por favor, selecione uma pasta que contenha arquivos de áudio.
+_M_STR_BYTES Bytes
+_M_STR_CDDB_CD Ler CD de áudio
+_M_STR_CDDB_CONNECT Conectando com {1}...
+_M_STR_CDDB_CONNECTED  conectado!
+_M_STR_CDDB_IDXDB_ENTRIES As entradas no banco de dados foram criadas
+_M_STR_CDDB_RETRIEVE Obter informações do título
+_M_STR_COLUMNFILENAME Nome do arquivo
+_M_STR_COLUMNPATH Caminho
+_M_STR_COLUMNUSEDCOLS Exibido
+_M_STR_COMBO_HOLD < manter >
+_M_STR_COMBO_REMOVE < excluir >
+_M_STR_COMBO_USER < inserir >
+_M_STR_COMMENT Comentário
+_M_STR_COMPOSER Compositor
+_M_STR_COPYOF Copiar para {1}
+_M_STR_COVER Capa do  álbum
+_M_STR_COVER_ADD Deseja manter a capa do  álbum atual?
+_M_STR_COVER_CORRECTAR Corrigir proporção
+_M_STR_COVER_SETDESC Definir a descrição da capa do  álbum...
+_M_STR_COVER_SETTYPE Definir o tipo da capa do álbum
+_M_STR_COVERVARIES A capa do álbum varia
+_M_STR_CUSTOMIZE Personalizar...
+_M_STR_DAY dia
+_M_STR_DAYS dias
+_M_STR_DEFAULTVALUE Valor padrão
+_M_STR_DISCID ID do CDDB
+_M_STR_DISCOGS_OAUTH_PIN Entre o código de autorização do Discogs
+_M_STR_DISCNUMBER Número do disco
+_M_STR_ERR_CDDB_NOENTRYSELECTED Por favor, selecione uma entrada.
+_M_STR_EXPORT_DELETE Excluir a configuração de exportação \"{1}\"?
+_M_STR_EXPORT_FILEDLGTITLE Selecionar arquivo para exportar
+_M_STR_EXPORT_MULTIPLE Um arquivo por pasta
+_M_STR_EXPORT_SHOWEXPORTFILE \n\nMostrar arquivo exportado agora?
+_M_STR_EXP_MSG Informações exportadas sobre {2} arquivos salvas no arquivo '{1}'.
+_M_STR_FIELD Cam&po:
+_M_STR_FIELDSIZE Tamanho do campo
+_M_STR_FIELDROWS Linhas
+_M_STR_FILE Arquivo
+_M_STR_FILEDELETE Deseja realmente excluir todos os arquivos selecionados?
+_M_STR_FILEMODIFIED Modificado
+_M_STR_FILESIZE Tamanho
+_M_STR_FILTER &Filtro:
+_M_STR_FMT_CAPITAL Iniciais Em Maiúsculas
+_M_STR_FMT_HIGH TUDO EM MAIÚSCULAS
+_M_STR_FMT_LOW tudo em minúsculas
+_M_STR_FMT_SENTENCE Início da frase em maiúscula
+_M_STR_FREEDBCREATEINDEX Criar índice do banco de dados do freedb local?\n\nIsso pode demorar alguns minutos.
+_M_STR_FREEDB_SEARCH Pesquisa na web do freedb
+_M_STR_GENRE Gênero
+_M_STR_GENRES Gêneros
+_M_STR_HIDE &Esconder
+_M_STR_ITEMALREADYEXISTS Já existe um item com este nome, sobrescrever?
+_M_STR_LANGUAGE Idioma
+_M_STR_M3U_FILEDLGFILTER Arquivos suportados (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_METADATA &Metadados
+_M_STR_MOVEDOWN Pa&ra baixo
+_M_STR_MOVEUP P&ara cima
+_M_STR_MPEGBITRATE Taxa de bits
+_M_STR_MPEGFREQUENCY Frequência
+_M_STR_MPEGLENGTH Duração
+_M_STR_MPEGMODE Modo
+_M_STR_MPEGVERSION Codec
+_M_STR_MSGCUT Deseja realmente remover as tags dos arquivos selecionados e copiá-las para a área de transferência?
+_M_STR_MSGPASTE Deseja realmente colar o conteúdo da área de transferência como novas tags dos arquivos selecionados?
+_M_STR_MSGREMOVE Deseja realmente remover as tags dos arquivos selecionados?
+_M_STR_NAME N&ome
+_M_STR_NETWORKING Redes
+_M_STR_NEXT &Avançar >
+_M_STR_NOACTION - Nenhuma ação -
+_M_STR_NOACTIONENABLED Por favor, habilite ao menos uma ação através das caixas de seleção para poder usar esse recurso.
+_M_STR_NUMERIC Numéri&co
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH Por favor selecione uma pasta de trabalho para o banco de dados local do freedb.
+_M_STR_OPT_CDDB_PROCEED Isto irá remover todos os servidores!\n\nDeseja continuar?\n
+_M_STR_OPTIMIZEMP4 Otimizar MP4
+_M_STR_OPTS_ALWAYS sempre
+_M_STR_OPTS_ASK perguntar
+_M_STR_OPTS_NEVER nunca
+_M_STR_PLNAME Lista de reprodução - Nome do arquivo
+_M_STR_PL_CONFIRM Criar lista de reprodução com este nome
+_M_STR_PL_SAVEFILTER Arquivo de Playlist (*.m3u)|*.m3u|Arquivo de Playlist Unicode (*.m3u8)|*.m3u8||
+_M_STR_PREVIEW Visualizar
+_M_STR_PROPERTIES Propriedades de {1}
+_M_STR_QUICK Rápido
+_M_STR_RECURSE Subpastas
+_M_STR_REST Restante
+_M_STR_SAVE_NOT < nenhuma associação >
+_M_STR_SAVECONFIG Suas configurações serão salvas no arquivo '{1}'.\n\nPara restabelecer as configurações, extraia o arquivo para\n\"{2}\".
+_M_STR_SAVECONFIG_FILEDLGFILTER Arquivos de configuração (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE Salvar configuração em...
+_M_STR_SAVEIMAGE Salvar imagem na tag
+_M_STR_SAVEIMAGEDIRECTORY Salvar imagem no disco
+_M_STR_SAVESELECTION Salvar seleção...
+_M_STR_SB_ABORTED interrompido
+_M_STR_SB_ACTION Aplicando ações no arquivo ... {1} de {2}
+_M_STR_SB_CLEANUPDATABASE Processando arquivos... {1} de {2} [{3} limpo(s)]
+_M_STR_SB_CLEANUPDATABASE_BINARIES Limpar binários órfãos
+_M_STR_SB_CLEANUPDATABASE_COVERS Limpar capas órfãs
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Limpar arquivos não pertencentes à biblioteca
+_M_STR_SB_EXPORTTAGS Exportando informações da tag ... {1} gravados de {2} arquivos
+_M_STR_SB_LOADTAGS Lendo dados da tag ... {1} de {2}
+_M_STR_SB_READDIRECTORY Lendo pasta
+_M_STR_SB_REMOVETAGS Removendo dados da tag ... {1} de {2}
+_M_STR_SB_RENAMEFILES Renomeando arquivo ... {1} de {2}
+_M_STR_SB_WRITETAGS Escrevendo dados da tag ... {1} de {2}
+_M_STR_SHOWCHOOSEDLG Exibir caixa de diálogo de seleção
+_M_STR_SEARCHBY Buscar por:
+_M_STR_SEARCHTEXT Texto:
+_M_STR_SEPARATOR Separador
+_M_STR_SHOW &Mostrar
+_M_STR_SIZE_LARGE Grande
+_M_STR_SIZE_MEDIUM Médio
+_M_STR_SIZE_NORMAL Normal
+_M_STR_SIZE_SMALLER Menor
+_M_STR_SIZE_SMALL Pequeno
+_M_STR_SNA Área de notificação 
+_M_STR_SNA_SHOW Sempre exibir o ícone na área de notificação
+_M_STR_SNA_SHOWMIN Minimizar para a área de notificação
+_M_STR_STRIPCHAPTERSMP4 Remover capítulos de arquivo MP4
+_M_STR_TAG_COPIED As tags dos arquivos {1} foram copiadas para a área de transferência.
+_M_STR_TAG2 Tag
+_M_STR_TAGFIELDS_REMOVE Remover campo
+_M_STR_TAGFIELDS_REMOVEALL Remover todos os campos...
+_M_STR_TAGFIELDS_REMOVEALLMSG Tem certeza de que deseja remover todos os campos da lista?
+_M_STR_TAGFIELDS_RESET Restaurar campos...
+_M_STR_TAGFIELDS_RESETMSG Tem certeza de que deseja restaurar a lista de campos para seus valores padrão?
+_M_STR_TAGPANEL Painel de Tags
+_M_STR_TAGPANEL_COVER Mostrar capa do álbum
+_M_STR_TAGPANEL_DIRECTORY Mostrar campo para troca de pasta
+_M_STR_TAGLIST_FILEDLGFILTER Arquivos de texto ({1})
+_M_STR_TAGLIST_FILEDLGTITLE Selecionar arquivo de texto
+_M_STR_TAGSOURCES Fontes de Tag
+_M_STR_THISALBUMON Este álbum no {1}
+_M_STR_TITLE Título
+_M_STR_TRYAGAIN Deseja tentar novamente?
+_M_STR_TTF Tag - Nome do arquivo
+_M_STR_UPDATE_FRM Atualizações
+_M_STR_UPDATE_OPT_CHECK Procurar por atualizações ao iniciar
+_M_STR_UPDATE_OPT_CHECK_BETA Também incluir versões em desenvolvimento (Beta)
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Exibir notas de lançamento para novas versões
+_M_STR_UPDATEAVAILABLE Uma nova versão do Mp3tag {1} está disponível!\n\nD baixar esta atualização do {2} agora?
+_M_STR_UPDATENOTAVAILABLE Você está usando a versão mais recente:\n{1}\n\nNão há atualização disponível.
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS &Utilitários
+_M_STR_VALUE Va&lor
+_M_STR_VERSION Versão
+_M_STR_YEAR Ano
+_M_TP_CDDB_LOCALPATH Especificar pasta do freedb local
+_M_TP_CDDB_SITES Lista atual de servidores do freedb via Internet
+_M_TP_CVR_CLIPBOARD Colar capa do álbum
+_M_TP_CVR_CLIPBOARD_COPY Copiar capa do álbum
+_M_TP_CVR_CLIPBOARD_CUT Recortar capa do álbum
+_M_TP_CVR_DEL Remover capa do álbum
+_M_TP_CVR_NEW Adicionar capa do álbum...
+_M_TP_CVR_SAVE Extrair capa do álbum...
+_M_TP_DUPLICATE Duplicar
+_M_TP_EXP_DEL E&xcluir
+_M_TP_EXP_EDIT Editar
+_M_TP_EXP_FILE Selecionar arquivo para ser exportado
+_M_TP_EXP_HLP Exibir ajuda rápida
+_M_TP_EXP_LOAD Carregar configuração...
+_M_TP_EXP_NEW &Novo
+_M_TP_EXP_SAVE Salvar configuração...
+_M_TP_GEN_DIR Selecionar pasta
+_M_TP_TAG_DEL Remover campo
+_M_TP_TAG_EDIT Editar campo...
+_M_TP_TAG_NEW Adicionar campo...
+_M_TS_ADDINFO &Informações adicionais
+_M_TS_MULTIPLEVALUES vários valores
+_M_TS_RELEASE &Lançamento
+_M_TS_TRACKS &Faixas
+_M_UNDO_CANNOTUNDO Impossível desfazer {1}
+_M_UNDO_CDDB freedb
+_M_UNDO_DIRECTORYCREATE Criar pasta
+_M_UNDO_DIRECTORYMOVE Mover pasta
+_M_UNDO_FORMAT Formato
+_M_UNDO_FTF Nome do arquivo - Nome do arquivo
+_M_UNDO_FTT Nome do arquivo - Tag
+_M_UNDO_REMOVEFILE Remover
+_M_UNDO_RENAME Renomear
+_M_UNDO_TAGCHANGE Alterar tag
+_M_UNDO_TAGREMOVE Remover tag
+_M_UNDO_TAGSAVE Salvar tag
+_M_UNDO_TFF Arquivo de texto - Tag
+_M_UNDO_TTF Tag - Nome do arquivo

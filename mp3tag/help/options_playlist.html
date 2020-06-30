@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<!-- Florian Heidenreich -->
+	<!-- http://www.mp3tag.de/en -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta name="Author" content="Florian Heidenreich" />
+	<meta name="Description" content="Mp3tag Help - Configuration &gt; Playlist" />
+	<meta name="Keywords" content="" />
+	<title>Mp3tag Help - Configuration &gt; Playlist</title>
+	<link rel="stylesheet" type="text/css" href="content.css" />
+</head>
+<body>
+<div id="left">
+		
+<ul>
+	<li><a href="index.html">Index</a></li>
+	<li><a href="main_commands.html">Menus</a></li>
+	<li><a href="main_converter.html">Convert</a></li>
+	<li><a href="options_format.html">Actions</a></li>
+	<li><a href="options_export.html">Export</a></li>
+	<li><a href="main_scripting.html">Scripting</a></li>
+	<li><a href="main_filter.html">Filter</a></li>						
+	<li><a href="main_viewcolumns.html">Columns</a></li>
+	<li><a href="options.html">Options</a></li>
+    <li class="separator"></li>
+    <li><a href="misc_donate.html">Donate</a></li>
+</ul>
+
+</div>
+
+	<div id="wrap2">
+	<div id="header"><a href="index.html" title="Back to main page"><img src="images/banner.gif" alt="Back to main page" title="Back to main page" /></a></div>
+
+	<div>
+		
+	<h1><a href="options.html" title="Back to Configuration overview...">Configuration</a> &gt; Playlist</h1>
+		
+	<h2>Write extended info</h2>
+	<p>If this option is enabled, Mp3tag writes extended information to the playlist file
+	according to the format string.<br />
+	The audio player doesn't have to read the information from the tag of the audio file and
+	displays the extended information from the playlist.
+	</p>
+	
+	<h2>Entries relative to working directory</h2>
+    <p>Enable this option, if you don't want full file paths in your playlist. This is enabled by default.</p>
+    
+    <h2>Create Playlist automatically</h2>
+    <p>This option enables automatic creation of playlists when saving tags to files.</p>
+    
+    <a id="playlist"></a><h2>Filename of playlist</h2>
+    <p>
+		You can specify the filename (or a format string for the filename) of the playlist here.
+		If you use '*.m3u8' as file extension, Mp3tag writes a UTF-8 encoded playlist (Unicode with support for special characters).
+		You can use the following placeholders within the filename as well as the Mp3tag <a href="main_scripting.html">scripting funtions</a>.
+	</p>
+		<table>
+			<tr><td><code>%album%</code></td><td><i>Album</i></td></tr>
+			<tr><td><code>%artist%</code></td><td><i>Artist</i></td></tr>
+			<tr><td><code>%comment%</code></td><td><i>Comment</i></td></tr>
+			<tr><td><code>%year%</code></td><td><i>Year</i></td></tr>
+			<tr><td><code>%genre%</code></td><td><i>Genre</i></td></tr>
+			<tr><td><code>%_directory%</code></td><td><i>Directory name</i></td></tr>
+			<tr><td class="tcode"><code>%_folderpath%</code></td><td><i>Complete path of the folder</i></td></tr>
+		</table>
+		<p>
+			Mp3tag uses the first selected file for replacing the placeholders at runtime.
+		</p>
+			Examples:
+		<p>
+			<code>%artist% - %album% (%year%).m3u</code> would be <code>artist - album (year).m3u</code>
+		</p>
+		<p>
+			<code>%_folderpath%%_directory%.m3u</code> resolves to <code>folderpath\directory.m3u</code>
+		</p>
+
+		</p>
+		
+		<h2>Show confirm filename dialog</h2>
+		<p>
+		This options shows an input dialog for the playlists filename when creating the playlist. You can change
+		the filename of the playlist within this dialog but Mp3tag will not evaluate placeholders entered in this dialog.</p>
+		
+		<h2>Don't create directories</h2>
+		<p>Since you can also use relative and absolute file paths as playlist file names - e.g. %artist%\%album%.m3u - 
+		this option prevents Mp3tag from creating any directories when creating playlists.</p>
+		
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+	
+	<p class="copyright"><strong>Made with love in Dresden.</strong> Copyright &copy; 1999-2020 <a href="http://www.mp3tag.de/en/" class="external">Florian Heidenreich</a>. All rights reserved.</p>
+
+	</div>
+</body>
+</html>

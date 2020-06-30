@@ -1,0 +1,622 @@
+﻿LANGAUTHOR Šviedrys Liaugaudas
+LANGCONTACT Rašykite (Write to me: mailasbelekoks40@gmail.com)
+LANGVERSION 2.47a
+LANGNAME Lithuanian
+LANGNAMELOC Lietuvių
+SLangCancel Atsisakyti
+SLangOk Gerai
+SLangErrCatch Klaida\n\nFailas:\t{1}\nEilutė:\t{2}\n\nPrograma susidūrė su neapibrėžta išimtimi. Neapibrėžta būsena. Prašome uždaryti programą ir atsiųsti failą\n\n{3}\n\su išsamiu klaidos aprašymu, mūsų programinės įrangos priežiūros darbuotojamas.\n\nemail: support@mp3tag.de
+SLangErrCheck Klaida\n\nFailas:\t{1}\nEilutė:\t{2}\nApibūdinimas:\t{3}\nKodas:\t0x{4}\n\nPrograma susidūrė su neapibrėžta išimtimi. Prašome uždaryti programą ir atsiųsti failą\n\n{5}\n\su išsamiu klaidos aprašymu, mūsų programinės įrangos priežiūros darbuotojamas.\n\nemail: support@mp3tag.de
+SLangErrDriveCannotBeAccessed Draudžiama kreiptis į {1} laikmeną.\n\n» Patikrinkite laikmeną.
+SLangErrFileCannotBeAccessed Failas  {1} negali būti atvertas.\n\n» Patikrinkite laikmeną.
+SLangErrFileCannotBeDeleted Failas {1} negali būti pašalintas.\n\n» Įsitikinkite, kad joks kitas procesas nesinaudoja šiuo failu.
+SLangErrFolderCannotBeAccessed Draudžiama kreiptis į {1} aplanką.\n\n» Patikrinkite laikmeną.
+SLangErrFolderCannotBeDeleted Aplankas {1} negali būti pašalintas.\n\n» Įsitikinkite, kad joks kitas procesas nesinaudoja aplanku.
+SLangErrHelpBrowserIsNotAvailable Žinyno failų peržiūrai reikalinga internetinė naršyklė (Firefox, Opera, Internet Explorer и t.t.).\n\n» Įdiekite naršyklę.
+SLangErrHelpSystemIsNotAvailable Žinynas neprieinamas.\n\n» Įdiekite iš naujo {1}.
+SLangErrHelpTopicIsNotAvailable Žinyno temos nėra.\n\n» Prašome susisiekti su mūsų programinės įrangos priežiūros darbuotojais.\n\nemail: support@mp3tag.de
+SLangErrNotEnoughFreeDiskSpace Trūksta vietos laikmenoje {1}.\n\n» Prašome užtikrinti bent {2} diske.
+SLangErrRegistryCannotBeAccessed Klaida, skaitant duomenis\n\nDraudžiama kreiptis į Windows registrą.
+SLangMsgItemExistsAlready Toks aprašas jau yra.\n\n» Prašau, pakeiskite aprašą
+SLangMsgFirstSteps Skirkite šiek tiek laiko susipažinimui su programa.
+SLangMsgShutdownInfo Prašau, palaukite kol {1} pabaigs darbą.
+SLangWrnAppIsAlreadyRunning Ši programa jau veikia.
+SLangWrnAppHasToBeRestarted Pakeitimai įsigalios paleidus Mp3tag iš naujo.\n\nPaleisti Mp3tag dabar?
+SLangWrnNameContainsInvalidCharacters Aprašyme yra neleistinų simbolių.\n\n» Prašau, pakeiskite aprašą.
+SLangWrnStartLogging Jūs paleidote programą {1} su komandinės eilutės parametru FLOG1. Šis parametras yra naudojamas Derinimo tikslais ir gerokai sulėtins programos darbą.\n\nĮjungtį seanso rašymą į žurnalą?
+_C_ABORT Nutraukti
+_C_ABORTING Aborting...
+_C_APP_ST_ALBUM &Albumas
+_C_APP_ST_ARTIST &Atlikėjas
+_C_APP_ST_COMMENT &Komentarai
+_C_APP_ST_FOLDER &Aplankas
+_C_APP_ST_GENRE &Žanras
+_C_APP_ST_TITLE &Pavadinimas
+_C_APP_ST_TRACK N&umeris
+_C_APP_ST_YEAR &Metai
+_C_CANCEL Atsisakyti
+_C_CANCELING Canceling...
+_C_CLOSE Užverti
+_C_DLG_CDDBCONFIRM_CAPTION Paieškos rezultatų sąrašas...
+_C_DLG_CDDBCONFIRM_CHK_DISCID Kopijuoti disko ID į komentarą
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 Kopijuoti disko ID į jam skirtą laukelį
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER Kompiliavimas...
+_C_DLG_CDDBCONFIRM_CHK_SORT Pasiūlykite rūšiavimo tvarką
+_C_DLG_CDDBCONFIRM_ST_INFO freedb duomenų bazėje buvo rastas daugiau nei vienas rezultatas.\nPasirinkite reikiamą:
+_C_DLG_CDDBCONFIRM_ST_INFO2 Duomenų bazėje {1} buvo rasta {2} paieškos rezultatų.\nPrašome pasirinkti vieną:
+_C_DLG_CDDBCONFIRM_STC_TOP Rastos informacijos redagavimas
+_C_DLG_CDDBINPUT_CAPTION Įrašykite duomenų bazės tapatybę (freedb-ID)
+_C_DLG_CDDBINPUT_ST_CATEGORY Kategorija:
+_C_DLG_CDDBINPUT_ST_ID Duomenų bazės tapatybė:
+_C_DLG_CDDBSTYLE_CAPTION Duomenų bazė freedb
+_C_DLG_CDDBSTYLE_RD_CDROM nustatyti, įdėtoje garso CD
+_C_DLG_CDDBSTYLE_RD_ENTER Įrašyti
+_C_DLG_CDDBSTYLE_RD_MP3 nustatyti, pagal atrinktus failus
+_C_DLG_CDDBSTYLE_RD_SEARCH pritaikyti paieškos rezultatus &internetu
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL pritaikyti paieškos rezultatus &tekste
+_C_DLG_CDDBSTYLE_STC_TOP Duomenų bazės tapatybė freedb-ID)...
+_C_DLG_COLUMNS_CAPTION Stulpeliai
+_C_DLG_COLUMNS_TOP Rodomų stulpelių pasirinkimas
+_C_DLG_TAGS Pakeisti informaciją gairėje
+_C_DLG_TTF_TOP Pasirinkite formatą-eilutę
+_C_HELP &Žinynas
+_C_MNU_ACTIONS &Veiksmai\tALT+6
+_C_MNU_CON Konver&tavimas
+_C_MNU_CON_FTF &Failo pavadinimas - Failo pavadinimas\tALT+3
+_C_MNU_CON_FTT Failo pavadinimas - gairė\tALT+2
+_C_MNU_CON_TFF Failas su gairių &sąrašu - gairė\tALT+4
+_C_MNU_CON_TTF &Gairė - Failo pavadinimas\tALT+1
+_C_MNU_CON_TTT G&airė - Gairė\tALT+5
+_C_MNU_EDIT &Redaguoti
+_C_MNU_EDIT_COPY &Kopijuoti\tCtrl+C
+_C_MNU_EDIT_CUT Iš&kirpti\tCtrl+X
+_C_MNU_EDIT_INVERTSELECTION Ke&isti žymėjimo kryptį\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT Pasirinkite &sekantį failą\tCtrl+N
+_C_MNU_EDIT_PASTE Įdėti\tCtrl+V
+_C_MNU_EDIT_SELECT Pažymėti visus failus\tCtrl+A
+_C_MNU_EDIT_UNDO A&tšaukti\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL Nuimti žymėjimą\tCtrl+U
+_C_MNU_EXTRA &Papildomai
+_C_MNU_EXTRA_OPTIONS &Nuostatos...\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS Atkurti visas laukelių numatytąsias reikšmes\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS Laukelių &įrašų pradinės reikšmės\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD Numerių suteikimo vediklis\tCtrl+K
+_C_MNU_FILE &Failas
+_C_MNU_FILE_ADD &P&ridėti aplanką...
+_C_MNU_FILE_CDDB Duomenų bazė freedb...\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL Vietinė duomenų bazė freedb...\tCtrl+L
+_C_MNU_FILE_COPY &Kopijuoti...
+_C_MNU_FILE_DELETE &Pašalinti...
+_C_MNU_FILE_DIR K&eisti aplanką...\tCtrl+D
+_C_MNU_FILE_EXIT Bai&gti darbą su programa\tAlt+F4
+_C_MNU_FILE_EXPORT &Eksportuoti...\tCtrl+E
+_C_MNU_FILE_FAVDIR Pradinis aplankas\tCtrl+F
+_C_MNU_FILE_MOVE Per&kelti...
+_C_MNU_FILE_PLALL Grojaraštis (visi failai)\tCtrl+P
+_C_MNU_FILE_PLAY A&tlikti kūrinį
+_C_MNU_FILE_PLAYLIST Įkelti grojaraštį/eilės sąrašą...
+_C_MNU_FILE_PLSEL Grojaraštis (pažymėti failai)
+_C_MNU_FILE_PROPERTIES S&avybės...
+_C_MNU_FILE_READ Perskaityti gairę\tCtrl+T
+_C_MNU_FILE_REMOVE Pašalinti &gairę\tCtrl+R
+_C_MNU_FILE_REMOVEFILE Pašalinti iš sąrašo\tDel
+_C_MNU_FILE_RENAME Pervard&inti
+_C_MNU_FILE_SAVE Įrašyti gairę\tCtrl+S
+_C_MNU_FILE_SAVECONFIG Įrašyti &nuostatas...
+_C_MNU_FREEDB f&reedb
+_C_MNU_FREEDB_INDEX Sukurti vietinį indeksą
+_C_MNU_FS_EXT Papildomi laukeliai
+_C_MNU_FS_FNCT Funkcijos
+_C_MNU_FS_INFO Informaciniai laukeliai
+_C_MNU_FS_REM Šalinti iš istorijos sąrašo
+_C_MNU_FS_REMALL Šalinti viską iš istorijos sąrašo...
+_C_MNU_FS_REMALL_MSG Ar tikrai norite visą tai pašalinti?
+_C_MNU_HELP &Žinynas
+_C_MNU_HELP_ABOUT Apie Mp3tag...
+_C_MNU_HELP_DONATE Paaukoti lėšų...
+_C_MNU_HELP_FINDER Žinyno skyriai\tF1
+_C_MNU_HELP_FIRSTSTEPS Pirmieji žingsniai
+_C_MNU_HELP_KEYBOARD Spartieji &klavišai
+_C_MNU_HELP_SUPPORT Programinės įrangos priežiūra...
+_C_MNU_HELP_UPGRADE Tikrinti, ar yra naujinimų...
+_C_MNU_HELP_WWW Mp3tag svetainė...
+_C_MNU_TAGSOURCES Gairių šaltiniai
+_C_MNU_TOOLS Įrankiai
+_C_MNU_VIEW &Rodyti
+_C_MNU_VIEW_COLUMNS Stulpelių pasirinkimas ir derinimas...
+_C_MNU_VIEW_FILTER &Filtras\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY Auto-apply filter
+_C_MNU_VIEW_ID3 Gairių juosta\tCtrl+Q
+_C_MNU_VIEW_REFRESH At&naujinti\tF5
+_C_MNU_VIEW_SORTBY &Rikiuoti pagal...
+_C_MNU_VIEW_TAGS Papil&domos gairės...\tALT+T
+_C_MNU_VIEW_TOOLBAR Įrank&ių juosta
+_C_MNU_SB_ACTIONS Atrinktiems failams, pritaikyti vartotojo nustatytus veiksmus.
+_C_MNU_SB_CON_FTF Pervardina failus, remiantis senųjų failų pavadinimais.
+_C_MNU_SB_CON_FTT Importuoja gaires iš failų pavadinimų, pagal šabloną.
+_C_MNU_SB_CON_TFF Importuoja gaires iš failų su gairių sąrašu, pagal šabloną.
+_C_MNU_SB_CON_TTF Pervardina failus, remiantis gairėmis, pagal nustatytą šabloną.
+_C_MNU_SB_CON_TTT Formatuoti žodžius, remiantis gairėmis.
+_C_MNU_SB_EDIT_COPY Kopijuoja pažymėtų failų tekstą arba gaires į iškarpinę.
+_C_MNU_SB_EDIT_CUT Perkelia pažymėtų failų tekstą arba gaires į iškarpinę.
+_C_MNU_SB_EDIT_INVERTSELECTION Invertuoja esamą atranką.
+_C_MNU_SB_EDIT_NEXT Pažymi sekantį failą, failų peržiūros lange.
+_C_MNU_SB_EDIT_PASTE Perkelia iškarpinės turinį į esamą įrašo laukelį arba į pažymėtą failą.
+_C_MNU_SB_EDIT_SELECT Pažymi failą, failų peržiūros lange.
+_C_MNU_SB_EDIT_UNDO Atšaukia paskutinį veiksmą.
+_C_MNU_SB_EDIT_UNSELECTALL Atšaukia visų failų atranką.
+_C_MNU_SB_EXTRA_OPTIONS Rodyti nuostatų langą.
+_C_MNU_SB_EXTRA_RESET_EDITS Pašalina visų laukelių tekstinius įrašus.
+_C_MNU_SB_EXTRA_SET_EDITS Nustato visų įvesties laukelių, numatytąsias reikšmes.
+_C_MNU_SB_EXTRA_TRACKWIZARD Paleidžia automatinį numerių suteikimo vediklį.
+_C_MNU_SB_FILE_ADD Pridėti aplanką prie failų sąrašo.
+_C_MNU_SB_FILE_CDDB Išsiųsti informaciją apie kompaktinę plokštelę, esančią įrenginyje, internetu.
+_C_MNU_SB_FILE_CDDBLOCAL Išsiųsti informaciją apie kompaktinę plokštelę, esančią įrenginyje į vietinė duomenų bazę.
+_C_MNU_SB_FILE_COPY Kopijuoti pažymėtus failus į kitą aplanką.
+_C_MNU_SB_FILE_DELETE Pašalinti pažymėtus failus.
+_C_MNU_SB_FILE_DIR Keisti aplanką...
+_C_MNU_SB_FILE_EXIT Baigti darbą su programa.
+_C_MNU_SB_FILE_EXPORT Gairių ir informacijos eksportas iš atrinktų failų.
+_C_MNU_SB_FILE_FAVDIR Pakeisti į numatytąjį aplanką.
+_C_MNU_SB_FILE_FREEDBINDEX Sukurti vietinę freedb indeksavimo duomenų bazę, skirtą vietinėje freedb paieškai.
+_C_MNU_SB_FILE_MOVE Pažymėtus failus perkelti į kitą aplanką.
+_C_MNU_SB_FILE_PLALL Sukurti grojaraštį iš visų failų.
+_C_MNU_SB_FILE_PLAY Perklausyti atrinktus failus.
+_C_MNU_SB_FILE_PLAYLIST Įkelti grojaraščio turinį.
+_C_MNU_SB_FILE_PLSEL Sukurti grojaraštį iš atrinktų failų.
+_C_MNU_SB_FILE_PROPERTIES Parodyti pažymėtų failų savybes.
+_C_MNU_SB_FILE_READ Gaires, iš atrinktų failų patalpinti į įvesties laukelius.
+_C_MNU_SB_FILE_REMOVE Pašalinti gaires iš pažymėtų failų.
+_C_MNU_SB_FILE_REMOVEFILE Pašalinti pažymėtus failus iš sąrašo.
+_C_MNU_SB_FILE_RENAME Pervardinti pažymėtus failus.
+_C_MNU_SB_FILE_SAVE Įrašyti pažymėtų failų gaires.
+_C_MNU_SB_FILE_SAVECONFIG Įrašyti esamas nuostatas į programos konfigūracijos failą.
+_C_MNU_SB_HELP_ABOUT Išsamiau, apie programą Mp3tag.
+_C_MNU_SB_HELP_CONTEXT Rodyti kontekstinę pagalbą nurodytiems laukeliams, meniu ir langams.
+_C_MNU_SB_HELP_DONATE Please consider donating to support Mp3tag's development.
+_C_MNU_SB_HELP_FINDER Parodyti žinyno temų sąrašą.
+_C_MNU_SB_HELP_FIRSTSTEPS Parodyti trumpą įžangą apie programą Mp3tag.
+_C_MNU_SB_HELP_KEYBOARD Rodyti sparčiųjų klavišų sąrašą.
+_C_MNU_SB_HELP_SUPPORT Eiti į Mp3tag forumą.
+_C_MNU_SB_HELP_UPGRADE Check for updates of Mp3tag
+_C_MNU_SB_HELP_WWW Eiti į Mp3tag svetainę.
+_C_MNU_SB_UPDIR Pereiti į aukštesnio lygio aplanką.
+_C_MNU_SB_VIEW_COLUMNS Rodyti failų peržiūros juostos nuostatų langą.
+_C_MNU_SB_VIEW_FILTER Filtruojamas failų sąrašas, pagal tam tikrus kriterijus.
+_C_MNU_SB_VIEW_ID3 Rodyti/slėpti gairių juostą.
+_C_MNU_SB_VIEW_REFRESH Atnaujinti failų peržiūros langą.
+_C_MNU_SB_VIEW_TAGS Rodo papildomų gairių dialogo langą.
+_C_MNU_SB_VIEW_TOOLBAR Rodyti/slėpti įrankių juostas.
+_C_MNU_SB_WND_IDLE Atlikta
+_C_MNU_SB_WND_MAXIMIZE Išskleisti langą per visą ekraną
+_C_MNU_SB_WND_MINIMIZE Minimizuoti langą į užduočių juostą
+_C_MNU_SB_WND_MOVE Perkelti langą
+_C_MNU_SB_WND_RESTORE Atkurti normalų langą iš minimizuoto ar pilnaekranio rėžimo
+_C_MNU_SB_WND_SIZE Pakeisti lango matmenis
+_C_MULTILINE Suliniuotas laukelis
+_C_OK &Gerai
+_C_OPT_ACTIONGROUPS Veiksmų grupės
+_C_OPT_ACTIONS Veiksmai
+_C_OPT_ACTIONS_TYPE Pasirinkite veiksmą
+_C_OPT_ADVANCED Advanced
+_C_OPT_ADVANCED_ID3V2LANG ID3v2 comment language code (ISO-639-2)
+_C_OPT_ADVANCED_LISTCHAPTERS List chapters as separate files
+_C_OPT_CAPTION Nuostatos
+_C_OPT_CDDB_CAPTION Duomenų bazė freedb
+_C_OPT_CDDB_CHK_USEPROXY Naudoti įgaliotąjį serverį
+_C_OPT_CDDB_FRM_CDDB freedb duomenų bazės serveris
+_C_OPT_CDDB_FRM_LOCALPATH Kelias į vietinę duomenų bazę:
+_C_OPT_CDDB_FRM_PROXY Įgaliotasis serveris
+_C_OPT_CDDB_RD_FMT_UNIX UNIX-formatas
+_C_OPT_CDDB_RD_FMT_WIN Windows-formatas
+_C_OPT_CDDB_ST_ADDRESS &Adresas:
+_C_OPT_CDDB_ST_EMAIL &elektroninio pašto adresas
+_C_OPT_CDDB_ST_NAME &Pavadinimas:
+_C_OPT_CDDB_ST_PATH Kelias:
+_C_OPT_CDDB_ST_PORT Prievadas:
+_C_OPT_CDDB_ST_PROXYNAME Įgaliotojo serverio pavadinimas:
+_C_OPT_CDDB_ST_PROXYPORT Prievadas:
+_C_OPT_CDDB_ST_PWD Slaptažodis:
+_C_OPT_CDDB_ST_TIMEOUT Laukimo laikas:
+_C_OPT_CDDB_ST_USERNAME Naudotojo vardas:
+_C_OPT_CDDB3_CAPTION Vietinė freedb
+_C_OPT_CON_FRM_FTT Failo pavadinimas -> gairė
+_C_OPT_CON_FRM_TFF Failas su gairių sąrašu - gairė
+_C_OPT_CON_FRM_TTF Gairė - Failo pavadinimas
+_C_OPT_CON_ST_FNAME Failo pavadinimas:
+_C_OPT_CON_ST_FS Formatas-eilutė:
+_C_OPT_DIR Katalogai
+_C_OPT_DIR_COVER Viršelių katalogas
+_C_OPT_EMPTY_HINT Prašome pasirinkti vieną iš nurodytų punktų
+_C_OPT_EXP_CAPTION Eksportuoti
+_C_OPT_EXP_CHK_APPEND Pridėti duomenis
+_C_OPT_EXP_CHK_WRITEBOM Įrašyti BOM į eksportuojamą failą
+_C_OPT_EXP_FRM_EXPORT Eksporto konfigūracija
+_C_OPT_EXP_RD_TRACK Numeris
+_C_OPT_EXP_ST_FNAME Eksportuojamo failo pavadinimas:
+_C_OPT_EXP_ST_NAME Eksporto konfigūracijos pavadinimas:
+_C_OPT_FMT_CASE Keisti didžiąsias raides mažosiomis ir atvirkščiai
+_C_OPT_FMT_FRM_FTF Failo pavadinimas - Failo pavadinimas
+_C_OPT_FMT_ST_BEGIN Žodžiai prasideda po simbolio/lių:
+_C_OPT_FMT_ST_FNAME_NEW Naujo failo pavadinimo šablonas:
+_C_OPT_FMT_ST_FNAME_OLD Senasis failo pavadinimo šablonas:
+_C_OPT_FMT2 Pakeisti
+_C_OPT_FMT2_CASE Skirti didžiąsias ir mažąsias raides
+_C_OPT_FMT2_COL_ORIGINAL Originalas
+_C_OPT_FMT2_COL_REPLACE Pakeisti į
+_C_OPT_FMT2_ONLYWORDS Tik žodį pilnai
+_C_OPT_GEN_CAPTION Pagrindinės
+_C_OPT_GEN_CHK_AUTOSAVE Įrašyti gaires, naudojant rodyklių klavišus/pele
+_C_OPT_GEN_CHK_FOLDERSTART pradėti nuo šio aplanko
+_C_OPT_GEN_CHK_GRID Rodyti tinklelio linijas failų peržiūros lange
+_C_OPT_GEN_CHK_JUMPONEDIT Redaguojant failų sąrašą, pasirinkti sekantį failą
+_C_OPT_GEN_CHK_KEEPFILETIME Redaguojant failus - datos nekeisti
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Keep moved files in file list
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS Esant įspėjimams dėl veiksmų
+_C_OPT_GEN_CHK_MSG_CHANGE Po redagavimo
+_C_OPT_GEN_CHK_MSG_CUT Iškerpant gaires
+_C_OPT_GEN_CHK_MSG_DEL Pašalin&us gaires
+_C_OPT_GEN_CHK_MSG_DELETEFILE Šalinant &failus
+_C_OPT_GEN_CHK_MSG_EXPORT Eksportuojant gaires
+_C_OPT_GEN_CHK_MSG_PASTE Įdedant gaires
+_C_OPT_GEN_CHK_MSG_REMOVETAGS Šalinant gaires
+_C_OPT_GEN_CHK_MSG_SAVE Įrašius
+_C_OPT_GEN_CHK_PL Automatiškai sukurti grojaraštį
+_C_OPT_GEN_CHK_RELPL Įrašai, susiję su darbiniu aplanku
+_C_OPT_GEN_CHK_AUTOCOMPLETE Redaguojamų laukelių automatinis užpildymas
+_C_OPT_GEN_CHK_SELECTFILES Select files automatically
+_C_OPT_GEN_CHK_SORTNATURAL Pritaikyti natūralią rūšiavimo tvarką
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH Rodyti kelią į aplanką, lango antraštėje
+_C_OPT_GEN_FRM_GEN Pagrindinės
+_C_OPT_GEN_FRM_MSG Rodyti pranešimus
+_C_OPT_GEN_FRM_PL Grojaraščio failo pavadinimas
+_C_OPT_GEN_RD_PLALL iš visų failų
+_C_OPT_GEN_RD_PLSEL iš pasirinktų failų
+_C_OPT_GEN_ST_FAVDIR Pradinis aplankas:
+_C_OPT_GEN2_CAPTION Pranešimai
+_C_OPT_GENRES Vartotojo pasirinkti žanrai
+_C_OPT_GENRES_HIDESTANDARD Nerodyti įprastinių žanrų
+_C_OPT_ID3_CHK_ISO88591 Vietoje UTF-16, gaires koduoti į ISO-8859-1
+_C_OPT_ID3_CHK_LEADINGZEROS Numeruojant failus pridėti nulį (01, 02, ...)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND Tik ID3v2 bet tik tada, jei neužtenka  ID3v1
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ Skaityti
+_C_OPT_ID3_FRM_REMOVE Pašalinti
+_C_OPT_ID3_FRM_WRITE Įrašyti
+_C_OPT_LIB Library
+_C_OPT_LIB_CHK_ENABLE Enable Library
+_C_OPT_LIB_CHK_RESTRICT Only include these directories
+_C_OPT_LIB_CLEANUP Cleanup Library
+_C_OPT_MAPPING Atvaizdavimas
+_C_OPT_MAPPING_FRM Vartotojo nustatytas laukelių atvaizdavimas
+_C_OPT_MAPPING_SOURCE Duomenų šaltinis
+_C_OPT_MAPPING_TARGET Paskirtis
+_C_OPT_PLAYLIST_CAPTION Grojaraštis
+_C_OPT_PLAYLIST_EXTENDED Rašyti papildomą informaciją
+_C_OPT_PLAYLIST_NOFOLDERS Nekurti aplanko
+_C_OPT_PLAYLIST_SHOWDLG Rodyti, failo vardo patvirtinimo dialogą
+_C_OPT_TAG Gairės
+_C_OPT_TAGS_COVER Viršelio failo pavadinimas:
+_C_OPT_TAGS_EXT Įrašymo rėžimo nustatymas << ir >> papildomų gairių dialogo lange:
+_C_OPT_TAGS_FILEFILTER Apriboti gaunamus failus tipus:
+_C_OPT_TAGS_NOIMG &Nerodyti aplanke esančių paveikslėlių, kaip viršelių
+_C_OPT_TOOLS Įrankiai
+_C_OPT_TOOLS_CHK_DEFAULT Spragtelėjus pele 2-kart, iškviečiama ši programa:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES visiems pažymėtiems failams
+_C_OPT_TOOLS_COL_PARAM Parametras
+_C_OPT_TOOLS_COL_PATH Kelias
+_C_OPT_TOOLS_EDIT Numatytieji įrankiai. Būtina nurodyti pavadinimą ir kelią.
+_C_OPT_TOOLS_FRM_DEFAULT Įprastinė programa
+_C_OPT_TOOLS_FRM_TOOLS Įrankiai
+_C_OVERWRITE Perr&ašyti
+_C_RENAME Pervard&inti
+_C_TT_CDDB Duomenų bazė freedb...
+_C_TT_CDDBLOCAL Vietinė duomenų bazė freedb...
+_C_TT_CLOSE Užverti
+_C_TT_DIR Pakeisti aplanką...
+_C_TT_EDIT_UNDO Atšaukti
+_C_TT_EXPORT Eksportuoti
+_C_TT_FAVDIR Pradinis aplankas
+_C_TT_FILE_ADD Pridėti aplanką...
+_C_TT_FILE_COPY Kopijuoti...
+_C_TT_FILE_DELETE Pašalinti...
+_C_TT_FILE_MOVE Perkelti...
+_C_TT_FILE_PLAY Atlikti kūrinį
+_C_TT_FILE_PROPERTIES Savybės...
+_C_TT_FILE_RENAME Pervardinti
+_C_TT_FTF Failo pavadinimas -> Failo pavadinimas
+_C_TT_FTT Failo pavadinimas -> Gairė
+_C_TT_HELP Žinyno antraštė
+_C_TT_OPT Nuostatų dialogas...
+_C_TT_PLALL Sukurti grojaraštį iš visų failų
+_C_TT_PLSEL Sukurti grojaraštį iš atrinktų failų
+_C_TT_REFRESH Atnaujinti failų sąrašo langą
+_C_TT_REMOVE Pašalinti gairę
+_C_TT_SAVE Įrašyti
+_C_TT_TFF Failas su gairių sąrašu -> gairė
+_C_TT_TTF gairė -> Failo pavadinimas
+_C_TT_TTT Gairė - Gairė
+_C_TT_UPDIR Aukštyn
+_C_WIZARD_TRACKS Numerių suteikimas
+_C_WIZARD_TRACKS_BEGIN Pradėti nuo numerio:
+_C_WIZARD_TRACKS_DESC Assign track- and discnumbers
+_C_WIZARD_TRACKS_DISC_BEGIN Begin at discnumber
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Leading zeros for discnumbers (01, 02, ...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Save total count of discs
+_C_WIZARD_TRACKS_DISCNUMBER Discnumber
+_C_WIZARD_TRACKS_RESETFOLDERS Kiekviename aplanke pradėti iš naujo
+_C_WIZARD_TRACKS_SAVETOTAL Išsaugoti bendrą garso takelių kiekį
+_C_WIZARD_TRACKS_TRACKNUMBER Tracknumber
+_M_ERR_CANCEL Procesas sustabdytas.
+_M_ERR_CDDB_CD Klaida skaitant audio CD
+_M_ERR_CDDB_CONNECT Klaida jungiantis prie serverio: {1}
+_M_ERR_CDDB_NOENTRY Nerasta tinkamų duomenų freedb-ID {1} identifikatoriui.
+_M_ERR_CDDB_NOENTRYINLOCALBD Vietinėje duomenų bazėje \"{1}\" nerasta tinkamų duomenų freedb-ID {2} identifikatoriui.
+_M_ERR_CDDB_PARSER Užklausa nedavė rezultatų.
+_M_ERR_CDDB_READ Klaida skaitant duomenis iš freedb {1} serverio
+_M_ERR_CONFIGURATION Negaliu importuoti konfigūracijos failo.
+_M_ERR_COPY Negaliu kopijuoti pažymėtų failų!
+_M_ERR_DELETE Negaliu pašalinti pažymėtų failų!
+_M_ERR_FILECREATE Negaliu sukurti \"{1}\" failo.
+_M_ERR_FILEDELETE Negaliu pašalinti \"{1}\" failo.
+_M_ERR_FILENAMEALREADYEXISTS Failas \"{1}\" tokiu vardu jau yra.
+_M_ERR_FILENAMEALREADYEXISTS2 Negaliu pervardinti \"{1}\" failo.
+_M_ERR_FILEOPABORTED Pasikeitė esamo aplanko turinys.\n\nĮkelti iš naujo aplanką?
+_M_ERR_FILEOPEN Negaliu atidaryti failo \"{1}\" .
+_M_ERR_FILEREADONLY Failas \"{1}\" yra skirtas tik skaitymui.\n\nAr atjungti apsaugą nuo įrašymo šiam ir likusiems failams?
+_M_ERR_FOLDERCANNOTBEACCESSED Prieigos klaida\n\nNegaliu atverti \"{1}\" aplanko.
+_M_ERR_INVALID_FILENAME Prašome nurodyti teisingą failo vardą.
+_M_ERR_INVALID_FTF_FS Eilutė \"{1}\" negali būti panaudota failų pavadinimui.
+_M_ERR_INVALID_TOKEN {1}:\nFailo pavadinime negali būti šių simbolių:\n\\ / : * ? \" < > |\n\nKlaidas taisyti automatiškai?
+_M_ERR_MOVE Pažymėtų failų perkelti negaliu!
+_M_ERR_ONLINE_NOTFOUND Pagal Jūsų užklausą, deja nieko nerasta.
+_M_ERR_OPT_CDDB_NOADDRESS Prašome įrašyti freedb serverio adresą.
+_M_ERR_OPT_CDDB_NOEMAIL Prašau įrašyti savo elektroninio pašto adresą "Nuostatos, Duomenų bazė freedb, Serveris". Pašto adresas bus naudojamas prieigai prie freedb serverio.
+_M_ERR_OPT_CDDB_NONAME Prašome įrašyti galiojantį konfigūracijos vardą.
+_M_ERR_OPT_CDDB_NOPORT Nurodykite prašau, freedb serverio prievado numerį.
+_M_ERR_PARSELINE Nepavyko analizuoti {1} eilutėje.
+_M_ERR_PLAY Failo \"{1}\ pagroti negaliu!
+_M_ERR_READ_FILE Skaitymui atverti failo \"{1}\" nepavyko.
+_M_ERR_RENAME_FILE Failo \"{1}\" negalima pervardinti į \"{2}\".
+_M_ERR_RETRY Do you want to retry?
+_M_ERR_TL_NOTAGS Atitinkamo įrašo failui  \"{1}\" nėra.
+_M_ERR_WRITE_FILE Negaliu atverti failo \"{1}\"  įrašymui.
+_M_ERR_YN \n\nAr Jūs norite tęsti toliau?
+_M_LOG_FMT_FNAME Pervardinti {1} iš {2} failų.\n
+_M_LOG_FMT_TAG Formatuota {1} iš {2} gairių.\n
+_M_LOG_FTF Pervardinti {1} iš {2} failų.
+_M_LOG_FTT Gairės {1} iš {2} failų išimtos ir įrašytos.
+_M_LOG_PL_ALL Sukurtas grojaraštis \"{1}\" iš visų ({2}) failų.
+_M_LOG_PL_SEL Sukurtas grojaraštis \"{1}\" iš pažymėtų ({2}) failų.
+_M_LOG_REMOVE Gairė pašalinta iš failo \"{1}\".
+_M_LOG_REMOVED Pašalintos gairės {1} iš {2} failų.
+_M_LOG_REMOVE_NOTAG Faile \"{1}\" gairių nėra.
+_M_LOG_SAVE gairė įrašyta į failą \"{1}\".
+_M_LOG_SAVED Gairės įrašytos į {1} iš {2} failų.
+_M_LOG_TFF Gairės iš \"{1}\" buvo importuotos į {2} iš {3} failų.
+_M_LOG_TFF_S gairės iš \"{1}\" buvo importuotos į vieną failą.
+_M_LOG_TTF Pervardinti {1} iš {2} failų.
+_M_STAT_PLAY Grojamas failas \"{1}\"...
+_M_STR_ACTION_ADJUSTCOVER Adjust cover
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Format
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
+_M_STR_ACTION_CODEPAGE Keisti koduotę
+_M_STR_ACTION_CODEPAGE_DESC Koduotė
+_M_STR_ACTION_EXPORTCOVER Eksportuoti viršelį į failą
+_M_STR_ACTION_EXPORTCOVER_DUPES Eksportuoti viršelių dublikatus
+_M_STR_ACTION_EXPORTCOVER_TYPES Export only covers of type
+_M_STR_ACTION_FORMAT Gairių laukelių formatavimas
+_M_STR_ACTION_GUESS Įkelti gairių laukelius
+_M_STR_ACTION_GUESSPATTERN Formatas-eilutė
+_M_STR_ACTION_GUESSSOURCE Originalo formatas
+_M_STR_ACTION_IMPORTCOVER Įkelti viršelį iš failo
+_M_STR_ACTION_IMPORTCOVER_FS Viršelio failo pavadinimo, formatas-eilutė:
+_M_STR_ACTION_IMPORTCOVER_DELETE Pašalinti esamą viršelį
+_M_STR_ACTION_IMPORTCOVER_TYPE Įkelti viršelį kaip:
+_M_STR_ACTION_IMPORTTEXT Įkelti tekstinį failą
+_M_STR_ACTION_MERGEDUPLICATEFIELDS Sujungti gairių laukelių dublikatus
+_M_STR_ACTION_REGEXP Pakeisti įprastiniu išsireiškimu
+_M_STR_ACTION_REGEXP_EXP Įprastiniai išsireiškimai
+_M_STR_ACTION_REGEXP_MATCH Atitikmenis pakeisti į
+_M_STR_ACTION_REMOVEDUPES Pašalinti gairių laukelių dublikatus
+_M_STR_ACTION_REM Pašalinti laukelius
+_M_STR_ACTION_REM_DESC Pašalinti šiuos laukelius (atskirtus kabliataškiu):
+_M_STR_ACTION_REM_EX Pašalinti laukelius, išskyrus:
+_M_STR_ACTION_REM_EX_DESC Palikti šiuos laukelius (atskirtus kabliataškiu):
+_M_STR_ACTION_SPLITFIELDS Atskirti laukelius skirtuku
+_M_STR_ACTIONGROUP_NAME Veiksmų grupės pavadinimas
+_M_STR_ALBUM Albumas
+_M_STR_ALBUMARTIST Atlikėjas
+_M_STR_ALL_FILEDLGFILTER Visi failai (*.*)|*.*||
+_M_STR_ARTIST Atlikėjas
+_M_STR_AUTHOR Autorius
+_M_STR_BACK < &Atgal
+_M_STR_BROWSE_COPY Kopijuoti į:
+_M_STR_BROWSE_MOVE Perkelti į:
+_M_STR_BROWSE_TEXT Prašome pasirinkti aplanką, kuriame yra garso failai.
+_M_STR_BYTES Baitas
+_M_STR_CDDB_CD Skaitau kompaktinę plokštelę
+_M_STR_CDDB_CONNECT jungiuosi prie {1}...
+_M_STR_CDDB_CONNECTED susijungta!
+_M_STR_CDDB_IDXDB_ENTRIES sukurta duomenų bazės įrašų
+_M_STR_CDDB_RETRIEVE Gaunama informacija
+_M_STR_COLUMNFILENAME Failo pavadinimas
+_M_STR_COLUMNPATH Kelias
+_M_STR_COLUMNUSEDCOLS rodyti
+_M_STR_COMBO_HOLD < Įrašyti >
+_M_STR_COMBO_REMOVE < Išvalyti >
+_M_STR_COMBO_USER < Įrašyti >
+_M_STR_COMMENT Komentarai
+_M_STR_COMPOSER Kompozitorius
+_M_STR_COPYOF Kopija {1}
+_M_STR_COVER Viršelis
+_M_STR_COVER_ADD Ar Jūs pageidaujate palikti esamus viršelius?
+_M_STR_COVER_CORRECTAR Teisingos proporcijos
+_M_STR_COVER_SETDESC Pakeisti viršelio aprašą...
+_M_STR_COVER_SETTYPE Pakeisti viršelio tipą
+_M_STR_COVERVARIES Skirtingi viršeliai
+_M_STR_CUSTOMIZE Customize...
+_M_STR_DAY diena
+_M_STR_DAYS dienų
+_M_STR_DEFAULTVALUE Default value
+_M_STR_DISCID CDDB ID tapatybė
+_M_STR_DISCOGS_OAUTH_PIN Enter Discogs authorization code
+_M_STR_DISCNUMBER Disko numeris
+_M_STR_ERR_CDDB_NOENTRYSELECTED Prašome pasirinkti įrašą.
+_M_STR_EXPORT_DELETE Pašalinti eksporto konfigūraciją  \"{1}\"?
+_M_STR_EXPORT_FILEDLGTITLE Pasirinkite failą eksportui
+_M_STR_EXPORT_MULTIPLE Į kiekvieną aplanką, po vieną failą
+_M_STR_EXPORT_SHOWEXPORTFILE \n\nParodyti eksportuotą failą?
+_M_STR_EXP_MSG Visa informacija apie {2} failus, buvo eksportuota į \"{1}\" failą.
+_M_STR_FIELD Laukelis:
+_M_STR_FIELDSIZE Size of field
+_M_STR_FIELDROWS Rows
+_M_STR_FILE Failas
+_M_STR_FILEDELETE Ar tikrai norite pašalinti pažymėtus failus?
+_M_STR_FILEMODIFIED Redaguotas
+_M_STR_FILESIZE Dydis
+_M_STR_FILTER Filtras:
+_M_STR_FMT_CAPITAL Kiekvienas Žodis Iš Didžiosios Raidės
+_M_STR_FMT_HIGH VISOS DIDŽIOSIOS
+_M_STR_FMT_LOW visos mažosios
+_M_STR_FMT_SENTENCE Atsižvelgti į sakinius.
+_M_STR_FREEDBCREATEINDEX Sukurti vietinės freedb duomenų bazės indeksavimo rinkmeną?\n\nTai gali užtrukti keletą minučių.
+_M_STR_FREEDB_SEARCH Internetinė paieška freedb duomenų bazėse
+_M_STR_GENRE Žanras
+_M_STR_GENRES Žanrai
+_M_STR_HIDE Nerodyti
+_M_STR_ITEMALREADYEXISTS Įrašas tokiu pavadinimu jau yra. Pakeisti esamą įrašą nauju?
+_M_STR_LANGUAGE Kalba
+_M_STR_M3U_FILEDLGFILTER Palaikomi failų tipai (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_METADATA &Metaduomenys
+_M_STR_MOVEDOWN Žemy&n
+_M_STR_MOVEUP Į viršų
+_M_STR_MPEGBITRATE Pralaidumas
+_M_STR_MPEGFREQUENCY Dažnis
+_M_STR_MPEGLENGTH Trukmė
+_M_STR_MPEGMODE Rėžimas
+_M_STR_MPEGVERSION Kodekas
+_M_STR_MSGCUT Ar Jūs tikrai norite pašalinti atrinktų failų gaires ir juos kopijuoti į iškarpinę?
+_M_STR_MSGPASTE Ar Jūs tikrai norite įklijuoti iškarpinės turinį į atrinktų failų gaires?
+_M_STR_MSGREMOVE Ar tikrai norite panaikinti atrinktuose failuose gaires?
+_M_STR_NAME Vardas
+_M_STR_NETWORKING Darbas tinkle
+_M_STR_NEXT P&irmyn >
+_M_STR_NOACTION Veiksmų nėra
+_M_STR_NOACTIONENABLED Prašome įjungti bent vieną nustatytą veiksmą, pažymėdami, kad naudotis šią funkciją.
+_M_STR_NUMERIC S&kaitinis laukas
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH Prašau nurodykite aplanką, vietinei freedb duomenų bazei sukurti.
+_M_STR_OPT_CDDB_PROCEED Bus pašalinti visi serveriai.\n\nAr Jūs norite tęsti toliau?\n
+_M_STR_OPTIMIZEMP4 MP4 optimizavimas
+_M_STR_OPTS_ALWAYS visada
+_M_STR_OPTS_ASK klausti
+_M_STR_OPTS_NEVER niekada
+_M_STR_PLNAME Grojaraštis - Failo pavadinimas
+_M_STR_PL_CONFIRM Sukurti grojaraštį ir pavadinti šio failo vardu
+_M_STR_PL_SAVEFILTER Playlist File (*.m3u)|*.m3u|Unicode Playlist File (*.m3u8)|*.m3u8||
+_M_STR_PREVIEW Peržiūra
+_M_STR_PROPERTIES Savybės {1}
+_M_STR_QUICK Greitai
+_M_STR_RECURSE Pakatalogiai
+_M_STR_REST Likutis
+_M_STR_SAVE_NOT < nepriskirta >
+_M_STR_SAVECONFIG Jūsų nuostatos buvo įrašytos į failą\n\"{1}\".\n\nNorint jas atkurti, išpakuokite faila į\n\"{2}\".
+_M_STR_SAVECONFIG_FILEDLGFILTER Nuostatų failas (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE Įrašyti &nuostatas į...
+_M_STR_SAVEIMAGE Įrašyti paveikslėlį į gairę
+_M_STR_SAVEIMAGEDIRECTORY Įrašyti paveikslėlį į laikmeną
+_M_STR_SAVESELECTION Įrašyti pažymėtus...
+_M_STR_SB_ABORTED Nutraukta
+_M_STR_SB_ACTION Tvarkomas failas ... {1} iš {2}
+_M_STR_SB_CLEANUPDATABASE Processing files ... {1} of {2} ({3} cleaned)
+_M_STR_SB_CLEANUPDATABASE_BINARIES Cleanup orphaned binaries
+_M_STR_SB_CLEANUPDATABASE_COVERS Cleanup orphaned covers
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Cleanup non-library files
+_M_STR_SB_EXPORTTAGS Gairės duomenų eksportas... {1} iš {2}
+_M_STR_SB_LOADTAGS Skaitomi gairių duomenys... {1} iš {2}
+_M_STR_SB_READDIRECTORY Tiriamas aplanko turinys
+_M_STR_SB_REMOVETAGS Šalinamos duomenų gairės ... {1} iš {2}
+_M_STR_SB_RENAMEFILES Failo pervardinimas ... {1} iš {2}
+_M_STR_SB_WRITETAGS Įrašomi gairių duomenys ... {1} iš {2}
+_M_STR_SHOWCHOOSEDLG Rodyti pasirinkimo dialogo langą
+_M_STR_SEARCHBY Paieška pagal:
+_M_STR_SEARCHTEXT Tekstas:
+_M_STR_SEPARATOR Skyriklis
+_M_STR_SHOW Ro&dyti
+_M_STR_SIZE_LARGE Large
+_M_STR_SIZE_MEDIUM Medium
+_M_STR_SIZE_NORMAL Normal
+_M_STR_SIZE_SMALLER Smaller
+_M_STR_SIZE_SMALL Small
+_M_STR_SNA Užduočių juosta
+_M_STR_SNA_SHOW Visada rodyti piktogramą užduočių juostoje
+_M_STR_SNA_SHOWMIN Minimizuoti į užduočių juostą
+_M_STR_STRIPCHAPTERSMP4 Strip MP4 chapters
+_M_STR_TAG_COPIED Failų gairės {1} nukopijuotos į iškarpinę.
+_M_STR_TAG2 gairė
+_M_STR_TAGFIELDS_REMOVE Pašalinti žymą
+_M_STR_TAGFIELDS_REMOVEALL Pašalinti visas žymas...
+_M_STR_TAGFIELDS_REMOVEALLMSG Ar tikrai norite pašalinti iš sąrašo visas žymas?
+_M_STR_TAGFIELDS_RESET Atstatyti žymas į pradinę būseną...
+_M_STR_TAGFIELDS_RESETMSG Ar tikrai norite iš naujo nustatyti žymų sąrašą, kaip numatyta?
+_M_STR_TAGPANEL Gairių juosta
+_M_STR_TAGPANEL_COVER Rodyti viršelį
+_M_STR_TAGPANEL_DIRECTORY Rodyti aplanko pasirinkimo langą
+_M_STR_TAGLIST_FILEDLGFILTER Gairių sąrašai ({1})
+_M_STR_TAGLIST_FILEDLGTITLE Pasirinkite gairių sąrašą
+_M_STR_TAGSOURCES Gairių šaltiniai
+_M_STR_THISALBUMON Šis albumas yra {1}
+_M_STR_TITLE Pavadinimas
+_M_STR_TRYAGAIN Gal Jūs norite pabandyti dar kartą?
+_M_STR_TTF тег - Failo pavadinimas
+_M_STR_UPDATE_FRM Naujinimai
+_M_STR_UPDATE_OPT_CHECK Paleidus programą, tikrinti, ar yra naujinimų
+_M_STR_UPDATE_OPT_CHECK_BETA Tame tarpe ir tobulinamos versijos (beta)
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Display release notes for new versions
+_M_STR_UPDATEAVAILABLE Yra nauja programos versija {1}!\n\nAr pageidaujate, kad naujinius atsiųstume iš {2} tiesiog dabar?
+_M_STR_UPDATENOTAVAILABLE Jūs naudojatės naujausia programos versija {1}.\n\nNaujinimų nėra.
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS Papildomai
+_M_STR_VALUE Reikšmė
+_M_STR_VERSION Versija
+_M_STR_YEAR Metai
+_M_TP_CDDB_LOCALPATH Nurodykite vietinės freedb duomenų bazės aplanką
+_M_TP_CDDB_SITES Atnaujinti freedb serverių sąrašą internetu
+_M_TP_CVR_CLIPBOARD Įdėti viršelį
+_M_TP_CVR_CLIPBOARD_COPY Kopijuoti viršelį
+_M_TP_CVR_CLIPBOARD_CUT Iškirpti viršelį
+_M_TP_CVR_DEL Pašalinti viršelį
+_M_TP_CVR_NEW Pridėti viršelį...
+_M_TP_CVR_SAVE Įrašyti viršelį...
+_M_TP_DUPLICATE Dubliuoti
+_M_TP_EXP_DEL Pašalinti
+_M_TP_EXP_EDIT Redaguoti
+_M_TP_EXP_FILE Failo pasirinkimas eksportui
+_M_TP_EXP_HLP Rodyti žinyno turinį
+_M_TP_EXP_LOAD Įkelti konfigūraciją
+_M_TP_EXP_NEW Sukurti
+_M_TP_EXP_SAVE Įrašyti konfigūraciją
+_M_TP_GEN_DIR Pasirinkite aplanką
+_M_TP_TAG_DEL Pašalinti laukelį
+_M_TP_TAG_EDIT Laukelių redagavimas...
+_M_TP_TAG_NEW Pridėti laukelį...
+_M_TS_ADDINFO Papildoma informacija
+_M_TS_MULTIPLEVALUES skirtingos reikšmės
+_M_TS_RELEASE Laida
+_M_TS_TRACKS Takeliai
+_M_UNDO_CANNOTUNDO {1} atšaukti neįmanoma
+_M_UNDO_CDDB Duomenų bazė freedb
+_M_UNDO_DIRECTORYCREATE Sukurti aplanką
+_M_UNDO_DIRECTORYMOVE Perkelti aplanką
+_M_UNDO_FORMAT Formatas
+_M_UNDO_FTF Failo pavadinimas - Failo pavadinimas
+_M_UNDO_FTT Failo pavadinimas - gairė
+_M_UNDO_REMOVEFILE Pašalinti
+_M_UNDO_RENAME Pervardinti
+_M_UNDO_TAGCHANGE Keisti gairę
+_M_UNDO_TAGREMOVE Pašalinti gairę
+_M_UNDO_TAGSAVE Įrašyti gairę
+_M_UNDO_TFF Failas su gairių sąrašu - gairė
+_M_UNDO_TTF gairė - Failo pavadinimas

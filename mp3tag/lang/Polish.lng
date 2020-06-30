@@ -1,0 +1,622 @@
+﻿LANGAUTHOR Michał Gerke, Paweł Nowak, Mateusz Bogusz, Bartosz Dotryw
+LANGCONTACT burtekdotryw@gmail.com
+LANGVERSION 2.84
+LANGNAME Polish
+LANGNAMELOC Polski
+SLangCancel &Anuluj
+SLangOk &OK
+SLangErrCatch Błąd Runtime\n\nPlik:\t{1}\nLinia:\t{2}\n\nProgram napotkał niespodziewany wyjątek i znajduje się w stanie trudnym do zdefiniowania :). Proszę zamknąć aplikację i przesłać plik\n\n{3}\n\nwraz ze szczegółowym opisem błędu do personelu pomocy technicznej.\n\neMail: support@mp3tag.de
+SLangErrCheck Błąd Runtime\n\nPlik:\t{1}\nLinia:\t{2}\nTermin:\t{3}\nKod:\t0x{4}\n\nProgram napotkał niespodziewany wyjątek i znajduje się w stanie trudnym do zdefiniowania :). Proszę zamknąć aplikację i przesłać plik\n\n{5}\n\nwraz ze szczegółowym opisem błędu do personelu pomocy technicznej.\n\neMail: support@mp3tag.de
+SLangErrDriveCannotBeAccessed Dostęp do napędu {1} NIE jest możliwy.\n\n» Proszę sprawdzić napęd.
+SLangErrFileCannotBeAccessed Dostęp do pliku „{1}” NIE jest możliwy.\n\n» Proszę sprawdzić napęd.
+SLangErrFileCannotBeDeleted NIE można usunąć pliku „{1}”.\n\n» Proszę sprawdzić napęd i upewnić się, że żaden inny proces nie korzysta właśnie z tego pliku.
+SLangErrFolderCannotBeAccessed Dostęp do katalogu „{1}” NIE jest możliwy.\n\n» Proszę sprawdzić napęd.
+SLangErrFolderCannotBeDeleted NIE można usunąć katalogu „{1}”.\n\n» Proszę sprawdzić napęd i upewnić się, że żaden inny proces nie korzysta właśnie z tego katalogu.
+SLangErrHelpBrowserIsNotAvailable Do wyświetlenia pliku pomocy potrzebna jest zainstalowana przeglądarka internetowa, taka jak „Opera”, „Mozilla Firefox” lub „Internet Explorer”.\n\n» Proszę zainstalować przyzwoitą przeglądarkę internetową.
+SLangErrHelpSystemIsNotAvailable System pomocy NIE jest dostępny.\n\n» Proszę ponownie zainstalować „{1}”.
+SLangErrHelpTopicIsNotAvailable Temat pomocy NIE jest dostępny.\n\n» Prosimy o kontakt z naszym działem pomocy technicznej.\n\neMail: support@mp3tag.de
+SLangErrNotEnoughFreeDiskSpace Brakuje wolnego miejsca na dysku {1}.\n\n» Proszę upewnić się, że przynajmniej {2} jest wolne na dysku.
+SLangErrRegistryCannotBeAccessed Błąd podczas odczytu danych.\n\nDostęp do rejestru systemowego Windows NIE jest możliwy.
+SLangMsgItemExistsAlready Pozycja z takim opisem już istnieje.\n\n» Proszę użyć jakiegoś innego opisu.
+SLangMsgFirstSteps Proszę poświęcić troszeczkę czasu na postawienie „pierwszych kroków” z programem.
+SLangMsgShutdownInfo Chwileczkę, {1} jest właśnie wyłączany.
+SLangWrnAppIsAlreadyRunning Jedna z instancji tej aplikacji jest już (wciąż) uruchomiona.
+SLangWrnAppHasToBeRestarted Mp3tag musi zostać zrestartowany, aby zmiany zadziałały.\n\nCzy chcesz dokonać restartu teraz?
+SLangWrnNameContainsInvalidCharacters Opis zawiera niedozwolone znaki.\n\n» Proszę wpisać jakiś inny opis.
+SLangWrnStartLogging Uruchomiono {1} z parametrem FLOG1 w wierszu poleceń. Ten parametr jest używany dla celów „odpluskwiania” (debugging).\n\nCzy chcesz uruchomić zapisywanie dziennika zdarzeń (logging)?
+_C_ABORT Przerwij
+_C_ABORTING Aborting...
+_C_APP_ST_ALBUM &Album
+_C_APP_ST_ARTIST &Wykonawca (Artysta)
+_C_APP_ST_COMMENT &Komentarz
+_C_APP_ST_FOLDER &Katalog
+_C_APP_ST_GENRE &Gatunek
+_C_APP_ST_TITLE &Tytuł
+_C_APP_ST_TRACK Ści&eżka
+_C_APP_ST_YEAR R&ok
+_C_CANCEL &Anuluj
+_C_CANCELING Canceling...
+_C_CLOSE Zam&knij
+_C_DLG_CDDBCONFIRM_CAPTION Lista wyników freedb
+_C_DLG_CDDBCONFIRM_CHK_DISCID Skopiuj ID dysku do pola „Komentarz”
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 Skopiuj ID dysku do pola „DISCID”
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER Kompilowanie
+_C_DLG_CDDBCONFIRM_CHK_SORT Sugerowane sortowanie
+_C_DLG_CDDBCONFIRM_ST_INFO Znaleziono kilka pasujących.\nProszę dokonać wyboru:
+_C_DLG_CDDBCONFIRM_ST_INFO2 Jest {2} wyników wyszukiwania w bazie danych {1}.\nProszę wybrać jeden:
+_C_DLG_CDDBCONFIRM_STC_TOP Dostosuj informacje dot. znacznika
+_C_DLG_CDDBINPUT_CAPTION Podaj ID freedb
+_C_DLG_CDDBINPUT_ST_CATEGORY Kategoria:
+_C_DLG_CDDBINPUT_ST_ID ID freedb:
+_C_DLG_CDDBSTYLE_CAPTION freedb
+_C_DLG_CDDBSTYLE_RD_CDROM określ na podstawie włożonej płyty &Audio-CD
+_C_DLG_CDDBSTYLE_RD_ENTER wprowadź
+_C_DLG_CDDBSTYLE_RD_MP3 określ z zaznaczonych plików
+_C_DLG_CDDBSTYLE_RD_SEARCH określ przez wyszukiwarkę internetową
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL określ przez (lokalną) wyszukiwarkę tekstu
+_C_DLG_CDDBSTYLE_STC_TOP ID freedb
+_C_DLG_COLUMNS_CAPTION Kolumny
+_C_DLG_COLUMNS_TOP Dostosuj wyświetlanie kolumn
+_C_DLG_TAGS Edycja informacji znacznika (tag)
+_C_DLG_TTF_TOP Wybierz format ciągu
+_C_HELP Pomo&c
+_C_MNU_ACTIONS &Akcje\tALT+6
+_C_MNU_CON &Konwersja
+_C_MNU_CON_FTF Nazwa pl&iku - Nazwa pliku\tALT+3
+_C_MNU_CON_FTT &Nazwa pliku - Znacznik\tALT+2
+_C_MNU_CON_TFF Li&sta znaczników - Znacznik\tALT+4
+_C_MNU_CON_TTF &Znacznik - Nazwa pliku\tALT+1
+_C_MNU_CON_TTT Znacznik - Znacznik\tALT+5
+_C_MNU_EDIT &Edycja
+_C_MNU_EDIT_COPY &Kopiuj\tCtrl+C
+_C_MNU_EDIT_CUT Wy&tnij\tCtrl+X
+_C_MNU_EDIT_INVERTSELECTION Odwróć &zaznaczenia\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT Zaznacz &następny plik\tCtrl+N
+_C_MNU_EDIT_PASTE &Wklej\tCtrl+V
+_C_MNU_EDIT_SELECT Zaznacz wszystkie &pliki\tCtrl+A
+_C_MNU_EDIT_UNDO &Cofnij\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL Usuń zazna&czenia\tCtrl+U
+_C_MNU_EXTRA &Narzędzia
+_C_MNU_EXTRA_OPTIONS &Opcje\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS Wyczyść wszystk&ie pola do edycji\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS Umieść domyślne wartości w polach do edycji\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD Kreator automatycznego numerowania\tCtrl+K
+_C_MNU_FILE &Plik
+_C_MNU_FILE_ADD Dodaj katalog
+_C_MNU_FILE_CDDB freedb\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL freedb (lokalnie)\tCtrl+L
+_C_MNU_FILE_COPY Kopiuj
+_C_MNU_FILE_DELETE Skasuj
+_C_MNU_FILE_DIR Zmień &katalog\tCtrl+D
+_C_MNU_FILE_EXIT Za&kończ\tAlt+F4
+_C_MNU_FILE_EXPORT &Eksportuj\tCtrl+E
+_C_MNU_FILE_FAVDIR &Katalog z „Ulubionymi”\tCtrl+F
+_C_MNU_FILE_MOVE Przenieś
+_C_MNU_FILE_PLALL Lista odtwarzania (wszystkie pliki)\tCtrl+P
+_C_MNU_FILE_PLAY Odtwórz
+_C_MNU_FILE_PLAYLIST Wczytaj listę odtwarzania
+_C_MNU_FILE_PLSEL Lista odtwarzania (tylko zaznaczone pliki)
+_C_MNU_FILE_PROPERTIES Właściwości
+_C_MNU_FILE_READ Odczytaj &znacznik\tCtrl+T
+_C_MNU_FILE_REMOVE &Usuń znacznik\tCtrl+R
+_C_MNU_FILE_REMOVEFILE U&suń\tDel
+_C_MNU_FILE_RENAME Zmień nazwę\tF2
+_C_MNU_FILE_SAVE Zapi&sz znacznik\tCtrl+S
+_C_MNU_FILE_SAVECONFIG Zapisz &ustawienia
+_C_MNU_FREEDB f&reedb
+_C_MNU_FREEDB_INDEX Utwórz indeks lokalny
+_C_MNU_FS_EXT Pola rozszerzeń
+_C_MNU_FS_FNCT Funkcje
+_C_MNU_FS_INFO Pola informacji
+_C_MNU_FS_REM Usuń z historii
+_C_MNU_FS_REMALL Usuń wszystko z historii
+_C_MNU_FS_REMALL_MSG Czy jesteś pewien, że chcesz usunąć wszystkie elementy?
+_C_MNU_HELP Pomo&c
+_C_MNU_HELP_ABOUT Mp3tag - Informacje
+_C_MNU_HELP_DONATE Dotacje
+_C_MNU_HELP_FINDER &Wyszukaj temat w pliku pomocy\tF1
+_C_MNU_HELP_FIRSTSTEPS &Pierwsze kroki
+_C_MNU_HELP_KEYBOARD &Skróty klawiszowe
+_C_MNU_HELP_SUPPORT Pomoc techniczna online
+_C_MNU_HELP_UPGRADE Sprawdź, czy jest już nowsza wersja
+_C_MNU_HELP_WWW Strona WWW programu „Mp3tag”
+_C_MNU_TAGSOURCES Źródła &znaczników
+_C_MNU_TOOLS &Narzędzia
+_C_MNU_VIEW &Widok
+_C_MNU_VIEW_COLUMNS &Dostosuj kolumny
+_C_MNU_VIEW_FILTER &Filtr\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY Auto-apply filter
+_C_MNU_VIEW_ID3 Maska/panel wprowadzeń znacznika\tCtrl+Q
+_C_MNU_VIEW_REFRESH &Odśwież\tF5
+_C_MNU_VIEW_SORTBY &Sortuj według
+_C_MNU_VIEW_TAGS Znaczniki (&…)\tALT+T
+_C_MNU_VIEW_TOOLBAR Pasek &narzędzi
+_C_MNU_SB_ACTIONS Stosuje akcje zdefiniowane przez użytkownika (zamianę LiTeR, zastępowanie, …) do wybranych plików.
+_C_MNU_SB_CON_FTF Zmienia nazwy plików MP3 po zdefiniowaniu wzoru opartego o starą nazwę pliku.
+_C_MNU_SB_CON_FTT Pobiera znacznik ze zdefiniowanego wzoru dla nazw plików MP3.
+_C_MNU_SB_CON_TFF Pobiera znacznik ze zdefiniowanego wzoru na liście znaczników.
+_C_MNU_SB_CON_TTF Zmienia nazwy plików MP3 po zdefiniowaniu wzoru opartego na znacznikach.
+_C_MNU_SB_CON_TTT Formatuje znaczniki na podstawie znaczników.
+_C_MNU_SB_EDIT_COPY Kopiuje do schowka zaznaczony tekst lub znacznik z wybranego pliku MP3.
+_C_MNU_SB_EDIT_CUT Wycina do schowka zaznaczony tekst lub znacznik z wybranego pliku MP3.
+_C_MNU_SB_EDIT_INVERTSELECTION Odwraca bieżące zaznaczenie (nie zaznaczone pliki zostaną zaznaczone i na odwrót).
+_C_MNU_SB_EDIT_NEXT Zaznacza następny plik w widoku plików.
+_C_MNU_SB_EDIT_PASTE Wkleja zawartość schowka w miejscu kursora zazn. lub do zaznaczonego pliku MP3.
+_C_MNU_SB_EDIT_SELECT Pozwala zaznaczyć pliki wyświetlone w widoku plików.
+_C_MNU_SB_EDIT_UNDO Cofa ostatnią operację.
+_C_MNU_SB_EDIT_UNSELECTALL Żaden z plików nie będzie zaznaczony.
+_C_MNU_SB_EXTRA_OPTIONS Otwiera okno opcji.
+_C_MNU_SB_EXTRA_RESET_EDITS Usuwa wprowadzony tekst ze wszystkich pól.
+_C_MNU_SB_EXTRA_SET_EDITS Przywraca domyślne wartości standardowe we wszystkich polach wprowadzania.
+_C_MNU_SB_EXTRA_TRACKWIZARD Uruchamia kreator automatycznego numerowania.
+_C_MNU_SB_FILE_ADD Umieszcza katalog na liście plików.
+_C_MNU_SB_FILE_CDDB Wysyła informacje o włożonej płycie Audio za pomocą połączenia z internetem.
+_C_MNU_SB_FILE_CDDBLOCAL Wysyła informacje o włożonej płycie Audio do lokalnej bazy danych freedb.
+_C_MNU_SB_FILE_COPY Kopiuje zaznaczone pliki do innego katalogu.
+_C_MNU_SB_FILE_DELETE Kasuje zaznaczone pliki.
+_C_MNU_SB_FILE_DIR Zmień katalog
+_C_MNU_SB_FILE_EXIT Kończy pracę i zamyka aplikację.
+_C_MNU_SB_FILE_EXPORT Eksportuje znacznik oraz informacje o pliku z zaznaczonych plików.
+_C_MNU_SB_FILE_FAVDIR Zmienia ustawienia domyślnego katalogu.
+_C_MNU_SB_FILE_FREEDBINDEX Tworzy lokalnie indeks bazy danych freedb do wyszukiwania poprzez lokalną freedb.
+_C_MNU_SB_FILE_MOVE Przenosi zaznaczone pliki do innego katalogu.
+_C_MNU_SB_FILE_PLALL Umieszcza na liście odtwarzania wszystkie pliki.
+_C_MNU_SB_FILE_PLAY Odtwarza zaznaczone pliki.
+_C_MNU_SB_FILE_PLAYLIST Wczytuje zawartość listy odtwarzania.
+_C_MNU_SB_FILE_PLSEL Umieszcza na liście odtwarzania tylko zaznaczone pliki.
+_C_MNU_SB_FILE_PROPERTIES Wyświetla właściwości zaznaczonego pliku.
+_C_MNU_SB_FILE_READ Odczytuje znacznik z zaznaczonego pliku i umieszcza go w polu edycji.
+_C_MNU_SB_FILE_REMOVE Usuwa znacznik z zaznaczonego pliku.
+_C_MNU_SB_FILE_REMOVEFILE Usuwa zaznaczone wpisy.
+_C_MNU_SB_FILE_RENAME Zmienia nazwę zaznaczonego pliku.
+_C_MNU_SB_FILE_SAVE Zapisuje znaczniki w zaznaczonych plikach.
+_C_MNU_SB_FILE_SAVECONFIG Zapisuje bieżące ustawienia w pliku ustawień.
+_C_MNU_SB_HELP_ABOUT Informacje na temat Mp3tag.
+_C_MNU_SB_HELP_CONTEXT Pokazuje pomoc kontekstową dla „klikniętych” pól, menu i okien.
+_C_MNU_SB_HELP_DONATE Rozważ darowiznę dla wsparcia rozwoju Mp3tag.
+_C_MNU_SB_HELP_FINDER Spis treści
+_C_MNU_SB_HELP_FIRSTSTEPS Wyświetla krótkie wprowadzenie do Mp3tag.
+_C_MNU_SB_HELP_KEYBOARD Wyświetla listę skrótów klawiszowych.
+_C_MNU_SB_HELP_SUPPORT Przechodzi na stronę forum Mp3tag.
+_C_MNU_SB_HELP_UPGRADE Szuka aktualizacji Mp3tag
+_C_MNU_SB_HELP_WWW Przechodzi na stronę WWW Mp3tag.
+_C_MNU_SB_UPDIR Przechodzi do katalogu nadrzędnego
+_C_MNU_SB_VIEW_COLUMNS Pokazuje okno, w którym można dostosować kolumny w widoku plików.
+_C_MNU_SB_VIEW_FILTER Filtruje widok plików.
+_C_MNU_SB_VIEW_ID3 Pokazuje/ukrywa panel edycji znaczników.
+_C_MNU_SB_VIEW_REFRESH Odświeża widok plików.
+_C_MNU_SB_VIEW_TAGS Wyświetla rozszerzone pole znaczników.
+_C_MNU_SB_VIEW_TOOLBAR Pokazuje/chowa pasek narzędzi.
+_C_MNU_SB_WND_IDLE Gotów
+_C_MNU_SB_WND_MAXIMIZE Maksymalizuje okno na cały ekran
+_C_MNU_SB_WND_MINIMIZE Minimalizuje okno do paska zadań
+_C_MNU_SB_WND_MOVE Pozwala zmienić położenie okna
+_C_MNU_SB_WND_RESTORE Przywraca normalny rozmiar okna
+_C_MNU_SB_WND_SIZE Zmienia rozmiar okna
+_C_MULTILINE Multilinia
+_C_OK &OK
+_C_OPT_ACTIONGROUPS Grupy akcji
+_C_OPT_ACTIONS Akcje
+_C_OPT_ACTIONS_TYPE Wybierz rodzaj akcji
+_C_OPT_ADVANCED Zaawansowane
+_C_OPT_ADVANCED_ID3V2LANG Kod języka (ISO-639-2) komentarza ID3v2
+_C_OPT_ADVANCED_LISTCHAPTERS List chapters as separate files
+_C_OPT_CAPTION Opcje
+_C_OPT_CDDB_CAPTION freedb
+_C_OPT_CDDB_CHK_USEPROXY Użyj pr&oxy
+_C_OPT_CDDB_FRM_CDDB Serwer freedb
+_C_OPT_CDDB_FRM_LOCALPATH Ścieżka &lokalnej freedb:
+_C_OPT_CDDB_FRM_PROXY Proxy
+_C_OPT_CDDB_RD_FMT_UNIX Format UNIXa
+_C_OPT_CDDB_RD_FMT_WIN Format Windows
+_C_OPT_CDDB_ST_ADDRESS &Adres:
+_C_OPT_CDDB_ST_EMAIL Adres &e-mail:
+_C_OPT_CDDB_ST_NAME &Nazwa:
+_C_OPT_CDDB_ST_PATH Ścieżka:
+_C_OPT_CDDB_ST_PORT Port:
+_C_OPT_CDDB_ST_PROXYNAME &Proxy:
+_C_OPT_CDDB_ST_PROXYPORT Po&rt:
+_C_OPT_CDDB_ST_PWD &Hasło:
+_C_OPT_CDDB_ST_TIMEOUT &Czas oczekiwania na połączenie:
+_C_OPT_CDDB_ST_USERNAME &Użytkownik:
+_C_OPT_CDDB3_CAPTION Lokalny freedb
+_C_OPT_CON_FRM_FTT &Nazwa pliku - Znacznik
+_C_OPT_CON_FRM_TFF &Lista znaczników - Znacznik
+_C_OPT_CON_FRM_TTF &Znacznik - Nazwa pliku
+_C_OPT_CON_ST_FNAME Nazwa pliku:
+_C_OPT_CON_ST_FS Format ciągu:
+_C_OPT_DIR Katalogi
+_C_OPT_DIR_COVER Katalog okładek
+_C_OPT_EMPTY_HINT Proszę wybrać jeden z poniższych tematów
+_C_OPT_EXP_CAPTION Eksportuj
+_C_OPT_EXP_CHK_APPEND Dołącz dane
+_C_OPT_EXP_CHK_WRITEBOM Zapisz BOM
+_C_OPT_EXP_FRM_EXPORT Eksportuj ustawienia
+_C_OPT_EXP_RD_TRACK Ścieżka
+_C_OPT_EXP_ST_FNAME Nazwa pliku eksportu:
+_C_OPT_EXP_ST_NAME Nazwa nowych ustawień eksportu
+_C_OPT_FMT_CASE Literowanie
+_C_OPT_FMT_FRM_FTF Nazwa pliku - Nazwa pliku
+_C_OPT_FMT_ST_BEGIN Słowa zaczynające się na/po jednym z:
+_C_OPT_FMT_ST_FNAME_NEW Nowy wzór dla nazwy pliku:
+_C_OPT_FMT_ST_FNAME_OLD Stary wzór dla nazwy pliku:
+_C_OPT_FMT2 Zamień
+_C_OPT_FMT2_CASE Porównaj z uwzgl. wIeLkości LiteR
+_C_OPT_FMT2_COL_ORIGINAL Oryginalne
+_C_OPT_FMT2_COL_REPLACE Zamień na
+_C_OPT_FMT2_ONLYWORDS tylko całe słowa
+_C_OPT_GEN_CAPTION Główne
+_C_OPT_GEN_CHK_AUTOSAVE Zapisz znaczniki, gdy &używam klaw. kurs./po klik. myszką
+_C_OPT_GEN_CHK_FOLDERSTART Rozpocznij w tym katalogu
+_C_OPT_GEN_CHK_GRID Wyświetl linie siatki w widoku plików
+_C_OPT_GEN_CHK_JUMPONEDIT Podczas edycji auto. zaznacz kolejny plik w widoku plików
+_C_OPT_GEN_CHK_KEEPFILETIME Nie zmieniaj daty/czasu modyfikowanych plików
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Keep moved files in file list
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS przy ostrzeżeniach z Akcji
+_C_OPT_GEN_CHK_MSG_CHANGE po zmianie
+_C_OPT_GEN_CHK_MSG_CUT przy wycinaniu znaczników
+_C_OPT_GEN_CHK_MSG_DEL po usunięciu
+_C_OPT_GEN_CHK_MSG_DELETEFILE przy usuwaniu plików
+_C_OPT_GEN_CHK_MSG_EXPORT przy eksportowaniu znaczników
+_C_OPT_GEN_CHK_MSG_PASTE przy wklejaniu znaczników
+_C_OPT_GEN_CHK_MSG_REMOVETAGS przy usuwaniu znaczników
+_C_OPT_GEN_CHK_MSG_SAVE po zapisaniu
+_C_OPT_GEN_CHK_PL Automatycznie utwórz &listę odtwarzania
+_C_OPT_GEN_CHK_RELPL Pozycje względne z katalogu roboczego
+_C_OPT_GEN_CHK_AUTOCOMPLETE Autouzupełnianie zaznaczonych pól
+_C_OPT_GEN_CHK_SELECTFILES Zaznacz pliki automatycznie
+_C_OPT_GEN_CHK_SORTNATURAL Użyj sortowania naturalnego
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH Pokaż bieżącą ścieżkę katalogu na pasku tytułu okna
+_C_OPT_GEN_FRM_GEN Główne
+_C_OPT_GEN_FRM_MSG Pokaż komunikat
+_C_OPT_GEN_FRM_PL &Nazwa listy odtwarzania
+_C_OPT_GEN_RD_PLALL ze wszystkich plików
+_C_OPT_GEN_RD_PLSEL z zaznaczonych plików
+_C_OPT_GEN_ST_FAVDIR Katalog „Ulubionych”:
+_C_OPT_GEN2_CAPTION Komunikaty
+_C_OPT_GENRES Gatunki zdefiniowane przez użytkownika
+_C_OPT_GENRES_HIDESTANDARD Pokazuj tylko gatunki zdefiniowane przez użytkownika
+_C_OPT_ID3_CHK_ISO88591 Używaj strony kodowej ISO-8859-1 zamiast UTF-16
+_C_OPT_ID3_CHK_LEADINGZEROS Numery ścieżek poprzedzaj zerem (01, 02, …)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND ID3v2 tylko, gdy ID3v1 nie wystarcza
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ Odczytaj
+_C_OPT_ID3_FRM_REMOVE Usuń
+_C_OPT_ID3_FRM_WRITE Zapisz
+_C_OPT_LIB Library
+_C_OPT_LIB_CHK_ENABLE Enable Library
+_C_OPT_LIB_CHK_RESTRICT Only include these directories
+_C_OPT_LIB_CLEANUP Cleanup Library
+_C_OPT_MAPPING Mapowanie
+_C_OPT_MAPPING_FRM Zdefiniowane przez użytkownika mapowanie pól
+_C_OPT_MAPPING_SOURCE Źródło
+_C_OPT_MAPPING_TARGET Cel
+_C_OPT_PLAYLIST_CAPTION Lista odtwarzania
+_C_OPT_PLAYLIST_EXTENDED Zapisz rozszerzoną informację
+_C_OPT_PLAYLIST_NOFOLDERS Nie twórz katalogów
+_C_OPT_PLAYLIST_SHOWDLG Pokaż okno potwierdzenia nazwy pliku
+_C_OPT_TAG Znaczniki (Tagi)
+_C_OPT_TAGS_COVER Standardowa nazwa pliku dla okładki:
+_C_OPT_TAGS_EXT Tryb zapisu dla << i >> w oknie rozszerzonych znaczników:
+_C_OPT_TAGS_FILEFILTER Ogranicz wchodzące pliki do:
+_C_OPT_TAGS_NOIMG &Nie wyświetlaj pierwszego obrazka z katalogu jako okładki
+_C_OPT_TOOLS Narzędzia
+_C_OPT_TOOLS_CHK_DEFAULT Po podwójnym kliknięciu myszką użyj programu:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES dla wszystkich zaznaczonych plików
+_C_OPT_TOOLS_COL_PARAM Parametr
+_C_OPT_TOOLS_COL_PATH Ścieżka
+_C_OPT_TOOLS_EDIT Dostosuj narzędzie. Wymagane podanie nazwy oraz ścieżki.
+_C_OPT_TOOLS_FRM_DEFAULT Program domyślny
+_C_OPT_TOOLS_FRM_TOOLS Narzędzia
+_C_OVERWRITE Nad&pisz
+_C_RENAME &Przezwij
+_C_TT_CDDB freedb
+_C_TT_CDDBLOCAL freedb (lokalnie)
+_C_TT_CLOSE Zamknij
+_C_TT_DIR Zmień katalog
+_C_TT_EDIT_UNDO Cofnij
+_C_TT_EXPORT Eksportuj
+_C_TT_FAVDIR Katalog „Ulubionych”
+_C_TT_FILE_ADD Dodaj katalog
+_C_TT_FILE_COPY Kopiuj do
+_C_TT_FILE_DELETE Usuń
+_C_TT_FILE_MOVE Przenieś do
+_C_TT_FILE_PLAY Odtwarzanie
+_C_TT_FILE_PROPERTIES Właściwości
+_C_TT_FILE_RENAME Zmień nazwę
+_C_TT_FTF Nazwa pliku - Nazwa pliku
+_C_TT_FTT Nazwa pliku - Znacznik
+_C_TT_HELP Temat pomocy
+_C_TT_OPT Okno opcji
+_C_TT_PLALL Umieść na liście odtwarzania wszystkie pliki
+_C_TT_PLSEL Umieść na liście odtwarzania tylko zaznaczone pliki
+_C_TT_REFRESH Odśwież widok plików
+_C_TT_REMOVE Usuń znacznik
+_C_TT_SAVE Zapisz
+_C_TT_TFF Lista znaczników - Znacznik
+_C_TT_TTF Znacznik - Nazwa pliku
+_C_TT_TTT Znacznik - Znacznik
+_C_TT_UPDIR W górę
+_C_WIZARD_TRACKS Kreator automatycznej numeracji
+_C_WIZARD_TRACKS_BEGIN Rozpocznij od numeru ścieżki:
+_C_WIZARD_TRACKS_DESC Assign track- and discnumbers
+_C_WIZARD_TRACKS_DISC_BEGIN Begin at discnumber
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Leading zeros for discnumbers (01, 02, ...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Save total count of discs
+_C_WIZARD_TRACKS_DISCNUMBER Discnumber
+_C_WIZARD_TRACKS_RESETFOLDERS Resetuj licznik dla każdego katalogu
+_C_WIZARD_TRACKS_SAVETOTAL Zapisz całk. liczbę ścieżek
+_C_WIZARD_TRACKS_TRACKNUMBER Tracknumber
+_M_ERR_CANCEL Anulowano proces.
+_M_ERR_CDDB_CD Wystąpił błąd podczas odczytu płyty Audio
+_M_ERR_CDDB_CONNECT Wystąpił błąd podczas połączenia z serwerem: {1}
+_M_ERR_CDDB_NOENTRY Nie znaleziono pasujących wpisów dla ID freedb {1}.
+_M_ERR_CDDB_NOENTRYINLOCALBD Nie znaleziono pasujących wpisów dla freedb-ID {1} w lokalnej bazie danych freedb „{2}”.
+_M_ERR_CDDB_PARSER Zapytany (serwer) zwrócił odpowiedź.
+_M_ERR_CDDB_READ Wystąpił błąd podczas odczytu danych z serwera freedb: {1}
+_M_ERR_CONFIGURATION Nie można importować konfiguracji.
+_M_ERR_COPY Skopiowanie zaznaczonych plików NIE było możliwe!
+_M_ERR_DELETE Usunięcie zaznaczonych plików NIE było możliwe!
+_M_ERR_FILECREATE Nie można było utworzyć pliku „{1}”.
+_M_ERR_FILEDELETE Plik „{1}” nie może zostać usunięty.
+_M_ERR_FILENAMEALREADYEXISTS Plik o nazwie „{1}” już istnieje.
+_M_ERR_FILENAMEALREADYEXISTS2 Pominięto plik „{1}”.
+_M_ERR_FILEOPABORTED Zawartość bieżącego katalogu została zmieniona.\n\nCzy chcesz odczytać ponownie jego zawartość?
+_M_ERR_FILEOPEN Nie można otworzyć pliku „{1}”.
+_M_ERR_FILEREADONLY Plik „{1}” ma ustawiony atrybut „tylko do odczytu”.\n\nCzy Mp3tag ma wyłączyć zabezpieczenie przed zapisem tego i innych plików z atrybutem „Tylko do odczytu”?
+_M_ERR_FOLDERCANNOTBEACCESSED Błąd dostępu.\n\nNie można uzyskać dostępu do katalogu „{1}”.
+_M_ERR_INVALID_FILENAME Proszę podać poprawną nazwę pliku.
+_M_ERR_INVALID_FTF_FS Format ciągu znaków „{1}” NIE jest poprawny dla nazw plików.
+_M_ERR_INVALID_TOKEN {1}:\nW nazwach plików nie można stosować następujących znaków:\n\\ / : * ? \" < > |\n\nCzy chcesz, aby zost. to poprawione automatycznie?
+_M_ERR_MOVE Przeniesienie zaznaczonych plików nie było możliwe!
+_M_ERR_ONLINE_NOTFOUND Niestety, brak wpisów spełniających Twoje kryteria.
+_M_ERR_OPT_CDDB_NOADDRESS Podaj adres serwera freedb.
+_M_ERR_OPT_CDDB_NOEMAIL Podaj swój adres e-mail w „Opcje -> freedb -> Serwer”. Zostanie on użyty przy logowaniu się (dostępie) do serwera freedb.
+_M_ERR_OPT_CDDB_NONAME Podaj prawidłową nazwę dla ustawień.
+_M_ERR_OPT_CDDB_NOPORT Podaj numer portu serwera freedb.
+_M_ERR_PARSELINE Nie można sparsować lini {1}.
+_M_ERR_PLAY Plik „{1}” nie może zostać odtworzony.
+_M_ERR_READ_FILE Nie można odczytać pliku „{1}”.
+_M_ERR_RENAME_FILE Nie można zmienić nazwy pliku z „{1}” na „{2}”.
+_M_ERR_RETRY Do you want to retry?
+_M_ERR_TL_NOTAGS Brak pasujących wystąpień dla pliku \"{1}\".
+_M_ERR_WRITE_FILE Nie można zapisać pliku „{1}”.
+_M_ERR_YN \n\nCzy chcesz kontynuować?
+_M_LOG_FMT_FNAME Zmieniono nazwę {1} z {2} plików.\n
+_M_LOG_FMT_TAG Zmieniono format {1} z {2} znaczników.\n
+_M_LOG_FTF Zmieniono nazwy {1} z {2} plików.
+_M_LOG_FTT Znacznik został pobrany z {1} z {2} plików.
+_M_LOG_PL_ALL Lista odtwarzania „{1}” została utworzona ze wszystkich ({2}) plików.
+_M_LOG_PL_SEL Lista odtwarzania „{1}” została utworzona z zaznaczonych ({2}) plików.
+_M_LOG_REMOVE Znacznik został usunięty z pliku „{1}”.
+_M_LOG_REMOVED Usunięto znacznik w {1} z {2} plików.
+_M_LOG_REMOVE_NOTAG W pliku „{1}” nie ma znaczników.
+_M_LOG_SAVE Zapisano znacznik w pliku „{1}”.
+_M_LOG_SAVED Zapisano znacznik w {1} z {2} plików.
+_M_LOG_TFF Znacznik został pobrany z listy znaczników „{1}” i zapisany w {2} z {3} plików.
+_M_LOG_TFF_S Zaimportowano znaczniki z \"{1}\" do jednego pliku.
+_M_LOG_TTF Zmieniono nazwę {1} z {2} plików.
+_M_STAT_PLAY Plik „{1}” został otworzony w Twoim odtwarzaczu.
+_M_STR_ACTION_ADJUSTCOVER Adjust cover
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Format
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
+_M_STR_ACTION_CODEPAGE Zmień stronę kodową
+_M_STR_ACTION_CODEPAGE_DESC Strona kodowa
+_M_STR_ACTION_EXPORTCOVER Eksportuj okładkę do pliku
+_M_STR_ACTION_EXPORTCOVER_DUPES Eksportuj zduplikowane okładki
+_M_STR_ACTION_EXPORTCOVER_TYPES Eksportuj tylko okładki tego typu:
+_M_STR_ACTION_FORMAT Formatowanie wartości
+_M_STR_ACTION_GUESS Wartości domyślne
+_M_STR_ACTION_GUESSPATTERN Wzór domyślny
+_M_STR_ACTION_GUESSSOURCE Format źródła
+_M_STR_ACTION_IMPORTCOVER Importuj okładkę z pliku
+_M_STR_ACTION_IMPORTCOVER_FS Format łańcucha dla nazwy obrazka:
+_M_STR_ACTION_IMPORTCOVER_DELETE &Usuń istniejącą okładkę
+_M_STR_ACTION_IMPORTCOVER_TYPE Importuj okładkę jako:
+_M_STR_ACTION_IMPORTTEXT Importuj plik tekstowy
+_M_STR_ACTION_MERGEDUPLICATEFIELDS Połącz dublujące się pola
+_M_STR_ACTION_REGEXP Zastąp wyrażeniem regularnym
+_M_STR_ACTION_REGEXP_EXP Wyrażenie regularne
+_M_STR_ACTION_REGEXP_MATCH Zamień pasujące na
+_M_STR_ACTION_REMOVEDUPES Usuń dublujące się pola znaczników
+_M_STR_ACTION_REM Usuń pola
+_M_STR_ACTION_REM_DESC Pola do usunięcia (oddzielone średnikiem):
+_M_STR_ACTION_REM_EX Wyjątki usuwania pól
+_M_STR_ACTION_REM_EX_DESC Pola do pozostawienia (oddzielone średnikiem):
+_M_STR_ACTION_SPLITFIELDS Rozdziel pola separatorem
+_M_STR_ACTIONGROUP_NAME Nazwa grupy akcji
+_M_STR_ALBUM Album
+_M_STR_ALBUMARTIST Album Artysta
+_M_STR_ALL_FILEDLGFILTER Wszystkie pliki (*.*)|*.*||
+_M_STR_ARTIST Wykonawca
+_M_STR_AUTHOR Autor
+_M_STR_BACK < &Wstecz
+_M_STR_BROWSE_COPY Kopiuj do:
+_M_STR_BROWSE_MOVE Przenieś do:
+_M_STR_BROWSE_TEXT Wybierz katalog, który zawiera pliki audio.
+_M_STR_BYTES Bajtów
+_M_STR_CDDB_CD Odczyt płyty Audio
+_M_STR_CDDB_CONNECT Połącz z {1}
+_M_STR_CDDB_CONNECTED  Połączono!
+_M_STR_CDDB_IDXDB_ENTRIES Utworzono wpis do bazy danych.
+_M_STR_CDDB_RETRIEVE Uzyskiwanie informacji o tytule
+_M_STR_COLUMNFILENAME Nazwa pliku
+_M_STR_COLUMNPATH Ścieżka dostępu
+_M_STR_COLUMNUSEDCOLS Pokazuj
+_M_STR_COMBO_HOLD <zachowaj>
+_M_STR_COMBO_REMOVE <wyczyść>
+_M_STR_COMBO_USER <wprowadź>
+_M_STR_COMMENT Komentarz
+_M_STR_COMPOSER Kompozytor
+_M_STR_COPYOF Kopia {1}
+_M_STR_COVER Okładka
+_M_STR_COVER_ADD Czy chcesz zachować istniejące okładki?
+_M_STR_COVER_CORRECTAR Popraw współczynnik proporcji
+_M_STR_COVER_SETDESC Ustaw opis okładki
+_M_STR_COVER_SETTYPE Ustaw typ okładki
+_M_STR_COVERVARIES Ustawienia okładki
+_M_STR_CUSTOMIZE Customize...
+_M_STR_DAY dni
+_M_STR_DAYS dni
+_M_STR_DEFAULTVALUE Default value
+_M_STR_DISCID CDDB ID
+_M_STR_DISCOGS_OAUTH_PIN Wprowadź kod autoryzacji Discogs
+_M_STR_DISCNUMBER Numer dysku
+_M_STR_ERR_CDDB_NOENTRYSELECTED Proszę dokonać wyboru.
+_M_STR_EXPORT_DELETE Czy usunąć ustawienia eksportu „{1}”?
+_M_STR_EXPORT_FILEDLGTITLE Wybierz plik eksportu
+_M_STR_EXPORT_MULTIPLE Jeden plik na katalog
+_M_STR_EXPORT_SHOWEXPORTFILE \n\nCzy wyświetlić teraz utworzony plik Eksportu?
+_M_STR_EXP_MSG Informacje o {2} plikach MP3 zostaną wyeksportowane do pliku „{1}”.
+_M_STR_FIELD Pole:
+_M_STR_FIELDSIZE Size of field
+_M_STR_FIELDROWS Rows
+_M_STR_FILE Plik
+_M_STR_FILEDELETE Czy na pewno chcesz usunąć wszystkie zaznaczone pliki?
+_M_STR_FILEMODIFIED Zmieniony
+_M_STR_FILESIZE Rozmiar
+_M_STR_FILTER &Filtr:
+_M_STR_FMT_CAPITAL Mieszane Litery
+_M_STR_FMT_HIGH WIELKIE LITERY
+_M_STR_FMT_LOW małe litery
+_M_STR_FMT_SENTENCE Jak w zdaniu
+_M_STR_FREEDBCREATEINDEX Czy utworzyć lokalny indeks bazy danych freedb?\n\nTo zajmie kilka minut.
+_M_STR_FREEDB_SEARCH freedb - wyszukiwanie w internecie
+_M_STR_GENRE Gatunek
+_M_STR_GENRES Gatunki
+_M_STR_HIDE &Ukryj
+_M_STR_ITEMALREADYEXISTS Obiekt o takiej nazwie już istnieje, nadpisać?
+_M_STR_LANGUAGE Język
+_M_STR_M3U_FILEDLGFILTER Obsługiwane pliki (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_METADATA &Metadane
+_M_STR_MOVEDOWN W &dół
+_M_STR_MOVEUP W &górę
+_M_STR_MPEGBITRATE Bitrate (bitów/sek)
+_M_STR_MPEGFREQUENCY Częstotliwość
+_M_STR_MPEGLENGTH Czas trwania
+_M_STR_MPEGMODE Tryb
+_M_STR_MPEGVERSION Kodek
+_M_STR_MSGCUT Czy na pewno chcesz usunąć znacznik z zaznaczonego pliku MP3 i skopiować znacznik do schowka?
+_M_STR_MSGPASTE Czy na pewno chcesz wkleić zawartość schowka jako nowy znacznik do zaznaczonego pliku MP3?
+_M_STR_MSGREMOVE Czy na pewno chcesz usunąć znaczniki z wybranych plików?
+_M_STR_NAME Nazwa
+_M_STR_NETWORKING Połączenie
+_M_STR_NEXT &Dalej >
+_M_STR_NOACTION Bez akcji
+_M_STR_NOACTIONENABLED Przy korzystaniu z tej funkcji proszę zaznaczyć przynajmniej jedną z akcji.
+_M_STR_NUMERIC Numerycznie
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH Wybierz katalog roboczy dla lokalnej bazy danych freedb.
+_M_STR_OPT_CDDB_PROCEED To usunie wszystkie serwery!\n\nCzy chcesz kontynuować?\n
+_M_STR_OPTIMIZEMP4 Optymalizuj MP4
+_M_STR_OPTS_ALWAYS zawsze
+_M_STR_OPTS_ASK zapytaj
+_M_STR_OPTS_NEVER nigdy
+_M_STR_PLNAME Lista odtwarzania - Nazwa pliku
+_M_STR_PL_CONFIRM Utwórz listę odtwarzania o tej nazwie
+_M_STR_PL_SAVEFILTER Plik playlisty (*.m3u)|*.m3u|Plik playlisty Unicode (*.m3u8)|*.m3u8||
+_M_STR_PREVIEW Podgląd
+_M_STR_PROPERTIES Właściwości {1}
+_M_STR_QUICK Szybko
+_M_STR_RECURSE Podkatalogi
+_M_STR_REST Pozostałe
+_M_STR_SAVE_NOT < bez akcji(?) >
+_M_STR_SAVECONFIG Twoje ustawienia zostaną zapisane do pliku „{1}”.\n\nAby zastosować Twoje ustawienia, musisz rozpakować plik do\n„{2}”.
+_M_STR_SAVECONFIG_FILEDLGFILTER Pliki z ustawieniami (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE Zapisz ustawienia w …
+_M_STR_SAVEIMAGE Zapisz obrazek do znacznika
+_M_STR_SAVEIMAGEDIRECTORY Zapisz obrazek na dysk
+_M_STR_SAVESELECTION Zapisz wybrane
+_M_STR_SB_ABORTED Przerwano
+_M_STR_SB_ACTION Stosowanie akcji do pliku: {1} z {2}
+_M_STR_SB_CLEANUPDATABASE Processing files ... {1} of {2} ({3} cleaned)
+_M_STR_SB_CLEANUPDATABASE_BINARIES Cleanup orphaned binaries
+_M_STR_SB_CLEANUPDATABASE_COVERS Cleanup orphaned covers
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Cleanup non-library files
+_M_STR_SB_EXPORTTAGS Eksportowanie informacji dot. znacznika: {1} z {2}
+_M_STR_SB_LOADTAGS Odczytywanie danych znacznika: {1} z {2}
+_M_STR_SB_READDIRECTORY Odczytywanie zawartości katalogu
+_M_STR_SB_REMOVETAGS Usuwanie danych znacznika: {1} z {2}
+_M_STR_SB_RENAMEFILES Zmiana nazwy pliku: {1} z {2}
+_M_STR_SB_WRITETAGS Zapisywanie danych znacznika: {1} z {2}
+_M_STR_SHOWCHOOSEDLG Pokaż okno zaznaczania
+_M_STR_SEARCHBY Szukaj wg:
+_M_STR_SEARCHTEXT Tekst:
+_M_STR_SEPARATOR Seperator
+_M_STR_SHOW &Pokaż
+_M_STR_SIZE_LARGE Large
+_M_STR_SIZE_MEDIUM Medium
+_M_STR_SIZE_NORMAL Normal
+_M_STR_SIZE_SMALLER Smaller
+_M_STR_SIZE_SMALL Small
+_M_STR_SNA Strefa powiadomień
+_M_STR_SNA_SHOW Zawsze pokazuj ikonę w strefie powiadomień
+_M_STR_SNA_SHOWMIN Minimalizuj do strefy powiadomień
+_M_STR_STRIPCHAPTERSMP4 Usuń rozdziały MP4
+_M_STR_TAG_COPIED Skopiowano znaczniki {1} plików do schowka.
+_M_STR_TAG2 Znacznik
+_M_STR_TAGFIELDS_REMOVE Usuń pole
+_M_STR_TAGFIELDS_REMOVEALL Usuń wszystkie pola
+_M_STR_TAGFIELDS_REMOVEALLMSG Czy jesteś pewien, że chcesz usunąć wszystkie pola z listy?
+_M_STR_TAGFIELDS_RESET Przywróć pola
+_M_STR_TAGFIELDS_RESETMSG Czy jesteś pewien, że chcesz przywrócić listę pól do wartości domyślnych?
+_M_STR_TAGPANEL Panel znaczników
+_M_STR_TAGPANEL_COVER Wyświetl okładkę
+_M_STR_TAGPANEL_DIRECTORY Wyświetl przełącznik katalogu
+_M_STR_TAGLIST_FILEDLGFILTER Lista znaczników ({1})
+_M_STR_TAGLIST_FILEDLGTITLE Wybierz listę znaczników
+_M_STR_TAGSOURCES Źródła znaczników
+_M_STR_THISALBUMON Ten album na {1}
+_M_STR_TITLE Tytuł
+_M_STR_TRYAGAIN Czy chcesz spróbować ponownie?
+_M_STR_TTF Znacznik - Nazwa pliku
+_M_STR_UPDATE_FRM Uaktualnienia
+_M_STR_UPDATE_OPT_CHECK Sprawdzaj przy starcie, czy jest nowa wersja
+_M_STR_UPDATE_OPT_CHECK_BETA Sprawdzaj także dostępność wersji rozwojowych (Beta)
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Display release notes for new versions
+_M_STR_UPDATEAVAILABLE Jest już dostępna nowa wersja Mp3tag - {1} !\n\nCzy chcesz teraz pobrać uaktualnienie z {2}?
+_M_STR_UPDATENOTAVAILABLE Korzystasz z ostatniej, najnowszej wersji {1}.\n\nUaktualnienie NIE jest teraz dostępne.
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS &Narzędzia
+_M_STR_VALUE Wartość
+_M_STR_VERSION Wersja
+_M_STR_YEAR Rok
+_M_TP_CDDB_LOCALPATH Wskaż katalog dla lokalnej bazy freedb
+_M_TP_CDDB_SITES Aktualna lista serwerów freedb z Internetu
+_M_TP_CVR_CLIPBOARD Wklej okładkę
+_M_TP_CVR_CLIPBOARD_COPY Kopiuj okładkę
+_M_TP_CVR_CLIPBOARD_CUT Wytnij okładkę
+_M_TP_CVR_DEL Usuń okładkę
+_M_TP_CVR_NEW Dodaj okładkę
+_M_TP_CVR_SAVE Wypakuj okładkę
+_M_TP_DUPLICATE Duplikat
+_M_TP_EXP_DEL Usuń
+_M_TP_EXP_EDIT Edycja ustawień
+_M_TP_EXP_FILE Wybierz plik eksportu
+_M_TP_EXP_HLP Pokazuj „szybką” pomoc
+_M_TP_EXP_LOAD Wczytaj ustawienia
+_M_TP_EXP_NEW Nowe
+_M_TP_EXP_SAVE Zapisz ustawienia
+_M_TP_GEN_DIR Wybierz katalog
+_M_TP_TAG_DEL Usuń pole
+_M_TP_TAG_EDIT Edytuj pole
+_M_TP_TAG_NEW Dodaj pole
+_M_TS_ADDINFO Dodatkowe informacje
+_M_TS_MULTIPLEVALUES wielokrotne wartości
+_M_TS_RELEASE Wydanie
+_M_TS_TRACKS Ścieżki
+_M_UNDO_CANNOTUNDO Nie można cofnąć {1}
+_M_UNDO_CDDB freedb
+_M_UNDO_DIRECTORYCREATE Utwórz katalog
+_M_UNDO_DIRECTORYMOVE Przenieś katalog
+_M_UNDO_FORMAT Format
+_M_UNDO_FTF Nazwa pliku - Nazwa pliku
+_M_UNDO_FTT Nazwa pliku - Znacznik
+_M_UNDO_REMOVEFILE Usuń
+_M_UNDO_RENAME Zmień nazwę
+_M_UNDO_TAGCHANGE Zmień znacznik
+_M_UNDO_TAGREMOVE Usuń znacznik
+_M_UNDO_TAGSAVE Zapisz znacznik
+_M_UNDO_TFF Lista znaczników - Znacznik
+_M_UNDO_TTF Znacznik - Nazwa pliku

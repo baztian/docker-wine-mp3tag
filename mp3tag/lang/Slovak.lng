@@ -1,0 +1,622 @@
+﻿LANGAUTHOR Artam & kubalav
+LANGCONTACT peterki@hotmail.com - kubala.v@gmail.com
+LANGVERSION 3.00
+LANGNAME Slovak
+LANGNAMELOC Slovenský
+SLangCancel &Zrušiť
+SLangOk &OK
+SLangErrCatch Runtime Error\n\nSúbor:\t{1}\nRiadok:\t{2}\n\nAplikácia zaznamenala neočakávanú výnimku a je v nedefinovanom stave. Zatvorte aplikáciu a pošlite súbor\n\n{3}\n\nspolu s detailným popisom chyby našim pracovníkom podpory.\n\ne-mail: support@mp3tag.de
+SLangErrCheck Runtime Error\n\nSúbor:\t{1}\nRiadok:\t{2}\nTerm:\t{3}\nKód:\t0x{4}\n\nAplikácia zaznamenala neočakávanú výnimku a je v nedefinovanom stave. Zatvorte aplikáciu a pošlite súbor\n\n{5}\n\nspolu s detailným popisom chyby našim pracovníkom podpory.\n\ne-mail: support@mp3tag.de
+SLangErrDriveCannotBeAccessed Jednotka {1} nie je prístupná.
+SLangErrFileCannotBeAccessed Súbor {1} nie je prístupný.
+SLangErrFileCannotBeDeleted Súbor {1} sa nedá zmazať.\n\n» Prosím, uistite sa, že žiaden iný proces nepoužíva tento súbor.
+SLangErrFolderCannotBeAccessed Priečinok {1} nie je prístupný.
+SLangErrFolderCannotBeDeleted Priečinok {1} sa nedá zmazať.\n\n» Prosím, uistite sa, že žiaden iný proces nepoužíva tento priečinok.
+SLangErrHelpBrowserIsNotAvailable Na prezeranie súborov pomocníka potrebujete prehliadač internetu ako Opera, Mozilla Firefox alebo Internet Explorer.\n\n» Prosím, nainštalujte si prehliadač internetu.
+SLangErrHelpSystemIsNotAvailable Systém pomocníka nie je dostupný.\n\n» Prosím, reinštalujte {1}.
+SLangErrHelpTopicIsNotAvailable Témy pomocníka nie sú dostupné.\n\n» Prosím kontaktujte našich pracovníkov podpory.\n\ne-mail: support@mp3tag.de
+SLangErrNotEnoughFreeDiskSpace Na zariadení {1} nie je dostatok voľného miesta.\n\n» Prosím, zabezpečte minimálne {2} miesta na disku.
+SLangErrRegistryCannotBeAccessed Chyba čítania údajov\n\nDatabáza Registry nie je prístupná.
+SLangMsgItemExistsAlready Položka s týmto popisom už existuje.\n\n» Prosím, použite iný popis.
+SLangMsgFirstSteps Prosím, venujte trochu času na oboznámenie sa s prvými krokmi.
+SLangMsgShutdownInfo Prosím, počkajte, kým sa {1} ukončí.
+SLangWrnAppIsAlreadyRunning Táto aplikácia je už raz spustená.
+SLangWrnAppHasToBeRestarted Mp3tag je potrebné reštartovať, aby sa uplatnili zmeny.\n\nChcete MP3tag reštartovať teraz?
+SLangWrnNameContainsInvalidCharacters Popis obsahuje neplatné znaky.\n\n» Prosím, použite iný popis.
+SLangWrnStartLogging Spustili ste {1} s parametrom FLOG1 v príkazovom riadku. Tento parameter sa používa pre ladiace účely.\n\nChcete spustiť funkciu logovania?
+_C_ABORT Zrušiť
+_C_ABORTING Ruší sa...
+_C_APP_ST_ALBUM Album
+_C_APP_ST_ARTIST &Interpret
+_C_APP_ST_COMMENT P&oznámka
+_C_APP_ST_FOLDER Priečino&k
+_C_APP_ST_GENRE Žá&ner
+_C_APP_ST_TITLE &Titul
+_C_APP_ST_TRACK &Stopa
+_C_APP_ST_YEAR &Rok
+_C_CANCEL &Zrušiť
+_C_CANCELING Ruší sa...
+_C_CLOSE Za&vrieť
+_C_DLG_CDDBCONFIRM_CAPTION Zoznam výsledkov vyhľadávania...
+_C_DLG_CDDBCONFIRM_CHK_DISCID Skopírovať ID disku do poľa poznámky
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 Skopírovať ID disku do poľa DISCID
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER Kompilácia...
+_C_DLG_CDDBCONFIRM_CHK_SORT Navrhnúť zoradenie
+_C_DLG_CDDBCONFIRM_ST_INFO Našiel sa viac než jeden výsledok.\nVyberte si jeden:
+_C_DLG_CDDBCONFIRM_ST_INFO2 Našlo sa {2} výsledkov vyhľadávania v databáze {1}.\nVyberte si jeden:
+_C_DLG_CDDBCONFIRM_STC_TOP Upraviť informácie tagu
+_C_DLG_CDDBINPUT_CAPTION Zadajte freedb ID
+_C_DLG_CDDBINPUT_ST_CATEGORY Kategória:
+_C_DLG_CDDBINPUT_ST_ID freedb ID:
+_C_DLG_CDDBSTYLE_CAPTION freedb
+_C_DLG_CDDBSTYLE_RD_CDROM určiť z vloženého &Audio CD
+_C_DLG_CDDBSTYLE_RD_ENTER zadať
+_C_DLG_CDDBSTYLE_RD_MP3 zistiť z vybraných súborov
+_C_DLG_CDDBSTYLE_RD_SEARCH zistiť vyhľadaním cez web
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL zistiť vyhľadaním textu
+_C_DLG_CDDBSTYLE_STC_TOP freedb ID...
+_C_DLG_COLUMNS_CAPTION Stĺpce
+_C_DLG_COLUMNS_TOP Nastaviť zobrazenie stĺpcov
+_C_DLG_TAGS Upraviť informácie tagu
+_C_DLG_TTF_TOP Zvoľte formátovací reťazec
+_C_HELP &Pomocník
+_C_MNU_ACTIONS &Akcie\tALT+6
+_C_MNU_CON &Konvertovať
+_C_MNU_CON_FTF Názov &súboru - Názov súboru\tALT+3
+_C_MNU_CON_FTT &Názov súboru - Tag\tALT+2
+_C_MNU_CON_TFF Te&xtový súbor - Tag\tALT+4
+_C_MNU_CON_TTF &Tag - Názov súboru\tALT+1
+_C_MNU_CON_TTT T&ag - Tag\tALT+5
+_C_MNU_EDIT &Úpravy
+_C_MNU_EDIT_COPY &Kopírovať\tCtrl+C
+_C_MNU_EDIT_CUT Vystri&hnúť\tCtrl+X
+_C_MNU_EDIT_INVERTSELECTION &Invertovať výber\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT Vybrať &nasledujúci súbor\tCtrl+N
+_C_MNU_EDIT_PASTE &Vložiť\tCtrl+V
+_C_MNU_EDIT_SELECT Vybr&ať všetky súbory\tCtrl+A
+_C_MNU_EDIT_UNDO V&rátiť späť\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL &Odznačiť všetko\tCtrl+U
+_C_MNU_EXTRA &Nástroje
+_C_MNU_EXTRA_OPTIONS &Možnosti...\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS &Obnoviť všetky vstupné polia\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS &Predvolené hodnoty vo vstupných poliach\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD &Automatické číslovanie...\tCtrl+K
+_C_MNU_FILE &Súbor
+_C_MNU_FILE_ADD &Pridať priečinok...
+_C_MNU_FILE_CDDB freedb...\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL freedb (lokálna)...\tCtrl+L
+_C_MNU_FILE_COPY Ko&pírovať...
+_C_MNU_FILE_DELETE O&dstrániť...
+_C_MNU_FILE_DIR &Zmena priečinka...\tCtrl+D
+_C_MNU_FILE_EXIT &Koniec\tAlt+F4
+_C_MNU_FILE_EXPORT &Export\tCtrl+E
+_C_MNU_FILE_FAVDIR &Obľúbený priečinok\tCtrl+F
+_C_MNU_FILE_MOVE Pre&sunúť...
+_C_MNU_FILE_PLALL P&laylist (všetky súbory)\tCtrl+P
+_C_MNU_FILE_PLAY Prehrať
+_C_MNU_FILE_PLAYLIST &Načítať playlist/cuesheet...
+_C_MNU_FILE_PLSEL Playli&st (vybrané súbory)
+_C_MNU_FILE_PROPERTIES Vlastnosti...
+_C_MNU_FILE_READ Čít&ať tag\tCtrl+T
+_C_MNU_FILE_REMOVE Odst&rániť tag\tCtrl+R
+_C_MNU_FILE_REMOVEFILE Z&mazať\tDel
+_C_MNU_FILE_RENAME Prem&enovať\tF2
+_C_MNU_FILE_SAVE Uložiť &tag\tCtrl+S
+_C_MNU_FILE_SAVECONFIG &Uložiť konfiguráciu...
+_C_MNU_FREEDB f&reedb
+_C_MNU_FREEDB_INDEX Vytvoriť lokálny index
+_C_MNU_FS_EXT Rozšírené polia
+_C_MNU_FS_FNCT Funkcie
+_C_MNU_FS_INFO Informačné polia
+_C_MNU_FS_REM Odstrániť z histórie
+_C_MNU_FS_REMALL Odstrániť celú históriu...
+_C_MNU_FS_REMALL_MSG Naozaj chcete odstrániť všetky položky?
+_C_MNU_HELP &Pomocník
+_C_MNU_HELP_ABOUT O p&rograme Mp3tag...
+_C_MNU_HELP_DONATE &Darovať peniaze
+_C_MNU_HELP_FINDER &Obsah...\tF1
+_C_MNU_HELP_FIRSTSTEPS &Prvé kroky
+_C_MNU_HELP_KEYBOARD &Klávesové skratky
+_C_MNU_HELP_SUPPORT O&nline podpora...
+_C_MNU_HELP_UPGRADE &Vyhľadať novú verziu...
+_C_MNU_HELP_WWW Mp3tag &webová stránka...
+_C_MNU_TAGSOURCES Zdroje &tagov
+_C_MNU_TOOLS &Nástroje
+_C_MNU_VIEW &Zobraziť
+_C_MNU_VIEW_COLUMNS Prispôsobiť &stĺpce...
+_C_MNU_VIEW_FILTER &Filter\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY Filter s automatickým použitím
+_C_MNU_VIEW_ID3 &Panel tagov\tCtrl+Q
+_C_MNU_VIEW_REFRESH &Obnoviť\tF5
+_C_MNU_VIEW_SORTBY &Zoradiť podľa
+_C_MNU_VIEW_TAGS &Rozšírené tagy...\tALT+T
+_C_MNU_VIEW_TOOLBAR Panel &nástrojov
+_C_MNU_SB_ACTIONS Aplikuje používateľom definované akcie (konverzia veľkých písmen, nahradenie, ...) na vybrané súbory.
+_C_MNU_SB_CON_FTF Premenuje súbory podľa starých názvov súborov na základe definovaného vzorca.
+_C_MNU_SB_CON_FTT Importuje tagy z názvov súborov.
+_C_MNU_SB_CON_TFF Importuje tagy z textového súboru.
+_C_MNU_SB_CON_TTF Premenuje súbory podľa tagov na základe definovaného vzorca.
+_C_MNU_SB_CON_TTT Formátuje tagy na základe tagov.
+_C_MNU_SB_EDIT_COPY Skopíruje označený text alebo tag z označeného súboru do schránky.
+_C_MNU_SB_EDIT_CUT Vystrihne označený text alebo tag z označeného súboru a premiestniť do schránky.
+_C_MNU_SB_EDIT_INVERTSELECTION Invertuje aktuálny výber.
+_C_MNU_SB_EDIT_NEXT Označí nasledujúci zo zobrazených súborov.
+_C_MNU_SB_EDIT_PASTE Vloží obsah schránky na označené miesto alebo do vybraného súboru.
+_C_MNU_SB_EDIT_SELECT Vyberie súbory zo zobrazeného zoznamu.
+_C_MNU_SB_EDIT_UNDO Vráti späť poslednú operáciu.
+_C_MNU_SB_EDIT_UNSELECTALL Odznačí všetky súbory.
+_C_MNU_SB_EXTRA_OPTIONS Zobrazí dialóg s možnosťami.
+_C_MNU_SB_EXTRA_RESET_EDITS Odstráni text zo všetkých vstupných polí na paneli tagu.
+_C_MNU_SB_EXTRA_SET_EDITS Nastaví všetky vstupné polia na paneli tagu na definované štandardné hodnoty.
+_C_MNU_SB_EXTRA_TRACKWIZARD Spustí sprievodu automatickým číslovaním.
+_C_MNU_SB_FILE_ADD Pridá priečinok do zoznamu súborov.
+_C_MNU_SB_FILE_CDDB Stiahne z internetu informáciu o vloženom Audio CD alebo o vybraných audio súboroch.
+_C_MNU_SB_FILE_CDDBLOCAL Vyhľadá informáciu o vloženom Audio CD alebo o vybraných audio súboroch z lokálnej freedb databázy.
+_C_MNU_SB_FILE_COPY Skopíruje vybrané súbory do iného priečinka.
+_C_MNU_SB_FILE_DELETE Odstráni vybrané súbory.
+_C_MNU_SB_FILE_DIR Zmení aktuálny pracovný priečinok.
+_C_MNU_SB_FILE_EXIT Ukončí program.
+_C_MNU_SB_FILE_EXPORT Exportuje informácie o tagu a súbore z vybraných súborov.
+_C_MNU_SB_FILE_FAVDIR Zmení na predvolený priečinok.
+_C_MNU_SB_FILE_FREEDBINDEX Vytvorí lokálnu indexovú databázu pre vyhľadávanie v lokálnej freedb databáze.
+_C_MNU_SB_FILE_MOVE Presunie vybrané súbory do iného priečinka.
+_C_MNU_SB_FILE_PLALL Vytvorí playlist zo všetkých súborov.
+_C_MNU_SB_FILE_PLAY Prehrá vybrané súbory.
+_C_MNU_SB_FILE_PLAYLIST Načíta obsah playlistu.
+_C_MNU_SB_FILE_PLSEL Vytvorí playlist z vybraných súborov.
+_C_MNU_SB_FILE_PROPERTIES Zobrazí vlastnosti vybraného súboru.
+_C_MNU_SB_FILE_READ Načíta tag z vybraného súboru do vstupných polí na paneli tagu.
+_C_MNU_SB_FILE_REMOVE Odstráni tag z vybraného súboru.
+_C_MNU_SB_FILE_REMOVEFILE Odstráni označené súbory.
+_C_MNU_SB_FILE_RENAME Premenuje vybraný súbor.
+_C_MNU_SB_FILE_SAVE Uloží tag do vybraných súborov.
+_C_MNU_SB_FILE_SAVECONFIG Uloží aktuálne nastavenia do konfiguračného súboru.
+_C_MNU_SB_HELP_ABOUT Informácia o programe Mp3tag.
+_C_MNU_SB_HELP_CONTEXT Zobrazí kontextovú pomoc pre označené polia, menu a okná.
+_C_MNU_SB_HELP_DONATE Prosím, podporte vývoj programu Mp3tag peňažným darom.
+_C_MNU_SB_HELP_FINDER Zobrazí obsah pomocníka.
+_C_MNU_SB_HELP_FIRSTSTEPS Zobrazí krátky úvod do programu Mp3tag.
+_C_MNU_SB_HELP_KEYBOARD Zobrazí zoznam klávesových skratiek.
+_C_MNU_SB_HELP_SUPPORT Prejde na diskusné fórum Mp3tag.
+_C_MNU_SB_HELP_UPGRADE Skontroluje aktualizácie Mp3tag.
+_C_MNU_SB_HELP_WWW Prejde na webovú stránku Mp3tag.
+_C_MNU_SB_UPDIR Prejsť o úroveň vyššie
+_C_MNU_SB_VIEW_COLUMNS Zobrazí dialóg, v ktorom sa prispôsobujú stĺpce pre zobrazené súbory.
+_C_MNU_SB_VIEW_FILTER Filtruje zobrazené súbory.
+_C_MNU_SB_VIEW_ID3 Zobrazí/skryje vstupnú masku pre tag.
+_C_MNU_SB_VIEW_REFRESH Obnoví zobrazené súbory.
+_C_MNU_SB_VIEW_TAGS Zobrazí dialóg pre rozšírený tag.
+_C_MNU_SB_VIEW_TOOLBAR Zobrazí/skryje nástrojový panel.
+_C_MNU_SB_WND_IDLE Pripravený
+_C_MNU_SB_WND_MAXIMIZE Roztiahnuť okno na veľkosť celej obrazovky
+_C_MNU_SB_WND_MINIMIZE Minimalizovať okno do panelu úloh
+_C_MNU_SB_WND_MOVE Premiestniť okno
+_C_MNU_SB_WND_RESTORE Obnoviť veľkosť okna na normálu
+_C_MNU_SB_WND_SIZE Zmeniť veľkosť okna
+_C_MULTILINE Viacriadkové
+_C_OK &OK
+_C_OPT_ACTIONGROUPS Skupiny akcií
+_C_OPT_ACTIONS Akcie
+_C_OPT_ACTIONS_TYPE Vybrať typ akcie
+_C_OPT_ADVANCED Rozšírené
+_C_OPT_ADVANCED_ID3V2LANG jazykový kód pre ID3v2 poznámku (podľa ISO-639-2)
+_C_OPT_ADVANCED_LISTCHAPTERS Zoznam kapitol ako samostatný súbor
+_C_OPT_CAPTION Možnosti
+_C_OPT_CDDB_CAPTION freedb
+_C_OPT_CDDB_CHK_USEPROXY Použiť pr&oxy
+_C_OPT_CDDB_FRM_CDDB Server freedb
+_C_OPT_CDDB_FRM_LOCALPATH &Lokálna freedb cesta:
+_C_OPT_CDDB_FRM_PROXY Proxy
+_C_OPT_CDDB_RD_FMT_UNIX UNIX formát
+_C_OPT_CDDB_RD_FMT_WIN Windows formát
+_C_OPT_CDDB_ST_ADDRESS &Adresa:
+_C_OPT_CDDB_ST_EMAIL &E-mailová adresa:
+_C_OPT_CDDB_ST_NAME &Názov:
+_C_OPT_CDDB_ST_PATH Cesta:
+_C_OPT_CDDB_ST_PORT Port:
+_C_OPT_CDDB_ST_PROXYNAME &Proxy:
+_C_OPT_CDDB_ST_PROXYPORT Po&rt:
+_C_OPT_CDDB_ST_PWD &Heslo:
+_C_OPT_CDDB_ST_TIMEOUT Časový limit:
+_C_OPT_CDDB_ST_USERNAME &login:
+_C_OPT_CDDB3_CAPTION Lokálna freedb
+_C_OPT_CON_FRM_FTT Názo&v súboru - Tag
+_C_OPT_CON_FRM_TFF Te&xtový súbor - Tag
+_C_OPT_CON_FRM_TTF &Tag - Názov súboru
+_C_OPT_CON_ST_FNAME Názov súboru:
+_C_OPT_CON_ST_FS Formátovací reťazec:
+_C_OPT_DIR Priečinky
+_C_OPT_DIR_COVER Priečinok s obalmi
+_C_OPT_EMPTY_HINT Prosím, vyberte tému nižšie
+_C_OPT_EXP_CAPTION Export
+_C_OPT_EXP_CHK_APPEND Pridať ďalšie dáta
+_C_OPT_EXP_CHK_WRITEBOM Zapísať BOM
+_C_OPT_EXP_FRM_EXPORT Exportovať konfiguráciu
+_C_OPT_EXP_RD_TRACK Stopa
+_C_OPT_EXP_ST_FNAME Názov súboru pre export:
+_C_OPT_EXP_ST_NAME Názov pre novú konfiguráciu:
+_C_OPT_FMT_CASE Konverzia veľkých písmen
+_C_OPT_FMT_FRM_FTF Názov súboru - Názov súboru
+_C_OPT_FMT_ST_BEGIN Slová začínajúce od/po ľubovoľnom z:
+_C_OPT_FMT_ST_FNAME_NEW Vzor pre nový názov súboru:
+_C_OPT_FMT_ST_FNAME_OLD Vzor pre starý názov súboru:
+_C_OPT_FMT2 Nahradiť
+_C_OPT_FMT2_CASE porovnávať aj podľa veľkosti písma
+_C_OPT_FMT2_COL_ORIGINAL Originál
+_C_OPT_FMT2_COL_REPLACE Nahradiť
+_C_OPT_FMT2_ONLYWORDS iba ako celé slovo
+_C_OPT_GEN_CAPTION Všeobecné
+_C_OPT_GEN_CHK_AUTOSAVE Zapísať tagy po&užitím kláves-šípok/jeden klik myšou
+_C_OPT_GEN_CHK_FOLDERSTART začať od tohto priečinka
+_C_OPT_GEN_CHK_GRID Zobraziť vodiace čiary v okne zobrazených súborov
+_C_OPT_GEN_CHK_JUMPONEDIT Prejsť na nasledujúci súbor pri editovaní v okne súborov
+_C_OPT_GEN_CHK_KEEPFILETIME Ponechať čas úpravy súboru pri zapisovaní tagov
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Ponechať presunuté súbory v zozname súborov
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS po upozornení z Akcie
+_C_OPT_GEN_CHK_MSG_CHANGE po zmene tagov
+_C_OPT_GEN_CHK_MSG_CUT pred vystrihnutím tagov
+_C_OPT_GEN_CHK_MSG_DEL po odstránení tagov
+_C_OPT_GEN_CHK_MSG_DELETEFILE pred odstránením súborov
+_C_OPT_GEN_CHK_MSG_EXPORT pred exportom tagov
+_C_OPT_GEN_CHK_MSG_PASTE pred vložením tagov
+_C_OPT_GEN_CHK_MSG_REMOVETAGS po odstránení tagov
+_C_OPT_GEN_CHK_MSG_SAVE po zapísaní tagov
+_C_OPT_GEN_CHK_PL Automaticky vytvoriť &playlist
+_C_OPT_GEN_CHK_RELPL Položky relatívne k pracovnému priečinku
+_C_OPT_GEN_CHK_AUTOCOMPLETE Automatické dokončovanie v poli vybranej položky
+_C_OPT_GEN_CHK_SELECTFILES Vybrať súbory automaticky
+_C_OPT_GEN_CHK_SORTNATURAL Použiť prirodzené zoradenie
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH &Zobraziť aktuálnu cestu k priečinku v záhlaví okna
+_C_OPT_GEN_FRM_GEN Všeobecné
+_C_OPT_GEN_FRM_MSG Zobrazenie správ
+_C_OPT_GEN_FRM_PL &Názov súboru playlistu
+_C_OPT_GEN_RD_PLALL zo všetkých súborov
+_C_OPT_GEN_RD_PLSEL z vybraných súborov
+_C_OPT_GEN_ST_FAVDIR Obľúbený priečinok:
+_C_OPT_GEN2_CAPTION Dialógové okná
+_C_OPT_GENRES Používateľom definované žánre
+_C_OPT_GENRES_HIDESTANDARD Zobraziť len používateľom definované žánre
+_C_OPT_ID3_CHK_ISO88591 Vždy zapisovať ISO-8859-1 tagy namiesto UTF-16
+_C_OPT_ID3_CHK_LEADINGZEROS Nuly na začiatku čísla stopy (01, 02, ...)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND ID3v2 iba ak je ID3v1 príliš malý
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ Čítať
+_C_OPT_ID3_FRM_REMOVE Odstrániť
+_C_OPT_ID3_FRM_WRITE Zapísať
+_C_OPT_LIB Knižnica
+_C_OPT_LIB_CHK_ENABLE Povoliť knižnicu
+_C_OPT_LIB_CHK_RESTRICT Zahrnúť iba tieto priečinky
+_C_OPT_LIB_CLEANUP Vyčistiť knižnicu
+_C_OPT_MAPPING Priradenie polí
+_C_OPT_MAPPING_FRM Používateľom definované priradenie polí
+_C_OPT_MAPPING_SOURCE Zdroj
+_C_OPT_MAPPING_TARGET Cieľ
+_C_OPT_PLAYLIST_CAPTION Playlist
+_C_OPT_PLAYLIST_EXTENDED Zapísať rozšírené informácie
+_C_OPT_PLAYLIST_NOFOLDERS Nevytvárať priečinky
+_C_OPT_PLAYLIST_SHOWDLG Zobraziť potvrdenie názvu súboru
+_C_OPT_TAG Tagy
+_C_OPT_TAGS_COVER Predvolený názov súboru pre obaly:
+_C_OPT_TAGS_EXT Spôsob ukladania pre << a >> v dialógu pre rozšírené tagy:
+_C_OPT_TAGS_FILEFILTER Obmedziť vstupné súbory na:
+_C_OPT_TAGS_NOIMG &Nezobrazovať prvý obrázok z priečinka súborov ako obal
+_C_OPT_TOOLS Nástroje
+_C_OPT_TOOLS_CHK_DEFAULT Na dvojitý klik spustiť špeciálny program:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES pre všetky vybrané súbory
+_C_OPT_TOOLS_COL_PARAM Parameter
+_C_OPT_TOOLS_COL_PATH Cesta
+_C_OPT_TOOLS_EDIT Vlastný nástroj (názov a cesta sú povinné).
+_C_OPT_TOOLS_FRM_DEFAULT Predvolený nástroj
+_C_OPT_TOOLS_FRM_TOOLS Nástroje
+_C_OVERWRITE Pr&epísať
+_C_RENAME P&remenovať
+_C_TT_CDDB freedb...
+_C_TT_CDDBLOCAL freedb (lokálna)...
+_C_TT_CLOSE Zatvoriť
+_C_TT_DIR Zmena priečinka...
+_C_TT_EDIT_UNDO Späť
+_C_TT_EXPORT Export
+_C_TT_FAVDIR Obľúbený priečinok
+_C_TT_FILE_ADD Pridať súbor...
+_C_TT_FILE_COPY Kopírovať do...
+_C_TT_FILE_DELETE Odstrániť...
+_C_TT_FILE_MOVE Presunúť do...
+_C_TT_FILE_PLAY Prehrať
+_C_TT_FILE_PROPERTIES Vlastnosti...
+_C_TT_FILE_RENAME Premenovať
+_C_TT_FTF Názov súboru - Názov súboru
+_C_TT_FTT Názov súboru - Tag
+_C_TT_HELP Pomocník...
+_C_TT_OPT Možnosti...
+_C_TT_PLALL Vytvorí playlist zo všetkých súborov
+_C_TT_PLSEL Vytvorí playlist z vybraných súborov
+_C_TT_REFRESH Obnoviť zobrazené súbory
+_C_TT_REMOVE Odstrániť tag
+_C_TT_SAVE Uložiť tag
+_C_TT_TFF Textový súbor - Tag
+_C_TT_TTF Tag - Názov súboru
+_C_TT_TTT Tag - Tag
+_C_TT_UPDIR O priečinok vyššie
+_C_WIZARD_TRACKS Sprievodca automatickým číslovaním
+_C_WIZARD_TRACKS_BEGIN Číslo stopy začína:
+_C_WIZARD_TRACKS_DESC Priradenie čísla stopy - a čísla disku
+_C_WIZARD_TRACKS_DISC_BEGIN Číslo disku začína
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Nuly na začiatku čísla disku (01, 02, ...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Uložiť celkový počet diskov
+_C_WIZARD_TRACKS_DISCNUMBER Číslo disku
+_C_WIZARD_TRACKS_RESETFOLDERS Vynulovať počítadlo pre každý priečinok
+_C_WIZARD_TRACKS_SAVETOTAL Uložiť celkový počet stôp
+_C_WIZARD_TRACKS_TRACKNUMBER Číslo stopy
+_M_ERR_CANCEL Proces zrušený.
+_M_ERR_CDDB_CD Chyba čítania Audio CD
+_M_ERR_CDDB_CONNECT Chyba pripájania na server: {1}
+_M_ERR_CDDB_NOENTRY Nenašiel sa žiaden vhodný záznam pre freedb ID {1}.
+_M_ERR_CDDB_NOENTRYINLOCALBD Žiaden vhodný záznam pre freedb ID {1} sa nenašiel v lokálnej freedb databáze '{2}'.
+_M_ERR_CDDB_PARSER Dotaz nevrátil žiaden výsledok.
+_M_ERR_CDDB_READ Chyba čítania údajov z {1}
+_M_ERR_CONFIGURATION Konfigurácia sa nedá importovať.
+_M_ERR_COPY Vybrané súbory sa nedajú kopírovať!
+_M_ERR_DELETE Vybrané súbory sa nedajú odstrániť!
+_M_ERR_FILECREATE Súbor \"{1}\" sa nedá vytvoriť.
+_M_ERR_FILEDELETE Súbor \"{1}\" sa nedá odstrániť.
+_M_ERR_FILENAMEALREADYEXISTS Súbor s názvom \"{1}\" už existuje.
+_M_ERR_FILENAMEALREADYEXISTS2 Súbor \"{1}\" nebol premenovaný.
+_M_ERR_FILEOPABORTED Obsah aktuálneho priečinka sa zmenil.\n\nChcete ho znovu načítať?
+_M_ERR_FILEOPEN Súbor \"{1}\" sa nedá otvoriť.
+_M_ERR_FILEREADONLY Súbor \"{1}\" je len na čítanie.\n\nMá Mp3tag zrušiť ochranu pred zápisom na tento a všetky nasledujúce súbory označené len na čítanie?
+_M_ERR_FOLDERCANNOTBEACCESSED Chyba prístupu\n\npriečinok \"{1}\" nie je dostupný.
+_M_ERR_INVALID_FILENAME Zvoľte platný názov súboru.
+_M_ERR_INVALID_FTF_FS Reťazec \"{1}\" nie je platný formátovací reťazec pre názov súboru.
+_M_ERR_INVALID_TOKEN {1}:\nV názvoch súborov nie sú povolené tieto znaky:\n\\ / : * ? \" < > |\n\Chcete ich automaticky opraviť?
+_M_ERR_MOVE Nemôžem presunúť vybrané súbory!
+_M_ERR_ONLINE_NOTFOUND Ľutujem, žiadne záznamy nezodpovedajú vašim vyhľadávacím kritériám.
+_M_ERR_OPT_CDDB_NOADDRESS Vložte adresu freedb servera.
+_M_ERR_OPT_CDDB_NOEMAIL Vložte vašu e-mailovú adresu v nastaveniach 'Možnosti, freedb, Server'. Bude použitá na prihlásenie pre prístup k freedb serveru.
+_M_ERR_OPT_CDDB_NONAME Vložte platné meno pre konfiguráciu.
+_M_ERR_OPT_CDDB_NOPORT Vložte číslo portu pre freedb server.
+_M_ERR_PARSELINE Nedá sa parsovať riadok {1}.
+_M_ERR_PLAY Súbor \"{1}\" sa nedá otvoriť na prehrávanie!
+_M_ERR_READ_FILE Súbor \"{1}\" sa nedá otvoriť na čítanie.
+_M_ERR_RENAME_FILE Súbor \"{1}\" sa nedá premenovať na \"{2}\".
+_M_ERR_RETRY Do you want to retry?
+_M_ERR_TL_NOTAGS Žiadna položka sa nezhoduje so súborom \"{1}\".
+_M_ERR_WRITE_FILE Súbor \"{1}\" sa nedá otvoriť na zápis.
+_M_ERR_YN \n\nChcete pokračovať?
+_M_LOG_FMT_FNAME {1} z {2} súborov premenovaných.\n
+_M_LOG_FMT_TAG {1} z {2} tagov sformátovaných.\n
+_M_LOG_FTF {1} z {2} súborov premenovaných.
+_M_LOG_FTT Tag odvodený v {1} z {2} súborov.
+_M_LOG_PL_ALL Playlist \"{1}\" vytvorený zo všetkých ({2}) súborov.
+_M_LOG_PL_SEL Playlist \"{1}\" vytvorený z vybraných ({2}) súborov.
+_M_LOG_REMOVE Tag odstránený zo súboru \"{1}\".
+_M_LOG_REMOVED Tag odstránený {1} z {2} súborov.
+_M_LOG_REMOVE_NOTAG Žiaden tag v súbore \"{1}\".
+_M_LOG_SAVE Tag bol uložený do súboru \"{1}\".
+_M_LOG_SAVED Tag bol uložený do {1} z {2} súborov.
+_M_LOG_TFF Importované tagy z \"{1}\" do {2} z {3} súborov.
+_M_LOG_TFF_S Importované tagy \"{1}\" uložené do jedného súboru.
+_M_LOG_TTF {1} z {2} súborov premenovaných.
+_M_STAT_PLAY Prehráva sa súbor \"{1}\"...
+_M_STR_ACTION_ADJUSTCOVER Upraviť obal
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Formát
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Originál
+_M_STR_ACTION_ADJUSTCOVER_SIZE Max. veľkosť
+_M_STR_ACTION_CODEPAGE Konvertovať kódovú stránku
+_M_STR_ACTION_CODEPAGE_DESC Kódová stránka
+_M_STR_ACTION_EXPORTCOVER Exportovať obal do súboru
+_M_STR_ACTION_EXPORTCOVER_DUPES Exportovať duplicitné obaly
+_M_STR_ACTION_EXPORTCOVER_TYPES Exportovať len obaly typu
+_M_STR_ACTION_FORMAT Formátovať hodnotu
+_M_STR_ACTION_GUESS Odhadnúť hodnoty
+_M_STR_ACTION_GUESSPATTERN Odhadnúť vzor
+_M_STR_ACTION_GUESSSOURCE Zdrojový formát
+_M_STR_ACTION_IMPORTCOVER Importovať obal zo súboru
+_M_STR_ACTION_IMPORTCOVER_FS Formátovací reťazec pre názov súboru obrázku:
+_M_STR_ACTION_IMPORTCOVER_DELETE &Zmazať existujúci obrázok pre obal
+_M_STR_ACTION_IMPORTCOVER_TYPE Importovať obal ako:
+_M_STR_ACTION_IMPORTTEXT Importovať textový súbor
+_M_STR_ACTION_MERGEDUPLICATEFIELDS Zlúčiť duplicitné polia
+_M_STR_ACTION_REGEXP Nahradiť regulárnym výrazom
+_M_STR_ACTION_REGEXP_EXP Regulárny výraz
+_M_STR_ACTION_REGEXP_MATCH Nahradiť zhodné položky s
+_M_STR_ACTION_REMOVEDUPES Odstrániť duplicitné polia
+_M_STR_ACTION_REM Odstrániť polia
+_M_STR_ACTION_REM_DESC Odstrániť polia (oddelené bodkočiarkou):
+_M_STR_ACTION_REM_EX Odstrániť polia okrem
+_M_STR_ACTION_REM_EX_DESC Ponechať polia (oddelené bodkočiarkou):
+_M_STR_ACTION_SPLITFIELDS Rozdeliť polia podľa oddeľovača
+_M_STR_ACTIONGROUP_NAME Názov skupiny akcií
+_M_STR_ALBUM Album
+_M_STR_ALBUMARTIST &Interpret pre album
+_M_STR_ALL_FILEDLGFILTER Všetky súbory (*.*)|*.*||
+_M_STR_ARTIST Interpret
+_M_STR_AUTHOR Autor
+_M_STR_BACK < &Späť
+_M_STR_BROWSE_COPY Kopírovať do:
+_M_STR_BROWSE_MOVE Presunúť do:
+_M_STR_BROWSE_TEXT Vyberte priečinok, ktorý obsahuje audio súbory
+_M_STR_BYTES Bajtov
+_M_STR_CDDB_CD Čítať Audio CD
+_M_STR_CDDB_CONNECT pripájanie k {1}...
+_M_STR_CDDB_CONNECTED  pripojené!
+_M_STR_CDDB_IDXDB_ENTRIES databázových položiek vytvorených
+_M_STR_CDDB_RETRIEVE Stiahnutie informácie o titule
+_M_STR_COLUMNFILENAME Názov súboru
+_M_STR_COLUMNPATH Cesta
+_M_STR_COLUMNUSEDCOLS zobrazené
+_M_STR_COMBO_HOLD < ponechať >
+_M_STR_COMBO_REMOVE < prázdne >
+_M_STR_COMBO_USER < vložiť >
+_M_STR_COMMENT Poznámka
+_M_STR_COMPOSER Skladateľ
+_M_STR_COPYOF Kópia z {1}
+_M_STR_COVER Obal
+_M_STR_COVER_ADD Chcete ponechať existujúce obaly?
+_M_STR_COVER_CORRECTAR Správny pomer strán
+_M_STR_COVER_SETDESC Popis obalu...
+_M_STR_COVER_SETTYPE Typ obalu
+_M_STR_COVERVARIES Obal sa líši
+_M_STR_CUSTOMIZE Prispôsobiť...
+_M_STR_DAY deň
+_M_STR_DAYS dni
+_M_STR_DEFAULTVALUE Predvolená hodnota
+_M_STR_DISCID CDDB ID
+_M_STR_DISCOGS_OAUTH_PIN Vložte Discogs autorizačný kód
+_M_STR_DISCNUMBER Číslo disku
+_M_STR_ERR_CDDB_NOENTRYSELECTED Vyberte položku.
+_M_STR_EXPORT_DELETE Odstrániť konfiguráciu exportu \"{1}\"?
+_M_STR_EXPORT_FILEDLGTITLE Vyberte exportovaný súbor
+_M_STR_EXPORT_MULTIPLE Jeden súbor pre každý priečinok
+_M_STR_EXPORT_SHOWEXPORTFILE \n\nZobraziť exportovaný súbor teraz?
+_M_STR_EXP_MSG Exportované informácie o {2} súboroch boli zapísané do súboru '{1}'.
+_M_STR_FIELD Pole:
+_M_STR_FIELDSIZE Veľkosť poľa
+_M_STR_FIELDROWS Riadky
+_M_STR_FILE Súbor
+_M_STR_FILEDELETE Naozaj chcete odstrániť všetky vybrané súbory?
+_M_STR_FILEMODIFIED Modifikovaný
+_M_STR_FILESIZE Veľkosť
+_M_STR_FILTER &Filter:
+_M_STR_FMT_CAPITAL Zmiešaná veľkosť písmen
+_M_STR_FMT_HIGH VEĽKÉ písmená
+_M_STR_FMT_LOW malé písmená
+_M_STR_FMT_SENTENCE Veta
+_M_STR_FREEDBCREATEINDEX Vytvoriť lokálnu freedb index databázu?\n\nMôže to trvať niekoľko minút.
+_M_STR_FREEDB_SEARCH freedb web-hľadanie
+_M_STR_GENRE Žáner
+_M_STR_GENRES Žánre
+_M_STR_HIDE &Skryť
+_M_STR_ITEMALREADYEXISTS Položka s týmto názvom už existuje, prepísať?
+_M_STR_LANGUAGE Jazyk
+_M_STR_M3U_FILEDLGFILTER Podporované súbory (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_METADATA &Metadáta
+_M_STR_MOVEDOWN Posunúť &dolu
+_M_STR_MOVEUP Posunúť &hore
+_M_STR_MPEGBITRATE Bitrate
+_M_STR_MPEGFREQUENCY Frekvencia
+_M_STR_MPEGLENGTH Dĺžka
+_M_STR_MPEGMODE Režim
+_M_STR_MPEGVERSION Kodek
+_M_STR_MSGCUT Naozaj chcete odstrániť tagy z vybraného súboru a skopírovať ich do schránky?
+_M_STR_MSGPASTE Naozaj chcete vložiť obsah schránky ako nový tag pre vybraný súbor?
+_M_STR_MSGREMOVE Naozaj chcete odstrániť tagy z označených súborov?
+_M_STR_NAME Názov
+_M_STR_NETWORKING Sieť
+_M_STR_NEXT Ďa&lší >
+_M_STR_NOACTION - Žiadna akcia -
+_M_STR_NOACTIONENABLED Zaškrtnite aspoň jednu akciu, ak chcete použiť túto funkciu.
+_M_STR_NUMERIC Numericky
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH Zvoľte pracovný priečinok pre lokálnu freedb databázu.
+_M_STR_OPT_CDDB_PROCEED Týmto sa odstránia všetky servery!\n\nChcete pokračovať?\n
+_M_STR_OPTIMIZEMP4 Optimalizovať MP4
+_M_STR_OPTS_ALWAYS vždy
+_M_STR_OPTS_ASK opýtať sa
+_M_STR_OPTS_NEVER nikdy
+_M_STR_PLNAME Playlist - Názov súboru
+_M_STR_PL_CONFIRM Vytvoriť playlist s týmto názvom
+_M_STR_PL_SAVEFILTER Súbor playlistu (*.m3u)|*.m3u|Unicode Playlist (*.m3u8)|*.m3u8||
+_M_STR_PREVIEW Náhľad
+_M_STR_PROPERTIES {1} Vlastnosti
+_M_STR_QUICK rýchlo
+_M_STR_RECURSE Prehľadať rekurzívne
+_M_STR_REST Zvyšok
+_M_STR_SAVE_NOT < bez priradenia >
+_M_STR_SAVECONFIG Vaše nastavenia boli uložené do súboru '{1}'.\n\nNa obnovenie vašich nastavení rozbaľte archív do\n\"{2}\".
+_M_STR_SAVECONFIG_FILEDLGFILTER Konfiguračné súbory (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE Uložiť konfiguráciu do...
+_M_STR_SAVEIMAGE Uložiť obrázok do tagu
+_M_STR_SAVEIMAGEDIRECTORY Uložiť obrázok na disk
+_M_STR_SAVESELECTION Uložiť výber...
+_M_STR_SB_ABORTED zrušené
+_M_STR_SB_ACTION Vykonávam činnosti na súbore ... {1} z {2}
+_M_STR_SB_CLEANUPDATABASE Spracovanie súborov ... {1} z {2} ({3} vyčistené)
+_M_STR_SB_CLEANUPDATABASE_BINARIES Čistenie osamotených bináriek
+_M_STR_SB_CLEANUPDATABASE_COVERS Čistenie osamotených obalov
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Čistenie súborov nezaradených do knižnice
+_M_STR_SB_EXPORTTAGS Export informácií z tagu ... {1} of {2}
+_M_STR_SB_LOADTAGS Čítajú sa údaje tagu ... {1} of {2}
+_M_STR_SB_READDIRECTORY Číta sa priečinok
+_M_STR_SB_REMOVETAGS Odstraňujú sa údaje tagu ... {1} of {2}
+_M_STR_SB_RENAMEFILES Súbor sa premenúva ... {1} of {2}
+_M_STR_SB_WRITETAGS Zapisujú sa údaje tagu ... {1} of {2}
+_M_STR_SHOWCHOOSEDLG Zobraziť dialóg výberu
+_M_STR_SEARCHBY Hľadať podľa:
+_M_STR_SEARCHTEXT Text:
+_M_STR_SEPARATOR Oddeľovač
+_M_STR_SHOW Z&obraziť
+_M_STR_SIZE_LARGE Veľká
+_M_STR_SIZE_MEDIUM Stredná
+_M_STR_SIZE_NORMAL Normálna
+_M_STR_SIZE_SMALLER Menšia
+_M_STR_SIZE_SMALL Malá
+_M_STR_SNA Oblasť oznámení
+_M_STR_SNA_SHOW Vždy zobraziť ikonu v oblasti oznámení
+_M_STR_SNA_SHOWMIN Minimalizovať do oblasti oznámení
+_M_STR_STRIPCHAPTERSMP4 Extrahovať MP4 kapitoly
+_M_STR_TAG_COPIED Skopírované tagy do schránky z {1} súborov.
+_M_STR_TAG2 Tag
+_M_STR_TAGFIELDS_REMOVE Odstrániť pole
+_M_STR_TAGFIELDS_REMOVEALL Odstrániť všetky polia...
+_M_STR_TAGFIELDS_REMOVEALLMSG Naozaj chcete odstrániť všetky polia zo zoznamu?
+_M_STR_TAGFIELDS_RESET Resetovať polia...
+_M_STR_TAGFIELDS_RESETMSG Naozaj chcete resetovať zoznam polí na predvolené nastavenie?
+_M_STR_TAGPANEL Panel tagov
+_M_STR_TAGPANEL_COVER Zobraziť obrázok obalu
+_M_STR_TAGPANEL_DIRECTORY Zobraziť prepínač priečinkov
+_M_STR_TAGLIST_FILEDLGFILTER Textové súbory ({1})
+_M_STR_TAGLIST_FILEDLGTITLE Vyberte textový súbor
+_M_STR_TAGSOURCES Zdroje pre tagy
+_M_STR_THISALBUMON Tento album na {1}
+_M_STR_TITLE Názov
+_M_STR_TRYAGAIN Chcete to skúsiť znova?
+_M_STR_TTF Tag - Názov súboru
+_M_STR_UPDATE_FRM Aktualizácie
+_M_STR_UPDATE_OPT_CHECK Skontrolovať aktualizácie po štarte
+_M_STR_UPDATE_OPT_CHECK_BETA Hľadať tiež vývojové verzie (Beta)
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Zobraziť zoznam zmien pre novú verziu
+_M_STR_UPDATEAVAILABLE Nová verzia programu {1} je k dispozícii!\n\nChcete teraz stiahnuť túto aktualizáciu z {2} ?
+_M_STR_UPDATENOTAVAILABLE Používate poslednú aktuálnu verziu {1}.\n\nAkutlizácia nie je dostupná.
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS &Pomôcky
+_M_STR_VALUE Hodnota
+_M_STR_VERSION Verzia
+_M_STR_YEAR Rok
+_M_TP_CDDB_LOCALPATH Zvoliť lokálny freedb priečinok
+_M_TP_CDDB_SITES Aktuálny zoznam freedb serverov cez Internet
+_M_TP_CVR_CLIPBOARD Vložiť obal
+_M_TP_CVR_CLIPBOARD_COPY Kopírovať obal
+_M_TP_CVR_CLIPBOARD_CUT Vystrihnúť obal
+_M_TP_CVR_DEL Odstrániť obal
+_M_TP_CVR_NEW Pridať obal...
+_M_TP_CVR_SAVE Uložiť obal...
+_M_TP_DUPLICATE Duplikovať
+_M_TP_EXP_DEL Zmazať
+_M_TP_EXP_EDIT Editovať
+_M_TP_EXP_FILE Vybrať súbor pre export
+_M_TP_EXP_HLP Zobraziť rýchlu pomoc
+_M_TP_EXP_LOAD Načítať
+_M_TP_EXP_NEW Nový
+_M_TP_EXP_SAVE Uložiť konfiguráciu
+_M_TP_GEN_DIR Vybrať priečinok
+_M_TP_TAG_DEL Odstrániť pole
+_M_TP_TAG_EDIT Upraviť pole...
+_M_TP_TAG_NEW Pridať pole...
+_M_TS_ADDINFO Doplnková informácia
+_M_TS_MULTIPLEVALUES viacnásobné hodnoty
+_M_TS_RELEASE Vydanie
+_M_TS_TRACKS Stopy
+_M_UNDO_CANNOTUNDO Nedá sa vrátiť späť {1}
+_M_UNDO_CDDB freedb
+_M_UNDO_DIRECTORYCREATE Vytvoriť priečinok
+_M_UNDO_DIRECTORYMOVE Presunúť priečinok
+_M_UNDO_FORMAT Formát
+_M_UNDO_FTF Názov súboru - Názov súboru
+_M_UNDO_FTT Názov súboru - Tag
+_M_UNDO_REMOVEFILE Odstrániť
+_M_UNDO_RENAME Premenovať
+_M_UNDO_TAGCHANGE Zmeniť tag
+_M_UNDO_TAGREMOVE Odstrániť tag
+_M_UNDO_TAGSAVE Uložiť tag
+_M_UNDO_TFF Textový súbor - Tag
+_M_UNDO_TTF Tag - Názov súboru

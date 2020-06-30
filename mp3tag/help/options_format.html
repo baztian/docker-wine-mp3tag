@@ -1,0 +1,533 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<!-- Florian Heidenreich -->
+	<!-- http://www.mp3tag.de/en -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta name="Author" content="Florian Heidenreich" />
+	<meta name="Description" content="Mp3tag Help - Configuration &gt; Actions" />
+	<meta name="Keywords" content="" />
+	<title>Mp3tag Help - Configuration / Actions</title>
+	<link rel="stylesheet" type="text/css" href="content.css" />
+</head>
+<body>
+<div id="left">
+		
+<ul>
+	<li><a href="index.html">Index</a></li>
+	<li><a href="main_commands.html">Menus</a></li>
+	<li><a href="main_converter.html">Convert</a></li>
+	<li><a href="options_format.html">Actions</a></li>
+	<li><a href="options_export.html">Export</a></li>
+	<li><a href="main_scripting.html">Scripting</a></li>
+	<li><a href="main_filter.html">Filter</a></li>
+	<li><a href="main_viewcolumns.html">Columns</a></li>
+	<li><a href="options.html">Options</a></li>
+    <li class="separator"></li>
+    <li><a href="misc_donate.html">Donate</a></li>
+</ul>
+
+</div>
+
+	<div id="wrap2">
+	<div id="header"><a href="index.html" title="Back to main page"><img src="images/banner.gif" alt="Back to main page" title="Back to main page" /></a></div>
+
+	<div>
+		
+		<h1><img src="images/mt_format.png" alt="" /> <a href="options.html" title="Back to Configuration overview...">Configuration</a> &gt; Actions</h1>
+		
+		<p>
+			Mp3tag provides a variety of actions, which can be applied to filenames and tags.
+			The actions are grouped together into named sets (action groups), which can be applied independently
+			via <a href="main_commands.html#mnuactions">Actions</a>
+			<span class="hotkey">Alt</span>+<span class="hotkey">6</span>.
+			If you do not want to create a reusable action group for applying one single action, the Actions (Quick) toolbar
+			button or keyboard shortcut 
+			<span class="hotkey">Shift</span>+<span class="hotkey">Alt</span>+<span class="hotkey">6</span>can be used.
+			
+		</p>
+		<p>
+		    You can create, edit, duplicate, and delete action groups using the buttons on the right
+			or the context menu.
+		    The button <strong>Utils</strong> allows for saving the current selection state to a file
+		    using the <strong>Save selection...</strong> menu item. These are then listed in the menu
+		    and can be later restored by clicking on the configuration name. The <strong>Save</strong> menu
+		    item saves the current selection state directly (this is only necessary if you choose to not exit
+		    the dialog via the <strong>OK</strong> button).
+		</p>
+		
+		<h2>Keyboard shortcuts</h2>
+            <table cellspacing="4" cellpadding="2">
+       		<tr>
+				<td><span class="hotkey">F2</span></td>
+				<td>Rename action group</td>
+			</tr>		     
+			
+			<tr>
+				<td><span class="hotkey">F4</span></td>
+				<td>Edit action (group)</td>
+			</tr>			
+			
+			<tr>
+				<td><span class="hotkey">Insert</span></td>
+				<td>New action (group)</td>
+			</tr>						
+			
+			<tr>
+				<td><span class="hotkey">Delete</span></td>
+				<td>Delete action (group)</td>
+			</tr>
+			</table>
+			<br />
+		
+		<ul>
+			<li><a href="#resize">Adjust cover</a></li>
+			<li><a href="#case">Case conversion</a></li>
+			<li><a href="#codepage">Convert codepage</a></li>
+			<li><a href="#export">Export</a></li>
+			<li><a href="#exportcover">Export cover to file</a></li>
+			<li><a href="#format">Format value</a></li>
+			<li><a href="#guess">Guess values</a></li>
+			<li><a href="#importcover">Import cover from file</a></li>
+			<li><a href="#textfile">Import text file</a></li>
+			<li><a href="#merge">Merge duplicate fields</a></li>
+			<li><a href="#removedupes">Remove duplicate fields</a></li>
+			<li><a href="#remove">Remove fields</a></li>
+			<li><a href="#removeex">Remove fields except</a></li>
+			<li><a href="#replace">Replace</a></li>
+			<li><a href="#regexp">Replace with regular expression</a></li>
+			<li><a href="#split">Split field by separator</a></li>
+		</ul>
+		
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+
+	<div>
+		<a id="resize"></a><h1>Adjust cover</h1>
+		<p>
+			Allows for resizing and/or changing the image format of embedded cover art.
+			You can choose between <em>Original</em>, <em>JPEG</em>, and <em>PNG</em> image
+			formats where <em>Original</em> just keeps the image format of the embedded cover.
+		</p>
+		<p>
+			<em>Max. Size</em> is the maximum width and height in pixels of the embedded cover image.
+			If the cover is smaller than the size provided, the size of the cover is not changed.
+			Resizing the image keeps the aspect ratio.
+		</p>
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+	
+	<div>
+		<a id="case"></a><h1>Case conversion</h1>
+		<p>
+		    Changes upper and lower case of selected tag fields (ARTIST, TITLE, ...) or the filename (_FILENAME) or even
+		    field names (_FIELDNAME).
+		</p>
+		
+		<h2>Examples:</h2>
+
+		<h2>UPPER case</h2>
+		AIR - MOON SAFARI - 03 - ALL I NEED.MP3
+		
+		<h2>lower case</h2>
+		air - moon safari - 03 - all i need.mp3
+		
+		<h2>Mixed Case</h2>
+		Air - Moon Safari - 03 - All I Need.mp3
+		
+		<h2>Sentence</h2>
+		Air - moon safari - 03 - all i need.mp3
+
+		<p>
+			The field <strong>Words begin after any of</strong> specifies some characters which 
+			are marking the beginning of a new word.
+		</p>
+		<p>
+		    _FIELDNAME applies the case conversion settings to the field names of the files (which of course makes only sense with APEv2 or VorbisComments).
+		</p>
+		
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+	
+	<div>
+		<a id="codepage"></a><h1>Convert codepage</h1>		
+		<p>
+			If you have problems displaying tags with characters from other charsets (like Cyrillic) in Mp3tag, the
+			tags are probably stored in a system codepage instead of Unicode or ISO-8859-1. To convert these tags
+			from a specific codepage to Unicode, simply create a new action <strong>Convert codepage</strong>,
+			select the appropriate tag field(s) and choose the codepage from the drop-down list.
+		</p>
+		
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+	
+	<div>
+		<a id="export"></a><h1>Export</h1>
+		<p>
+			Please see <a href="options_export.html">Options &gt; Export</a>
+		</p>
+		<p>
+			Important note: Export actions are always executed after all other actions regardless of their position in the actions list.
+		</p>
+		
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+	
+	<div>
+		<a id="exportcover"></a><h1>Export cover to file</h1>
+		<p>
+			Exports the cover art from the tag of the file to the relative or absolute filename specified 
+			by the format string. You can use placeholders like %artist% and %album% in the format string.
+		</p>
+		
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+	
+	<div>
+		<a id="format"></a><h1>Format value</h1>
+		<p>
+			Formats tag fields by other fields content, i.e., this action can also be used for copying the
+			content of one tag field to another tag field.<br />
+			You can use <a href="main_converter.html#ttf">placeholders</a> for any tag field and <a href="main_scripting.html">scripting functions</a> 
+			as format string to format the content of the field specified.<br />
+			Example: to copy the content of the comment field to the encodedby field, set the 
+			field to <i>ENCODEDBY</i> and	the format string to <i>%comment%</i>.
+		</p>
+		
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+	
+	<div>
+		<a id="guess"></a><h1>Guess values</h1>
+		<p>
+			Imports tag fields from a specified source format string.<br />
+			This action type is useful if you want to split the content of one tag field to multiple other fields 
+			(e.g. the title &quot;Artist / Title&quot; to the appropriate fields using %title% as source format 
+			and %artist% / %title% as guessing pattern.
+		</p>
+		
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+	
+	<div>
+		<a id="importcover"></a><h1>Import cover from file</h1>
+		<p>
+			Imports the cover art specified by the absolute or relative filename into the tag of
+			the file. You can use placeholders like %artist% or %album%.
+		</p>
+		
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+	
+	<div>
+		<a id="textfile"></a><h1>Import text file</h1>
+		<p>
+			Imports the contents of the text file specified by the absolute or relative 
+			filename into the specified tag field. You can use placeholders like %artist% 
+			or %album% within file name.<br />
+			Example: to copy the content of the file lyrics.txt to the lyrics field, 
+			set the field to <i>UNSYNCEDLYRICS</i> and the format string to <i>lyrics.txt</i>.
+		</p>
+		<p>
+			If you're choosing a file name using the file open dialog, any characters that have
+			special functionality in <a href="main_scripting.html">Mp3tag's scripting language</a> 
+			are automatically escaped. If you're manually entering such file names, you need to 
+			take this into account.
+		</p>
+		
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+	
+	<div>
+		<a id="merge"></a><h1>Merge duplicate fields</h1>
+		<p>
+			This action type merges duplicate tag fields (e.g. three artist fields) to one field.<br />
+			The contents of the duplicate fields in the new field are separated by the specified separator string.
+		</p>
+		
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+	
+	<div>
+		<a id="removedupes"></a><h1>Remove duplicate fields</h1>
+		<p>
+			This action type removes duplicate tag fields (e.g. three artist fields) and leaves the last field from the tag.
+		</p>
+		
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+	
+	<div>
+		<a id="remove"></a><h1>Remove fields</h1>
+		<p>
+			This action type removes the fields entered in the edit field (e.g. COMMENT;PICTURE).
+		</p>
+		<div class="note">
+		    <div class="noteh">Removing embedded cover art</div>
+		    <div class="noteb"><p>Please use PICTURE as field name if you want to remove cover art from the tags.</p></div>
+		</div>
+		
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+		
+	<div>
+		<a id="removeex"></a><h1>Remove fields except</h1>
+		<p>
+			This action type keeps the fields entered in the edit field and removes all other tag fields from the tag (e.g. ALBUM;ARTIST;COMMENT;GENRE;TRACK;YEAR).
+		</p>
+		<div class="note">
+		    <div class="noteh">Keeping embedded cover art</div>
+		    <div class="noteb"><p>Please use PICTURE as field name if you want to preserve embedded cover art.</p></div>
+		</div>
+		
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+	
+	<div>
+		<a id="replace"></a><h1>Replace</h1>
+		<p>
+			This action replaces (or removes) a given string from the selected field (e.g., album or filename)
+			by replacing the string specified under <strong>Original</strong> by the string specified under <strong>Replace with</strong>.<br />
+			If <strong>only as whole word</strong> is enabled, Mp3tag replaces <strong>Original</strong> only
+			when it is matched as whole word and not as part of a word. In addition to whitespace characters, 
+			word boundaries are defined by any of <strong>. , ; : ! ?</strong>
+		</p>
+		
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+	
+	<div>
+		<a id="regexp"></a><h1>Replace with regular expression</h1>
+		<p>
+		    This action uses regular expressions when replacing strings in the specified field.
+		    Regular expressions is a formal language that is used to find strings or parts of strings 
+		    that match a specific pattern. This pattern is defined in the field <strong>Regular expression</strong>
+		    and matches are replaced by the given replacement string.
+		    Please note that matches can be referenced (see <i>Parenthesis</i> below).
+		</p>
+		<p>
+		    Examples of regular expressions that are useful in the context of Mp3tag can be found at the
+		    <a href="http://forums.mp3tag.de/index.php?showtopic=1204">Regular Expressions</a> topic on the
+		    Mp3tag Forums.
+		</p>
+		<p>
+		    <b>Note</b>: At this action _FILENAME applies to the whole file name including its extension.
+		</p>
+		
+		<h2>Syntax:</h2>
+		
+		<h2>Literals</h2>
+		<p>
+			All characters except <strong>. | * ? + ( ) { } [ ] ^ $</strong>.<br />
+			These characters are literals when preceded by a "\".
+		</p>
+		
+		<h2>Wildcard</h2>
+		<p>
+			The dot character "." matches any single character.
+		</p>
+		
+		<h2>Repeats</h2>
+			<table cellspacing="0" cellpadding="0">
+			<tr>
+				<td class="tcode"><code>*</code></td>
+				<td>repeated any number of times including zero</td>
+			</tr>
+			<tr>
+				<td class="tcode"><code>+</code></td>
+				<td>repeated any number of times, but at least once</td>
+			</tr>
+			<tr>
+				<td class="tcode"><code>?</code></td>
+				<td>repeated zero or one times only</td>
+			</tr>
+			<tr>
+				<td class="tcode"><code>a{n}</code></td>
+				<td>is the letter "a" repeated exactly n times</td>
+			</tr>			
+			<tr>
+				<td class="tcode"><code>a{n,}</code></td>
+				<td>represents the letter "a" repeated at least n times with no upper limit</td>
+			</tr>
+			<tr>
+				<td class="tcode"><code>a{n,m}</code></td>
+				<td>represents the letter "a" repeated between n and m times</td>
+			</tr>
+			</table>
+			
+		<h2><i>Non-greedy</i> repeats</h2>
+		<p>
+			Non-greedy repeats are possible by appending a '?' after the repeat; 
+			a non-greedy repeat is one which will match the shortest possible string.
+		</p>
+		
+		<h2>Parenthesis</h2>
+		<p>
+			Parentheses serve two purposes, to group items together into a sub-expression, 
+			and to mark what generated the match. $N Expands to the text that matched sub-expression N 
+			in <strong>Replace matches with</strong>.
+		</p>
+		
+		<h2>Alternatives</h2>
+		<p>
+			Alternatives occur when the expression can match either one sub-expression or another, 
+			each alternative is separated by a "|".
+		</p>
+		
+		<h2>Line anchors</h2>
+			<table cellspacing="0" cellpadding="0">
+			<tr>
+				<td class="tcode">^</td>
+				<td>matches the start of a line</td>
+			</tr>
+			<tr>
+				<td class="tcode">$</td>
+				<td>matches the end of a line</td>
+			</tr>
+			</table>
+		
+
+		<h2>Sets</h2>
+			<table cellspacing="0" cellpadding="0">
+			<tr>
+				<td class="tcode"><code>[abc]</code></td>
+				<td>will match either of "a", "b", or "c"</td>
+			</tr>
+
+			<tr>
+				<td class="tcode"><code>[^abc]</code></td>
+				<td>will match any character other than "a", "b", or "c"</td>
+			</tr>
+			<tr>
+				<td class="tcode"><code>[a-z]</code></td>
+				<td>will match any character in the range "a" to "z"</td>
+			</tr>
+			<tr>
+				<td class="tcode"><code>[^A-Z]</code></td>
+				<td>will match any character other than those in the range "A" to "Z"</td>
+			</tr>
+		
+			<tr>
+				<td class="tcode"><code>\w</code></td>
+				<td>Any word character - all alphanumeric characters plus the underscore</td>
+			</tr>
+			<tr>
+				<td class="tcode"><code>\s</code></td>
+				<td>Any whitespace character.</td>
+			</tr>
+			<tr>
+				<td class="tcode"><code>\d</code></td>
+				<td>Any digit (0-9)</td>
+			</tr>			
+			<tr>
+				<td class="tcode"><code>\l</code></td>
+				<td>Any lower case character</td>
+			</tr>
+				<tr>
+				<td class="tcode"><code>\u</code></td>
+				<td>Any upper case character</td>
+			</tr>
+			
+			<tr><td colspan="2">&nbsp;</td></tr>
+			<tr><td class="tcode"><code>\W</code></td>
+				<td>non-word character</td>
+			</tr>			
+			<tr><td class="tcode"><code>\S</code></td>
+				<td>non-whitespace character</td>
+			</tr>			
+			<tr><td class="tcode"><code>\D</code></td>
+				<td>no digit</td>
+			</tr>			
+			<tr><td class="tcode"><code>\L</code></td>
+				<td>non-lower case character</td>
+			</tr>
+			<tr><td class="tcode"><code>\U</code></td>
+				<td>non-upper case character</td>
+			</tr>
+			
+			<tr><td colspan="2">&nbsp;</td></tr>
+			<tr><td class="tcode"><code>\t</code></td>
+				<td>Tab</td>
+			</tr>
+			<tr><td class="tcode"><code>\n</code></td>
+				<td>New line</td>
+			</tr>			
+			<tr><td class="tcode"><code>\r</code></td>
+				<td>Carriage Return</td>
+			</tr>
+			<tr><td class="tcode"><code>\r\n</code></td>
+				<td>Windows style line break</td>
+			</tr>
+			<tr><td class="tcode"><code>\xnn</code></td>
+				<td>char with unicode hex value nn</td>
+			</tr>
+			<tr><td class="tcode"><code>\x{nnnn}</code></td>
+				<td>char with unicode hex value nnnn</td>
+			</tr>
+			</table>
+			
+			<h2>Word boundaries</h2>			
+			<table cellspacing="0" cellpadding="0">			
+			<tr>
+				<td class="tcode"><code>\b</code></td>
+				<td>matches a word boundary (the start or end of a word)</td>
+			</tr>
+			<tr>
+				<td class="tcode"><code>\B</code></td>
+				<td>matches only when not at a word boundary</td>
+			</tr>
+			</table>
+		
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+	
+	<div>
+		<a id="split"></a><h1>Split field by separator</h1>
+		<p>
+			This action type splits the content of a tag field into multiple
+			separate tag fields based on a given separator character.
+		</p>
+		
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+	
+	<p class="copyright"><strong>Made with love in Dresden.</strong> Copyright &copy; 1999-2020 <a href="http://www.mp3tag.de/en/" class="external">Florian Heidenreich</a>. All rights reserved.</p>
+
+	</div>
+</body>
+</html>

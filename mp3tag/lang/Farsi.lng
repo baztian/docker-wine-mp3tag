@@ -1,0 +1,622 @@
+﻿LANGAUTHOR حسام محمدی
+LANGCONTACT info@mp3tag.de
+LANGVERSION 2.74
+LANGNAME Farsi
+LANGNAMELOC فارسی
+SLangCancel لغو
+SLangOk تایید
+SLangErrCatch خطای زمان اجرا\n\nفایل:\t{1}\nخط:\t{2}\n\nبرنامه با یک مورد غیرمنتظره و درحالت تعریف نشده مواجه شده است. لطفا برنامه را ببندید و فایل\n\n{3}\n\n را به همراه توضیح جزئیات خطا به پشتیبانی ارسال کنید\n\ایمیل: support@mp3tag.de
+SLangErrCheck خطای زمان اجرا\n\nفایل:\t{1}\nخط:\t{2}\nشرایط:\t{3}\nکد:\t0x{4}\n\nبرنامه با یک مورد غیرمنتظره و درحالت تعریف نشده مواجه شده است.  لطفا برنامه را ببندید و فایل\n\n{5}\n\nبه همراه توضیح جزئیات خطا به پشتیبانی ارسال کنید\n\nایمیل: support@mp3tag.de
+SLangErrDriveCannotBeAccessed به درایو {1} نمیتوان دسترسی داشت
+SLangErrFileCannotBeAccessed به فایل {1} نمیتوان دسترسی داشت
+SLangErrFileCannotBeDeleted فایل {1} را نمیتوان حذف کرد\n\n» لطفا مطمئن شوید سایر فرآیندها از آن استفاده نمیکنند
+SLangErrFolderCannotBeAccessed به دایرکتوری {1} نمیتوان دسترسی داشت
+SLangErrFolderCannotBeDeleted دایرکتوری {1} را نمیتوان حذف کرد\n\n» لطفا مطمئن شوید سایر فرآیندها از این دایرکتوری استفاده نمی کنند
+SLangErrHelpBrowserIsNotAvailable برنامه قادر به نمایش فایل راهنما در مرورگر استاندارد وب شما نیست
+SLangErrHelpSystemIsNotAvailable راهنمای سیستم موجود است\n\n» لطفا {1} را مجددا نصب کنید
+SLangErrHelpTopicIsNotAvailable موضوع راهنما موجود نیست\n\n» لطفا با پشتیبانی تماس بگیرید\n\nایمیل: support@mp3tag.de
+SLangErrNotEnoughFreeDiskSpace فضای آزاد کافی در دستگاه {1} باقی نمانده است\n\n» لطفا مطمئن شوید حداقل {2} فضا در درایو هست
+SLangErrRegistryCannotBeAccessed خطا حین خواندن داده\n\nبه ریجیستری ویندوز نمیتوان دسترسی داشت
+SLangMsgItemExistsAlready یک ورودی با این توضیح از قبل موجود است\n\n» لطفا از یک توضیح دیگر استفاده کنید
+SLangMsgFirstSteps لطفا زمان بگذارید و با اولین مراحل آشنا شوید
+SLangMsgShutdownInfo لطفا منتظربمانید تا زمانیکه {1} در حال شات دان است
+SLangWrnAppIsAlreadyRunning یک نمونه از برنامه از قبل در اجرا است
+SLangWrnAppHasToBeRestarted برنامه برای اِعمال تغییرات ریستارت میشود\n\nآیا حالا میخواهید برنامه را ریستارت کنید؟
+SLangWrnNameContainsInvalidCharacters توضیح محتوی کاراکترهای نامعتبر است\n\n» لطفا از توضیحی دیگر استفاده کنید
+SLangWrnStartLogging شما {1} با پرامتر فرمان خطی اِف لوگ1 شروع کرده اید. این پارامتر بمنظور اشکال یابی بکار میرود\n\nمیخواهید ویژگی واقعه نگری را فعال کنید؟
+_C_ABORT لغو
+_C_ABORTING Aborting...
+_C_APP_ST_ALBUM آلبوم
+_C_APP_ST_ARTIST هنرمند
+_C_APP_ST_COMMENT توضیح
+_C_APP_ST_FOLDER دایرکتوری
+_C_APP_ST_GENRE ژانر
+_C_APP_ST_TITLE عنوان
+_C_APP_ST_TRACK تراک
+_C_APP_ST_YEAR سال
+_C_CANCEL لغو
+_C_CANCELING Canceling...
+_C_CLOSE بستن
+_C_DLG_CDDBCONFIRM_CAPTION لیست نتایج جستجو...
+_C_DLG_CDDBCONFIRM_CHK_DISCID کپی شناسه دیسک به فیلد توضیح
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 کپی شناسه دیسک به فیلد شناسه دیسک
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER گردآوری...
+_C_DLG_CDDBCONFIRM_CHK_SORT پیشنهاد مرتبسازی
+_C_DLG_CDDBCONFIRM_ST_INFO بیشتر از یک نتیجه یافت شد\nلطفا یکی را انتخاب کنید:
+_C_DLG_CDDBCONFIRM_ST_INFO2 اینها {2} از پایگاه داده {1} هست\nلطفا یکی را انتخاب کنید:
+_C_DLG_CDDBCONFIRM_STC_TOP تنظیم اطلاعات تگ
+_C_DLG_CDDBINPUT_CAPTION شناسه پایگاه داده را وارد کنید
+_C_DLG_CDDBINPUT_ST_CATEGORY دسته:
+_C_DLG_CDDBINPUT_ST_ID شناسه پایگاه داده:
+_C_DLG_CDDBSTYLE_CAPTION پایگاه داده
+_C_DLG_CDDBSTYLE_RD_CDROM تعیین از سی دی صوتی قرار داده شده
+_C_DLG_CDDBSTYLE_RD_ENTER واردکن
+_C_DLG_CDDBSTYLE_RD_MP3 تعیین از فایل انتخاب شده
+_C_DLG_CDDBSTYLE_RD_SEARCH تعیین توسط جستجوی وب
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL تعیین توسط جستجوی متن
+_C_DLG_CDDBSTYLE_STC_TOP شناسه پایگاه داده...
+_C_DLG_COLUMNS_CAPTION ستون ها
+_C_DLG_COLUMNS_TOP تنظیم پدیداری ستون ها
+_C_DLG_TAGS ویرایش اطلاعات تگ
+_C_DLG_TTF_TOP فرمت استرینگ را انتخاب کنید
+_C_HELP راهنما
+_C_MNU_ACTIONS اقدامات\tALT+6
+_C_MNU_CON تبدیل
+_C_MNU_CON_FTF نام فایل - نام فایل\tALT+3
+_C_MNU_CON_FTT نام فایل - تگ\tALT+2
+_C_MNU_CON_TFF فایل متنی - تگ\tALT+4
+_C_MNU_CON_TTF تگ - نام فایل\tALT+1
+_C_MNU_CON_TTT تگ - تگ\tALT+5
+_C_MNU_EDIT ویرایش
+_C_MNU_EDIT_COPY کپی\tCtrl+C
+_C_MNU_EDIT_CUT کات\tCtrl+X
+_C_MNU_EDIT_INVERTSELECTION اتخاب معکوس\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT انتخاب فایل بعدی\tCtrl+N
+_C_MNU_EDIT_PASTE چسباندن\tCtrl+V
+_C_MNU_EDIT_SELECT انتخاب همه فایل ها\tCtrl+A
+_C_MNU_EDIT_UNDO آندو\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL لغو انتخاب همه\tCtrl+U
+_C_MNU_EXTRA ابزارها
+_C_MNU_EXTRA_OPTIONS گزینه ها..\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS بازگردانی همه فیلدهای ورودی\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS مقادیر پیش فرض در فیلدهای ورودی\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD ویزارد شماره گذاری خودکار...\tCtrl+K
+_C_MNU_FILE فایل
+_C_MNU_FILE_ADD افزودن دایرکتوری...
+_C_MNU_FILE_CDDB پایگاه داده...\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL پایگاه داده محلی...\tCtrl+L
+_C_MNU_FILE_COPY کپی...
+_C_MNU_FILE_DELETE حذف...
+_C_MNU_FILE_DIR تغییر دایرکتوری...\tCtrl+D
+_C_MNU_FILE_EXIT خروج\tAlt+F4
+_C_MNU_FILE_EXPORT خروجیگیری...\tCtrl+E
+_C_MNU_FILE_FAVDIR دایرکتوری موردعلاقه\tCtrl+F
+_C_MNU_FILE_MOVE انتقال...
+_C_MNU_FILE_PLALL (لیست پخش (همه فایل ها\tCtrl+P
+_C_MNU_FILE_PLAY پخش
+_C_MNU_FILE_PLAYLIST بارگیری لیست پخش/کیوشیت...
+_C_MNU_FILE_PLSEL (لیست پخش (فایل های انتخاب شده
+_C_MNU_FILE_PROPERTIES مشخصات...
+_C_MNU_FILE_READ خواندن تگ\tCtrl+T
+_C_MNU_FILE_REMOVE حذف تگ\tCtrl+R
+_C_MNU_FILE_REMOVEFILE حذف\tDel
+_C_MNU_FILE_RENAME تغییرنام\tF2
+_C_MNU_FILE_SAVE ذخیره تگ\tCtrl+S
+_C_MNU_FILE_SAVECONFIG ذخیره پیکربندی...
+_C_MNU_FREEDB پایگاه داده
+_C_MNU_FREEDB_INDEX ایجاد فهرست محلی
+_C_MNU_FS_EXT فیلدهای گسترده
+_C_MNU_FS_FNCT توابع
+_C_MNU_FS_INFO فیلدهای اطلاعات
+_C_MNU_FS_REM حذف از تاریخچه
+_C_MNU_FS_REMALL حذف همه از تاریخچه...
+_C_MNU_FS_REMALL_MSG آیا میخواهید همه آیتم ها را حذف کند؟
+_C_MNU_HELP راهنما
+_C_MNU_HELP_ABOUT درباره برنامه...
+_C_MNU_HELP_DONATE کمک مالی
+_C_MNU_HELP_FINDER محتویات...\tF1
+_C_MNU_HELP_FIRSTSTEPS اولین مراحل
+_C_MNU_HELP_KEYBOARD میانبرهای صفحه کلید
+_C_MNU_HELP_SUPPORT پشتیبانی آنلاین...
+_C_MNU_HELP_UPGRADE برسی نسخه جدید...
+_C_MNU_HELP_WWW وبسایت برنامه...
+_C_MNU_TAGSOURCES منابع تگ
+_C_MNU_TOOLS ابزارها
+_C_MNU_VIEW مشاهده
+_C_MNU_VIEW_COLUMNS سفارشی کردن ستون ها...
+_C_MNU_VIEW_FILTER فیلتر\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY Auto-apply filter
+_C_MNU_VIEW_ID3 پنل تگ\tCtrl+Q
+_C_MNU_VIEW_REFRESH تازه کردن\tF5
+_C_MNU_VIEW_SORTBY مرتبسازی با
+_C_MNU_VIEW_TAGS تگ های گسترده\tALT+T
+_C_MNU_VIEW_TOOLBAR نوارابزار
+_C_MNU_SB_ACTIONS اِعمال اقدامات  توسط کاربر تعریف شده (تبدیل مورد, جایگزینی, ...) برای فایل های انتخاب شده
+_C_MNU_SB_CON_FTF تغییرنام فایل ها بعداز الگوی تعریف شده مبتنی بر نام فایل قدیمی
+_C_MNU_SB_CON_FTT واردکردن تگ از نام فایل
+_C_MNU_SB_CON_TFF واردکردن تگ از فایل متنی
+_C_MNU_SB_CON_TTF تغییرنام فایل ها بعداز الگوی تعریف شده مبتنی بر تگ ها
+_C_MNU_SB_CON_TTT قالب بندی تگ ها مبتنی بر تگ ها
+_C_MNU_SB_EDIT_COPY کپی متن انتخابی یا تگ فایل انتخابی به کلیپ برد
+_C_MNU_SB_EDIT_CUT کات متن انتخابی یا تگ فایل انتخابی به انتقال به کلیپ برد
+_C_MNU_SB_EDIT_INVERTSELECTION معکوس کردن انتخاب فعلی
+_C_MNU_SB_EDIT_NEXT نشانه فایل بعدی در مشاهده فایل
+_C_MNU_SB_EDIT_PASTE چسباندن محتویات کلیپ برد در نشانه قرار داده شده یا فایل انتخاب شده
+_C_MNU_SB_EDIT_SELECT انتخاب فایل ها از مشاهده فایل
+_C_MNU_SB_EDIT_UNDO آندوی آخرین عملکرد
+_C_MNU_SB_EDIT_UNSELECTALL لغو انتخاب همه فایل ها
+_C_MNU_SB_EXTRA_OPTIONS نمایش دیالوگ گزینه ها
+_C_MNU_SB_EXTRA_RESET_EDITS حذف متن از همه فیلدهای ورودی در پنل تگ
+_C_MNU_SB_EXTRA_SET_EDITS تنظیم همه فیلد های ورودی در پنل تگ برای مقادیر استاندارد تعریف شده
+_C_MNU_SB_EXTRA_TRACKWIZARD اِجرای ویزارد شماره گذاری خودکار
+_C_MNU_SB_FILE_ADD افزودن دایرکتوری به لیست فایل ها
+_C_MNU_SB_FILE_CDDB گرفتن اطلاعات درباره سی دی صوتی قرارداده شده یا فایل های انتخاب شده توسط اینترنت
+_C_MNU_SB_FILE_CDDBLOCAL گرفتن اطلاعات درباره سی دی صوتی قرارداده شده یا فایل های انتخاب شده توسط پایگاه داده محلی
+_C_MNU_SB_FILE_COPY کپی فایل های انتخاب شده به دایرکتوری دیگر
+_C_MNU_SB_FILE_DELETE حذف فایل های حذف شده
+_C_MNU_SB_FILE_DIR تغییر دایرکتوری کاری فعلی
+_C_MNU_SB_FILE_EXIT خروج از برنامه
+_C_MNU_SB_FILE_EXPORT خروجیگیری تگ و اطلاعات فایل از فایل های انتخاب شده
+_C_MNU_SB_FILE_FAVDIR تغییر به دایرکتوری پیش فرض
+_C_MNU_SB_FILE_FREEDBINDEX ایجاد فهرست پایگاه داده محلی برای جستجو توسط پایگاه داده محلی
+_C_MNU_SB_FILE_MOVE انتقال فایل های انتخاب شده به دایرکتوری دیگر
+_C_MNU_SB_FILE_PLALL ایجاد لیست پخش از همه فایل ها
+_C_MNU_SB_FILE_PLAY پخش فایل های انتخاب شده
+_C_MNU_SB_FILE_PLAYLIST بارگیری محتویات لیست پخش
+_C_MNU_SB_FILE_PLSEL ایجاد لیست پخش از فایل های انتخاب شده
+_C_MNU_SB_FILE_PROPERTIES نمایش مشخصات فایل انتخاب شده
+_C_MNU_SB_FILE_READ خواندن تگ از فایل انتخاب شده به فیلدهای ورودی در پنل تگ
+_C_MNU_SB_FILE_REMOVE حذف تگ از فایل انتخاب شده
+_C_MNU_SB_FILE_REMOVEFILE حذف فایل های انتخاب شده
+_C_MNU_SB_FILE_RENAME تغییرنام فایل انتخاب شده
+_C_MNU_SB_FILE_SAVE ذخیره تگ در فایل های انتخاب شده
+_C_MNU_SB_FILE_SAVECONFIG ذخیره تنظیمات فعلی در فایل پیکربندی
+_C_MNU_SB_HELP_ABOUT اطلاعات درباره برنامه
+_C_MNU_SB_HELP_CONTEXT نمایش زمینه راهنما برای فیلد کلیک شده،منوها،وپنجره ها
+_C_MNU_SB_HELP_DONATE Please consider donating to support Mp3tag's development.
+_C_MNU_SB_HELP_FINDER نمایش محتویات راهنما
+_C_MNU_SB_HELP_FIRSTSTEPS نمایش مقدمه ای کوتاه درباره برنامه
+_C_MNU_SB_HELP_KEYBOARD نمایش لیست میانبرهای صفحه کلید
+_C_MNU_SB_HELP_SUPPORT انجمن برنامه
+_C_MNU_SB_HELP_UPGRADE Check for updates of Mp3tag
+_C_MNU_SB_HELP_WWW وبسایت برنامه
+_C_MNU_SB_UPDIR تغییر به دایرکتوری بالایی
+_C_MNU_SB_VIEW_COLUMNS نمایش یک دیالوگ در جایی که ستون ها برای مشاهده فایل میتواند سفارشی شود
+_C_MNU_SB_VIEW_FILTER فیلتر مشاهده فایل
+_C_MNU_SB_VIEW_ID3 نمایش/عدم نمایش پنل تگ
+_C_MNU_SB_VIEW_REFRESH تازه کردن مشاهده فایل
+_C_MNU_SB_VIEW_TAGS نمایش دیالوگ تگ گسترده
+_C_MNU_SB_VIEW_TOOLBAR نمایش/عدم نمایش نوارابزار
+_C_MNU_SB_WND_IDLE آماده
+_C_MNU_SB_WND_MAXIMIZE گسترش پنجره به اندازه تمام صفحه
+_C_MNU_SB_WND_MINIMIZE کمینه پنجره به نواروظیفه
+_C_MNU_SB_WND_MOVE انتقال موقعیت پنجره
+_C_MNU_SB_WND_RESTORE بازگرداندن پنجره به اندازه عادی از تمام صفحه یا کمینه
+_C_MNU_SB_WND_SIZE تغییر اندازه پنجره
+_C_MULTILINE چند خطی
+_C_OK تایید
+_C_OPT_ACTIONGROUPS اقدام گروه ها
+_C_OPT_ACTIONS اقدام ها
+_C_OPT_ACTIONS_TYPE نوع اقدام را انتخاب کنید
+_C_OPT_ADVANCED پیشرفته
+_C_OPT_ADVANCED_ID3V2LANG ID3v2 کد زبان توضیح (ISO-639-2)
+_C_OPT_ADVANCED_LISTCHAPTERS List chapters as separate files
+_C_OPT_CAPTION گزینه ها
+_C_OPT_CDDB_CAPTION پایگاه داده
+_C_OPT_CDDB_CHK_USEPROXY استفاده از پراکسی
+_C_OPT_CDDB_FRM_CDDB سرور پایگاه داده
+_C_OPT_CDDB_FRM_LOCALPATH مسیر پایگاه داده محلی:
+_C_OPT_CDDB_FRM_PROXY پراکسی
+_C_OPT_CDDB_RD_FMT_UNIX فرمت یونیکس
+_C_OPT_CDDB_RD_FMT_WIN فرمت ویندوز
+_C_OPT_CDDB_ST_ADDRESS آدرس:
+_C_OPT_CDDB_ST_EMAIL آدرس ایمیل:
+_C_OPT_CDDB_ST_NAME نام:
+_C_OPT_CDDB_ST_PATH مسیر:
+_C_OPT_CDDB_ST_PORT پورت:
+_C_OPT_CDDB_ST_PROXYNAME پراکسی:
+_C_OPT_CDDB_ST_PROXYPORT پورت:
+_C_OPT_CDDB_ST_PWD رمزعبور:
+_C_OPT_CDDB_ST_TIMEOUT تایم اوت:
+_C_OPT_CDDB_ST_USERNAME نام کاربری:
+_C_OPT_CDDB3_CAPTION محلی پایگاه داده
+_C_OPT_CON_FRM_FTT نام فایل - تگ
+_C_OPT_CON_FRM_TFF فایل متنی - تگ
+_C_OPT_CON_FRM_TTF تگ - نام فایل
+_C_OPT_CON_ST_FNAME نام فایل:
+_C_OPT_CON_ST_FS فرمت استرینگ:
+_C_OPT_DIR دایرکتوری ها
+_C_OPT_DIR_COVER دایرکتوری جلد هنری
+_C_OPT_EMPTY_HINT لطفا یک موضوع از زیر انتخاب کنید
+_C_OPT_EXP_CAPTION خروجیگیری
+_C_OPT_EXP_CHK_APPEND الحاق داده
+_C_OPT_EXP_CHK_WRITEBOM نوشتن ابتدای پیام
+_C_OPT_EXP_FRM_EXPORT خروجیگیری پیکربندی
+_C_OPT_EXP_RD_TRACK تراک
+_C_OPT_EXP_ST_FNAME نام فایل خروجیگیری:
+_C_OPT_EXP_ST_NAME نام جدید خروجیگیری پیکربندی
+_C_OPT_FMT_CASE تبدیل مورد
+_C_OPT_FMT_FRM_FTF نام فایل - نام فایل
+_C_OPT_FMT_ST_BEGIN لغات آغاز میشود از/بعد از هر:
+_C_OPT_FMT_ST_FNAME_NEW الگوی نام فایل جدید:
+_C_OPT_FMT_ST_FNAME_OLD الگوی نام فایل قدیمی:
+_C_OPT_FMT2 جایگزینی
+_C_OPT_FMT2_CASE مقايسه حساس به حروف
+_C_OPT_FMT2_COL_ORIGINAL اُرجینال
+_C_OPT_FMT2_COL_REPLACE جایگزینی با
+_C_OPT_FMT2_ONLYWORDS فقط بعنوان لغت کامل
+_C_OPT_GEN_CAPTION عمومی
+_C_OPT_GEN_CHK_AUTOSAVE ذخیره تگ حین استفاده از کلیدهای پیکان/تک کلیک ماوس
+_C_OPT_GEN_CHK_FOLDERSTART شروع از این دایرکتوری
+_C_OPT_GEN_CHK_GRID نمایش خطوط توری در مشاهده فایل
+_C_OPT_GEN_CHK_JUMPONEDIT انتخاب خودکار فایل بعدی حین ویرایش در مشاهده فایل
+_C_OPT_GEN_CHK_KEEPFILETIME حفظ زمان ویرایش فایل هنگام ذخیره تگ ها
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Keep moved files in file list
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS درهشدارها از اقدام ها
+_C_OPT_GEN_CHK_MSG_CHANGE بعد از تغییر
+_C_OPT_GEN_CHK_MSG_CUT در کات کردن تگ ها
+_C_OPT_GEN_CHK_MSG_DEL بعد از حذف
+_C_OPT_GEN_CHK_MSG_DELETEFILE در حذف کردن فایل ها
+_C_OPT_GEN_CHK_MSG_EXPORT در خروجیگیری تگ ها
+_C_OPT_GEN_CHK_MSG_PASTE در چسباندن تگ ها
+_C_OPT_GEN_CHK_MSG_REMOVETAGS در حذف کردن تگ ها
+_C_OPT_GEN_CHK_MSG_SAVE بعد از ذخیره
+_C_OPT_GEN_CHK_PL ایجاد لیست پخش خودکار
+_C_OPT_GEN_CHK_RELPL ورودی نسبی از دایرکتوری کاری
+_C_OPT_GEN_CHK_AUTOCOMPLETE تکمیل خودکار در جعبه انتخاب
+_C_OPT_GEN_CHK_SELECTFILES انتخاب خودکار فایل ها
+_C_OPT_GEN_CHK_SORTNATURAL استفاده مرتبسازی طبیعی
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH نمایش دایرکتوری فعلی در عنوان پنجره
+_C_OPT_GEN_FRM_GEN عمومی
+_C_OPT_GEN_FRM_MSG نمایش پیام
+_C_OPT_GEN_FRM_PL نام فایل لیست پخش
+_C_OPT_GEN_RD_PLALL از همه فایل ها
+_C_OPT_GEN_RD_PLSEL از فایل های انتخاب شده
+_C_OPT_GEN_ST_FAVDIR دایرکتوری موردعلاقه:
+_C_OPT_GEN2_CAPTION پیام ها
+_C_OPT_GENRES ژانر تعریف شده توسط کاربر
+_C_OPT_GENRES_HIDESTANDARD فقط نمایش ژانر تعریف شده توسط کاربر
+_C_OPT_ID3_CHK_ISO88591 همیشه نوشتن تگ ISO-8859-1 بجای UTF-16
+_C_OPT_ID3_CHK_LEADINGZEROS (01, 02, ...) صفرهای مقدم برای شماره تراک
+_C_OPT_ID3_CHK_LENGTHDEPENDEND ID3v2 فقط اگر ID3v1 خیلی کوچک است
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ خواندن
+_C_OPT_ID3_FRM_REMOVE حذف
+_C_OPT_ID3_FRM_WRITE نوشتن
+_C_OPT_LIB Library
+_C_OPT_LIB_CHK_ENABLE Enable Library
+_C_OPT_LIB_CHK_RESTRICT Only include these directories
+_C_OPT_LIB_CLEANUP Cleanup Library
+_C_OPT_MAPPING مسیردهی
+_C_OPT_MAPPING_FRM مسیردهی فیلدهای تعریف شده توسط کاربر 
+_C_OPT_MAPPING_SOURCE منبع
+_C_OPT_MAPPING_TARGET هدف
+_C_OPT_PLAYLIST_CAPTION لیست پخش
+_C_OPT_PLAYLIST_EXTENDED نوشتن اطلاعات گسترده
+_C_OPT_PLAYLIST_NOFOLDERS دایرکتوری ها را ایجاد نکن
+_C_OPT_PLAYLIST_SHOWDLG نمایش دیالوگ تصدیق نام فایل
+_C_OPT_TAG تگ ها
+_C_OPT_TAGS_COVER نام پیش فرض برای جلد هنری:
+_C_OPT_TAGS_EXT حالت ذخیره برای << و >> در دیالوگ تگ های گسترده:
+_C_OPT_TAGS_FILEFILTER محدودسازی فایل های ورودی به:
+_C_OPT_TAGS_NOIMG اولین عکس از دایرکتوری فایل را بعنوان جلد هنری نشان نده
+_C_OPT_TOOLS ابزارها
+_C_OPT_TOOLS_CHK_DEFAULT استفاده از برنامه ویژه در دابل کلیک:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES برای همه فایل های انتخاب شده
+_C_OPT_TOOLS_COL_PARAM پارامتر
+_C_OPT_TOOLS_COL_PATH مسیر
+_C_OPT_TOOLS_EDIT ابزار سفارشی سازی.نام و مسیر اجباری است
+_C_OPT_TOOLS_FRM_DEFAULT ابزار پیش فرض
+_C_OPT_TOOLS_FRM_TOOLS ابزارها
+_C_OVERWRITE جایگزینی
+_C_RENAME تغییرنام
+_C_TT_CDDB پایگاه داده...
+_C_TT_CDDBLOCAL پایگاه داده محلی...
+_C_TT_CLOSE بستن
+_C_TT_DIR تغییر دایرکتوری...
+_C_TT_EDIT_UNDO آندو
+_C_TT_EXPORT خروجیگیری
+_C_TT_FAVDIR دایرکتوری موردعلاقه
+_C_TT_FILE_ADD افزودن دایرکتوری...
+_C_TT_FILE_COPY کپی به...
+_C_TT_FILE_DELETE حذف...
+_C_TT_FILE_MOVE انتقال به...
+_C_TT_FILE_PLAY پخش
+_C_TT_FILE_PROPERTIES مشخصات...
+_C_TT_FILE_RENAME تغییرنام
+_C_TT_FTF نام فایل - نام فایل
+_C_TT_FTT نام فایل - تگ
+_C_TT_HELP محتویات راهنما...
+_C_TT_OPT دیالوگ گزینه ها...
+_C_TT_PLALL ایجاد لیست پخش از همه فایل ها
+_C_TT_PLSEL ایجاد لیست پخش از فایل های انتخاب شده
+_C_TT_REFRESH تازه کردن مشاهده فایل
+_C_TT_REMOVE حذف تگ
+_C_TT_SAVE ذخیره
+_C_TT_TFF فایل متن - تگ
+_C_TT_TTF تگ - نام فایل
+_C_TT_TTT تگ - تگ
+_C_TT_UPDIR بالا
+_C_WIZARD_TRACKS ویزارد شماره گذاری خودکار
+_C_WIZARD_TRACKS_BEGIN شروع از شماره تراک:
+_C_WIZARD_TRACKS_DESC Assign track- and discnumbers
+_C_WIZARD_TRACKS_DISC_BEGIN Begin at discnumber
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Leading zeros for discnumbers (01, 02, ...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Save total count of discs
+_C_WIZARD_TRACKS_DISCNUMBER Discnumber
+_C_WIZARD_TRACKS_RESETFOLDERS ریست شمارنده برای هر دایرکتوری
+_C_WIZARD_TRACKS_SAVETOTAL ذخیره مجموع تعداد تراک ها
+_C_WIZARD_TRACKS_TRACKNUMBER Tracknumber
+_M_ERR_CANCEL فرآیند لغو شده است
+_M_ERR_CDDB_CD خطای خواندن سی دی صوتی
+_M_ERR_CDDB_CONNECT خطای اتصال به سرور: {1}
+_M_ERR_CDDB_NOENTRY ورودی مناسب برای شناسه فری دی بی {1} نیافت
+_M_ERR_CDDB_NOENTRYINLOCALBD ورودی مناسب برای شناسه فری دی بی {1}در پایگاه داده '{2}' نیافت
+_M_ERR_CDDB_PARSER جستار نتیجه ای پیدا نداشت
+_M_ERR_CDDB_READ خطای خواندن داده از {1}
+_M_ERR_CONFIGURATION پیکربندی را نمیتوان وارد کرد
+_M_ERR_COPY فایل انتخاب شده را نمیتوان کپی کرد
+_M_ERR_DELETE فایل انتخاب شده را نمیتوان حذف کرد
+_M_ERR_FILECREATE فایل \"{1}\" را نمیتوان ایجاد کرد
+_M_ERR_FILEDELETE فایل \"{1}\" را نمیتوان حذف کرد
+_M_ERR_FILENAMEALREADYEXISTS فایل \"{1}\" از قبل موجود است
+_M_ERR_FILENAMEALREADYEXISTS2 فایل \"{1}\" تغییر نام داده نشد
+_M_ERR_FILEOPABORTED محتوای دایرکتوری فعلی ممکن است تغییر کرده باشد\n\nآیا میخواهید دایرکتوری فعلی مجدد خوانده شود؟
+_M_ERR_FILEOPEN فایل \"{1}\" را نمیتوان باز کرد
+_M_ERR_FILEREADONLY فایل \"{1}\" فقط خواندنی هست\n\nبرنامه حفاظت نوشت این و هر فایل فقط-خواندی را غیرفعال کند؟
+_M_ERR_FOLDERCANNOTBEACCESSED خطای دسترسی\n\nدایرکتوری \"{1}\" قابل دسترسی نیست
+_M_ERR_INVALID_FILENAME لطفا یک نام فایل معتبر انتخاب کنید
+_M_ERR_INVALID_FTF_FS استرینگ \"{1}\" فرمت استرینگ معتبر برای نام فایل نیست
+_M_ERR_INVALID_TOKEN {1}:\nکاراکترهای زیر در نام فایل اجازه داده نمیشوند:\n\\ / : * ? \" < > |\n\nمیخواهید خودکار تصحیح شود؟
+_M_ERR_MOVE فایل های انتخاب شده را نمیتوان انتقال داد
+_M_ERR_ONLINE_NOTFOUND متاسفانه،هیچ ورودی با معیار جستجوی شما تطبیق ندارد
+_M_ERR_OPT_CDDB_NOADDRESS لطفا آدرس سرور پایگاه داده را وارد کنید
+_M_ERR_OPT_CDDB_NOEMAIL لطفا آدرس ایمیل خود را در مسیر گزینه ها،پایگاه داده،سرور وارد کنید.آن برای دسترسی ورود به سرور پایگاه داده استفاده میشود
+_M_ERR_OPT_CDDB_NONAME لطفا نام معتبر برای پیکربندی وارد کنید
+_M_ERR_OPT_CDDB_NOPORT لطفا شماره پورت سرور پایگاه داده را وارد کنید
+_M_ERR_PARSELINE خط {1} را نمیتوان تجزیه کرد
+_M_ERR_PLAY فایل \"{1}\" را برای پخش نمیتوان باز کرد
+_M_ERR_READ_FILE فایل \"{1}\" نمیتواند برای خواندن باز شود
+_M_ERR_RENAME_FILE فایل \"{1}\" نمیتواند به \"{2}\" تغییر نام یابد
+_M_ERR_RETRY Do you want to retry?
+_M_ERR_TL_NOTAGS تطبی برای فایل \"{1}\" نیست
+_M_ERR_WRITE_FILE فایل \"{1}\" نمیتواند برای نوشتن باز شود
+_M_ERR_YN \n\nآیا ادامه میدهید؟
+_M_LOG_FMT_FNAME {1} از {2} فایل تغییر نام داده شد\n
+_M_LOG_FMT_TAG تگ فرمت شده در {1} از {2} فایل\n
+_M_LOG_FTF تعداد {1} از {2} فایل تغییرنام داده شد
+_M_LOG_FTT تگ از {1} از {2} فایل استخراج شد
+_M_LOG_PL_ALL لیست پخش \"{1}\" از همه ({2}) فایل ایجاد شد
+_M_LOG_PL_SEL لیست پخش \"{1}\" از ({2}) فایل انتخاب شده ایجاد شد
+_M_LOG_REMOVE تگ از فایل \"{1}\" حذف شد
+_M_LOG_REMOVED تگ از {1} از {2} فایل حذف شد
+_M_LOG_REMOVE_NOTAG تگی در فایل \"{1}\" نیست
+_M_LOG_SAVE تگ در فایل \"{1}\" ذخیره شد
+_M_LOG_SAVED تگ در فایل {1} of {2} ذخیره شد
+_M_LOG_TFF تگ ها از \"{1}\" به {2} از {3} فایل وارد شد
+_M_LOG_TFF_S تگ ها از \"{1}\" به یک فایل وارد شد
+_M_LOG_TTF {1} از {2} فایل تغییر نام داده شد
+_M_STAT_PLAY پخش فایل \"{1}\"...
+_M_STR_ACTION_ADJUSTCOVER Adjust cover
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Format
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
+_M_STR_ACTION_CODEPAGE تبدیل کد صفحه
+_M_STR_ACTION_CODEPAGE_DESC کد صفحه
+_M_STR_ACTION_EXPORTCOVER خروجیگیری جلد در فایل
+_M_STR_ACTION_EXPORTCOVER_DUPES خروجیگیری جلدهای تکراری
+_M_STR_ACTION_EXPORTCOVER_TYPES Export only covers of type
+_M_STR_ACTION_FORMAT مقدار فرمت
+_M_STR_ACTION_GUESS حدس مقادیر
+_M_STR_ACTION_GUESSPATTERN حدس الگو
+_M_STR_ACTION_GUESSSOURCE فرمت منبع
+_M_STR_ACTION_IMPORTCOVER واردکردن جلد از فایل
+_M_STR_ACTION_IMPORTCOVER_FS فرمت استرینگ برای نام فایل عکس:
+_M_STR_ACTION_IMPORTCOVER_DELETE حذف جلد هنری موجود
+_M_STR_ACTION_IMPORTCOVER_TYPE وارد کردن جلد بعنوانک
+_M_STR_ACTION_IMPORTTEXT واردکردن فایل متنی
+_M_STR_ACTION_MERGEDUPLICATEFIELDS ادغام فیلدهای تکراری
+_M_STR_ACTION_REGEXP جایگزینی با عبارت منظم
+_M_STR_ACTION_REGEXP_EXP بارت منظم
+_M_STR_ACTION_REGEXP_MATCH جایگزینی مشابه ها با
+_M_STR_ACTION_REMOVEDUPES حذف فیلدهای تکراری
+_M_STR_ACTION_REM حذف فیلدها
+_M_STR_ACTION_REM_DESC فیلدها برای حذف (نقطه ویرگول-جداشده):
+_M_STR_ACTION_REM_EX حذف فیلدها بجز
+_M_STR_ACTION_REM_EX_DESC فیلدها برای رهاگذاشتن (نقطه ویرگول-جداشده):
+_M_STR_ACTION_SPLITFIELDS تقسیم فیلد با جداساز
+_M_STR_ACTIONGROUP_NAME نام اقدام گروه
+_M_STR_ALBUM آلبوم
+_M_STR_ALBUMARTIST آلبوم هنرمند
+_M_STR_ALL_FILEDLGFILTER همه فایل ها (*.*)|*.*||
+_M_STR_ARTIST هنرمند
+_M_STR_AUTHOR نویسنده
+_M_STR_BACK < قبلی
+_M_STR_BROWSE_COPY کپی به:
+_M_STR_BROWSE_MOVE انتقال به:
+_M_STR_BROWSE_TEXT لطفا یک دایرکتوری که شامل فایل صوتی است را انتخاب کنید
+_M_STR_BYTES بایت
+_M_STR_CDDB_CD خواندن سی دی صوتی
+_M_STR_CDDB_CONNECT اتصال به {1}...
+_M_STR_CDDB_CONNECTED  !متصل شده
+_M_STR_CDDB_IDXDB_ENTRIES ورودی پایگاه داده ایجاد شد
+_M_STR_CDDB_RETRIEVE بازیافتن عنوان اطلاعات
+_M_STR_COLUMNFILENAME نام فایل
+_M_STR_COLUMNPATH مسیر
+_M_STR_COLUMNUSEDCOLS نشان داده شده
+_M_STR_COMBO_HOLD < حفظ کن >
+_M_STR_COMBO_REMOVE < خالی >
+_M_STR_COMBO_USER < واردکن >
+_M_STR_COMMENT توضیح
+_M_STR_COMPOSER آهنگساز
+_M_STR_COPYOF کپی {1}
+_M_STR_COVER جلد
+_M_STR_COVER_ADD آیا میخواهید جلد موجود را حفظ کنید؟
+_M_STR_COVER_CORRECTAR تصحیح نسبت دید
+_M_STR_COVER_SETDESC تظیم توضیحات جلد...
+_M_STR_COVER_SETTYPE تنظیم نوع جلد
+_M_STR_COVERVARIES جلد متفاوت
+_M_STR_CUSTOMIZE Customize...
+_M_STR_DAY روز
+_M_STR_DAYS روز
+_M_STR_DEFAULTVALUE Default value
+_M_STR_DISCID CDDB شناسه
+_M_STR_DISCOGS_OAUTH_PIN کد احراز هویت دیسکاگس را وارد کنید
+_M_STR_DISCNUMBER شماره دیسک
+_M_STR_ERR_CDDB_NOENTRYSELECTED یک ورودی انتخاب کنید
+_M_STR_EXPORT_DELETE خروجیگیری پیکربندی \"{1}\" حذف شود؟
+_M_STR_EXPORT_FILEDLGTITLE فایل خروجیگیری را انتخاب کنید
+_M_STR_EXPORT_MULTIPLE یک فایل در هر دایرکتوری
+_M_STR_EXPORT_SHOWEXPORTFILE \n\nحالا نمایش فایل خروجیگیری؟
+_M_STR_EXP_MSG خروجیگیری در {2} فایل پردازش شده و در '{1}' فایل نوشته شده است
+_M_STR_FIELD فیلد:
+_M_STR_FIELDSIZE Size of field
+_M_STR_FIELDROWS Rows
+_M_STR_FILE فایل
+_M_STR_FILEDELETE آیا میخواهید فایل های انتخاب شده حذف شوند؟
+_M_STR_FILEMODIFIED پیرایش شده
+_M_STR_FILESIZE حجم
+_M_STR_FILTER فیلتر:
+_M_STR_FMT_CAPITAL مورد مخلوط
+_M_STR_FMT_HIGH حروف بزرگ
+_M_STR_FMT_LOW حروف کوچک
+_M_STR_FMT_SENTENCE جمله
+_M_STR_FREEDBCREATEINDEX ایجاد فهرست پایگاه داده محلی؟\n\nاین چند دقیقه طول می کشد
+_M_STR_FREEDB_SEARCH پایگاه داده جستجوی وب
+_M_STR_GENRE ژانر
+_M_STR_GENRES ژانر ها
+_M_STR_HIDE مخفی
+_M_STR_ITEMALREADYEXISTS یک آیتم از قبل با این نام وجود دارد،جایگزین شود؟
+_M_STR_LANGUAGE زبان
+_M_STR_M3U_FILEDLGFILTER فایل های پشتیبانی شده (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_METADATA فراداده
+_M_STR_MOVEDOWN به پایین
+_M_STR_MOVEUP به بالا
+_M_STR_MPEGBITRATE نرخ بیت
+_M_STR_MPEGFREQUENCY فرکانس
+_M_STR_MPEGLENGTH طول
+_M_STR_MPEGMODE حالت
+_M_STR_MPEGVERSION کدک
+_M_STR_MSGCUT آیا میخواهید تگ ها را از فایل های انتخاب شده حذف کرده و تگ ها را به کلیپ برد کپی کنید؟
+_M_STR_MSGPASTE آیا میخواهید محتویات کلیپ برد را بعنوان تگ های جدید فایل های انتخاب شده بچسبانید؟
+_M_STR_MSGREMOVE آیا میخواهید تگ فایل های انتخاب شده را حذف کنید؟
+_M_STR_NAME نام
+_M_STR_NETWORKING شبکه
+_M_STR_NEXT بعدی >
+_M_STR_NOACTION - بدون اقدام -
+_M_STR_NOACTIONENABLED لطفا حداقل یک اقدام را توسط نشانه گذار را هنگام استفاده از این ویژگی فعال کنید
+_M_STR_NUMERIC عددی
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH لطفا یک مسیر کاری برای پایگاه داده محلی انتخاب کنید
+_M_STR_OPT_CDDB_PROCEED این سرورها را حذف میکند \n\nآیا میخواهید ادامه دهید؟\n
+_M_STR_OPTIMIZEMP4 MP4 بهسازی
+_M_STR_OPTS_ALWAYS همیشه
+_M_STR_OPTS_ASK درنگ
+_M_STR_OPTS_NEVER هرگز
+_M_STR_PLNAME لیست پخش - نام فایل
+_M_STR_PL_CONFIRM ایجاد لیست پخش با این نام
+_M_STR_PL_SAVEFILTER فایل لیست پخش (*.m3u)|*.m3u|فایل لیست پخش یونیکد (*.m3u8)|*.m3u8|| 
+_M_STR_PREVIEW پیشنمایش
+_M_STR_PROPERTIES {1} مشخصات
+_M_STR_QUICK سریع
+_M_STR_RECURSE زیردایرکتوری ها
+_M_STR_REST ریست
+_M_STR_SAVE_NOT < وابسته سازی ندارد >
+_M_STR_SAVECONFIG تنظیمات در '{1}' ذخیره شد\n\nبرای ارتباط مجدد با تنظیمات آرشیو را استخراج کنید در اینجا\n\"{2}\".
+_M_STR_SAVECONFIG_FILEDLGFILTER فایل پیکربندی (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE ذخیره پیکربندی در...
+_M_STR_SAVEIMAGE ذخیره عکس در تگ
+_M_STR_SAVEIMAGEDIRECTORY ذخیره عکس در دیسک
+_M_STR_SAVESELECTION ذخیره انتخاب...
+_M_STR_SB_ABORTED لغو شده
+_M_STR_SB_ACTION اِعمال اقدامات در فایل {1} از {2}
+_M_STR_SB_CLEANUPDATABASE Processing files ... {1} of {2} ({3} cleaned)
+_M_STR_SB_CLEANUPDATABASE_BINARIES Cleanup orphaned binaries
+_M_STR_SB_CLEANUPDATABASE_COVERS Cleanup orphaned covers
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Cleanup non-library files
+_M_STR_SB_EXPORTTAGS خروجیگیری اطلاعات تگ {1} رکورد از {2} فایل
+_M_STR_SB_LOADTAGS خواندن داده تگ ... {1} از {2}
+_M_STR_SB_READDIRECTORY خواندن دایرکتوری
+_M_STR_SB_REMOVETAGS حذف داده تگ ... {1} از {2}
+_M_STR_SB_RENAMEFILES تغییرنام فایل ... {1} از {2}
+_M_STR_SB_WRITETAGS نوشتن داده تگ ... {1} از {2}
+_M_STR_SHOWCHOOSEDLG نمایش دیالوگ انتخاب
+_M_STR_SEARCHBY جستجو با:
+_M_STR_SEARCHTEXT متن:
+_M_STR_SEPARATOR جداساز
+_M_STR_SHOW نمایش
+_M_STR_SIZE_LARGE Large
+_M_STR_SIZE_MEDIUM Medium
+_M_STR_SIZE_NORMAL Normal
+_M_STR_SIZE_SMALLER Smaller
+_M_STR_SIZE_SMALL Small
+_M_STR_SNA منطقه اطلاع رسانی
+_M_STR_SNA_SHOW همیشه آیکون را در منطقه اطلاع رسانی نمایش بده
+_M_STR_SNA_SHOWMIN کمینه در منطقه اطلاع رسانی
+_M_STR_STRIPCHAPTERSMP4 Strip MP4 chapters
+_M_STR_TAG_COPIED تگ های {1}فایل به کلیپ برد کپی شد
+_M_STR_TAG2 تگ
+_M_STR_TAGFIELDS_REMOVE حذف فیلد
+_M_STR_TAGFIELDS_REMOVEALL حذف همه فیلد ها...
+_M_STR_TAGFIELDS_REMOVEALLMSG آیا میخواهید همه فیلدها را از لیست حذف کنید؟
+_M_STR_TAGFIELDS_RESET ریست فیلدها...
+_M_STR_TAGFIELDS_RESETMSG آیا میخواهید لیست فیلدها را به پیش فرض ریست کنید؟
+_M_STR_TAGPANEL پنل تگ
+_M_STR_TAGPANEL_COVER نمایش جلد هنری
+_M_STR_TAGPANEL_DIRECTORY نمایش تعویض کننده دایرکتوری
+_M_STR_TAGLIST_FILEDLGFILTER فایل متنی ({1})
+_M_STR_TAGLIST_FILEDLGTITLE فایل متنی را انتخاب کنید
+_M_STR_TAGSOURCES منابع تگ
+_M_STR_THISALBUMON این آلبوم در {1}
+_M_STR_TITLE عنوان
+_M_STR_TRYAGAIN آیا می خواهید مجددا سعی کنید؟
+_M_STR_TTF تگ - نام فایل
+_M_STR_UPDATE_FRM بروزرسانی
+_M_STR_UPDATE_OPT_CHECK بررسی بروزرسانی در اِستارت آپ
+_M_STR_UPDATE_OPT_CHECK_BETA همچنین بررسی نسخه بتا
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Display release notes for new versions
+_M_STR_UPDATEAVAILABLE نسخه جدید {1} موجود است\n\nمیخواهید بروز رسانی را از {2} حالا دانلود کنید؟
+_M_STR_UPDATENOTAVAILABLE شما از جدیدترین نسخه {1} استفاده میکنید\n\nبروز رسانی موجود نیست
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS ابزار
+_M_STR_VALUE مقدار
+_M_STR_VERSION نسخه
+_M_STR_YEAR سال
+_M_TP_CDDB_LOCALPATH تعیین دایرکتوری پایگاه داده محلی
+_M_TP_CDDB_SITES لیست فعلی سرورهای پایگاه داده توسط اینترنت
+_M_TP_CVR_CLIPBOARD چسباندن جلد
+_M_TP_CVR_CLIPBOARD_COPY کپی جلد
+_M_TP_CVR_CLIPBOARD_CUT کات جلد
+_M_TP_CVR_DEL حذف جلد
+_M_TP_CVR_NEW افزودن جلد...
+_M_TP_CVR_SAVE استخراج جلد...
+_M_TP_DUPLICATE تکراری
+_M_TP_EXP_DEL حذف
+_M_TP_EXP_EDIT ویرایش
+_M_TP_EXP_FILE فایل خروجیگیری را انتخاب کنید
+_M_TP_EXP_HLP نمایش راهنمای سریع
+_M_TP_EXP_LOAD بارگیری پیکربندی...
+_M_TP_EXP_NEW جدید
+_M_TP_EXP_SAVE ذخیره پیکربندی...
+_M_TP_GEN_DIR انتخاب دایرکتوری
+_M_TP_TAG_DEL حذف فیلد
+_M_TP_TAG_EDIT ویرایش فیلد...
+_M_TP_TAG_NEW افزودن فیلد...
+_M_TS_ADDINFO اطلاعات اضافی
+_M_TS_MULTIPLEVALUES چندین مقدار
+_M_TS_RELEASE انتشار
+_M_TS_TRACKS تراک ها
+_M_UNDO_CANNOTUNDO نمیتوان {1} را آندو کرد
+_M_UNDO_CDDB پایگاه داده
+_M_UNDO_DIRECTORYCREATE ایجاد دایرکتوری
+_M_UNDO_DIRECTORYMOVE انتقال دایرکتوری
+_M_UNDO_FORMAT فرمت
+_M_UNDO_FTF نام فایل - نام فایل
+_M_UNDO_FTT نام فایل - تگ
+_M_UNDO_REMOVEFILE حذف
+_M_UNDO_RENAME تغییرنام
+_M_UNDO_TAGCHANGE تغییر تگ
+_M_UNDO_TAGREMOVE حذف تگ
+_M_UNDO_TAGSAVE ذخیره تگ
+_M_UNDO_TFF فایل متن - تگ
+_M_UNDO_TTF تگ - نام فایل

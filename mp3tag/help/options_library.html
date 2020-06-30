@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<!-- Florian Heidenreich -->
+	<!-- https://www.mp3tag.de/en/ -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta name="Author" content="Florian Heidenreich" />
+	<meta name="Description" content="Mp3tag Help - Configuration &gt; Library" />
+	<meta name="Keywords" content="" />
+	<title>Mp3tag Help - Configuration, Library</title>
+	<link rel="stylesheet" type="text/css" href="content.css" />
+</head>
+<body>
+<div id="left">
+		
+<ul>
+	<li><a href="index.html">Index</a></li>
+	<li><a href="main_commands.html">Menus</a></li>
+	<li><a href="main_converter.html">Convert</a></li>
+	<li><a href="options_format.html">Actions</a></li>
+	<li><a href="options_export.html">Export</a></li>
+	<li><a href="main_scripting.html">Scripting</a></li>
+	<li><a href="main_filter.html">Filter</a></li>
+	<li><a href="main_viewcolumns.html">Columns</a></li>
+	<li><a href="options.html">Options</a></li>
+	<li class="separator"></li>
+	<li><a href="misc_donate.html">Donate</a></li>
+</ul>
+
+</div>
+
+	<div id="wrap2">
+	<div id="header"><a href="index.html" title="Back to main page"><img src="images/banner.gif" alt="Back to main page" title="Back to main page" /></a></div>
+
+	<div>
+		
+		<h1><a href="options.html" title="Back to Configuration overview...">Configuration</a> &gt; Library</h1>
+		
+		<h2>Enable Library</h2>
+		<p>
+			Normally, Mp3tag reads metadata from files when loading files, directories or playlists and stores the data in memory. Then, 
+			when you close Mp3tag, the data once read from the files is discarded and must be read again the next time you're working with
+			those files in Mp3tag.
+		</p>
+		<p>
+			This can become both time consuming and memory intensive, especially when dealing with large amounts of files. If you enable the 
+			Library in Mp3tag, metadata is first read from the files and then stored in a database that resides in Mp3tag's configuration folder.
+			On subsequent reads of the file, the metadata is read directly from the database and updated iff the file's modification timestamp
+			has been changed. In addition to that, cover art or other binary data is stored solely in the database, which can reduce the amount
+			of memory that is consumed by Mp3tag significantly.
+		</p>
+		<h2>Only include these directories</h2>
+		<p>
+			If you only want to keep metadata of certain directories in Mp3tag's Library, you can configure specific directories that are
+			included in Mp3tag's Library. Files that reside outside of these directories are not permanently stored in Mp3tag's Library.
+		</p>
+		<h2>Cleanup Library</h2>
+		<p>
+			Mp3tag keeps track of files if the they're deleted or moved from inside of Mp3tag. If you delete or move files outside of Mp3tag,
+			it's possible that orphaned entries are kept in the database. While this is not a problem per se, you can remove those entries
+			with this option. It checks whether the referenced files are still on your hard drive and removes the entries if it cannot access
+			the file anymore. Just to keep things clean and tidy :)
+		</p>
+		
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>	
+	</div>
+	
+	<p class="copyright"><strong>Made with love in Dresden.</strong> Copyright &copy; 1999-2020 <a href="https://www.mp3tag.de/en/" class="external">Florian Heidenreich</a>. All rights reserved.</p>
+
+	</div>
+</body>
+</html>

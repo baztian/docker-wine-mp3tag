@@ -1,0 +1,622 @@
+﻿LANGAUTHOR அனிஷ்பிரபு தி
+LANGCONTACT anishprabu243@gmail.com
+LANGVERSION 2.98
+LANGNAME Tamil
+LANGNAMELOC தமிழ்
+SLangCancel ரத்துசெய்
+SLangOk ஆமாம்
+SLangErrCatch இயக்கப் பிழை\n\nகோப்பு:\t{1}\nவரிசை:\t{2}\n\nபயன்பாடு எதிர்பாராத விதிவிலக்கு எதிர்கொண்டது மற்றும் வரையறுக்கப்படாத நிலையில் உள்ளது. தயவுசெய்து விண்ணப்பத்தை மூடிவிட்டு  \n\n{3}\n\nஎங்கள் ஆதரவு ஊழியர்களுக்கு ஒரு விரிவான பிழை விளக்கம் அனுப்பவும்.\n\nமின்னஞ்சல்: support@mp3tag.de
+SLangErrCheck இயக்கப் பிழை\n\nகோப்பு:\t{1}\nவரிசை:\t{2}\nநிறுத்தம்:\t{3}\nவகை:\t0x{4}\n\nபயன்பாடு எதிர்பாராத விதிவிலக்கு எதிர்கொண்டது, வரையறுக்கப்படாத நிலையில் உள்ளது. தயவுசெய்து விண்ணப்பத்தை மூடிவிட்டு .\n\n{5}\n\nஎங்கள் ஆதரவு ஊழியர்களுக்கு ஒரு விரிவான பிழை விளக்கம் அனுப்பவும். \n\nமின்னஞ்சல்: support@mp3tag.de
+SLangErrDriveCannotBeAccessed இயக்ககம் {1} அணுக முடியாது.
+SLangErrFileCannotBeAccessed கோப்பு {1} அணுக முடியாது.
+SLangErrFileCannotBeDeleted கோப்பு {1} நீக்கப்படமுடியாது.\n\n» தயவு செய்து வேறு எந்த செயல்களும் கோப்பைப் பயன்படுத்துவதில்லை என்பதை உறுதிப்படுத்தவும்.
+SLangErrFolderCannotBeAccessed அடைவு {1} அணுக முடியாது.
+SLangErrFolderCannotBeDeleted அடைவு {1} நீக்கப்படமுடியாது.\n\n» தயவுசெய்து வேறு எந்த செயல்களும் அடைவைப் பயன்படுத்துவதில்லை என்பதை உறுதிப்படுத்தவும்.
+SLangErrHelpBrowserIsNotAvailable Mp3குறி உங்கள் தரநிலை வலை உலாவியில் உதவி கோப்பை காட்ட முடியவில்லை..
+SLangErrHelpSystemIsNotAvailable உதவி அமைப்பு கிடைக்கவில்லை.\n\n» {1}தயவுசெய்து மீண்டும் நிறுவுக.
+SLangErrHelpTopicIsNotAvailable உதவி தலைப்பு கிடைக்கவில்லை.\n\n» எங்கள் ஆதரவு ஊழியர்களை தொடர்பு கொள்ளவும்.\n\nமின்னஞ்சல்: support@Mp3குறி.de
+SLangErrNotEnoughFreeDiskSpace சாதனம்{1}இல் போதுமான இடமில்லை.\n\n» தயவுசெய்து குறைந்தது{2} இடத்தை உறுதிப்படுத்தவும்.
+SLangErrRegistryCannotBeAccessed தரவு படிப்பதில் பிழை ஏற்பட்டது\n\nவிண்டோஸ் பதிவகத்தை அணுக முடியவில்லை.
+SLangMsgItemExistsAlready இந்த விளக்கத்துடன் ஒரு பதிவு ஏற்கனவே உள்ளது.\n\n» தயவுசெய்து மற்றொரு விளக்கம் பயன்படுத்தவும்.
+SLangMsgFirstSteps முதல் படிகள் பயன்படுத்தி கொள்ள சில நேரம் எடுத்து கொள்ளவும்.
+SLangMsgShutdownInfo {1}மூடப்படும்போது தயவு செய்து காத்திருங்கள்.
+SLangWrnAppIsAlreadyRunning இந்த பயன்பாட்டின் ஒரு நிகழ்வு ஏற்கனவே இயங்குகிறது.
+SLangWrnAppHasToBeRestarted Mp3குறி மாற்றங்களை மீண்டும் தொடங்க வேண்டும்.\n\nஇப்போது Mp3குறி மீண்டும் தொடங்க வேண்டுமா?
+SLangWrnNameContainsInvalidCharacters விளக்கத்தில் தவறான எழுத்துகள் உள்ளன.\n\n» தயவுசெய்து மற்றொரு விளக்கம் பயன்படுத்தவும்.
+SLangWrnStartLogging நீங்கள் {1} FLOG1 கட்டளை வரி அளவுருவுடன் தொடங்கினீர்கள். பிழைத்திருத்த நோக்கங்களுக்காக இந்த அளவுரு பயன்படுத்தப்படுகிறது.\n\nஉள்நுழைவு அம்சத்தை தொடங்க வேண்டுமா?
+_C_ABORT கைவிடு
+_C_ABORTING கைவிடப்படுகிறது...
+_C_APP_ST_ALBUM ஆல்பம்
+_C_APP_ST_ARTIST கலைஞர்
+_C_APP_ST_COMMENT கருத்து
+_C_APP_ST_FOLDER கோப்பகம்
+_C_APP_ST_GENRE வகை
+_C_APP_ST_TITLE தலைப்பு
+_C_APP_ST_TRACK தடம்
+_C_APP_ST_YEAR ஆண்டு
+_C_CANCEL &ரத்துசெய்
+_C_CANCELING ரத்துசெய்கிறது...
+_C_CLOSE மூடு
+_C_DLG_CDDBCONFIRM_CAPTION தேடல் முடிவுகளின் பட்டியல்...
+_C_DLG_CDDBCONFIRM_CHK_DISCID கருத்து புலம்க்கு வட்டு அடையளம் நகலெடு
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 வட்டு அடையளம் ஐ DISCID புலத்திற்கு நகலெடுக்கவும்
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER தொகு...
+_C_DLG_CDDBCONFIRM_CHK_SORT வரிசையாக்க பரிந்துரை
+_C_DLG_CDDBCONFIRM_ST_INFO ஒன்றுக்கு மேற்பட்ட முடிவு காணப்பட்டது.\nதயவுசெய்து ஒன்றைத் தேர்வு செய்க:
+_C_DLG_CDDBCONFIRM_ST_INFO2 {1} தரவுத்தளத்தில் {2} தேடல் முடிவுகள் உள்ளன.\nதயவுசெய்து ஒன்றைத் தேர்வு செய்க:
+_C_DLG_CDDBCONFIRM_STC_TOP தயவுசெய்து ஒன்றைத் தேர்வு செய்க
+_C_DLG_CDDBINPUT_CAPTION freedb அடையளம் உள்ளிடவும்
+_C_DLG_CDDBINPUT_ST_CATEGORY வகை:
+_C_DLG_CDDBINPUT_ST_ID freedb அடையளம்:
+_C_DLG_CDDBSTYLE_CAPTION freedb
+_C_DLG_CDDBSTYLE_RD_CDROM செருகப்பட்ட ஆடியோ குறுவட்டிலிருந்து தீர்மானிக்க
+_C_DLG_CDDBSTYLE_RD_ENTER உள்ளிடவும்
+_C_DLG_CDDBSTYLE_RD_MP3 தேர்ந்தெடுக்கப்பட்ட கோப்புகளில் இருந்து தீர்மானிக்கவும்
+_C_DLG_CDDBSTYLE_RD_SEARCH வலைத் தேடல் மூலம் தீர்மானிக்கவும்
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL உரை தேடல் மூலம் தீர்மானிக்கவும்
+_C_DLG_CDDBSTYLE_STC_TOP freedb அடையளம்...
+_C_DLG_COLUMNS_CAPTION நெடுவரிசைகள்
+_C_DLG_COLUMNS_TOP நெடுவரிசைகளின் தெரிவுநிலையைச் சரிசெய்யவும்
+_C_DLG_TAGS குறிச்சொல்லை தகவல் திருத்தவும்
+_C_DLG_TTF_TOP வடிவம் சரத்தைத் தேர்ந்தெடுக்கவும்
+_C_HELP உதவி
+_C_MNU_ACTIONS செயல்கள்\tALT+6
+_C_MNU_CON மாற்றுக
+_C_MNU_CON_FTF கோப்புபெயர் - கோப்பு பெயர்\tALT+3
+_C_MNU_CON_FTT கோப்புபெயர் - குறி\tALT+2
+_C_MNU_CON_TFF உரை கோப்பு - குறி\tALT+4
+_C_MNU_CON_TTF &குறி - கோப்புபெயர்\tALT+1
+_C_MNU_CON_TTT குறி - குறி\tALT+5
+_C_MNU_EDIT திருத்து
+_C_MNU_EDIT_COPY நகல் \tCtrl+C
+_C_MNU_EDIT_CUT வெட்டு \tCtrl+X
+_C_MNU_EDIT_INVERTSELECTION தலைகீழ் தேர்வு\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT அடுத்த கோப்பை தேர்வு \tCtrl+N
+_C_MNU_EDIT_PASTE ஒட்டு \tCtrl+V
+_C_MNU_EDIT_SELECT எல்லா கோப்புகளையும் தேர்ந்தெடுக்கவும்\tCtrl+A
+_C_MNU_EDIT_UNDO செயல்தவிர்\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL எல்லாவற்றையும் தேர்வுநீக்கு\tCtrl+U
+_C_MNU_EXTRA கருவிகள்
+_C_MNU_EXTRA_OPTIONS விருப்பங்கள்...\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS அனைத்து உள்ளீட்டு புலங்களை மீட்டமை\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS உள்ளீடு துறைகள் இயல்புநிலை மதிப்புகள்\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD தானியங்கு-எண் வழிகாட்டி...\tCtrl+K
+_C_MNU_FILE கோப்பு
+_C_MNU_FILE_ADD அடைவைச் சேர்...
+_C_MNU_FILE_CDDB freedb...\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL freedb (உள்ளூர்)...\tCtrl+L
+_C_MNU_FILE_COPY நகலெடு...
+_C_MNU_FILE_DELETE நீக்கு...
+_C_MNU_FILE_DIR அடைவு மாற்று...\tCtrl+D
+_C_MNU_FILE_EXIT வெளியேறு\tAlt+F4
+_C_MNU_FILE_EXPORT &ஏற்றுமதி...\tCtrl+E
+_C_MNU_FILE_FAVDIR &பிடித்த அடைவு\tCtrl+F
+_C_MNU_FILE_MOVE நகர்த்து...
+_C_MNU_FILE_PLALL இயக்கு பட்டியல் (அனைத்து கோப்புகள்) \tCtrl+P
+_C_MNU_FILE_PLAY இயக்கு
+_C_MNU_FILE_PLAYLIST இயக்கு பட்டியல்/குறித்தாள் ஏற்றவும்...
+_C_MNU_FILE_PLSEL இயக்கு பட்டியல் (தேர்ந்தெடுக்கப்பட்ட கோப்புகள்)
+_C_MNU_FILE_PROPERTIES குணங்கள்...
+_C_MNU_FILE_READ குறி வாசிக்க\tCtrl+T
+_C_MNU_FILE_REMOVE குறி நீக்கவும்\tCtrl+R
+_C_MNU_FILE_REMOVEFILE நீக்கவும்\tDel
+_C_MNU_FILE_RENAME மறுபெயரிடு\tF2
+_C_MNU_FILE_SAVE குறியை சேமிக்கவும்\tCtrl+S
+_C_MNU_FILE_SAVECONFIG உள்ளமைவை சேமி...
+_C_MNU_FREEDB freedb
+_C_MNU_FREEDB_INDEX உள்ளூர் குறியீட்டை உருவாக்கவும்
+_C_MNU_FS_EXT நீட்டிக்கப்பட்ட துறைகள்
+_C_MNU_FS_FNCT பணிகள்
+_C_MNU_FS_INFO தகவல் துறைகள்
+_C_MNU_FS_REM வரலாற்றில் இருந்து நீக்கு
+_C_MNU_FS_REMALL வரலாற்றில் இருந்து அனைத்தையும் அகற்று ...
+_C_MNU_FS_REMALL_MSG எல்லா உருப்படிகளையும் அகற்ற விரும்புகிறீர்களா?
+_C_MNU_HELP உதவி
+_C_MNU_HELP_ABOUT Mp3குறி பற்றி...
+_C_MNU_HELP_DONATE நன்கொடை
+_C_MNU_HELP_FINDER பொருளடக்கம்...\tF1
+_C_MNU_HELP_FIRSTSTEPS முதல் படிகள்
+_C_MNU_HELP_KEYBOARD விசைப்பலகை குறுக்குவழிகள்
+_C_MNU_HELP_SUPPORT ஆன்லைன் ஆதரவு...
+_C_MNU_HELP_UPGRADE புதிய பதிப்பைச் சரிபார்க்கவும்...
+_C_MNU_HELP_WWW Mp3குறி வலைத்தளம்...
+_C_MNU_TAGSOURCES குறி ஆதாரங்கள்
+_C_MNU_TOOLS கருவிகள்
+_C_MNU_VIEW காட்சி
+_C_MNU_VIEW_COLUMNS நெடுவரிசைகளைத் தனிப்பயனாக்கு...
+_C_MNU_VIEW_FILTER வடிகட்டி\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY தானாக வடிப்பான் அமை
+_C_MNU_VIEW_ID3 குறி பலகை\tCtrl+Q
+_C_MNU_VIEW_REFRESH புதுப்பிப்பு\tF5
+_C_MNU_VIEW_SORTBY இதன்முலம் வரிசைப்படுத்து
+_C_MNU_VIEW_TAGS நீட்டிக்கப்பட்ட குறிப்புகள்...\tALT+T
+_C_MNU_VIEW_TOOLBAR கருவிப்பட்டை
+_C_MNU_SB_ACTIONS தேர்ந்தெடுக்கப்பட்ட கோப்புகளை பயனர் வரையறுத்த செயல்களை (வழக்கு மாற்று, பதிலாக, ...) பயன்படுத்துகிறது.
+_C_MNU_SB_CON_FTF பழைய கோப்பு பெயரை அடிப்படையாகக் கொண்ட வரையறுக்கப்பட்ட முறைக்குப் பிறகு மறுபெயரிடுக.
+_C_MNU_SB_CON_FTT கோப்புப் பெயரிலிருந்து குறிச்சொற்களை இறக்குமதி செய்.
+_C_MNU_SB_CON_TFF உரை கோப்புகளிலிருந்து குறிச்சொற்களை இறக்குமதி செய்.
+_C_MNU_SB_CON_TTF குறிச்சொற்களை அடிப்படையாக வரையறுக்கப்பட்ட முறைக்குப் பின் மறுபெயரிடுக.
+_C_MNU_SB_CON_TTT குறிச்சொற்களை அடிப்படையாக குறிச்சொற்களை வடிவமைப்பு.
+_C_MNU_SB_EDIT_COPY தேர்ந்தெடுக்கப்பட்ட கோப்பின் நகல் அல்லது கிளிப்போர்டில் குறியீட்டை நகலெடுக்கவும்.
+_C_MNU_SB_EDIT_CUT தேர்ந்தெடுத்த கோப்பின் உரை தேர்வு அல்லது குறியை வெட்டி அதை கிளிப்போர்டில் நகர்த்தவும்.
+_C_MNU_SB_EDIT_INVERTSELECTION தற்போதைய தேர்வை மாற்று.
+_C_MNU_SB_EDIT_NEXT கோப்பின் பார்வையில் அடுத்த கோப்பைக் குறிக்கவும்.
+_C_MNU_SB_EDIT_PASTE கிளிப்போர்டின் உள்ளடக்கத்தை செருகும் குறியில் அல்லது தேர்ந்தெடுக்கப்பட்ட கோப்பில் ஒட்டவும்.
+_C_MNU_SB_EDIT_SELECT கோப்புக் காட்சியில் இருந்து கோப்புகளைத் தேர்ந்தெடுங்கள்.
+_C_MNU_SB_EDIT_UNDO கடைசி செயல்பாட்டைச் செயல்தவிர்க்கவும்.
+_C_MNU_SB_EDIT_UNSELECTALL எல்லா கோப்புகளையும் தேர்வுநீக்குக.
+_C_MNU_SB_EXTRA_OPTIONS காட்சி விருப்பங்கள் உரையாடல்.
+_C_MNU_SB_EXTRA_RESET_EDITS குறியீட்டு பலகையில் அனைத்து உள்ளீடு துறையிலிருந்து உரையை அகற்று.
+_C_MNU_SB_EXTRA_SET_EDITS அனைத்து உள்ளீட்டு துறையையும் குறியீட்டு பலகத்தில் வரையறுக்கப்படும் நிலையான மதிப்புகள்.
+_C_MNU_SB_EXTRA_TRACKWIZARD தானியங்கி டிராக்கின்-எண் வழிகாட்டி இயங்குகிறது.
+_C_MNU_SB_FILE_ADD கோப்புகளை பட்டியலில் அடைவு சேர்க்கவும்.
+_C_MNU_SB_FILE_CDDB இணைய இணைப்பு வழியாக செருகப்பட்ட ஆடியோ குறுவட்டு அல்லது தேர்ந்தெடுக்கப்பட்ட ஆடியோ கோப்புகளை பற்றிய தகவலைப் பெறவும்.
+_C_MNU_SB_FILE_CDDBLOCAL உள்ளூர் freedb தரவுத்தளத்தின் வழியாக செருகப்பட்ட ஆடியோ குறுவட்டு அல்லது தேர்ந்தெடுக்கப்பட்ட கோப்புகளை பற்றிய தகவலைப் பெறவும்.
+_C_MNU_SB_FILE_COPY தேர்ந்தெடுத்த கோப்புகளை நகலெடுக்கவும்.
+_C_MNU_SB_FILE_DELETE தேர்ந்தெடுக்கப்பட்ட கோப்புகளை நீக்கு.
+_C_MNU_SB_FILE_DIR தற்போதைய பணி அடைவு மாற்றவும்.
+_C_MNU_SB_FILE_EXIT பயன்பாட்டிலிருந்து வெளியேறவும்.
+_C_MNU_SB_FILE_EXPORT தேர்ந்தெடுத்த கோப்புகளிலிருந்து குறி மற்றும் கோப்பு தகவல் ஏற்றுமதி.
+_C_MNU_SB_FILE_FAVDIR இயல்புநிலை அடைவுக்கு மாற்றவும்.
+_C_MNU_SB_FILE_FREEDBINDEX உள்ளூர் freedb மூலம் தேடி உள்ளூர் freedb குறியீட்டு தரவுத்தள உருவாக்க.
+_C_MNU_SB_FILE_MOVE தேர்ந்தெடுத்த கோப்புகளை மற்றொரு அடைவுக்கு நகர்த்தவும்.
+_C_MNU_SB_FILE_PLALL இயக்கு பட்டியல் உருவாக்கவும்.from all files.
+_C_MNU_SB_FILE_PLAY தேர்ந்தெடுக்கப்பட்ட கோப்புகளை இயக்கு.
+_C_MNU_SB_FILE_PLAYLIST ஒரு இயக்கு பட்டியலின் உள்ளடக்கங்களை ஏற்றும்.
+_C_MNU_SB_FILE_PLSEL தேர்ந்தெடுக்கப்பட்ட பட்டியலிலிருந்து இயக்கு பட்டியலை உருவாக்கவும்.
+_C_MNU_SB_FILE_PROPERTIES தேர்ந்தெடுத்த கோப்பின் பண்புகள் காட்டு.
+_C_MNU_SB_FILE_READ தேர்ந்தெடுத்த கோப்பிலிருந்து குறியீட்டு பலகத்தில் உள்ளீடு துறைகளுக்கு குறிப்பைப் படிக்கவும்.
+_C_MNU_SB_FILE_REMOVE தேர்ந்தெடுத்த கோப்பில் இருந்து குறி நீக்கவும்.
+_C_MNU_SB_FILE_REMOVEFILE தேர்ந்தெடுக்கப்பட்ட கோப்புகளை அகற்று.
+_C_MNU_SB_FILE_RENAME தேர்ந்தெடுத்த கோப்பினை மறுபெயரிடு.
+_C_MNU_SB_FILE_SAVE தேர்ந்தெடுக்கப்பட்ட கோப்பில் குறிகளை சேமிக்கவும்.
+_C_MNU_SB_FILE_SAVECONFIG ஒரு கட்டமைப்பு கோப்பில் தற்போதைய அமைப்புகளை சேமிக்கவும்.
+_C_MNU_SB_HELP_ABOUT Mp3குறி பற்றிய தகவல்.
+_C_MNU_SB_HELP_CONTEXT சொடுக்கப்பட்ட துறைகளுக்கு, மெனுக்கள் மற்றும் சாளரங்களுக்கான சூழல் உதவி காட்டு.
+_C_MNU_SB_HELP_DONATE Mp3குறியின் வளர்ச்சிக்கு ஆதரவாக தயவுசெய்து நன்கொடை அளியுங்கள்.
+_C_MNU_SB_HELP_FINDER உதவி உள்ளடக்கங்களைக் காண்பி.
+_C_MNU_SB_HELP_FIRSTSTEPS Mp3குறிக்கு ஒரு குறுகிய அறிமுகம் காட்டவும்.
+_C_MNU_SB_HELP_KEYBOARD விசைப்பலகை குறுக்குவழிகளின் பட்டியல் காட்சி.
+_C_MNU_SB_HELP_SUPPORT Mp3குறி சமூக கருத்துக்களுக்கு செல்க.
+_C_MNU_SB_HELP_UPGRADE Mp3குறியின் புதுப்பிப்புகளை சரிபார்க்கவும்.
+_C_MNU_SB_HELP_WWW Mp3குறி வலைத்தளத்திற்கு செல்க.
+_C_MNU_SB_UPDIR மேல் அடைவுக்கு மாற்றவும்
+_C_MNU_SB_VIEW_COLUMNS கோப்பு பார்வைக்கு நெடுவரிசைகள் தனிப்பயனாக்கப்படக்கூடிய உரையாடலைக் காட்டு.
+_C_MNU_SB_VIEW_FILTER கோப்பு பார்வை வடிகட்டவும்.
+_C_MNU_SB_VIEW_ID3 காட்டு/மறை குறி பலகை.
+_C_MNU_SB_VIEW_REFRESH கோப்பின் பார்வையை புதுப்பிக்கவும்.
+_C_MNU_SB_VIEW_TAGS விரிவாக்கப்பட்ட குறி உரையாடலைக் காட்டு.
+_C_MNU_SB_VIEW_TOOLBAR கருவிப்பட்டியை காட்டு/மறை.
+_C_MNU_SB_WND_IDLE தயார்
+_C_MNU_SB_WND_MAXIMIZE சாளரத்தை முழுத்திரை அளவுக்கு விரிவாக்குக
+_C_MNU_SB_WND_MINIMIZE சாளரத்தை பணி பட்டையில் குறைக்கலாம்
+_C_MNU_SB_WND_MOVE சாளர இருப்பிடத்தை நகர்த்து
+_C_MNU_SB_WND_RESTORE சாளரத்தை முழு திரையில் இருந்து சாதாரண அளவுக்கு மீட்டமைக்கவும் அல்லது குறைக்கவும்
+_C_MNU_SB_WND_SIZE சாளர அளவு மாற்றவும்
+_C_MULTILINE பலவரி
+_C_OK சரி
+_C_OPT_ACTIONGROUPS செயல் குழுக்கள்
+_C_OPT_ACTIONS செயல்கள்
+_C_OPT_ACTIONS_TYPE செயல் வகை தேர்ந்தெடுக்கவும்
+_C_OPT_ADVANCED மேம்பட்ட
+_C_OPT_ADVANCED_ID3V2LANG ID3v2 கருத்து மொழி குறியீடு (ISO-639-2)
+_C_OPT_ADVANCED_LISTCHAPTERS தனி அத்தியாயங்களாக பட்டியல் அத்தியாயங்கள்
+_C_OPT_CAPTION விருப்பங்கள்
+_C_OPT_CDDB_CAPTION freedb
+_C_OPT_CDDB_CHK_USEPROXY பதிலாள் பயன்படுத்துக
+_C_OPT_CDDB_FRM_CDDB freedb சேவையகம்
+_C_OPT_CDDB_FRM_LOCALPATH உள்ளூர் freedb பாதை:
+_C_OPT_CDDB_FRM_PROXY பதிலாள்
+_C_OPT_CDDB_RD_FMT_UNIX யுனிக்ஸ் வடிவமைப்பு
+_C_OPT_CDDB_RD_FMT_WIN விண்டோஸ் வடிவமைப்பு
+_C_OPT_CDDB_ST_ADDRESS முகவரி:
+_C_OPT_CDDB_ST_EMAIL &மின்னஞ்சல் முகவரி:
+_C_OPT_CDDB_ST_NAME பெயர்:
+_C_OPT_CDDB_ST_PATH பாதை:
+_C_OPT_CDDB_ST_PORT துறைமுகம்:
+_C_OPT_CDDB_ST_PROXYNAME பதிலாள்:
+_C_OPT_CDDB_ST_PROXYPORT துறைமுகம்:
+_C_OPT_CDDB_ST_PWD கடவுச்சொல்:
+_C_OPT_CDDB_ST_TIMEOUT நேரம் முடிந்தது:
+_C_OPT_CDDB_ST_USERNAME பயனர்பெயர்:
+_C_OPT_CDDB3_CAPTION உள்ளூர்
+_C_OPT_CON_FRM_FTT கோப்பு பெயர் - குறி
+_C_OPT_CON_FRM_TFF உரை கோப்பு - குறி
+_C_OPT_CON_FRM_TTF குறி - கோப்பு பெயர்
+_C_OPT_CON_ST_FNAME கோப்பு பெயர்:
+_C_OPT_CON_ST_FS வடிவமை சரத்தை:
+_C_OPT_DIR கோப்பகங்கள்
+_C_OPT_DIR_COVER கலைக் கோப்பக உறை
+_C_OPT_EMPTY_HINT கீழே ஒரு தலைப்பைத் தேர்ந்தெடுக்கவும்
+_C_OPT_EXP_CAPTION ஏற்றுமதி
+_C_OPT_EXP_CHK_APPEND தரவு சேர்க்கவும்
+_C_OPT_EXP_CHK_WRITEBOM BOM எழுதுங்கள்
+_C_OPT_EXP_FRM_EXPORT உள்ளமைவு ஏற்றுமதி
+_C_OPT_EXP_RD_TRACK தடம்
+_C_OPT_EXP_ST_FNAME ஏற்றுமதி கோப்பு பெயர்:
+_C_OPT_EXP_ST_NAME புதிய ஏற்றுமதி கட்டமைப்பின் பெயர்
+_C_OPT_FMT_CASE வழக்கு மாற்றல்
+_C_OPT_FMT_FRM_FTF கோப்பு பெயர் - கோப்பு பெயர்
+_C_OPT_FMT_ST_BEGIN வார்த்தைகள் தொடங்குகின்ற/ பின்னால் இருந்து:
+_C_OPT_FMT_ST_FNAME_NEW புதிய கோப்பு பெயர் முறை:
+_C_OPT_FMT_ST_FNAME_OLD பழைய கோப்பு பெயர் முறை:
+_C_OPT_FMT2 மாற்றவும்
+_C_OPT_FMT2_CASE வழக்கு உணர்வான ஒப்பீடு
+_C_OPT_FMT2_COL_ORIGINAL அசல்
+_C_OPT_FMT2_COL_REPLACE இதை கொண்டு மாற்றவும் 
+_C_OPT_FMT2_ONLYWORDS முழு வார்த்தை மட்டுமே
+_C_OPT_GEN_CAPTION பொது
+_C_OPT_GEN_CHK_AUTOSAVE அம்பு விசைகளை / ஒற்றை மவுஸ் சொடுக்கும் போது குறிப்புகளை சேமிக்கவும்
+_C_OPT_GEN_CHK_FOLDERSTART இந்த அடைவில் இருந்து தொடங்கவும்
+_C_OPT_GEN_CHK_GRID கோப்பு பார்வையில் காட்சி கட்டம் கோடுகள் காட்சி
+_C_OPT_GEN_CHK_JUMPONEDIT கோப்பு பார்வையில் எடிட்டிங் போது அடுத்த கோப்பு தானாக தேர்ந்தெடுக்கவும்
+_C_OPT_GEN_CHK_KEEPFILETIME குறிப்புகள் சேமிப்பு போது கோப்பு மாற்றம் நேரம் பாதுகாக்க
+_C_OPT_GEN_CHK_KEEPMOVEDFILES கோப்புகளை கோப்பு பட்டியலில் நகர்த்தவும்
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS நடவடிக்கைகள் இருந்து எச்சரிக்கைகள்
+_C_OPT_GEN_CHK_MSG_CHANGE மாற்றம் பிறகு
+_C_OPT_GEN_CHK_MSG_CUT குறிப்புகள் வெட்டும்பொது
+_C_OPT_GEN_CHK_MSG_DEL நீக்கிய பிறகு
+_C_OPT_GEN_CHK_MSG_DELETEFILE கோப்புகளை நீக்குகிறது
+_C_OPT_GEN_CHK_MSG_EXPORT குறிப்புகள் ஏற்றுமதி
+_C_OPT_GEN_CHK_MSG_PASTE குறிப்புகளை ஒட்டுவதற்கு
+_C_OPT_GEN_CHK_MSG_REMOVETAGS குறிப்புகள் அகற்றுவதில்
+_C_OPT_GEN_CHK_MSG_SAVE சேமித்த பிறகு
+_C_OPT_GEN_CHK_PL இயக்கு பட்டியல் தானாகவே உருவாக்கு
+_C_OPT_GEN_CHK_RELPL பணி அடைவில் இருந்து தொடர்புடைய பதிவுகள்
+_C_OPT_GEN_CHK_AUTOCOMPLETE தேர்வு பெட்டிகளில் தானியங்கு நிறைவு
+_C_OPT_GEN_CHK_SELECTFILES தானாகவே கோப்புகளைத் தேர்ந்தெடுக்கவும்
+_C_OPT_GEN_CHK_SORTNATURAL இயற்கை வரிசையாக்கத்தைப் பயன்படுத்துங்கள்
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH சாளர தலைப்பில் தற்போதைய அடைவைக் காட்டு
+_C_OPT_GEN_FRM_GEN பொது
+_C_OPT_GEN_FRM_MSG செய்தி காட்டு
+_C_OPT_GEN_FRM_PL இயக்கு பட்டியலின் கோப்பு பெயர்
+_C_OPT_GEN_RD_PLALL எல்லா கோப்புகளிலிருந்தும்
+_C_OPT_GEN_RD_PLSEL தேர்ந்தெடுக்கப்பட்ட கோப்புகள்
+_C_OPT_GEN_ST_FAVDIR பிடித்த அடைவு:
+_C_OPT_GEN2_CAPTION செய்திகள்
+_C_OPT_GENRES பயனர் வரையறுக்கப்பட்ட வகைகள்
+_C_OPT_GENRES_HIDESTANDARD பயனர் வரையறுக்கப்பட்ட வகைகளை மட்டும் காட்டு
+_C_OPT_ID3_CHK_ISO88591 எப்போதும் UTF-16க்கு பதிலாக ISO-8859-1 குறிப்புகள் எழுதவும்
+_C_OPT_ID3_CHK_LEADINGZEROS தட எண்களுக்கு முன்னணி பூஜ்யங்கள்(01, 02, ...)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND ID3v2 மட்டுமே ID3v1 மிகவும் சிறியதாக இருந்தால்
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ படிக்க
+_C_OPT_ID3_FRM_REMOVE அகற்று
+_C_OPT_ID3_FRM_WRITE எழுத
+_C_OPT_LIB நூலகம்
+_C_OPT_LIB_CHK_ENABLE நூலகத்தை இயக்கு
+_C_OPT_LIB_CHK_RESTRICT இந்த அடைவுகள் மட்டும் அடங்கும்
+_C_OPT_LIB_CLEANUP நூலகத்தை சுத்தம் செய்தல்
+_C_OPT_MAPPING படமிடல்
+_C_OPT_MAPPING_FRM பயனர் வரையறுக்கப்பட்ட துறை படமிடல் 
+_C_OPT_MAPPING_SOURCE மூல
+_C_OPT_MAPPING_TARGET இலக்கு
+_C_OPT_PLAYLIST_CAPTION இயக்கு பட்டியல்
+_C_OPT_PLAYLIST_EXTENDED நீட்டிக்கப்பட்ட தகவலை எழுது
+_C_OPT_PLAYLIST_NOFOLDERS அடைவுகள் உருவாக்க வேண்டாம்
+_C_OPT_PLAYLIST_SHOWDLG உறுதிப்படுத்திய கோப்பு பெயர் உரையாடல்
+_C_OPT_TAG குறிப்புகள்
+_C_OPT_TAGS_COVER இயல்புநிலை கோப்பு பெயர் கவர் கலை:
+_C_OPT_TAGS_EXT << மற்றும் >> நீட்டிக்கப்பட்ட குறிப்புகள் உரையாடலுக்கான பயன்முறையை சேமிக்கவும்:
+_C_OPT_TAGS_FILEFILTER உள்வரும் கோப்புகளை கட்டுப்படுத்து:
+_C_OPT_TAGS_NOIMG கோப்பு அடைவு இருந்து கவர் கலை முதல் படத்தை காட்ட வேண்டாம்
+_C_OPT_TOOLS கருவிகள்
+_C_OPT_TOOLS_CHK_DEFAULT இரட்டை சொடுக்குகளில் சிறப்பு நிரலைப் பயன்படுத்தவும்:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES தேர்ந்தெடுக்கப்பட்ட எல்லா கோப்புகளுக்கும்
+_C_OPT_TOOLS_COL_PARAM அளவுரு
+_C_OPT_TOOLS_COL_PATH பாதை
+_C_OPT_TOOLS_EDIT கருவியைத் தனிப்பயனாக்கு. பெயர் மற்றும் பாதை கட்டாயமாகும்.
+_C_OPT_TOOLS_FRM_DEFAULT இயல்புநிலை கருவி
+_C_OPT_TOOLS_FRM_TOOLS கருவிகள்
+_C_OVERWRITE மேலெழுது
+_C_RENAME மறுபெயரிடுக
+_C_TT_CDDB freedb...
+_C_TT_CDDBLOCAL freedb (உள்ளூர்)...
+_C_TT_CLOSE மூடு
+_C_TT_DIR அடைவு மாற்று...
+_C_TT_EDIT_UNDO செயல்தவிர்
+_C_TT_EXPORT ஏற்றுமதி
+_C_TT_FAVDIR பிடித்த அடைவு
+_C_TT_FILE_ADD கோப்பகத்தைச் சேர்...
+_C_TT_FILE_COPY நகலெடுக்க...
+_C_TT_FILE_DELETE அழி...
+_C_TT_FILE_MOVE நகர்த்து...
+_C_TT_FILE_PLAY இயக்கு
+_C_TT_FILE_PROPERTIES குணங்கள்...
+_C_TT_FILE_RENAME மறுபெயரிடு
+_C_TT_FTF கோப்பு பெயர் - கோப்பு பெயர்
+_C_TT_FTT கோப்பு பெயர் - குறி
+_C_TT_HELP உதவி உள்ளடக்கங்கள்...
+_C_TT_OPT விருப்பங்கள் உரையாடல்...
+_C_TT_PLALL அனைத்து கோப்புகளிலிருந்தும் பட்டியலை இயக்குக
+_C_TT_PLSEL தேர்ந்தெடுக்கப்பட்ட கோப்புகளில் பட்டியலை இயக்குக
+_C_TT_REFRESH கோப்பு பார்வை புதுப்பிக்கவும்
+_C_TT_REMOVE குறியை அகற்று
+_C_TT_SAVE சேமி
+_C_TT_TFF உரை கோப்பு - குறி
+_C_TT_TTF குறி - கோப்பு பெயர்
+_C_TT_TTT குறி - குறி
+_C_TT_UPDIR மேலே
+_C_WIZARD_TRACKS தானியங்கி-எண் வழிகாட்டி
+_C_WIZARD_TRACKS_BEGIN தடஎண் தொடங்குங்கள்:
+_C_WIZARD_TRACKS_DESC தடம் மற்றும் வட்டுஎண்கள் ஒதுக்கவும்
+_C_WIZARD_TRACKS_DISC_BEGIN வட்டுஎண்ணில் தொடங்கு
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS வட்டு எண்ணிற்கான முன்னணி சுழிகள்(01, 02, ...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL வட்டுகளின் மொத்த எண்ணிக்கை சேமிக்கவும்
+_C_WIZARD_TRACKS_DISCNUMBER வட்டுஎண்
+_C_WIZARD_TRACKS_RESETFOLDERS ஒவ்வொரு கோப்பகத்திற்கும் எண்ணிகை மீட்டமைக்கவும்
+_C_WIZARD_TRACKS_SAVETOTAL தடங்கள் மொத்த எண்ணிக்கை சேமிக்கவும்
+_C_WIZARD_TRACKS_TRACKNUMBER தடஎண்
+_M_ERR_CANCEL செயலாக்கம் ரத்துசெய்யப்பட்டது.
+_M_ERR_CDDB_CD ஆடியோ குறுவட்டு படிப்பதில் பிழை
+_M_ERR_CDDB_CONNECT சேவையகத்துடன் இணைப்பதில் பிழை: {1}
+_M_ERR_CDDB_NOENTRY freedb ID {1}க்கான பொருத்தமான நுழைவு எதுவும் இல்லை.
+_M_ERR_CDDB_NOENTRYINLOCALBD freedb ID {1}க்கு உள்ளூர் freedb தரவுத்தளத்தில் '{2}'இல் பொருத்தமான நுழைவு இல்லை.
+_M_ERR_CDDB_PARSER கேள்வி எந்த முடிவுகளையும் வழங்கவில்லை.
+_M_ERR_CDDB_READ {1} இலிருந்து தரவைப் படிக்க பிழை
+_M_ERR_CONFIGURATION உள்ளமைவை இறக்குமதி செய்ய முடியாது.
+_M_ERR_COPY தேர்ந்தெடுக்கப்பட்ட கோப்புகளை நகலெடுக்க முடியாது!
+_M_ERR_DELETE தேர்ந்தெடுக்கப்பட்ட கோப்புகளை நீக்க முடியாது!
+_M_ERR_FILECREATE கோப்பு \"{1}\" உருவாக்க முடியாது.
+_M_ERR_FILEDELETE கோப்பு \"{1}\" நீக்க முடியாது.
+_M_ERR_FILENAMEALREADYEXISTS கோப்பு \"{1}\" ஏற்கனவே உள்ளது.
+_M_ERR_FILENAMEALREADYEXISTS2 கோப்பு \"{1}\" மறுபெயரிடப்படவில்லை.
+_M_ERR_FILEOPABORTED நடப்பு கோப்பகத்தின் உள்ளடக்கம் மாற்றப்பட்டிருக்கலாம்.\n\nதற்போதைய கோப்பகத்தை மீண்டும் படிக்க விரும்புகிறீர்களா?
+_M_ERR_FILEOPEN கோப்பு \"{1}\"ஐ திறக்க முடியாது.
+_M_ERR_FILEREADONLY கோப்பு \"{1}\" படிக்க மட்டும். \n\nMp3குறி எழுத்துப்பிழை பாதுகாப்பை முடக்குகி மற்றும் இது பின்வரும் படிக்க-மட்டுமே கோப்புகள் அமைக்கவா?
+_M_ERR_FOLDERCANNOTBEACCESSED அணுகல் பிழை\n\nஅடைவு \"{1}\" அணுக முடியாது.
+_M_ERR_INVALID_FILENAME தயவுசெய்து ஒரு செல்லுபடியாகும் கோப்பு பெயர் குறிப்பிட வேண்டும்.
+_M_ERR_INVALID_FTF_FS சரம் \"{1}\" கோப்பு பெயர்களுக்கு சரியான வடிவமைப்பு சரம் அல்ல..
+_M_ERR_INVALID_TOKEN {1}:\nபின்வருமாறு எழுத்துக்கள் கோப்பு பெயர்களில் அனுமதிக்கப்படுவதில்லை::\n\\ / : * ? \" < > |\n\nதானாகவே சரி செய்ய வேண்டுமா?
+_M_ERR_MOVE தேர்ந்தெடுக்கப்பட்ட கோப்புகளை நகர்த்த முடியாது!
+_M_ERR_ONLINE_NOTFOUND மன்னிக்கவும், உங்கள் தேடல் அடிப்படைகளை எந்த பதிவும் பொருந்தவில்லை.
+_M_ERR_OPT_CDDB_NOADDRESS Freedb சேவையகத்தின் முகவரியை உள்ளிடுக.
+_M_ERR_OPT_CDDB_NOEMAIL தயவுசெய்து உங்கள் மின்னஞ்சல் முகவரியை 'விருப்பங்கள், freedb, சேவையகம்' கீழ் உள்ளிடவும். Freedb சேவையகத்திற்கான அணுகலை பதிவு செய்வதற்கு இது பயன்படும்.
+_M_ERR_OPT_CDDB_NONAME உள்ளமைக்கான சரியான பெயரை உள்ளிடுக.
+_M_ERR_OPT_CDDB_NOPORT ஒரு freedb சேவையகத்தின் துறைமுக எண்ணை உள்ளிடவும்.
+_M_ERR_PARSELINE வரி {1} ஐப் பாகுபடுத்த முடியாது.
+_M_ERR_PLAY விளையாடுவதற்கு கோப்பு \"{1}\" ஐ திறக்க முடியவில்லை!
+_M_ERR_READ_FILE படிப்பதற்கு \"{1}\" கோப்பு திறக்கப்பட முடியாது.
+_M_ERR_RENAME_FILE \"{1}\" கோப்பு \"{2}\"என மறுபெயரிட முடியாது..
+_M_ERR_RETRY Do you want to retry?
+_M_ERR_TL_NOTAGS கோப்பு \"{1}\" க்கான பொருத்தமான உள்ளீடு இல்லை.
+_M_ERR_WRITE_FILE கோப்பு \"{1}\" கோப்பு எழுத திறக்கப்பட முடியாது.
+_M_ERR_YN \n\nதொடர விரும்புகிறீர்களா?
+_M_LOG_FMT_FNAME {2} இல் {1} கோப்புகளின் பெயர் மாற்றப்பட்டது.\n
+_M_LOG_FMT_TAG {2} கோப்புகளின் {1} இல் வடிவமைக்கப்பட்ட குறிப்புகள்.\n
+_M_LOG_FTF {2} கோப்புகளின் {1} .மறுபெயரிடு
+_M_LOG_FTT {2} கோப்புகளில் {1} பெறப்பட்ட குறி.
+_M_LOG_PL_ALL இயக்கு பட்டியல் \"{1}\" அனைத்து ({2}) கோப்புகளிலிருந்தும் உருவாக்கப்பட்டது.
+_M_LOG_PL_SEL இயக்கு பட்டியல் \"{1}\" தேர்ந்தெடுக்கப்பட்ட ({2}) கோப்புகளிலிருந்தும் உருவாக்கப்பட்டது.
+_M_LOG_REMOVE குறி \"{1}\"கோப்பில் இருந்து குறி நீக்கப்பட்டது.
+_M_LOG_REMOVED குறி {2} இல் {1} கோப்பில் இருந்து குறி நீக்கப்பட்டது.
+_M_LOG_REMOVE_NOTAG \"{1}\" கோப்பில் குறி இல்லை.
+_M_LOG_SAVE \"{1}\"கோப்புகளில் குறி சேமிக்கப்பட்டது .
+_M_LOG_SAVED {2} இல் {1} கோப்புகளில் குறி சேமிக்கப்பட்டது .
+_M_LOG_TFF {3} கோப்புகளின் "{1} \" இலிருந்து {2} க்கு குறிகள் இறக்குமதி செய்யப்பட்டன.
+_M_LOG_TFF_S \"{1}\" இலிருந்து ஒரு கோப்பிற்கு இறக்குமதி செய்யப்பட்ட குறிப்புகள்.
+_M_LOG_TTF {2} இல் {1} கோப்புகளின் பெயர் மாற்றப்பட்டது..
+_M_STAT_PLAY \"{1}\" கோப்பை இயக்குகிறது ...
+_M_STR_ACTION_ADJUSTCOVER Adjust cover
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Format
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
+_M_STR_ACTION_CODEPAGE குறியீட்டுப் பக்கத்தை மாற்றவும்
+_M_STR_ACTION_CODEPAGE_DESC குறியீட்டுப் பக்கம்
+_M_STR_ACTION_EXPORTCOVER கோப்பில் உறை ஏற்றுமதி
+_M_STR_ACTION_EXPORTCOVER_DUPES ஏற்றுமதி நகல் உறைகள்
+_M_STR_ACTION_EXPORTCOVER_TYPES வகை உறைகள் மட்டுமே ஏற்றுமதி செய்யப்படும்
+_M_STR_ACTION_FORMAT மதிப்பு வடிவமைப்பு
+_M_STR_ACTION_GUESS மதிப்புகளை யூகிக்கவும்
+_M_STR_ACTION_GUESSPATTERN யோசனை முறை
+_M_STR_ACTION_GUESSSOURCE மூல வடிவமைப்பு
+_M_STR_ACTION_IMPORTCOVER உறை கோப்பில் இருந்து இறக்குமதி
+_M_STR_ACTION_IMPORTCOVER_FS வடிவமைப்பு சரம் படத்திற்கான கோப்பு பெயர்:
+_M_STR_ACTION_IMPORTCOVER_DELETE ஏற்கனவே உள்ள உறை கலை நீக்கவும்
+_M_STR_ACTION_IMPORTCOVER_TYPE உறை இவ்வாறு இறக்குமதி:
+_M_STR_ACTION_IMPORTTEXT உரை கோப்பை இறக்குமதி செய்யவும்
+_M_STR_ACTION_MERGEDUPLICATEFIELDS நகல் துறைகள் ஒன்றாக்கு
+_M_STR_ACTION_REGEXP வழக்கமான வெளிப்பாடு கொண்டு மாற்றவும்
+_M_STR_ACTION_REGEXP_EXP வழக்கமான வெளிப்பாடு
+_M_STR_ACTION_REGEXP_MATCH பொருத்தங்களை மற்றொரு வார்த்தையுடன் மாற்றவும்
+_M_STR_ACTION_REMOVEDUPES நகல் துறைகளை அகற்று
+_M_STR_ACTION_REM துறைகள் நீக்கவும்
+_M_STR_ACTION_REM_DESC துறைகள் நீக்க (அரைக்கால்-பிரிக்கப்பட்ட):
+_M_STR_ACTION_REM_EX தவிர துறைகள் நீக்கவும்
+_M_STR_ACTION_REM_EX_DESC வெளியேறுவதற்கான துறைகள் (அரைக்கால்-பிரிக்கப்பட்ட):
+_M_STR_ACTION_SPLITFIELDS பிரிப்பான் மூலம் துறை பிரி
+_M_STR_ACTIONGROUP_NAME நடவடிக்கை குழுவின் பெயர்
+_M_STR_ALBUM ஆல்பம்
+_M_STR_ALBUMARTIST ஆல்பம் கலைஞர்
+_M_STR_ALL_FILEDLGFILTER அனைத்து கோப்புகளும் (*.*)|*.*||
+_M_STR_ARTIST கலைஞர்
+_M_STR_AUTHOR ஆசிரியர்
+_M_STR_BACK < பின்
+_M_STR_BROWSE_COPY இதற்கு நகலெடு:
+_M_STR_BROWSE_MOVE இதற்கு நகர்த்து:
+_M_STR_BROWSE_TEXT ஆடியோ கோப்புகளை கொண்டிருக்கும் ஒரு அடைவைத் தேர்ந்தெடுக்கவும்.
+_M_STR_BYTES பைட்டுகள்
+_M_STR_CDDB_CD ஆடியோ குறுவட்டுகளைப் படிக்கவும்
+_M_STR_CDDB_CONNECT  {1} உடன் இணைக்கவும்...
+_M_STR_CDDB_CONNECTED  இணைக்கப்பட்டது!
+_M_STR_CDDB_IDXDB_ENTRIES தரவுத்தள உள்ளீடுகளை உருவாக்கியது
+_M_STR_CDDB_RETRIEVE தலைப்பு தகவலை மீட்டெடுக்கவும்
+_M_STR_COLUMNFILENAME கோப்பு பெயர்
+_M_STR_COLUMNPATH பாதை
+_M_STR_COLUMNUSEDCOLS காட்டப்பட்டுள்ளது
+_M_STR_COMBO_HOLD < வைத்திருங்கள் >
+_M_STR_COMBO_REMOVE < வெற்று >
+_M_STR_COMBO_USER < நுழைய >
+_M_STR_COMMENT கருத்து
+_M_STR_COMPOSER இசையமைப்பாளர்
+_M_STR_COPYOF {1} இன் நகல்
+_M_STR_COVER உறை
+_M_STR_COVER_ADD ஏற்கனவே இருக்கும் உறைகளை வைத்திருக்க விரும்புகிறீர்களா?
+_M_STR_COVER_CORRECTAR சரியான விகிதம்
+_M_STR_COVER_SETDESC உறை விவரம் அமை...
+_M_STR_COVER_SETTYPE உறை வகை அமை
+_M_STR_COVERVARIES உறை வேறுபடுகிறது
+_M_STR_CUSTOMIZE தனிப்பயனாக்கலாம்...
+_M_STR_DAY நாள்
+_M_STR_DAYS நாட்களில்
+_M_STR_DEFAULTVALUE இயல்புநிலை மதிப்பு
+_M_STR_DISCID CDDB ஐடி
+_M_STR_DISCOGS_OAUTH_PIN Discogs அங்கீகார குறியீட்டை உள்ளிடுக
+_M_STR_DISCNUMBER வட்டுஎண்
+_M_STR_ERR_CDDB_NOENTRYSELECTED தயவுசெய்து ஒரு இடுகையைத் தேர்ந்தெடுக்கவும்..
+_M_STR_EXPORT_DELETE \"{1}\" ஏற்றுமதி கட்டமைப்பை நீக்கு?
+_M_STR_EXPORT_FILEDLGTITLE ஏற்றுமதி கோப்பை தேர்ந்தெடுக்கவும்
+_M_STR_EXPORT_MULTIPLE அடைவுக்கு ஒரு கோப்பு
+_M_STR_EXPORT_SHOWEXPORTFILE \n\nஏற்றுமதி கோப்பு இப்போது காண்பிக்க வேண்டுமா?
+_M_STR_EXP_MSG செயலாக்கப்பட்ட {2} கோப்புகளைப் ஏற்றுமதி செய்து, '{1}' எனக் கோப்பில் எழுதவும்..
+_M_STR_FIELD களம்:
+_M_STR_FIELDSIZE துறை அளவு
+_M_STR_FIELDROWS வரிசைகள்
+_M_STR_FILE கோப்பு
+_M_STR_FILEDELETE தேர்ந்தெடுக்கப்பட்ட எல்லா கோப்புகளையும் உண்மையாக நீக்க வேண்டுமா?
+_M_STR_FILEMODIFIED திருத்தப்பட்ட
+_M_STR_FILESIZE அளவு
+_M_STR_FILTER வடிகட்டி:
+_M_STR_FMT_CAPITAL கலப்பு வழக்கு
+_M_STR_FMT_HIGH மேலான வழக்கு
+_M_STR_FMT_LOW குறைந்த வழக்கு
+_M_STR_FMT_SENTENCE வாக்கியம்
+_M_STR_FREEDBCREATEINDEX உள்ளூர் freedb குறியீட்டு தரவுத்தளத்தை உருவாக்கவா?\n\nஇது சில நிமிடங்கள் ஆகலாம்.
+_M_STR_FREEDB_SEARCH freedb வலை தேடல்
+_M_STR_GENRE வகை
+_M_STR_GENRES வகைகள்
+_M_STR_HIDE மறை
+_M_STR_ITEMALREADYEXISTS இந்த பெயரின் உருப்படி ஏற்கனவே உள்ளது, மேலெழுதவா?
+_M_STR_LANGUAGE மொழி
+_M_STR_M3U_FILEDLGFILTER ஆதரிக்கப்படும் கோப்புகள் (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_METADATA மெட்டாதரவு
+_M_STR_MOVEDOWN கீழே இறங்கு
+_M_STR_MOVEUP மேலே நகர்த்து
+_M_STR_MPEGBITRATE பிட்விகிதம்
+_M_STR_MPEGFREQUENCY அதிர்வெண்
+_M_STR_MPEGLENGTH நீளம்
+_M_STR_MPEGMODE முறை
+_M_STR_MPEGVERSION குறியாக்கி
+_M_STR_MSGCUT நீங்கள் தேர்ந்தெடுத்த கோப்புகளின் குறிப்புகளை அகற்ற விரும்புகிறீர்களா மற்றும் கிளிப்போர்டில் குறிப்புகள் நகலெடுக்க வேண்டுமா?
+_M_STR_MSGPASTE நீங்கள் தேர்ந்தெடுத்த கோப்புகளின் புதிய குறிப்புகள் போல கிளிப்போர்டின் உள்ளடக்கத்தை ஒட்ட வேண்டுமா?
+_M_STR_MSGREMOVE நீங்கள் தேர்ந்தெடுத்த கோப்புகளின் குறிப்புகளை உண்மையில் நீக்க வேண்டுமா?
+_M_STR_NAME பெயர்
+_M_STR_NETWORKING வலையவேலை
+_M_STR_NEXT அடுத்தது >
+_M_STR_NOACTION - நடவடிக்கை இல்லை -
+_M_STR_NOACTIONENABLED இந்த அம்சத்தை பயன்படுத்தும் போது சரிபார்க்கும் வழியாக குறைந்தபட்சம் ஒரு செயலைச் செயலாக்கவும்.
+_M_STR_NUMERIC எண்
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH உள்ளூர் freedb தரவுத்தளத்திற்கான பணி அடைவு ஒன்றைத் தேர்ந்தெடுக்கவும்.
+_M_STR_OPT_CDDB_PROCEED இது எல்லா சேவையகங்களையும் அகற்றும்!\n\nதொடர விரும்புகிறீர்களா?\n
+_M_STR_OPTIMIZEMP4 MP4ஐ மேம்படுத்தவும்
+_M_STR_OPTS_ALWAYS எப்போதும்
+_M_STR_OPTS_ASK கேட்கவும்
+_M_STR_OPTS_NEVER ஒருபோதும்
+_M_STR_PLNAME இயக்கு பட்டியல் - கோப்பு பெயர்
+_M_STR_PL_CONFIRM Create இயக்கு பட்டியல் with this name
+_M_STR_PL_SAVEFILTER இயக்கு பட்டியல் File (*.m3u)|*.m3u|Unicode இயக்கு பட்டியல் File (*.m3u8)|*.m3u8||
+_M_STR_PREVIEW முன்னோட்டம்
+_M_STR_PROPERTIES {1} பண்புகள்
+_M_STR_QUICK விரைவு
+_M_STR_RECURSE உள்ளடைவுகள்
+_M_STR_REST ஓய்வு
+_M_STR_SAVE_NOT < சங்கம் இல்லை >
+_M_STR_SAVECONFIG உங்கள் அமைப்புகள் '{1}' க்கு சேமிக்கப்படும்.\n\nஉங்கள் அமைப்புகளை மீட்டமைக்க காப்பகத்தை எடுக்கவும்\n\"{2}\".
+_M_STR_SAVECONFIG_FILEDLGFILTER கட்டமைப்பு கோப்புகள் (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE உள்ளமைவை சேமிக்கவும்...
+_M_STR_SAVEIMAGE குறிக்கு படத்தை சேமிக்கவும்
+_M_STR_SAVEIMAGEDIRECTORY வட்டுக்கு படத்தை சேமிக்கவும்
+_M_STR_SAVESELECTION தேர்வை சேமி ...
+_M_STR_SB_ABORTED கைவிடப்பட்டது
+_M_STR_SB_ACTION செயல்முறைகள் கோப்பைக்கு செயல்படுத்துகிறது ... {2} இல் {1}
+_M_STR_SB_CLEANUPDATABASE கோப்புகளை செயலாக்குகிறது ... {2} இல் {1} ({3} சுத்தம் செய்யப்பட்டது)
+_M_STR_SB_CLEANUPDATABASE_BINARIES அனாதை இருமைகள் சுத்தம்செய்
+_M_STR_SB_CLEANUPDATABASE_COVERS அனாதையான உறைகள் சுத்தம்செய்
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES நூலகம் அல்லாத கோப்புகளை சுத்தம்செய்
+_M_STR_SB_EXPORTTAGS {2} கோப்புகளின் {1} பதிவுகளின் குறியீட்டை ஏற்றுமதி செய்கிறது
+_M_STR_SB_LOADTAGS குறி தரவு படித்தல் ... {2} இல் {1}
+_M_STR_SB_READDIRECTORY அடைவு படித்தல்
+_M_STR_SB_REMOVETAGS குறித் தரவை நீக்குகிறது ... {2} இல் {1}
+_M_STR_SB_RENAMEFILES கோப்பை மறுபெயரிடுகிறது ... {2} இல் {1}
+_M_STR_SB_WRITETAGS குறித் தரவை எழுதுதல் ... {2} இல் {1}
+_M_STR_SHOWCHOOSEDLG தேர்வு உரையாடலைக் காட்டு
+_M_STR_SEARCHBY தேடு:
+_M_STR_SEARCHTEXT உரை:
+_M_STR_SEPARATOR பிரிப்பான்
+_M_STR_SHOW காட்டு
+_M_STR_SIZE_LARGE பெரிய
+_M_STR_SIZE_MEDIUM நடுத்தர
+_M_STR_SIZE_NORMAL இயல்பான
+_M_STR_SIZE_SMALLER மிகசிறிய
+_M_STR_SIZE_SMALL சிறிய
+_M_STR_SNA அறிவிப்பு பகுதி
+_M_STR_SNA_SHOW எப்போதும் அறிவிப்புப் பகுதியில் ஐகானைக் காண்பி
+_M_STR_SNA_SHOWMIN அறிவிப்பு பகுதியைக் குறைக்கவும்
+_M_STR_STRIPCHAPTERSMP4 MP4 அத்தியாயங்கள் உரி
+_M_STR_TAG_COPIED கிளிப்போர்டுக்கு {1} கோப்பு குறிப்புகள் நகலெடுக்கப்பட்டது.
+_M_STR_TAG2 குறி
+_M_STR_TAGFIELDS_REMOVE துறை அகற்று
+_M_STR_TAGFIELDS_REMOVEALL அனைத்து துறைகளையும் அகற்று...
+_M_STR_TAGFIELDS_REMOVEALLMSG பட்டியலில் இருந்து எல்லா துறையையும் நீக்க விரும்புகிறீர்களா?
+_M_STR_TAGFIELDS_RESET துறைகள் மீட்டமை...
+_M_STR_TAGFIELDS_RESETMSG நீங்கள் இயல்புநிலைக்கு துறைகள் பட்டியலை மீட்டமைக்க விரும்புகிறீர்களா?
+_M_STR_TAGPANEL குறி பலகை
+_M_STR_TAGPANEL_COVER உறை கலை காட்டு
+_M_STR_TAGPANEL_DIRECTORY அடைவு மாற்றி காட்டு
+_M_STR_TAGLIST_FILEDLGFILTER உரை கோப்புகள் ({1})
+_M_STR_TAGLIST_FILEDLGTITLE உரை கோப்பைத் தேர்ந்தெடு
+_M_STR_TAGSOURCES குறி ஆதாரங்கள்
+_M_STR_THISALBUMON இந்த ஆல்பம் {1}
+_M_STR_TITLE தலைப்பு
+_M_STR_TRYAGAIN மீண்டும் முயற்சிக்க வேண்டுமா?
+_M_STR_TTF குறி - கோப்பு பெயர்
+_M_STR_UPDATE_FRM மேம்படுத்தல்கள்
+_M_STR_UPDATE_OPT_CHECK தொடக்கத்தில் புதுப்பிப்புகளை சரிபார்க்கவும்
+_M_STR_UPDATE_OPT_CHECK_BETA மேலும் அபிவிருத்தி கட்டமைப்புகள் (பீட்டா)
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES புதிய பதிப்பிற்கான வெளியீட்டு குறிப்புகளை காட்டு
+_M_STR_UPDATEAVAILABLE ஒரு புதிய பதிப்பு {1} கிடைக்கிறது! \n\nஇந்த புதுப்பிப்பை இப்போது {2} இலிருந்து பதிவிறக்க வேண்டுமா?
+_M_STR_UPDATENOTAVAILABLE நீங்கள் சமீபத்திய பதிப்பை {1} பயன்படுத்துகிறீர்கள்.\n\nபுதுப்பிப்பு கிடைக்கவில்லை.
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS பயன்பாடுகள்
+_M_STR_VALUE மதிப்பு
+_M_STR_VERSION பதிப்பு
+_M_STR_YEAR ஆண்டு
+_M_TP_CDDB_LOCALPATH உள்ளூர் freedb அடைவை குறிப்பிடவும்
+_M_TP_CDDB_SITES இணையம் வழியாக freedb சேவையகங்களின் தற்போதைய பட்டியல்
+_M_TP_CVR_CLIPBOARD ஒட்டு உறை
+_M_TP_CVR_CLIPBOARD_COPY நகல் உறை
+_M_TP_CVR_CLIPBOARD_CUT வெட்டு உறை
+_M_TP_CVR_DEL நீக்க உறை
+_M_TP_CVR_NEW சேர் உறை...
+_M_TP_CVR_SAVE உறை எடு...
+_M_TP_DUPLICATE நகல்
+_M_TP_EXP_DEL அழி
+_M_TP_EXP_EDIT தொகு
+_M_TP_EXP_FILE ஏற்றுமதி கோப்பை தேர்ந்தெடுக்கவும்
+_M_TP_EXP_HLP விரைவான உதவி காட்டவும்
+_M_TP_EXP_LOAD உள்ளமைவு ஏற்று...
+_M_TP_EXP_NEW புதிய
+_M_TP_EXP_SAVE உள்ளமைவை சேமி...
+_M_TP_GEN_DIR அடைவு தேர்ந்தெடு
+_M_TP_TAG_DEL துறை அகற்று
+_M_TP_TAG_EDIT துறை தொகு...
+_M_TP_TAG_NEW துறை சேர்...
+_M_TS_ADDINFO கூடுதல் தகவல்
+_M_TS_MULTIPLEVALUES பல மதிப்புகள்
+_M_TS_RELEASE வெளியீட்டு
+_M_TS_TRACKS தடங்கள்
+_M_UNDO_CANNOTUNDO {1} செயல்தவிர்க்க முடியாது
+_M_UNDO_CDDB freedb
+_M_UNDO_DIRECTORYCREATE அடைவை உருவாக்கவும்
+_M_UNDO_DIRECTORYMOVE அடைவை மூடு
+_M_UNDO_FORMAT வடிவமைப்பு
+_M_UNDO_FTF கோப்பு பெயர் - கோப்பு பெயர்
+_M_UNDO_FTT கோப்பு பெயர் - குறி
+_M_UNDO_REMOVEFILE அகற்று
+_M_UNDO_RENAME மறுபெயரிடு
+_M_UNDO_TAGCHANGE குறிச்சொல்லை மாற்றவும்
+_M_UNDO_TAGREMOVE குறிச்சொல்லை நீக்கவும்
+_M_UNDO_TAGSAVE குறி சேமி
+_M_UNDO_TFF உரை கோப்பு - குறி
+_M_UNDO_TTF குறி - கோப்பு பெயர்

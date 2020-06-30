@@ -1,0 +1,622 @@
+﻿LANGAUTHOR Jaap-Jan van der Veen
+LANGCONTACT jjvdveen@home.nl
+LANGVERSION 2.98
+LANGNAME Dutch
+LANGNAMELOC Nederlands
+SLangCancel &Annuleren
+SLangOk &OK
+SLangErrCatch Fout tijdens uitvoering\n\nBestand:\t{1}\nRegel:\t{2}\n\nHet programma is afgesloten met een onverwachte fout. Sluit het programma en stuurt u alstublieft het bestand\n\n{3}\n\nsamen met een gedetailleerde foutbeschrijving naar de ontwikkelaar.\n\ne-mail: support@mp3tag.de
+SLangErrCheck Fout\n\nBestand:\t{1}\nRegel:\t{2}\nTerm:\t{3}\nCode:\t0x{4}\n\nHet programma is afgesloten met een onverwachte fout. Sluit het programma en stuurt u alstublieft het bestand\n\n{5}\n\nsamen met een gedetailleerde foutbeschrijving naar de ontwikkelaar.\n\ne-mail: support@mp3tag.de
+SLangErrDriveCannotBeAccessed Geen toegang tot schijf {1}.
+SLangErrFileCannotBeAccessed Geen toegang tot bestand {1}.
+SLangErrFileCannotBeDeleted Bestand {1} kan niet worden verwijderd.\n\n» Controleer of andere programma's dit bestand in gebruik hebben.
+SLangErrFolderCannotBeAccessed Geen toegang tot map {1}.
+SLangErrFolderCannotBeDeleted Map {1} kan niet worden verwijderd.\n\n» Controleer of andere programma's deze map in gebruik hebben.
+SLangErrHelpBrowserIsNotAvailable Mp3tag kon de standaardwebbrowser om de help file te tonen niet openen.
+SLangErrHelpSystemIsNotAvailable Help niet beschikbaar.\n\n» Installeer {1} opnieuw.
+SLangErrHelpTopicIsNotAvailable Dit helponderwerp is niet beschikbaar.\n\n» Neem contact op met ons ondersteuningspersoneel.\n\ne-mail: support@mp3tag.de
+SLangErrNotEnoughFreeDiskSpace Er is te weinig ruimte beschikbaar op schijf {1}.\n\n» Zorg dat er minstens {2} vrije ruimte is op de schijf.
+SLangErrRegistryCannotBeAccessed Fout bij het lezen van data\n\nGeen toegang tot het Windows Register.
+SLangMsgItemExistsAlready Invoer met deze omschrijving bestaat al.\n\n» Gebruik aub een andere omschrijving.
+SLangMsgFirstSteps Neem alstublieft de tijd om de eerste stappen te leren.
+SLangMsgShutdownInfo Een moment geduld, {1} is aan het afsluiten.
+SLangWrnAppIsAlreadyRunning Dit programma is al een keer gestart.
+SLangWrnAppHasToBeRestarted Mp3tag moet opnieuw opgestart worden om de wijzigingen van kracht te laten worden.\n\nWilt u Mp3tag nu opnieuw opstarten?
+SLangWrnNameContainsInvalidCharacters De omschrijving bevat ongeldige karakters.\n\n» Gebruik een andere omschrijving aub.
+SLangWrnStartLogging U heeft {1} gestart met de FLOG1 commandoregel parameter. Deze parameter wordt gebruikt voor het debuggen.\n\nWilt u het loggen starten?
+_C_ABORT Afbreken
+_C_ABORTING Afbreken...
+_C_APP_ST_ALBUM &Album:
+_C_APP_ST_ARTIST Art&iest:
+_C_APP_ST_COMMENT &Commentaar:
+_C_APP_ST_FOLDER &Map:
+_C_APP_ST_GENRE &Genre:
+_C_APP_ST_TITLE Tite&l:
+_C_APP_ST_TRACK T&rack:
+_C_APP_ST_YEAR &Jaar:
+_C_CANCEL &Annuleren
+_C_CANCELING Annuleren...
+_C_CLOSE &Sluiten
+_C_DLG_CDDBCONFIRM_CAPTION Lijst met zoekresultaten...
+_C_DLG_CDDBCONFIRM_CHK_DISCID Disc-id kopiëren naar commentaarveld
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 Disc-id kopiëren naar DISCID- veld
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER Compilatie...
+_C_DLG_CDDBCONFIRM_CHK_SORT Sortering voorstellen
+_C_DLG_CDDBCONFIRM_ST_INFO Er werd meer dan één resultaat gevonden.\nMaak een keuze:
+_C_DLG_CDDBCONFIRM_ST_INFO2 Er zijn {2} zoekresultaten gevonden in de database {1}.\nMaak een keuze:
+_C_DLG_CDDBCONFIRM_STC_TOP Taginformatie aanpassen
+_C_DLG_CDDBINPUT_CAPTION freedb-id invoeren
+_C_DLG_CDDBINPUT_ST_CATEGORY Categorie:
+_C_DLG_CDDBINPUT_ST_ID freedb-id:
+_C_DLG_CDDBSTYLE_CAPTION freedb
+_C_DLG_CDDBSTYLE_RD_CDROM bepaal van ingevoerde &audio-cd
+_C_DLG_CDDBSTYLE_RD_ENTER invoeren
+_C_DLG_CDDBSTYLE_RD_MP3 bepaal van geselecteerde bestanden
+_C_DLG_CDDBSTYLE_RD_SEARCH bepaal via web-zoeken
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL bepaal door tekst-zoeken
+_C_DLG_CDDBSTYLE_STC_TOP freedb-id...
+_C_DLG_COLUMNS_CAPTION Kolommen
+_C_DLG_COLUMNS_TOP Kolommen aanpassen
+_C_DLG_TAGS Tag info aanpassen
+_C_DLG_TTF_TOP Formattering selecteren
+_C_HELP &Help
+_C_MNU_ACTIONS &Acties\tALT+6
+_C_MNU_CON &Converteren
+_C_MNU_CON_FTF B&estandsnaam - Bestandsnaam\tALT+3
+_C_MNU_CON_FTT &Bestandsnaam - Tag\tALT+2
+_C_MNU_CON_TFF Tag&lijstbestand - Tag\tALT+4
+_C_MNU_CON_TTF &Tag - Bestandsnaam\tALT+1
+_C_MNU_CON_TTT T&ag - Tag\tALT+5
+_C_MNU_EDIT Be&werken
+_C_MNU_EDIT_COPY &Kopiëren\tCtrl+C
+_C_MNU_EDIT_CUT K&nippen\tCtrl+X
+_C_MNU_EDIT_INVERTSELECTION &Selectie omkeren\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT &Volgend bestand selecteren\tCtrl+N
+_C_MNU_EDIT_PASTE &Plakken\tCtrl+V
+_C_MNU_EDIT_SELECT &Alle bestanden selecteren\tCtrl+A
+_C_MNU_EDIT_UNDO &Ongedaan maken\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL Alles &deselecteren\tCtrl+U
+_C_MNU_EXTRA E&xtra
+_C_MNU_EXTRA_OPTIONS &Opties...\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS Alle &invoervelden herstellen\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS Standaardwaarden in invoervelden\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD Wizard Autonummering...\tCtrl+K
+_C_MNU_FILE &Bestand
+_C_MNU_FILE_ADD Map toevoegen...
+_C_MNU_FILE_CDDB freedb...\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL freedb (Lokaal)...\tCtrl+L
+_C_MNU_FILE_COPY Kopiëren...
+_C_MNU_FILE_DELETE Verwijderen...(HDD)
+_C_MNU_FILE_DIR &Map wijzigen...\tCtrl+D
+_C_MNU_FILE_EXIT &Afsluiten\tAlt+F4
+_C_MNU_FILE_EXPORT &Exporteren...\tCtrl+E
+_C_MNU_FILE_FAVDIR &Favoriete map\tCtrl+F
+_C_MNU_FILE_MOVE Verplaatsen...
+_C_MNU_FILE_PLALL Afspeellijst (alle bestanden)\tCtrl+P
+_C_MNU_FILE_PLAY Afspelen
+_C_MNU_FILE_PLAYLIST Afspeellijst/ Cuesheet laden...
+_C_MNU_FILE_PLSEL Afspeellijst (geselecteerde bestanden)
+_C_MNU_FILE_PROPERTIES Eigenschappen...
+_C_MNU_FILE_READ &Tag lezen\tCtrl+T
+_C_MNU_FILE_REMOVE Tag ve&rwijderen\tCtrl+R
+_C_MNU_FILE_REMOVEFILE Ver&wijderen\tDel
+_C_MNU_FILE_RENAME Hernoemen\tF2
+_C_MNU_FILE_SAVE Tag op&slaan\tCtrl+S
+_C_MNU_FILE_SAVECONFIG &Configuratie opslaan...
+_C_MNU_FREEDB f&reedb
+_C_MNU_FREEDB_INDEX Lokale index aanmaken
+_C_MNU_FS_EXT Extra velden
+_C_MNU_FS_FNCT Functies
+_C_MNU_FS_INFO Informatieve velden
+_C_MNU_FS_REM Verwijderen uit geschiedenis
+_C_MNU_FS_REMALL Alles verwijderen uit geschiedenis...
+_C_MNU_FS_REMALL_MSG Weet u zeker dat u alle items wilt verwijderen?
+_C_MNU_HELP &Help
+_C_MNU_HELP_ABOUT Over Mp3tag...
+_C_MNU_HELP_DONATE Donatie
+_C_MNU_HELP_FINDER Help-&onderwerpen...\tF1
+_C_MNU_HELP_FIRSTSTEPS &Eerste stappen
+_C_MNU_HELP_KEYBOARD &Sneltoetsen
+_C_MNU_HELP_SUPPORT Online ondersteuning...
+_C_MNU_HELP_UPGRADE Zoeken naar nieuwe versie...
+_C_MNU_HELP_WWW Mp3tag &Website...
+_C_MNU_TAGSOURCES Ta&gbronnen
+_C_MNU_TOOLS &Extra
+_C_MNU_VIEW Beel&d
+_C_MNU_VIEW_COLUMNS &Kolommen aanpassen...
+_C_MNU_VIEW_FILTER &Filter\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY Filter automatisch toepassen
+_C_MNU_VIEW_ID3 Invoervelden\tCtrl+Q
+_C_MNU_VIEW_REFRESH &Vernieuwen\tF5
+_C_MNU_VIEW_SORTBY &Sorteren op
+_C_MNU_VIEW_TAGS &Tags...\tALT+T
+_C_MNU_VIEW_TOOLBAR &Werkbalk
+_C_MNU_SB_ACTIONS Voorgedefinieerde acties (hoofdletters, vervanging, ...) toepassen op geselecteerde bestanden.
+_C_MNU_SB_CON_FTF Bestanden hernoemen door een bepaalde formattering van de oude bestandnaam.
+_C_MNU_SB_CON_FTT Tag afleiden door een bepaalde formattering van de bestandsnaam.
+_C_MNU_SB_CON_TFF Tag afleiden door een bepaalde formattering van een taglijstbestand.
+_C_MNU_SB_CON_TTF Bestanden hernoemen via een bepaalde formattering gebaseerd op tags.
+_C_MNU_SB_CON_TTT Formatteer tags gebaseerd op tags.
+_C_MNU_SB_EDIT_COPY Geselecteerde tekst of de tag van het geselecteerde bestand naar klembord kopiëren.
+_C_MNU_SB_EDIT_CUT Geselecteerde tekst of de tag van het geselecteerde bestand naar klembord verplaatsen.
+_C_MNU_SB_EDIT_INVERTSELECTION Selectie omkeren.
+_C_MNU_SB_EDIT_NEXT Het volgende bestand markeren in het bestandsoverzicht.
+_C_MNU_SB_EDIT_PASTE Inhoud van klembord op huidige cursorpositie of in het geselecteerde bestand plakken.
+_C_MNU_SB_EDIT_SELECT Alle bestanden uit bestandsoverzicht selecteren.
+_C_MNU_SB_EDIT_UNDO Laatste actie ongedaan maken.
+_C_MNU_SB_EDIT_UNSELECTALL Alle bestanden deselecteren.
+_C_MNU_SB_EXTRA_OPTIONS Dialoogvenster Opties weergeven.
+_C_MNU_SB_EXTRA_RESET_EDITS Tekst verwijderen uit alle invoervelden.
+_C_MNU_SB_EXTRA_SET_EDITS Alle invoervelden instellen op voorgedefinieerde waarden.
+_C_MNU_SB_EXTRA_TRACKWIZARD Wizard automatische tracknummering uitvoeren.
+_C_MNU_SB_FILE_ADD Map toevoegen aan de bestandsnamenlijst.
+_C_MNU_SB_FILE_CDDB Informatie opvragen over de ingevoerde audio-cd of geselecteerde audiobestanden via internet.
+_C_MNU_SB_FILE_CDDBLOCAL Informatie opvragen over de ingevoerde audio-cd of geselecteerde audiobestanden via the lokale freedb-database.
+_C_MNU_SB_FILE_COPY Geselecteerde bestanden kopiëren naar andere map.
+_C_MNU_SB_FILE_DELETE Geselecteerde bestanden verwijderen.
+_C_MNU_SB_FILE_DIR Map wijzigen.
+_C_MNU_SB_FILE_EXIT Programma afsluiten.
+_C_MNU_SB_FILE_EXPORT Tag- en bestandsinformatie van geselecteerde bestanden exporteren.
+_C_MNU_SB_FILE_FAVDIR De standaardmap wijzigen.
+_C_MNU_SB_FILE_FREEDBINDEX Lokale freedb index aanmaken voor het doorzoeken van de lokale freedb.
+_C_MNU_SB_FILE_MOVE Geselecteerde bestanden verplaatsen naar een andere map.
+_C_MNU_SB_FILE_PLALL Afspeellijst maken van alle bestanden.
+_C_MNU_SB_FILE_PLAY Geselecteerde bestanden afspelen.
+_C_MNU_SB_FILE_PLAYLIST Inhoud van een afspeellijst laden.
+_C_MNU_SB_FILE_PLSEL Afspeellijst maken van geselecteerde bestanden.
+_C_MNU_SB_FILE_PROPERTIES Eigenschappen weergeven van geselecteerd bestand.
+_C_MNU_SB_FILE_READ Tag lezen van geselecteerd bestand naar invoervelden.
+_C_MNU_SB_FILE_REMOVE Tag verwijderen van geselecteerd bestand.
+_C_MNU_SB_FILE_REMOVEFILE Geselecteerde bestanden verwijderen.
+_C_MNU_SB_FILE_RENAME Geselecteerd bestand hernoemen.
+_C_MNU_SB_FILE_SAVE Tag opslaan in geselecteerde bestanden.
+_C_MNU_SB_FILE_SAVECONFIG Huidige instellingen opslaan in een configuratiebestand.
+_C_MNU_SB_HELP_ABOUT Informatie over Mp3tag.
+_C_MNU_SB_HELP_CONTEXT Context help tonen voor aangeklikte velden, menu's en vensters.
+_C_MNU_SB_HELP_DONATE Overweegt u alsublieft een donatie zodat Mp3tag verder kan worden ontwikkeld.
+_C_MNU_SB_HELP_FINDER Helpinhoud tonen.
+_C_MNU_SB_HELP_FIRSTSTEPS Een korte introductie tot Mp3tag weergeven.
+_C_MNU_SB_HELP_KEYBOARD Lijst van sneltoetsen weergeven.
+_C_MNU_SB_HELP_SUPPORT De Mp3tag forums bezoeken.
+_C_MNU_SB_HELP_UPGRADE Controleren of er een nieuwe versie van Mp3tag is.
+_C_MNU_SB_HELP_WWW De Mp3tag website bezoeken.
+_C_MNU_SB_UPDIR Naar bovenliggende map gaan
+_C_MNU_SB_VIEW_COLUMNS Een venster tonen waar de kolommen voor het bestandsoverzicht kunnen worden aangepast.
+_C_MNU_SB_VIEW_FILTER Bestandsoverzicht filteren.
+_C_MNU_SB_VIEW_ID3 Tonen/verbergen van taginvoermasker.
+_C_MNU_SB_VIEW_REFRESH Bestandsoverzicht vernieuwen.
+_C_MNU_SB_VIEW_TAGS Extra taginformatie tonen.
+_C_MNU_SB_VIEW_TOOLBAR Tonen/verbergen van de werkbalk.
+_C_MNU_SB_WND_IDLE Gereed
+_C_MNU_SB_WND_MAXIMIZE Venster vergroten naar volledige schermgrootte
+_C_MNU_SB_WND_MINIMIZE Venster minimaliseren naar taakbalk
+_C_MNU_SB_WND_MOVE Positie van venster veranderen
+_C_MNU_SB_WND_RESTORE Venster herstellen naar normale grootte
+_C_MNU_SB_WND_SIZE Venstergrootte wijzigen
+_C_MULTILINE Meerregelig
+_C_OK &OK
+_C_OPT_ACTIONGROUPS Actiegroepen
+_C_OPT_ACTIONS Acties
+_C_OPT_ACTIONS_TYPE Actietype selecteren
+_C_OPT_ADVANCED Geavanceerd
+_C_OPT_ADVANCED_ID3V2LANG Taalcode voor ID3v2 commentaarveld (ISO-639-2)
+_C_OPT_ADVANCED_LISTCHAPTERS Toon hoofdstukken als losse bestanden
+_C_OPT_CAPTION Opties
+_C_OPT_CDDB_CAPTION freedb
+_C_OPT_CDDB_CHK_USEPROXY Pr&oxy gebruiken
+_C_OPT_CDDB_FRM_CDDB freedb-server
+_C_OPT_CDDB_FRM_LOCALPATH &Lokaal freedb-pad:
+_C_OPT_CDDB_FRM_PROXY Proxy
+_C_OPT_CDDB_RD_FMT_UNIX UNIX-Formaat
+_C_OPT_CDDB_RD_FMT_WIN Windows-Formaat
+_C_OPT_CDDB_ST_ADDRESS &Adres:
+_C_OPT_CDDB_ST_EMAIL &E-mailadres:
+_C_OPT_CDDB_ST_NAME &Naam:
+_C_OPT_CDDB_ST_PATH Pad:
+_C_OPT_CDDB_ST_PORT Poort:
+_C_OPT_CDDB_ST_PROXYNAME &Proxy:
+_C_OPT_CDDB_ST_PROXYPORT Poo&rt:
+_C_OPT_CDDB_ST_PWD Wacht&woord:
+_C_OPT_CDDB_ST_TIMEOUT T&imeout:
+_C_OPT_CDDB_ST_USERNAME &Gebruikersnaam:
+_C_OPT_CDDB3_CAPTION Lokaal freedb
+_C_OPT_CON_FRM_FTT &Bestandsnaam - Tag
+_C_OPT_CON_FRM_TFF Tag&lijstbestand - Tag
+_C_OPT_CON_FRM_TTF &Tag - Bestandsnaam
+_C_OPT_CON_ST_FNAME Bestandsnaam:
+_C_OPT_CON_ST_FS Formattering:
+_C_OPT_DIR Mappen
+_C_OPT_DIR_COVER Covermap
+_C_OPT_EMPTY_HINT Onderwerp hieronder selecteren
+_C_OPT_EXP_CAPTION Exporteren
+_C_OPT_EXP_CHK_APPEND Data toevoegen
+_C_OPT_EXP_CHK_WRITEBOM BOM schrijven
+_C_OPT_EXP_FRM_EXPORT Configuratie exporteren
+_C_OPT_EXP_RD_TRACK Track
+_C_OPT_EXP_ST_FNAME Bestandsnaam voor exporteren:
+_C_OPT_EXP_ST_NAME Naam van nieuwe exportconfiguratie
+_C_OPT_FMT_CASE Hoofdlettergebruik
+_C_OPT_FMT_FRM_FTF Bestandsnaam - Bestandsnaam
+_C_OPT_FMT_ST_BEGIN Begin woorden met:
+_C_OPT_FMT_ST_FNAME_NEW Formattering nieuwe bestandsnaam:
+_C_OPT_FMT_ST_FNAME_OLD Formattering oude bestandsnaam:
+_C_OPT_FMT2 Vervangen
+_C_OPT_FMT2_CASE Identieke hoofdletters/ kleine letters
+_C_OPT_FMT2_COL_ORIGINAL Origineel
+_C_OPT_FMT2_COL_REPLACE Vervangen door
+_C_OPT_FMT2_ONLYWORDS Alleen gehele woorden
+_C_OPT_GEN_CAPTION Algemeen
+_C_OPT_GEN_CHK_AUTOSAVE Tags opslaan bij &gebruik pijltjestoetsen/ enkele muisklik
+_C_OPT_GEN_CHK_FOLDERSTART in deze map beginnen
+_C_OPT_GEN_CHK_GRID Rasterlijnen weergeven in bestandsoverzicht
+_C_OPT_GEN_CHK_JUMPONEDIT Volgend bestand automatisch selecteren
+_C_OPT_GEN_CHK_KEEPFILETIME Tijdstip van laatste wijziging behouden bij opslaan tags
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Houd verplaatste bestanden in bestandenlijst
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS bij waarschuwingen van Actie
+_C_OPT_GEN_CHK_MSG_CHANGE na wijzigen
+_C_OPT_GEN_CHK_MSG_CUT bij het knippen van tags
+_C_OPT_GEN_CHK_MSG_DEL na verwijderen
+_C_OPT_GEN_CHK_MSG_DELETEFILE bij het verwijderen van bestanden
+_C_OPT_GEN_CHK_MSG_EXPORT bij het exporteren van tags
+_C_OPT_GEN_CHK_MSG_PASTE bij het plakken van tags
+_C_OPT_GEN_CHK_MSG_REMOVETAGS bij het verwijderen van tags
+_C_OPT_GEN_CHK_MSG_SAVE na opslaan
+_C_OPT_GEN_CHK_PL &Automatisch afspeellijst aanmaken
+_C_OPT_GEN_CHK_RELPL Item relatief ten opzichte van werkmap
+_C_OPT_GEN_CHK_AUTOCOMPLETE Automatisch aanvullen van invoervelden
+_C_OPT_GEN_CHK_SELECTFILES Bestanden automatisch selecteren
+_C_OPT_GEN_CHK_SORTNATURAL Natuurlijke sorteervolgorde gebruiken
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH &Huidige map tonen in vensternaam
+_C_OPT_GEN_FRM_GEN Algemeen
+_C_OPT_GEN_FRM_MSG Bericht tonen
+_C_OPT_GEN_FRM_PL &Bestandsnaam van afspeellijst
+_C_OPT_GEN_RD_PLALL van alle bestanden
+_C_OPT_GEN_RD_PLSEL van geselecteerde bestanden
+_C_OPT_GEN_ST_FAVDIR Favoriete map:
+_C_OPT_GEN2_CAPTION Berichten
+_C_OPT_GENRES Voorgedefinieerde genres
+_C_OPT_GENRES_HIDESTANDARD Alleen voorgedefinieerde genres tonen
+_C_OPT_ID3_CHK_ISO88591 Altijd ISO-8859-1 tags schrijven in plaats van UTF-16
+_C_OPT_ID3_CHK_LEADINGZEROS Voorloopnullen voor tracknummers (01, 02, ...)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND ID3v2 alleen indien ID3v1 niet past
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ Lezen
+_C_OPT_ID3_FRM_REMOVE Verwijderen
+_C_OPT_ID3_FRM_WRITE Schrijven
+_C_OPT_LIB Bibliotheek
+_C_OPT_LIB_CHK_ENABLE Bibliotheek aan
+_C_OPT_LIB_CHK_RESTRICT Alleen deze folders toevoegen
+_C_OPT_LIB_CLEANUP Bibliotheek opschonen
+_C_OPT_MAPPING Mapping
+_C_OPT_MAPPING_FRM Gebruikersgedefinieerde veldmappings 
+_C_OPT_MAPPING_SOURCE Bron
+_C_OPT_MAPPING_TARGET Doel
+_C_OPT_PLAYLIST_CAPTION Afspeellijst
+_C_OPT_PLAYLIST_EXTENDED Extra info schrijven
+_C_OPT_PLAYLIST_NOFOLDERS Geen mappen aanmaken
+_C_OPT_PLAYLIST_SHOWDLG Dialoogvenster bestandsnaam bevestigen tonen
+_C_OPT_TAG Tags
+_C_OPT_TAGS_COVER Standaardbestandsnaam voor cover:
+_C_OPT_TAGS_EXT Opslagmodus voor << en >> bij dialoog voor extra tags:
+_C_OPT_TAGS_FILEFILTER Inkomende bestanden beperken tot:
+_C_OPT_TAGS_NOIMG &Eerste plaatje uit de bestandsmap niet tonen als cover
+_C_OPT_TOOLS Extra
+_C_OPT_TOOLS_CHK_DEFAULT Speciaal programma gebruiken bij dubbelklikken:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES voor alle geselecteerde bestanden
+_C_OPT_TOOLS_COL_PARAM Parameter
+_C_OPT_TOOLS_COL_PATH Pad
+_C_OPT_TOOLS_EDIT Programma aanpassen.  Naam en pad zijn verplicht.
+_C_OPT_TOOLS_FRM_DEFAULT Standaardprogramma
+_C_OPT_TOOLS_FRM_TOOLS Programma's
+_C_OVERWRITE Over&schrijven
+_C_RENAME &Hernoemen
+_C_TT_CDDB freedb...
+_C_TT_CDDBLOCAL freedb (lokaal)...
+_C_TT_CLOSE Afsluiten
+_C_TT_DIR Map wijzigen...
+_C_TT_EDIT_UNDO Ongedaan maken
+_C_TT_EXPORT Exporteren
+_C_TT_FAVDIR Favoriete map
+_C_TT_FILE_ADD Map toevoegen...
+_C_TT_FILE_COPY Kopiëren naar...
+_C_TT_FILE_DELETE Verwijderen...
+_C_TT_FILE_MOVE Verplaatsen naar...
+_C_TT_FILE_PLAY Afspelen
+_C_TT_FILE_PROPERTIES Eigenschappen...
+_C_TT_FILE_RENAME Hernoemen
+_C_TT_FTF Bestandsnaam - Bestandsnaam
+_C_TT_FTT Bestandsnaam - Tag
+_C_TT_HELP Help- onderwerp...
+_C_TT_OPT Dialoogvenster Opties...
+_C_TT_PLALL Afspeellijst maken van alle bestanden
+_C_TT_PLSEL Afspeellijst maken van geselecteerde bestanden
+_C_TT_REFRESH Bestandslijst vernieuwen
+_C_TT_REMOVE Tag verwijderen
+_C_TT_SAVE Opslaan
+_C_TT_TFF Taglijstbestand - Tag
+_C_TT_TTF Tag - Bestandsnaam
+_C_TT_TTT Tag - Tag
+_C_TT_UPDIR Bovenliggende map
+_C_WIZARD_TRACKS Wizard autonummering
+_C_WIZARD_TRACKS_BEGIN Begin bij tracknummer:
+_C_WIZARD_TRACKS_DESC Track- en schijfnummers toewijzen
+_C_WIZARD_TRACKS_DISC_BEGIN Begin met schijfnummer
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Voorloopnullen voor schijfnummers (01, 02, ...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Totaal aantal schijven opslaan
+_C_WIZARD_TRACKS_DISCNUMBER Schijfnummer
+_C_WIZARD_TRACKS_RESETFOLDERS Teller resetten voor elke map
+_C_WIZARD_TRACKS_SAVETOTAL Totaal aantal tracks opslaan
+_C_WIZARD_TRACKS_TRACKNUMBER Tracknummer
+_M_ERR_CANCEL Proces geannuleerd.
+_M_ERR_CDDB_CD Fout bij het lezen van audio-cd
+_M_ERR_CDDB_CONNECT Fout bij verbinden met server: {1}
+_M_ERR_CDDB_NOENTRY Geen geschikt item gevonden voor freedb-id {1}.
+_M_ERR_CDDB_NOENTRYINLOCALBD Geen geschikt item gevonden voor freedb-id {1} in de lokale freedb-database '{2}'.
+_M_ERR_CDDB_PARSER De zoekopdracht leverde geen resultaten op.
+_M_ERR_CDDB_READ Fout bij het lezen van data van freedb-server: {1}
+_M_ERR_CONFIGURATION Kan configuratie niet importeren.
+_M_ERR_COPY De geselecteerde bestanden konden niet worden gekopieerd!
+_M_ERR_DELETE De geselecteerde bestanden konden niet worden verwijderd!
+_M_ERR_FILECREATE Bestand \"{1}\" kon niet worden aangemaakt.
+_M_ERR_FILEDELETE Bestand \"{1}\" kon niet worden verwijderd.
+_M_ERR_FILENAMEALREADYEXISTS Bestand met bestandsnaam \"{1}\" bestaat al.
+_M_ERR_FILENAMEALREADYEXISTS2 Bestand word overgeslagen \"{1}\".
+_M_ERR_FILEOPABORTED De inhoud van de huidige map is gewijzigd.\n\nWilt u de huidige map herlezen?
+_M_ERR_FILEOPEN Bestand \"{1}\" kon niet worden geopend.
+_M_ERR_FILEREADONLY Het bestand \"{1}\" is gemarkeerd als alleen-lezen.\n\nMoet Mp3tag de schrijfbeveiliging van dit bestand alle volgende bestanden opheffen?
+_M_ERR_FOLDERCANNOTBEACCESSED Toegangsfout\n\nGeen toegang tot de map \'{1}\'.
+_M_ERR_INVALID_FILENAME U moet een geldige bestandsnaam opgeven.
+_M_ERR_INVALID_FTF_FS Regel \"{1}\" is geen geldige formattering voor bestandsnamen.
+_M_ERR_INVALID_TOKEN {1}:\nDeze tekens zijn niet toegestaan in bestandsnamen:\n\\ / : * ? \" < > |\n\nMoet dit automatisch gecorrigeerd worden?
+_M_ERR_MOVE Geselecteerde bestanden konden niet worden verplaatst!
+_M_ERR_ONLINE_NOTFOUND Sorry, geen items gevonden met de gebruikte zoekcriteria.
+_M_ERR_OPT_CDDB_NOADDRESS U moet een adres invoeren van een freedb-server.
+_M_ERR_OPT_CDDB_NOEMAIL U moet uw e-mailadres invoeren onder 'Extra -> Opties -> freedb -> Server'. Deze zal gebruikt worden voor het het loggen van de toegang tot de freedb-server.
+_M_ERR_OPT_CDDB_NONAME U moet een geldige naam invoeren voor de configuratie.
+_M_ERR_OPT_CDDB_NOPORT U moet het poortnummer opgeven voor de freedb-server.
+_M_ERR_PARSELINE Regel {1} kan niet geparset worden.
+_M_ERR_PLAY Bestand \"{1}\" kon niet worden afgespeeld!
+_M_ERR_READ_FILE Bestand \"{1}\" kon niet worden gelezen.
+_M_ERR_RENAME_FILE Bestand \"{1}\" kon niet worden hernoemd naar \"{2}\".
+_M_ERR_RETRY Do you want to retry?
+_M_ERR_TL_NOTAGS Geen geschikt item voor bestand \"{1}\" gevonden.
+_M_ERR_WRITE_FILE Bestand \"{1}\" kon niet worden geschreven.
+_M_ERR_YN \n\nWilt u verdergaan?
+_M_LOG_FMT_FNAME {1} van {2} bestand hernoemd.\n
+_M_LOG_FMT_TAG {1} van {2} tags geschreven.\n
+_M_LOG_FTF {1} van {2} bestanden hernoemd.
+_M_LOG_FTT Tag gelezen van {1} van {2} bestanden.
+_M_LOG_PL_ALL Afspeellijst \"{1}\" aangemaakt voor alle ({2}) bestanden.
+_M_LOG_PL_SEL Afspeellijst \"{1}\" aangemaakt voor alle geselecteerde ({2}) bestanden.
+_M_LOG_REMOVE Tag verwijderd uit bestand \"{1}\".
+_M_LOG_REMOVED Tags verwijderd van {1} van {2} bestanden.
+_M_LOG_REMOVE_NOTAG Geen tag in bestand \"{1}\".
+_M_LOG_SAVE Tag opgeslagen in bestand \"{1}\".
+_M_LOG_SAVED Tags opgeslagen in {1} van {2} bestanden.
+_M_LOG_TFF Tag gelezen van taglijst \"{1}\" en opgeslagen in {2} van {3} bestanden.
+_M_LOG_TFF_S Geïmporteerde tags van \"{1}\" opgeslagen in één bestand.
+_M_LOG_TTF {1} van {2} bestanden hernoemd.
+_M_STAT_PLAY Afspelen van bestand \"{1}\"...
+_M_STR_ACTION_ADJUSTCOVER Adjust cover
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Format
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
+_M_STR_ACTION_CODEPAGE Codepage converteren
+_M_STR_ACTION_CODEPAGE_DESC Codepage
+_M_STR_ACTION_EXPORTCOVER Cover exporteren naar bestand
+_M_STR_ACTION_EXPORTCOVER_DUPES Dubbele covers exporteren
+_M_STR_ACTION_EXPORTCOVER_TYPES Alleen covers van dit type exporteren
+_M_STR_ACTION_FORMAT Waarde formatteren
+_M_STR_ACTION_GUESS Waarden raden
+_M_STR_ACTION_GUESSPATTERN Raadpatroon
+_M_STR_ACTION_GUESSSOURCE Bronformaat
+_M_STR_ACTION_IMPORTCOVER Cover importeren uit bestand
+_M_STR_ACTION_IMPORTCOVER_FS Formattering voor de bestandsnaam van het plaatje:
+_M_STR_ACTION_IMPORTCOVER_DELETE &Bestaande cover verwijderen
+_M_STR_ACTION_IMPORTCOVER_TYPE Cover importeren als:
+_M_STR_ACTION_IMPORTTEXT Tekstbestand importeren
+_M_STR_ACTION_MERGEDUPLICATEFIELDS Dubbele velden samenvoegen
+_M_STR_ACTION_REGEXP Vervangen met reguliere expressie
+_M_STR_ACTION_REGEXP_EXP Reguliere expressie
+_M_STR_ACTION_REGEXP_MATCH Resultaten vervangen door
+_M_STR_ACTION_REMOVEDUPES Dubbele velden verwijderen
+_M_STR_ACTION_REM Velden verwijderen
+_M_STR_ACTION_REM_DESC Te verwijderen velden (gescheiden door puntkomma's):
+_M_STR_ACTION_REM_EX Velden verwijderen behalve
+_M_STR_ACTION_REM_EX_DESC Velden om te laten staan (gescheiden door puntkomma's):
+_M_STR_ACTION_SPLITFIELDS Velden scheiden door scheidingsteken
+_M_STR_ACTIONGROUP_NAME Naam van actiegroep
+_M_STR_ALBUM Album
+_M_STR_ALBUMARTIST Albumartiest
+_M_STR_ALL_FILEDLGFILTER Alle bestanden (*.*)|*.*||
+_M_STR_ARTIST Artiest
+_M_STR_AUTHOR Auteur
+_M_STR_BACK < &Terug
+_M_STR_BROWSE_COPY Kopieren naar:
+_M_STR_BROWSE_MOVE Verplaatsen naar:
+_M_STR_BROWSE_TEXT U moet een map selecteren die audiobestanden bevat.
+_M_STR_BYTES Bytes
+_M_STR_CDDB_CD Audio-cd lezen
+_M_STR_CDDB_CONNECT verbinden met {1} ...
+_M_STR_CDDB_CONNECTED  verbonden!
+_M_STR_CDDB_IDXDB_ENTRIES databaseinvoer aangemaakt
+_M_STR_CDDB_RETRIEVE Titelinformatie ophalen
+_M_STR_COLUMNFILENAME Bestandsnaam
+_M_STR_COLUMNPATH Pad
+_M_STR_COLUMNUSEDCOLS getoond
+_M_STR_COMBO_HOLD < houden >
+_M_STR_COMBO_REMOVE < wissen >
+_M_STR_COMBO_USER < invoeren >
+_M_STR_COMMENT Commentaar
+_M_STR_COMPOSER Componist
+_M_STR_COPYOF Kopie van {1}
+_M_STR_COVER Cover
+_M_STR_COVER_ADD Wilt u de huidige covers behouden?
+_M_STR_COVER_CORRECTAR Beeldverhouding corrigeren
+_M_STR_COVER_SETDESC Coverbeschrijving instellen...
+_M_STR_COVER_SETTYPE Covertype instellen
+_M_STR_COVERVARIES Covers verschillen
+_M_STR_CUSTOMIZE Aanpassen...
+_M_STR_DAY dag
+_M_STR_DAYS dagen
+_M_STR_DEFAULTVALUE Standaard waarde
+_M_STR_DISCID CDDB id
+_M_STR_DISCOGS_OAUTH_PIN Discogs authorizatiecode invoeren
+_M_STR_DISCNUMBER Schijfnummer
+_M_STR_ERR_CDDB_NOENTRYSELECTED U moet een item kiezen.
+_M_STR_EXPORT_DELETE Exportconfiguratie verwijderen \"{1}\"?
+_M_STR_EXPORT_FILEDLGTITLE Exportbestand selecteren
+_M_STR_EXPORT_MULTIPLE Één bestand per map
+_M_STR_EXPORT_SHOWEXPORTFILE \n\nExportbestand nu weergeven?
+_M_STR_EXP_MSG Informatie over {2} is geschreven naar bestand '{1}'.
+_M_STR_FIELD &Veld
+_M_STR_FIELDSIZE Grootte van veld
+_M_STR_FIELDROWS Rijen
+_M_STR_FILE Bestand
+_M_STR_FILEDELETE Weet u zeker dat u alle geselecteerde bestanden wilt verwijderen?
+_M_STR_FILEMODIFIED Gewijzigd
+_M_STR_FILESIZE Grootte
+_M_STR_FILTER &Filter:
+_M_STR_FMT_CAPITAL Hoofd-/kleine letters
+_M_STR_FMT_HIGH Hoofdletters
+_M_STR_FMT_LOW Kleine letters
+_M_STR_FMT_SENTENCE Zin
+_M_STR_FREEDBCREATEINDEX Lokale Freedb index aanmaken?\n\nDit kan enige minuten duren.
+_M_STR_FREEDB_SEARCH freedb web-zoeken
+_M_STR_GENRE Genre
+_M_STR_GENRES Genres
+_M_STR_HIDE Ver&bergen
+_M_STR_ITEMALREADYEXISTS Er bestaat al een item met deze naam, overschrijven?
+_M_STR_LANGUAGE Taal
+_M_STR_M3U_FILEDLGFILTER Ondersteunde bestandstypen (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_METADATA &Metadata
+_M_STR_MOVEDOWN Om&laag
+_M_STR_MOVEUP Om&hoog
+_M_STR_MPEGBITRATE Bitrate
+_M_STR_MPEGFREQUENCY Frequentie
+_M_STR_MPEGLENGTH Lengte
+_M_STR_MPEGMODE Mode
+_M_STR_MPEGVERSION Codec
+_M_STR_MSGCUT Wilt u echt de tag verwijderen van het geselecteerde bestand en deze verplaatsen naar het klembord?
+_M_STR_MSGPASTE Wilt u echt de inhoud van het klembord gebruiken als nieuwe tag voor het geselecteerde bestand?
+_M_STR_MSGREMOVE Weet u zeker dat u de tags van de geselecteerde bestanden wilt verwijderen?
+_M_STR_NAME N&aam
+_M_STR_NETWORKING Netwerk
+_M_STR_NEXT &Volgende >
+_M_STR_NOACTION Geen actie
+_M_STR_NOACTIONENABLED U moet minimaal één actie aanvinken bij het gebruik van deze functie.
+_M_STR_NUMERIC Nu&meriek
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH U moet de werkmap opgeven voor de lokale freedb-database.
+_M_STR_OPT_CDDB_PROCEED Met deze actie worden alle servers verwijderd!\n\nWilt u verdergaan?\n
+_M_STR_OPTIMIZEMP4 MP4 Optimaliseren
+_M_STR_OPTS_ALWAYS altijd
+_M_STR_OPTS_ASK vragen
+_M_STR_OPTS_NEVER nooit
+_M_STR_PLNAME Afspeellijst - Bestandsnaam
+_M_STR_PL_CONFIRM Afspeellijst aanmaken met deze bestandsnaam
+_M_STR_PL_SAVEFILTER Afspeellijstbestanden (*.m3u)|*.m3u|Unicode afspeellijstbestanden (*.m3u8)|*.m3u8||
+_M_STR_PREVIEW Voorbeeld
+_M_STR_PROPERTIES {1} eigenschappen
+_M_STR_QUICK Snel
+_M_STR_RECURSE Submappen
+_M_STR_REST Resterend
+_M_STR_SAVE_NOT < niet geassocieerd >
+_M_STR_SAVECONFIG De instellingen worden opgeslagen in bestand '{1}'.\n\nOm de instellingen te herstellen pakt u het bestand uit in\n\"{2}\".
+_M_STR_SAVECONFIG_FILEDLGFILTER Configuratiebestanden (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE Configuratie opslaan in...
+_M_STR_SAVEIMAGE Plaatje opslaan in tag
+_M_STR_SAVEIMAGEDIRECTORY Image opslaan op schijf
+_M_STR_SAVESELECTION Selectie opslaan...
+_M_STR_SB_ABORTED afgebroken
+_M_STR_SB_ACTION Acties toepassen op bestand... {1} van {2}
+_M_STR_SB_CLEANUPDATABASE Bestanden verwerken ... {1} of {2} ({3} opgeruimd
+_M_STR_SB_CLEANUPDATABASE_BINARIES Opruimen verweesde binaries
+_M_STR_SB_CLEANUPDATABASE_COVERS Opruimen verweesde covers
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Opruimen niet bibliotheek bestanden
+_M_STR_SB_EXPORTTAGS Tags schrijven... {1} van {2}
+_M_STR_SB_LOADTAGS Tags lezen... {1} van {2}
+_M_STR_SB_READDIRECTORY Map lezen
+_M_STR_SB_REMOVETAGS Tags verwijderen... {1} van {2}
+_M_STR_SB_RENAMEFILES Bestand hernoemen... {1} van {2}
+_M_STR_SB_WRITETAGS Tags schrijven... {1} van {2}
+_M_STR_SHOWCHOOSEDLG Selectiedialoog tonen
+_M_STR_SEARCHBY Zoeken op:
+_M_STR_SEARCHTEXT Tekst:
+_M_STR_SEPARATOR Scheidingsteken
+_M_STR_SHOW &Tonen
+_M_STR_SIZE_LARGE Groot
+_M_STR_SIZE_MEDIUM Gemiddeld
+_M_STR_SIZE_NORMAL Normaal
+_M_STR_SIZE_SMALLER Kleiner
+_M_STR_SIZE_SMALL Klein
+_M_STR_SNA Systeemvak
+_M_STR_SNA_SHOW Altijd icoon tonen in systeemvak
+_M_STR_SNA_SHOWMIN Naar systeemvak minimaliseren
+_M_STR_STRIPCHAPTERSMP4 Strip MP4 hoofdstukken
+_M_STR_TAG_COPIED De tags van {1} bestanden zijn gekopieerd naar het klembord.
+_M_STR_TAG2 Tag
+_M_STR_TAGFIELDS_REMOVE Veld verwijderen
+_M_STR_TAGFIELDS_REMOVEALL Alle velden verwijderen...
+_M_STR_TAGFIELDS_REMOVEALLMSG Weet u zeker dat u alle velden uit de lijst wilt verwijderen?
+_M_STR_TAGFIELDS_RESET Velden herstellen...
+_M_STR_TAGFIELDS_RESETMSG Weet u zeker dat u alle velden wilt herstellen naar hun standaardwaarden?
+_M_STR_TAGPANEL Tagpaneel
+_M_STR_TAGPANEL_COVER Cover art weergeven
+_M_STR_TAGPANEL_DIRECTORY Mapwisselaar weergeven
+_M_STR_TAGLIST_FILEDLGFILTER Taglijsten ({1})
+_M_STR_TAGLIST_FILEDLGTITLE Taglijst selecteren
+_M_STR_TAGSOURCES Tagbronnen
+_M_STR_THISALBUMON Dit album op {1}
+_M_STR_TITLE Titel
+_M_STR_TRYAGAIN Wilt u het opnieuw proberen?
+_M_STR_TTF Tag - Bestandsnaam
+_M_STR_UPDATE_FRM Updates
+_M_STR_UPDATE_OPT_CHECK Op updates controleren bij opstarten
+_M_STR_UPDATE_OPT_CHECK_BETA Inclusief ontwikkelversies (beta's)
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Uitgaveopmerkingen voor nieuwe versies weergeven
+_M_STR_UPDATEAVAILABLE Er is een nieuwe versie van Mp3tag {1} beschikbaar!\n\nWilt u deze update van {2} nu downloaden?
+_M_STR_UPDATENOTAVAILABLE U gebruikt de nieuwste versie {1}.\n\nEr is geen update beschikbaar.
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS O&pties
+_M_STR_VALUE Waa&rde
+_M_STR_VERSION Versie
+_M_STR_YEAR Jaar
+_M_TP_CDDB_LOCALPATH Lokale freedb-map opgeven
+_M_TP_CDDB_SITES Huidige lijst van freedb-server ophalen via Internet
+_M_TP_CVR_CLIPBOARD Cover plakken
+_M_TP_CVR_CLIPBOARD_COPY Cover kopiëren
+_M_TP_CVR_CLIPBOARD_CUT Cover knippen
+_M_TP_CVR_DEL Cover verwijderen
+_M_TP_CVR_NEW Cover toevoegen...
+_M_TP_CVR_SAVE Cover uitpakken...
+_M_TP_DUPLICATE Dupliceren
+_M_TP_EXP_DEL Verwij&deren
+_M_TP_EXP_EDIT Configuratie aanpassen
+_M_TP_EXP_FILE Exportbestand selecteren
+_M_TP_EXP_HLP Snelhelp weergeven
+_M_TP_EXP_LOAD Configuratie laden...
+_M_TP_EXP_NEW &Nieuw
+_M_TP_EXP_SAVE Configuratie opslaan...
+_M_TP_GEN_DIR Map selecteren
+_M_TP_TAG_DEL Veld verwijderen
+_M_TP_TAG_EDIT Veld aanpassen...
+_M_TP_TAG_NEW Veld toevoegen...
+_M_TS_ADDINFO Aanvullen&de informatie
+_M_TS_MULTIPLEVALUES meerdere waarden
+_M_TS_RELEASE &Uitgave
+_M_TS_TRACKS &Tracks
+_M_UNDO_CANNOTUNDO {1} kan niet ongedaan gemaakt worden
+_M_UNDO_CDDB freedb
+_M_UNDO_DIRECTORYCREATE Map aanmaken
+_M_UNDO_DIRECTORYMOVE Map verplaatsen
+_M_UNDO_FORMAT Formattering
+_M_UNDO_FTF Bestandsnaam - Bestandsnaam
+_M_UNDO_FTT Bestandsnaam - Tag
+_M_UNDO_REMOVEFILE Verwijderen
+_M_UNDO_RENAME Hernoemen
+_M_UNDO_TAGCHANGE Tag aanpassen
+_M_UNDO_TAGREMOVE Tag verwijderen
+_M_UNDO_TAGSAVE Tag opslaan
+_M_UNDO_TFF Taglijstbestand - Tag
+_M_UNDO_TTF Tag - Bestandsnaam

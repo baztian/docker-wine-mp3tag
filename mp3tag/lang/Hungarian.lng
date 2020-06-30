@@ -1,0 +1,622 @@
+﻿LANGAUTHOR Kiss Viktor
+LANGCONTACT www.naptargyar.hu
+LANGVERSION 3.01
+LANGNAME Hungarian
+LANGNAMELOC Magyar
+SLangCancel &Mégse
+SLangOk &OK
+SLangErrCatch Futás közbeni hiba\n\nFájl:\t{1}\nSor:\t{2}\n\nAz alkalmazás ismeretlen hibába ütközött és egy definiálatlan állapotba került. Kérem zárja be az alkalmazást és küldje el a(z) \n\n{3}\n\n fájlt és a hiba részletes leírását a terméktámogatásunkhoz.\n\ne-mail: support@mp3tag.de
+SLangErrCheck Futás közbeni hiba\n\nFájl:\t{1}\nSor:\t{2}\nKifejezés:\t{3}\nKód:\t0x{4}\n\nAz alkalmazás ismeretlen hibába ütközött és egy definiálatlan állapotba került. Kérem zárja be az alkalmazást és küldje el a(z) \n\n{5}\n\n fájlt és a hiba részletes leírását a terméktámogatásunkhoz.\n\ne-mail: support@mp3tag.de
+SLangErrDriveCannotBeAccessed A(z) {1} meghajtó nem hozzáférhető.\n\n» Kérem ellenőrizze a meghajtót. 
+SLangErrFileCannotBeAccessed A(z) {1} fájl nem hozzáférhető.\n\n» Kérem ellenőrizze a meghajtót. 
+SLangErrFileCannotBeDeleted A(z) {1} fájl nem törölhető.\n\n» Kérem ellenőrizze a meghajtót és győződjön meg róla, hogy nem használja egy másik folyamat a fájlt. 
+SLangErrFolderCannotBeAccessed A(z) {1} mappa nem hozzáférhető.\n\n» Kérem ellenőrizze a meghajtót. 
+SLangErrFolderCannotBeDeleted A(z) {1} mappa nem törölhető.\n\n» Kérem ellenőrizze a meghajtót és győződjön meg róla, hogy nem használja egy másik folyamat a mappát. 
+SLangErrHelpBrowserIsNotAvailable A súgó fájlok megtekintéséhez, szüksége van egy Internet böngészőre olyanra mint az Opera, a Mozilla Firefox vagy az Internet Explorer.\n\n» Kérem installáljon egy megfelelő Internet böngészőt.
+SLangErrHelpSystemIsNotAvailable A súgó nem elérhető.\n\n» Kérem telepítse újra az {1}-ot. 
+SLangErrHelpTopicIsNotAvailable A súgó tartalma nem elérhető.\n\n» Kérje terméktámogatásunkat.\n\ne-mail: support@mp3tag.de 
+SLangErrNotEnoughFreeDiskSpace Nincs elég hely a(z) {1} meghajtón.\n\n» Kérem szabadítson fel legalább {2} szabad helyet.
+SLangErrRegistryCannotBeAccessed Hiba az adat olvasásakor\n\nNem elérhető a Windows Registry.
+SLangMsgItemExistsAlready Egy bejegyzés már létezik ezzel a leírással.\n\n» Kérem használjon másik leírást.
+SLangMsgFirstSteps Kérem fordítson időt az első lépések áttekintésére.
+SLangMsgShutdownInfo Kérem várjon, amíg az {1} kilép.
+SLangWrnAppIsAlreadyRunning Ennek az alkalmazásnak már fut egy példánya.
+SLangWrnAppHasToBeRestarted Kérem indítsa újra az Mp3tag-ot a változtatások életbe léptetéséhez.\n\nÚjraindítja az Mp3tag-ot most?
+SLangWrnNameContainsInvalidCharacters A leírás érvénytelen karaktereket tartalmaz.\n\n» Kérem használjon másik leírást.
+SLangWrnStartLogging Az {1}-ot a FLOG1 parancssori paraméterrel indította. Ez a paraméter a naplózáshoz  használatos.\n\nEl akarja indítani a naplózást?
+_C_ABORT Megszakít
+_C_ABORTING Megszakítás...
+_C_APP_ST_ALBUM &Album
+_C_APP_ST_ARTIST &Előadó
+_C_APP_ST_COMMENT Me&gjegyzés
+_C_APP_ST_FOLDER &Mappa
+_C_APP_ST_GENRE Mű&faj
+_C_APP_ST_TITLE &Cím
+_C_APP_ST_TRACK Sors&zám
+_C_APP_ST_YEAR É&v
+_C_CANCEL &Mégse
+_C_CANCELING Visszavonás...
+_C_CLOSE &Bezárás
+_C_DLG_CDDBCONFIRM_CAPTION Keresési találatok listázása...
+_C_DLG_CDDBCONFIRM_CHK_DISCID Lemez-azonosító másolása megjegyzés mezőbe
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 Lemez-azonosító másolása DISCID mezőbe
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER Összeállítás...
+_C_DLG_CDDBCONFIRM_CHK_SORT Rendezési javaslatok
+_C_DLG_CDDBCONFIRM_ST_INFO Egynél több eredmény található.\nKérem válasszon egyet:
+_C_DLG_CDDBCONFIRM_ST_INFO2 {2} darab eredmény található a(z) {1} adatbázisból.\nKérem válasszon egyet:
+_C_DLG_CDDBCONFIRM_STC_TOP Címke-információ beállítása
+_C_DLG_CDDBINPUT_CAPTION freedb-ID megadása
+_C_DLG_CDDBINPUT_ST_CATEGORY Kategória:
+_C_DLG_CDDBINPUT_ST_ID freedb-ID:
+_C_DLG_CDDBSTYLE_CAPTION freedb
+_C_DLG_CDDBSTYLE_RD_CDROM behelyezett &Audio-Cd meghatározása
+_C_DLG_CDDBSTYLE_RD_ENTER beállítás
+_C_DLG_CDDBSTYLE_RD_MP3 kiválasztott fájlok meghatározása
+_C_DLG_CDDBSTYLE_RD_SEARCH meghatározás web-keresésen keresztül
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL meghatározás szöveges kereséssel
+_C_DLG_CDDBSTYLE_STC_TOP freedb-ID...
+_C_DLG_COLUMNS_CAPTION Oszlopok
+_C_DLG_COLUMNS_TOP Látható oszlopok beállítása
+_C_DLG_TAGS Címke infó szerkesztése
+_C_DLG_TTF_TOP Válasszon formátumsztringet
+_C_HELP &Súgó
+_C_MNU_ACTIONS &Akciók\tALT+6
+_C_MNU_CON &Konvertálás
+_C_MNU_CON_FTF Fáj&lnév - Fájlnév\tALT+3
+_C_MNU_CON_FTT &Fájlnév - Címke\tALT+2
+_C_MNU_CON_TFF Címkeli&sta-Fájl - Címke\tALT+4
+_C_MNU_CON_TTF &Címke - Fájlnév\tALT+1
+_C_MNU_CON_TTT Cí&mke - Címke\tALT+5
+_C_MNU_EDIT S&zerkesztés
+_C_MNU_EDIT_COPY &Másolás\tCtrl+C
+_C_MNU_EDIT_CUT Kivá&gás\tCtrl+X
+_C_MNU_EDIT_INVERTSELECTION Kijelölés meg&fordítása\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT Következő fájl &kijelölése\tCtrl+N
+_C_MNU_EDIT_PASTE &Beillesztés\tCtrl+V
+_C_MNU_EDIT_SELECT Ö&sszes fájl kijelölése\tCtrl+A
+_C_MNU_EDIT_UNDO &Visszavonás\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL Kijelölés megs&züntetése\tCtrl+U
+_C_MNU_EXTRA &Eszközök
+_C_MNU_EXTRA_OPTIONS &Beállítások...\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS &Beviteli mezők törlése\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS Alapértékek a beviteli mezőkbe\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD Sorszámozó varázsló\tCtrl+K
+_C_MNU_FILE &Fájl
+_C_MNU_FILE_ADD Mappa hozzáadása...
+_C_MNU_FILE_CDDB freedb...\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL freedb (helyi)...\tCtrl+L
+_C_MNU_FILE_COPY Másolás...
+_C_MNU_FILE_DELETE Törlés...
+_C_MNU_FILE_DIR Mappa &cseréje...\tCtrl+D
+_C_MNU_FILE_EXIT &Kilépés\tAlt+F4
+_C_MNU_FILE_EXPORT &Exportálás\tCtrl+E
+_C_MNU_FILE_FAVDIR Ke&dvenc mappa\tCtrl+F
+_C_MNU_FILE_MOVE Mozgatás...
+_C_MNU_FILE_PLALL Lejátszási lista (minden fájlból)\tCtrl+P
+_C_MNU_FILE_PLAY Lejátszás
+_C_MNU_FILE_PLAYLIST Lejátszási lista betöltése...
+_C_MNU_FILE_PLSEL Lejátszási lista (kijelölt fájlokból)
+_C_MNU_FILE_PROPERTIES Tulajdonságok...
+_C_MNU_FILE_READ &Címke olvasása\tCtrl+T
+_C_MNU_FILE_REMOVE Címke el&távolítása\tCtrl+R
+_C_MNU_FILE_REMOVEFILE El&távolítás\tDel
+_C_MNU_FILE_RENAME Átnevezés\tF2
+_C_MNU_FILE_SAVE Címke &mentése\tCtrl+S
+_C_MNU_FILE_SAVECONFIG Konfiguráció &mentése...
+_C_MNU_FREEDB f&reedb
+_C_MNU_FREEDB_INDEX Helyi index készítése
+_C_MNU_FS_EXT Kiterjesztett mezők
+_C_MNU_FS_FNCT Függvények
+_C_MNU_FS_INFO Információs mezők
+_C_MNU_FS_REM Eltávolítás az előzményekből
+_C_MNU_FS_REMALL Minden előzmény eltávolítása...
+_C_MNU_FS_REMALL_MSG Biztosan eltávolít minden előzményt?
+_C_MNU_HELP &Súgó
+_C_MNU_HELP_ABOUT Az Mp3tag névjegye...
+_C_MNU_HELP_DONATE Adomány
+_C_MNU_HELP_FINDER &Téma keresése a súgóban\tF1
+_C_MNU_HELP_FIRSTSTEPS &Első lépések
+_C_MNU_HELP_KEYBOARD Gyors&billentyűk
+_C_MNU_HELP_SUPPORT Online támogatás...
+_C_MNU_HELP_UPGRADE Új verzió keresése...
+_C_MNU_HELP_WWW Mp3tag &weblap...
+_C_MNU_TAGSOURCES Címke &források
+_C_MNU_TOOLS &Eszközök
+_C_MNU_VIEW &Nézet
+_C_MNU_VIEW_COLUMNS &Oszlopok testreszabása...
+_C_MNU_VIEW_FILTER &Szűrés\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY Szűrő automatikus alkalmazása
+_C_MNU_VIEW_ID3 Címke beviteli maszk\tCtrl+Q
+_C_MNU_VIEW_REFRESH &Frissítés\tF5
+_C_MNU_VIEW_SORTBY &Rendezés
+_C_MNU_VIEW_TAGS &Címkék...\tALT+T
+_C_MNU_VIEW_TOOLBAR Es&zközsor
+_C_MNU_SB_ACTIONS Felhasználó által definiált akciók (betű konverzió, csere, ...) alkalmazása a kijelölt fájlokra.
+_C_MNU_SB_CON_FTF Fájlok átnevezése a régi fájlnév alapján.
+_C_MNU_SB_CON_FTT Címke származtatása a fájlnevekből.
+_C_MNU_SB_CON_TFF Címke származtatása egy Címkelista-fájlból.
+_C_MNU_SB_CON_TTF Fájlok átnevezése a címkék alapján.
+_C_MNU_SB_CON_TTT Címke szármáztatása címkékből.
+_C_MNU_SB_EDIT_COPY Kijelölt szöveg vagy a kijelölt fájl címkéjének másolása a vágólapra.
+_C_MNU_SB_EDIT_CUT Kijelölt szöveg vagy a kijelölt fájl címkéjének kivágása a vágólapra.
+_C_MNU_SB_EDIT_INVERTSELECTION Aktuális kijelölés megfordítása.
+_C_MNU_SB_EDIT_NEXT A következő fájl megjelölése a fájllistában.
+_C_MNU_SB_EDIT_PASTE Vágólap tartalmának beillesztése a beszúrásra megjelöltnél, vagy a kijelölt fájlba.
+_C_MNU_SB_EDIT_SELECT Összes fájl kijelölése a fájllistán.
+_C_MNU_SB_EDIT_UNDO Utolsó művelet visszavonása.
+_C_MNU_SB_EDIT_UNSELECTALL Kijelölés megszüntetése.
+_C_MNU_SB_EXTRA_OPTIONS Beállítások ablak megjelenítése.
+_C_MNU_SB_EXTRA_RESET_EDITS Szöveg eltávolítása az összes beviteli mezőből.
+_C_MNU_SB_EXTRA_SET_EDITS Minden beviteli mezőbe az alapértékeket állítja be.
+_C_MNU_SB_EXTRA_TRACKWIZARD Automatikus sorszámozó varázsló futtatása.
+_C_MNU_SB_FILE_ADD Mappa hozzáadása a fájllistához.
+_C_MNU_SB_FILE_CDDB Információ elküldése a behelyezett Audio-CD-ről internet kapcsolaton keresztül.
+_C_MNU_SB_FILE_CDDBLOCAL Információ küldése a behelyezett Audio-CD-ről a helyi freedb-adatbázisnak.
+_C_MNU_SB_FILE_COPY Kijelölt fájlok másolása egy másik mappába.
+_C_MNU_SB_FILE_DELETE Kijelölt fájl(ok) törlése.
+_C_MNU_SB_FILE_DIR Mappa váltás...
+_C_MNU_SB_FILE_EXIT Kilépés az alkalmazásból.
+_C_MNU_SB_FILE_EXPORT Címke és fájl információ exportálása a kijelölt fájl(ok)ból.
+_C_MNU_SB_FILE_FAVDIR Mappa cseréje az alapértelmezett mappára.
+_C_MNU_SB_FILE_FREEDBINDEX Helyi freedb index adatbázis létrehozása, a helyi freedb-n való kereséshez.
+_C_MNU_SB_FILE_MOVE Kijelölt fájl(ok) mozgatása egy másik mappába.
+_C_MNU_SB_FILE_PLALL Lejátszási lista készítése az összes fájlból.
+_C_MNU_SB_FILE_PLAY Kijelölt fájl(ok) lejátszása.
+_C_MNU_SB_FILE_PLAYLIST Egy lejátszási lista tartalmának betöltése.
+_C_MNU_SB_FILE_PLSEL Lejátszási lista készítése a kijelölt fájlokból.
+_C_MNU_SB_FILE_PROPERTIES A kijelölt fájl tulajdonságainak megjelenítése.
+_C_MNU_SB_FILE_READ Címke olvasása a beviteli mezőkbe, a kijelölt fájl(ok)ból.
+_C_MNU_SB_FILE_REMOVE Címke eltávolítása a kijelölt fájl(ok)ból.
+_C_MNU_SB_FILE_REMOVEFILE Kijelölt fájl(ok) eltávolítása a listáról.
+_C_MNU_SB_FILE_RENAME Kijelölt fájl átnevezése.
+_C_MNU_SB_FILE_SAVE Címke mentése a kijelölt fájl(ok)ba.
+_C_MNU_SB_FILE_SAVECONFIG Aktuális beállítások mentése egy konfigurációs fájlba.
+_C_MNU_SB_HELP_ABOUT Az Mp3tag névjegye.
+_C_MNU_SB_HELP_CONTEXT A kijelölt mezők, menük, és ablakok helyi menüjének megjelenítése.
+_C_MNU_SB_HELP_DONATE Kérem, támogassa adományaival az MP3tag fejlesztését.
+_C_MNU_SB_HELP_FINDER Súgó tartalom.
+_C_MNU_SB_HELP_FIRSTSTEPS Egy rövid bemutató az Mp3tag-ról.
+_C_MNU_SB_HELP_KEYBOARD Gyorsbillentyűk listájának megjelenítése.
+_C_MNU_SB_HELP_SUPPORT Ugrás az Mp3tag fórumra.
+_C_MNU_SB_HELP_UPGRADE Az Mp3tag új verziójának keresése.
+_C_MNU_SB_HELP_WWW Ugrás az Mp3tag weblapra.
+_C_MNU_SB_UPDIR Váltás eggyel fentebbi mappába.
+_C_MNU_SB_VIEW_COLUMNS Megjelenít egy ablakot, ahol a fájllista oszlopai testreszabhatóak. 
+_C_MNU_SB_VIEW_FILTER Fájl-nézet szűrése.
+_C_MNU_SB_VIEW_ID3 Megjeleníti/elrejti a címke beviteli maszkot.
+_C_MNU_SB_VIEW_REFRESH A fájllistát frissíti.
+_C_MNU_SB_VIEW_TAGS Bővített tag dialógus megjelenítése.
+_C_MNU_SB_VIEW_TOOLBAR Megjeleníti/elrejti az eszközsort.
+_C_MNU_SB_WND_IDLE Kész
+_C_MNU_SB_WND_MAXIMIZE Kinyitja az ablakot teljes méretre
+_C_MNU_SB_WND_MINIMIZE Ablak minimalizálása az eszközsorra.
+_C_MNU_SB_WND_MOVE Ablak helyének mozgatása
+_C_MNU_SB_WND_RESTORE Ablak visszaállítása normál méretre, teljes méretből vagy minimalizálásból 
+_C_MNU_SB_WND_SIZE Ablak méret megváltoztatása
+_C_MULTILINE Többsoros
+_C_OK &Ok
+_C_OPT_ACTIONGROUPS Csoport akciók
+_C_OPT_ACTIONS Akciók
+_C_OPT_ACTIONS_TYPE Akció típus kiválasztása
+_C_OPT_ADVANCED Haladó
+_C_OPT_ADVANCED_ID3V2LANG ID3v2 megjegyzés nyelvi kód (ISO-639-2)
+_C_OPT_ADVANCED_LISTCHAPTERS Fejezetek listázása külön fájlként
+_C_OPT_CAPTION Beállítások
+_C_OPT_CDDB_CAPTION freedb
+_C_OPT_CDDB_CHK_USEPROXY Pr&oxy használat
+_C_OPT_CDDB_FRM_CDDB freedb szerver
+_C_OPT_CDDB_FRM_LOCALPATH &Helyi freedb elérési út
+_C_OPT_CDDB_FRM_PROXY Proxy
+_C_OPT_CDDB_RD_FMT_UNIX UNIX formátum
+_C_OPT_CDDB_RD_FMT_WIN Windows formátum
+_C_OPT_CDDB_ST_ADDRESS &Cím:
+_C_OPT_CDDB_ST_EMAIL &Email-cím:
+_C_OPT_CDDB_ST_NAME &Név:
+_C_OPT_CDDB_ST_PATH Elérési út:
+_C_OPT_CDDB_ST_PORT Port:
+_C_OPT_CDDB_ST_PROXYNAME &Proxy:
+_C_OPT_CDDB_ST_PROXYPORT Po&rt:
+_C_OPT_CDDB_ST_PWD Jel&szó:
+_C_OPT_CDDB_ST_TIMEOUT Idő&túllépés:
+_C_OPT_CDDB_ST_USERNAME &Felhasználó név:
+_C_OPT_CDDB3_CAPTION Helyi freedb
+_C_OPT_CON_FRM_FTT &Fájlnév - Címke
+_C_OPT_CON_FRM_TFF Címke&lista-fájl - Címke
+_C_OPT_CON_FRM_TTF &Címke - Fájlnév
+_C_OPT_CON_ST_FNAME Fájlnév:
+_C_OPT_CON_ST_FS Formátum sztring:
+_C_OPT_DIR Mappák
+_C_OPT_DIR_COVER Borító mappa
+_C_OPT_EMPTY_HINT Kérem válasszon az alábbi témákból
+_C_OPT_EXP_CAPTION Exportálás
+_C_OPT_EXP_CHK_APPEND Adat hozzáfűzése
+_C_OPT_EXP_CHK_WRITEBOM BOM formátum írása
+_C_OPT_EXP_FRM_EXPORT Konfiguráció exportálása
+_C_OPT_EXP_RD_TRACK Szám
+_C_OPT_EXP_ST_FNAME Exportált fájl neve:
+_C_OPT_EXP_ST_NAME Új export konfiguráció neve
+_C_OPT_FMT_CASE Betűkonverzió
+_C_OPT_FMT_FRM_FTF Fájlnév - Fájlnév
+_C_OPT_FMT_ST_BEGIN Ezzel kezdődő/tartalmazó szavak:
+_C_OPT_FMT_ST_FNAME_NEW Új fájlnév minta:
+_C_OPT_FMT_ST_FNAME_OLD Régi fájlnév minta:
+_C_OPT_FMT2 Cserél
+_C_OPT_FMT2_CASE case-sensitive összehasonlítás
+_C_OPT_FMT2_COL_ORIGINAL Eredeti
+_C_OPT_FMT2_COL_REPLACE Csere ezzel
+_C_OPT_FMT2_ONLYWORDS csak egész szóra
+_C_OPT_GEN_CAPTION Általános
+_C_OPT_GEN_CHK_AUTOSAVE Címkék &mentése nyílbill./egér klikkelés használatakor
+_C_OPT_GEN_CHK_FOLDERSTART indítás ezzel a mappával
+_C_OPT_GEN_CHK_GRID Rácsvonalak megjelenítése a fájl listán
+_C_OPT_GEN_CHK_JUMPONEDIT Automatikusan kiválasztja a következő fájlt szerkesztéskor
+_C_OPT_GEN_CHK_KEEPFILETIME Időbélyegek megtartása a fájl módosításakor
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Átmozgatott fájlok megtartása a fájllistában
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS figyelmeztetések akciókból
+_C_OPT_GEN_CHK_MSG_CHANGE csere után
+_C_OPT_GEN_CHK_MSG_CUT címkék kivágásakor
+_C_OPT_GEN_CHK_MSG_DEL törlés után
+_C_OPT_GEN_CHK_MSG_DELETEFILE fájlok törlésekor
+_C_OPT_GEN_CHK_MSG_EXPORT címkék exportálásakor
+_C_OPT_GEN_CHK_MSG_PASTE címkék beillesztésekor
+_C_OPT_GEN_CHK_MSG_REMOVETAGS címkék eltávolításakor
+_C_OPT_GEN_CHK_MSG_SAVE mentés után
+_C_OPT_GEN_CHK_PL &Lejátszási lista készítése automatikusan
+_C_OPT_GEN_CHK_RELPL Relatív bejegyzések a munkamappából
+_C_OPT_GEN_CHK_AUTOCOMPLETE Automatikus befejezés, a kiválasztó dobozokhoz
+_C_OPT_GEN_CHK_SELECTFILES Fájlok automatikus kiválasztása
+_C_OPT_GEN_CHK_SORTNATURAL Természetes rendezés használata
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH &Aktuális elérési út megjelenítése a címsorban
+_C_OPT_GEN_FRM_GEN Általános
+_C_OPT_GEN_FRM_MSG Üzenet megjelenítése
+_C_OPT_GEN_FRM_PL Lejátszási lista &fájlneve
+_C_OPT_GEN_RD_PLALL minden fájlból
+_C_OPT_GEN_RD_PLSEL a kijelölt fájlokból
+_C_OPT_GEN_ST_FAVDIR Kedvenc mappa:
+_C_OPT_GEN2_CAPTION Üzenetek
+_C_OPT_GENRES Felhasználói műfajok
+_C_OPT_GENRES_HIDESTANDARD Csak a felhasználói műfajokat mutatja
+_C_OPT_ID3_CHK_ISO88591 Mindig ISO-8859-1 tagokat írjon UTF-16 helyett
+_C_OPT_ID3_CHK_LEADINGZEROS Bevezető nullák a sorszámokban (01, 02, ...)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND csak ID3v2, ha  az ID3v1 túl kicsi
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ Olvasás
+_C_OPT_ID3_FRM_REMOVE Eltávolítás
+_C_OPT_ID3_FRM_WRITE Írás
+_C_OPT_LIB Könyvtár
+_C_OPT_LIB_CHK_ENABLE Könyvtár engedélyezése
+_C_OPT_LIB_CHK_RESTRICT Csak ezeket a könyvtárakat tartalmazza
+_C_OPT_LIB_CLEANUP Könyvtár tisztítás
+_C_OPT_MAPPING Térképezés
+_C_OPT_MAPPING_FRM Felhasználói mező térképezés 
+_C_OPT_MAPPING_SOURCE Forrás
+_C_OPT_MAPPING_TARGET Cél
+_C_OPT_PLAYLIST_CAPTION Lejátszási lista
+_C_OPT_PLAYLIST_EXTENDED Bővített információ írása
+_C_OPT_PLAYLIST_NOFOLDERS Ne készítsen mappákat
+_C_OPT_PLAYLIST_SHOWDLG Fájlnév megerősítése ablak megjelenítése
+_C_OPT_TAG Címkék
+_C_OPT_TAGS_COVER Alapértelmezett fájlnév a borítóhoz:
+_C_OPT_TAGS_EXT <<and>> mentési mód a kiterjesztett címkéknél: 
+_C_OPT_TAGS_FILEFILTER Bejövő fájlok szűkítése:
+_C_OPT_TAGS_NOIMG &Ne használja az első képet a mappából borító képként
+_C_OPT_TOOLS Eszközök
+_C_OPT_TOOLS_CHK_DEFAULT Speciális program használata dupla kattintásra:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES minden kijelölt fájlra
+_C_OPT_TOOLS_COL_PARAM Paraméter
+_C_OPT_TOOLS_COL_PATH Elérési út
+_C_OPT_TOOLS_EDIT Eszközök testreszabása. Név és elérési út kötelezőek.
+_C_OPT_TOOLS_FRM_DEFAULT Alapértelmezett eszköz
+_C_OPT_TOOLS_FRM_TOOLS Eszközök
+_C_OVERWRITE Felül&írás
+_C_RENAME &Átnevezés
+_C_TT_CDDB freedb...
+_C_TT_CDDBLOCAL freedb (helyi)...
+_C_TT_CLOSE Bezárás
+_C_TT_DIR Mappa váltás...
+_C_TT_EDIT_UNDO Visszavon
+_C_TT_EXPORT Exportálás
+_C_TT_FAVDIR Kedvenc mappa
+_C_TT_FILE_ADD Mappa hozzáadása...
+_C_TT_FILE_COPY Másolás ide...
+_C_TT_FILE_DELETE Törlés...
+_C_TT_FILE_MOVE Mozgatás ide...
+_C_TT_FILE_PLAY Lejátszás
+_C_TT_FILE_PROPERTIES Tulajdonságok...
+_C_TT_FILE_RENAME Átnevezés
+_C_TT_FTF Fájlnév - Fájlnév
+_C_TT_FTT Fájlnév - Címke
+_C_TT_HELP Súgó téma
+_C_TT_OPT Beállítások ablak...
+_C_TT_PLALL Lejátszási lista készítése minden fájlból
+_C_TT_PLSEL Lejátszási lista készítése a kijelölt fájlokból
+_C_TT_REFRESH Fájlok frissítése
+_C_TT_REMOVE Címke eltávolítása
+_C_TT_SAVE Mentés
+_C_TT_TFF Címkelista-fájl - Címke
+_C_TT_TTF Címke - Fájlnév
+_C_TT_TTT Címke - Címke
+_C_TT_UPDIR Fel
+_C_WIZARD_TRACKS Sorszámozó varázsló
+_C_WIZARD_TRACKS_BEGIN Zene sorszám kezdete
+_C_WIZARD_TRACKS_DESC Zene és lemez sorszámok meghatározása
+_C_WIZARD_TRACKS_DISC_BEGIN Lemez sorszám kezdete
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Bevezető nullák a lemez sorszámokban (01, 02, ...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Összes lemezszám mentése
+_C_WIZARD_TRACKS_DISCNUMBER Lemez sorszám
+_C_WIZARD_TRACKS_RESETFOLDERS A számláló nullázása mappánként 
+_C_WIZARD_TRACKS_SAVETOTAL Összes zeneszám mentése
+_C_WIZARD_TRACKS_TRACKNUMBER Zene sorszám
+_M_ERR_CANCEL Eljárás törölve.
+_M_ERR_CDDB_CD Hiba az Audio-CD olvasásakor.
+_M_ERR_CDDB_CONNECT Hiba a szerverre csatlakozáskor: {1}
+_M_ERR_CDDB_NOENTRY Nem található alkalmas bejegyzés a freedb-ID -nek {1}.
+_M_ERR_CDDB_NOENTRYINLOCALBD Nem található alkalmas bejegyzés a freedb-ID -nek {1} a helyi freedb-adatbázisban '{2}'.
+_M_ERR_CDDB_PARSER A lekérdezés eredménytelen volt.
+_M_ERR_CDDB_READ Hiba adat olvasás közben a freedb-szerverről: {1}
+_M_ERR_CONFIGURATION A konfigurációt nem lehet importálni.
+_M_ERR_COPY Nem lehet másolni a kijelölt fájlokat!
+_M_ERR_DELETE Nem lehet törölni a kijelölt fájlokat!
+_M_ERR_FILECREATE A \"{1}\"  fájlt nem lehetett létrehozni.
+_M_ERR_FILEDELETE A \"{1}\" fájlt nem lehetett törölni.
+_M_ERR_FILENAMEALREADYEXISTS A \"{1}\" fájl már létezik.
+_M_ERR_FILENAMEALREADYEXISTS2 A \"{1}\" fájl kihagyása.
+_M_ERR_FILEOPABORTED Az aktuális mappa tartalma megváltozott.\n\nAkarja újra olvasni az aktuális mappát?
+_M_ERR_FILEOPEN A \"{1}\" fájlt nem lehetett megnyitni.
+_M_ERR_FILEREADONLY A \"{1}\"  fájl írásvédett.\n\nA program leszedje az írásvédettséget?
+_M_ERR_FOLDERCANNOTBEACCESSED Elérési hiba\n\nA(z) \"{1}\" mappa nem elérhető.
+_M_ERR_INVALID_FILENAME Kérem adjon meg egy érvényes fájlnevet.
+_M_ERR_INVALID_FTF_FS A  \"{1}\"  nem egy érvényes fájlformázó sztring.
+_M_ERR_INVALID_TOKEN {1}:\nAz alábbi karakterek nem engedélyezettek fájlnévben:\n\\ / : * ? \" < > |\n\nAkarja automatikusan kijavítani?
+_M_ERR_MOVE Nem lehet elmozgatni a kijelölt fájlokat!
+_M_ERR_ONLINE_NOTFOUND A keresésnek egyetlen dokumentum sem felel meg.
+_M_ERR_OPT_CDDB_NOADDRESS Kérem adja meg egy  freedb-szerver címét.
+_M_ERR_OPT_CDDB_NOEMAIL Kérem adja meg az Ön e-mail címét a 'beállítások, freedb, szerver' alatt. Ezt fogja használni a freedb-szerverhez történő bejelentkezéshez.
+_M_ERR_OPT_CDDB_NONAME Kérem adjon meg egy érvényes nevet a konfigurációnak.
+_M_ERR_OPT_CDDB_NOPORT Kérem adjon meg egy freedb-szerver port számot.
+_M_ERR_PARSELINE Nem lehet kiértékelni a sort: {1}.
+_M_ERR_PLAY A \"{1}\" fájlt nem lehet megnyitni  lejátszáshoz!
+_M_ERR_READ_FILE A \"{1}\" fájlt nem lehetett megnyitni olvasásra.
+_M_ERR_RENAME_FILE A \"{1}\" fájlt nem lehetett átnevezni erre: \"{2}\".
+_M_ERR_RETRY Megpróbálja újra?
+_M_ERR_TL_NOTAGS Nincs egyezés a \"{1}\" fájlban.
+_M_ERR_WRITE_FILE A \"{1}\"  fájlt nem nyitható meg  írásra.
+_M_ERR_YN \n\nFolytatni akarja?
+_M_LOG_FMT_FNAME {1} fájl átnevezve a(z) {2} -ből.\n
+_M_LOG_FMT_TAG {1} címke formázva a(z) {2} -ből.\n
+_M_LOG_FTF {1} fájl átnevezve a(z) {2} -ből.
+_M_LOG_FTT {1} címke származtatva a(z) {2}-ből.
+_M_LOG_PL_ALL Lejátszási lista \"{1}\" készítése az összes ({2}) fájlból.
+_M_LOG_PL_SEL Lejátszási lista \"{1}\" készítése a kijelölt ({2}) fájlból.
+_M_LOG_REMOVE Címke eltávolítva a(z) \"{1}\" fájlból.
+_M_LOG_REMOVED {1} címke eltávolítva a(z) {2} fájlból.
+_M_LOG_REMOVE_NOTAG Nincs címke a \"{1}\" fájlban.
+_M_LOG_SAVE Címke elmentve a \"{1}\" fájlban.
+_M_LOG_SAVED Címke elmentve {1}-be a(z) {2} fájlból.
+_M_LOG_TFF Címke kibontva a(z) \"{1}\"  címke-listából és elmentve {2} -ba a {3} fájl(ok)ból. 
+_M_LOG_TFF_S Importált címkék \"{1}\" -ből egy fájlba.
+_M_LOG_TTF {1} fájl a(z) {2}-ből átnevezve
+_M_STAT_PLAY A \"{1}\" fájl lejátszása...
+_M_STR_ACTION_ADJUSTCOVER Borító beállítása
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Formátum
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Eredeti
+_M_STR_ACTION_ADJUSTCOVER_SIZE Max. méret
+_M_STR_ACTION_CODEPAGE Kódlap konvertálás
+_M_STR_ACTION_CODEPAGE_DESC Kódlap
+_M_STR_ACTION_EXPORTCOVER Borító-kép mentése fájlba
+_M_STR_ACTION_EXPORTCOVER_DUPES Dupla borítók exportálása
+_M_STR_ACTION_EXPORTCOVER_TYPES Csak az alábbi típusú borítók exportálása
+_M_STR_ACTION_FORMAT Formázó érték
+_M_STR_ACTION_GUESS Becsült értékek
+_M_STR_ACTION_GUESSPATTERN Becslés minta
+_M_STR_ACTION_GUESSSOURCE Forrás formátuma
+_M_STR_ACTION_IMPORTCOVER Borító-kép betöltése fájlból
+_M_STR_ACTION_IMPORTCOVER_FS Formázó érték kép-fájlhoz:
+_M_STR_ACTION_IMPORTCOVER_DELETE Létező borító &törlése
+_M_STR_ACTION_IMPORTCOVER_TYPE Borító importálása mint:
+_M_STR_ACTION_IMPORTTEXT Szövegfájl importálása
+_M_STR_ACTION_MERGEDUPLICATEFIELDS Duplikált mezők egyesítése
+_M_STR_ACTION_REGEXP Csere szabályos kifejezéssel
+_M_STR_ACTION_REGEXP_EXP Szabályos kifejezés
+_M_STR_ACTION_REGEXP_MATCH Csere egyezéskor, ezzel
+_M_STR_ACTION_REMOVEDUPES Duplikált mezők eltávolítása
+_M_STR_ACTION_REM Mezők eltávolítása
+_M_STR_ACTION_REM_DESC Eltávolítandó mezők (pontosvesszővel elválasztva):
+_M_STR_ACTION_REM_EX Kivétel mezők
+_M_STR_ACTION_REM_EX_DESC Meghagyandó mezők (pontosvesszővel elválasztva):
+_M_STR_ACTION_SPLITFIELDS Mezők darabolása szeparátor alapján
+_M_STR_ACTIONGROUP_NAME Akció csoport neve
+_M_STR_ALBUM Album
+_M_STR_ALBUMARTIST Album előadó
+_M_STR_ALL_FILEDLGFILTER Minden fájl(*.*)|*.*||
+_M_STR_ARTIST Előadó
+_M_STR_AUTHOR Szerző
+_M_STR_BACK < &Vissza
+_M_STR_BROWSE_COPY Másolás ide:
+_M_STR_BROWSE_MOVE Mozgatás ide:
+_M_STR_BROWSE_TEXT Kérem válasszon egy mappát, amelyik audio fájlokat tartalmaz.
+_M_STR_BYTES Bájtok
+_M_STR_CDDB_CD Audio-CD olvasása
+_M_STR_CDDB_CONNECT kapcsolódás {1}-hez...
+_M_STR_CDDB_CONNECTED kapcsolódva!
+_M_STR_CDDB_IDXDB_ENTRIES adatbázis bejegyzés készítve
+_M_STR_CDDB_RETRIEVE Cím információ visszanyerése
+_M_STR_COLUMNFILENAME Fájlnév
+_M_STR_COLUMNPATH Elérési út
+_M_STR_COLUMNUSEDCOLS látható
+_M_STR_COMBO_HOLD < megtart >
+_M_STR_COMBO_REMOVE < üres >
+_M_STR_COMBO_USER < beír >
+_M_STR_COMMENT Megjegyzés
+_M_STR_COMPOSER Zeneszerző
+_M_STR_COPYOF Másolás {1}-ből
+_M_STR_COVER Borító
+_M_STR_COVER_ADD Megtartja a létező borítókat, és új borítót ad hozzá?
+_M_STR_COVER_CORRECTAR Méretarány javítása
+_M_STR_COVER_SETDESC Borító leírásának beállítása...
+_M_STR_COVER_SETTYPE Borító típus beállítása
+_M_STR_COVERVARIES Borító változó
+_M_STR_CUSTOMIZE Testreszabás...
+_M_STR_DAY nap
+_M_STR_DAYS napok
+_M_STR_DEFAULTVALUE Alapértelmezett érték
+_M_STR_DISCID CDDB ID
+_M_STR_DISCOGS_OAUTH_PIN Discogs azonosító kód megadása
+_M_STR_DISCNUMBER Lemez sorszám
+_M_STR_ERR_CDDB_NOENTRYSELECTED Kérem válasszon egy bejegyzést.
+_M_STR_EXPORT_DELETE Törli a \"{1}\" export  konfigurációt?
+_M_STR_EXPORT_FILEDLGTITLE Exportált fájl kiválasztása
+_M_STR_EXPORT_MULTIPLE Mappánként egy fájl
+_M_STR_EXPORT_SHOWEXPORTFILE \n\nMeg akarja nézni az exportált fájlt most?
+_M_STR_EXP_MSG A {2} fájl információja exportálásra került a '{1}' fájlba.
+_M_STR_FIELD Mező:
+_M_STR_FIELDSIZE mező mérete
+_M_STR_FIELDROWS Sorok
+_M_STR_FILE Fájl
+_M_STR_FILEDELETE Biztos, hogy törölni akarja a kijelölt fájlokat?
+_M_STR_FILEMODIFIED Módosítás
+_M_STR_FILESIZE Méret
+_M_STR_FILTER &Szűrő:
+_M_STR_FMT_CAPITAL Minden Szó Nagybetűs
+_M_STR_FMT_HIGH NAGYBETŰS
+_M_STR_FMT_LOW kisbetűs
+_M_STR_FMT_SENTENCE Nagy kezdőbetűs
+_M_STR_FREEDBCREATEINDEX Akar helyi freedb index adatbázist készíteni?\n\nEz néhány percet vehet igénybe.
+_M_STR_FREEDB_SEARCH freedb web-keresés
+_M_STR_GENRE Műfaj
+_M_STR_GENRES Műfajok
+_M_STR_HIDE &Elrejt
+_M_STR_ITEMALREADYEXISTS Ilyen nevű elem már létezik, felülírja?
+_M_STR_LANGUAGE Nyelv
+_M_STR_M3U_FILEDLGFILTER Támogatott fájlok (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_METADATA &Meta-adat
+_M_STR_MOVEDOWN Mozgatás &le
+_M_STR_MOVEUP Mozgatás &fel
+_M_STR_MPEGBITRATE Bitsűrűség
+_M_STR_MPEGFREQUENCY Frekvencia
+_M_STR_MPEGLENGTH Hossz
+_M_STR_MPEGMODE Mód
+_M_STR_MPEGVERSION Kodek
+_M_STR_MSGCUT Biztosan eltávolítja a címkét a kijelölt fájlból és a vágólapra másolja?
+_M_STR_MSGPASTE Biztosan beilleszti a vágólap tartalmát új címkeként a kijelölt fájlba? 
+_M_STR_MSGREMOVE Biztosan eltávolítja a címkéket a kijelölt fájlokból?
+_M_STR_NAME N&év
+_M_STR_NETWORKING Hálózati munka
+_M_STR_NEXT &Következő >
+_M_STR_NOACTION Nincs akció
+_M_STR_NOACTIONENABLED Kérem engedélyezzen legalább egy akciót a jelölőnégyzetek beállításával.
+_M_STR_NUMERIC Numerikus
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH Kérem válasszon egy munkamappát a helyi freedb-adatbázisnak.
+_M_STR_OPT_CDDB_PROCEED Ez az összes szervert eltávolítja!\n\nAkarja folytatni?\n
+_M_STR_OPTIMIZEMP4 MP4 optimalizálása
+_M_STR_OPTS_ALWAYS mindig
+_M_STR_OPTS_ASK rákérdez
+_M_STR_OPTS_NEVER soha
+_M_STR_PLNAME Lejátszási lista - Fájlnév
+_M_STR_PL_CONFIRM Lejátszási lista készítése az alábbi néven
+_M_STR_PL_SAVEFILTER Listafájl (*.m3u)|*.m3u|Unicode listafájl (*.m3u8)|*.m3u8||
+_M_STR_PREVIEW Előnézet
+_M_STR_PROPERTIES {1} Tulajdonságok
+_M_STR_QUICK Gyors
+_M_STR_RECURSE Almappák
+_M_STR_REST Maradék
+_M_STR_SAVE_NOT < nincs társítás >
+_M_STR_SAVECONFIG Az Ön beállításai mentésre kerültek a '{1}' fájlba.\n\n A beállítások visszaállításához bontsa ki a fájlt a '{2}' mappába.
+_M_STR_SAVECONFIG_FILEDLGFILTER Konfigurációs fájlok (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE Konfiguráció mentése ebbe ...
+_M_STR_SAVEIMAGE Kép mentése a címkébe
+_M_STR_SAVEIMAGEDIRECTORY Kép mentése lemezre
+_M_STR_SAVESELECTION Kijelölés mentése...
+_M_STR_SB_ABORTED megszakítva
+_M_STR_SB_ACTION Akciók alkalmazása a fájlra... {1} a(z) {2}-ből
+_M_STR_SB_CLEANUPDATABASE Fájlok feldolgozása ... {1} a(z) {2}-ből ({3} tisztítva)
+_M_STR_SB_CLEANUPDATABASE_BINARIES Árva bináris fájlok eltávolítása
+_M_STR_SB_CLEANUPDATABASE_COVERS Árva borítók eltávolítása
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Nem könyvtárfájlok eltávolítása
+_M_STR_SB_EXPORTTAGS Címke információ exportálása... {1} a(z) {2}-ből
+_M_STR_SB_LOADTAGS Címke-adat olvasása... {1} a(z) {2}-ből
+_M_STR_SB_READDIRECTORY Mappa olvasása
+_M_STR_SB_REMOVETAGS Címke-adat eltávolítása... {1} a(z) {2}-ből
+_M_STR_SB_RENAMEFILES Fájl átnevezése... {1} a(z) {2}-ből
+_M_STR_SB_WRITETAGS Címke-adat írása... {1} a(z) {2}-ből
+_M_STR_SHOWCHOOSEDLG Kiválasztó ablak megjelenítése
+_M_STR_SEARCHBY Keresés ... szerint:
+_M_STR_SEARCHTEXT Szöveg:
+_M_STR_SEPARATOR Szeparátor
+_M_STR_SHOW &Mutat
+_M_STR_SIZE_LARGE Nagy
+_M_STR_SIZE_MEDIUM Közepes
+_M_STR_SIZE_NORMAL Normál
+_M_STR_SIZE_SMALLER Kisebb
+_M_STR_SIZE_SMALL Kicsi
+_M_STR_SNA Tálca
+_M_STR_SNA_SHOW Mindig mutatja az ikont a tálcán
+_M_STR_SNA_SHOWMIN Kis méretben ikonként a tálcán
+_M_STR_STRIPCHAPTERSMP4 MP4 fejezetcímkék eltávolítása
+_M_STR_TAG_COPIED {1} fájl címkéi a vágólapba másolva.
+_M_STR_TAG2 Címke
+_M_STR_TAGFIELDS_REMOVE Mező eltávolítása
+_M_STR_TAGFIELDS_REMOVEALL Minden mező eltávolítása...
+_M_STR_TAGFIELDS_REMOVEALLMSG Biztosan eltávolít minden mezőt a listából?
+_M_STR_TAGFIELDS_RESET Alapértelmezett mezők...
+_M_STR_TAGFIELDS_RESETMSG Biztosan alapértelmezett értékekre állít minden mezőt a listából?
+_M_STR_TAGPANEL Címke panel
+_M_STR_TAGPANEL_COVER Borító megjelenítése
+_M_STR_TAGPANEL_DIRECTORY Mappa váltó megjelenítése
+_M_STR_TAGLIST_FILEDLGFILTER Címkelisták ({1})
+_M_STR_TAGLIST_FILEDLGTITLE Címkelista kiválasztása
+_M_STR_TAGSOURCES Címkeforrások
+_M_STR_THISALBUMON Ez az album a(z) {1} -on
+_M_STR_TITLE Cím
+_M_STR_TRYAGAIN Megpróbálja mégegyszer?
+_M_STR_TTF Címke - Fájlnév
+_M_STR_UPDATE_FRM Frissítések
+_M_STR_UPDATE_OPT_CHECK Frissítések ellenőrzése indításkor
+_M_STR_UPDATE_OPT_CHECK_BETA beleértve a béta verziókat is
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Új verziók kiadási megjegyzéseinek megjelenítése
+_M_STR_UPDATEAVAILABLE A jelenlegi verziótól ({1}) újabb elérhető!\n\nLetölti ezt a frissítést a {2} -ről?
+_M_STR_UPDATENOTAVAILABLE Ön a legújabb verziót használja ({1}).\n\nA frissítés nem lehetséges.
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS &Eszközök
+_M_STR_VALUE Érték
+_M_STR_VERSION Verzió
+_M_STR_YEAR Év
+_M_TP_CDDB_LOCALPATH Helyi freedb-mappa megadása
+_M_TP_CDDB_SITES freedb-szerverek aktuális listája az Interneten keresztül
+_M_TP_CVR_CLIPBOARD Borító beillesztése
+_M_TP_CVR_CLIPBOARD_COPY Borító másolása
+_M_TP_CVR_CLIPBOARD_CUT Borító kivágása
+_M_TP_CVR_DEL Borító eltávolítása
+_M_TP_CVR_NEW Borító hozzáadása...
+_M_TP_CVR_SAVE Borító mentése...
+_M_TP_DUPLICATE Másolat
+_M_TP_EXP_DEL &Törlés
+_M_TP_EXP_EDIT Szerkesztés
+_M_TP_EXP_FILE Exportált fájl kiválasztása
+_M_TP_EXP_HLP Gyors súgó megjelenítése
+_M_TP_EXP_LOAD Konfiguráció betöltése
+_M_TP_EXP_NEW &Új
+_M_TP_EXP_SAVE Konfiguráció mentése
+_M_TP_GEN_DIR Mappa kiválasztása
+_M_TP_TAG_DEL Mező eltávolítása
+_M_TP_TAG_EDIT Mező szerkesztése...
+_M_TP_TAG_NEW Mező hozzáadása...
+_M_TS_ADDINFO További információ
+_M_TS_MULTIPLEVALUES öszetett értékek
+_M_TS_RELEASE Kiadás
+_M_TS_TRACKS Zeneszámok
+_M_UNDO_CANNOTUNDO Nem lehet visszavonni {1}
+_M_UNDO_CDDB freedb
+_M_UNDO_DIRECTORYCREATE Mappa készítése
+_M_UNDO_DIRECTORYMOVE Mappa áthelyezése
+_M_UNDO_FORMAT Formátum
+_M_UNDO_FTF Fájlnév - Fájlnév
+_M_UNDO_FTT Fájlnév - Címke
+_M_UNDO_REMOVEFILE Eltávolítás a listáról
+_M_UNDO_RENAME Átnevezés
+_M_UNDO_TAGCHANGE Címke csere
+_M_UNDO_TAGREMOVE Címke eltávolítás
+_M_UNDO_TAGSAVE Címke mentés
+_M_UNDO_TFF Szöveg fájl - Címke
+_M_UNDO_TTF Címke - Fájlnév

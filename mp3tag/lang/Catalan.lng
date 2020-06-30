@@ -1,0 +1,622 @@
+﻿LANGAUTHOR Limosin, Abm
+LANGCONTACT abmabm@gmx.es
+LANGVERSION 2.98
+LANGNAME Catalan
+LANGNAMELOC Català
+SLangCancel Cancel·la
+SLangOk D’a&cord
+SLangErrCatch Error d'execució\n\nFitxer:\t{1}\nLínia:\t{2}\n\nL'aplicació ha trobat una excepció inesperada i es troba en un estat indefinit. Tanqueu l'aplicació i envieu el fitxer\n\n{3}\n\njuntament amb una descripció detallada de l'error al nostre equip de suport.\n\nCorreu: support@mp3tag.de
+SLangErrCheck Error d'execució\n\nFitxer:\t{1}\nLínia:\t{2}\nTerme:\t{3}\nCodi:\t0x{4}\n\nL'aplicació ha trobat una excepció inesperada i es troba en un estat indefinit. Tanqueu l'aplicació i envieu el fitxer\n\n{5}\n\njuntament amb una descripció detallada de l'error al nostre equip de suport.\n\nCorreu: support@mp3tag.de
+SLangErrDriveCannotBeAccessed No es pot accedir a la unitat {1}.
+SLangErrFileCannotBeAccessed No es pot accedir al fitxer {1}.
+SLangErrFileCannotBeDeleted No es pot suprimir el fitxer {1}.\n\n» Comproveu que cap altre procés estigui utilitzant el fitxer.
+SLangErrFolderCannotBeAccessed No es pot accedir al directori {1}.
+SLangErrFolderCannotBeDeleted No es pot suprimir el directori {1}.\n\n» Comproveu que cap altre procés estigui utilitzant el directori.
+SLangErrHelpBrowserIsNotAvailable Mp3tag no pot mostrar el fitxer d'ajuda en el vostre navegador web estàndard.
+SLangErrHelpSystemIsNotAvailable Sistema d'ajuda no disponible.\n\n» Reinstal·leu {1}.
+SLangErrHelpTopicIsNotAvailable El tema de l’ajuda no està disponible.\n\n» Contacteu amb el nostre equip de suport.\n\nCorreu: support@mp3tag.de
+SLangErrNotEnoughFreeDiskSpace No hi ha espai suficient en el dispositiu {1}.\n\n» Comproveu que hi hagi almenys {2} d’espai lliure a la unitat.
+SLangErrRegistryCannotBeAccessed Error en llegir dades\n\nNo es pot accedir al Registre de Windows.
+SLangMsgItemExistsAlready Ja existeix una entrada amb aquesta descripció.\n\n» Utilitzeu una altra descripció.
+SLangMsgFirstSteps Preneu-vos un temps per acostumar-vos seguint les primeres passes.
+SLangMsgShutdownInfo Espereu mentre {1} es tanca.
+SLangWrnAppIsAlreadyRunning Ja s’està executant una instància d'aquesta aplicació.
+SLangWrnAppHasToBeRestarted Cal reiniciar Mp3tag per aplicar els canvis.\n\nVoleu reiniciar Mp3tag ara?
+SLangWrnNameContainsInvalidCharacters La descripció conté caràcters no vàlids.\n\n» Utilitzeu una altra descripció.
+SLangWrnStartLogging Ha obert {1} amb el paràmetre de línia d’ordres FLOG1. Aquest paràmetre s'utilitza per a la cerca d'errors.\n\nVoleu iniciar la funció de registre?
+_C_ABORT Interrompre
+_C_ABORTING S'està interrompent...
+_C_APP_ST_ALBUM Àl&bum
+_C_APP_ST_ARTIST &Intèrpret
+_C_APP_ST_COMMENT Co&mentari
+_C_APP_ST_FOLDER &Directori
+_C_APP_ST_GENRE &Gènere
+_C_APP_ST_TITLE &Títol
+_C_APP_ST_TRACK &Pista
+_C_APP_ST_YEAR &Any
+_C_CANCEL &Cancel·la
+_C_CANCELING S’està cancel·lant...
+_C_CLOSE Ta&nca
+_C_DLG_CDDBCONFIRM_CAPTION Llista de resultats de cerca...
+_C_DLG_CDDBCONFIRM_CHK_DISCID Copia ID de disc al camp Comentari
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 Copia ID de disc al camp DISCID
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER Compilació...
+_C_DLG_CDDBCONFIRM_CHK_SORT Suggereix l'ordenació
+_C_DLG_CDDBCONFIRM_ST_INFO Hi ha més d'un resultat.\nTrieu-ne un:
+_C_DLG_CDDBCONFIRM_ST_INFO2 Hi ha {2} resultats de cerca a la Base de dades {1}.\nTrieu-ne un:
+_C_DLG_CDDBCONFIRM_STC_TOP Ajusta la informació d'etiquetes
+_C_DLG_CDDBINPUT_CAPTION Introduïu la identificació de freedb
+_C_DLG_CDDBINPUT_ST_CATEGORY Categoria:
+_C_DLG_CDDBINPUT_ST_ID Identificació de freedb:
+_C_DLG_CDDBSTYLE_CAPTION freedb
+_C_DLG_CDDBSTYLE_RD_CDROM esbrina del CD d'&àudio introduït
+_C_DLG_CDDBSTYLE_RD_ENTER introduïu
+_C_DLG_CDDBSTYLE_RD_MP3 esbrina dels fitxers seleccionats
+_C_DLG_CDDBSTYLE_RD_SEARCH esbrina mitjançant cerca web
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL esbrina mitjançant cerca de text
+_C_DLG_CDDBSTYLE_STC_TOP identificació de freedb...
+_C_DLG_COLUMNS_CAPTION Columnes
+_C_DLG_COLUMNS_TOP Ajusta la visibilitat de les columnes
+_C_DLG_TAGS Edita la informació d'etiquetes
+_C_DLG_TTF_TOP Seleccioneu la cadena de format
+_C_HELP A&juda
+_C_MNU_ACTIONS Accions\tALT+6
+_C_MNU_CON &Converteix
+_C_MNU_CON_FTF Nom de &fitxer - Nom de fitxer\tALT+3
+_C_MNU_CON_FTT &Nom de fitxer - Etiqueta\tALT+2
+_C_MNU_CON_TFF Fitxer de te&xt - Etiqueta\tALT+4
+_C_MNU_CON_TTF E&tiqueta - Nom de fitxer\tALT+1
+_C_MNU_CON_TTT &Etiqueta - Etiqueta\tALT+5
+_C_MNU_EDIT &Edita
+_C_MNU_EDIT_COPY &Copia\tCtrl+C
+_C_MNU_EDIT_CUT &Retalla\tCtrl+X
+_C_MNU_EDIT_INVERTSELECTION &Inverteix la selecció\tCtrl+Maj+A
+_C_MNU_EDIT_NEXT &Selecciona el fitxer següent\tCtrl+N
+_C_MNU_EDIT_PASTE &Enganxa\tCtrl+V
+_C_MNU_EDIT_SELECT Selecciona &tots els fitxers\tCtrl+A
+_C_MNU_EDIT_UNDO &Desfés\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL &No seleccionis res\tCtrl+U
+_C_MNU_EXTRA E&ines
+_C_MNU_EXTRA_OPTIONS &Opcions...\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS Restaura tots els cam&ps d’entrada\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS Valors per defecte als camps\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD Auxiliar de numeració automàtica\tCtrl+K
+_C_MNU_FILE &Fitxer
+_C_MNU_FILE_ADD Afegeix un directori...
+_C_MNU_FILE_CDDB freedb...\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL freedb (Local)...\tCtrl+L
+_C_MNU_FILE_COPY Copia...
+_C_MNU_FILE_DELETE Suprimeix...
+_C_MNU_FILE_DIR Canvia el &directori...\tCtrl+D
+_C_MNU_FILE_EXIT &Surt\tAlt+F4
+_C_MNU_FILE_EXPORT &Exporta\tCtrl+E
+_C_MNU_FILE_FAVDIR Directori dels &preferits\tCtrl+F
+_C_MNU_FILE_MOVE Mou...
+_C_MNU_FILE_PLALL Llista de reproducció (tots els fitxers)\tCtrl+P
+_C_MNU_FILE_PLAY Reprodueix
+_C_MNU_FILE_PLAYLIST Carrega la llista de reproducció...
+_C_MNU_FILE_PLSEL &Llista de reproducció (fitxers seleccionats)
+_C_MNU_FILE_PROPERTIES Propietats...
+_C_MNU_FILE_READ Llegeix les e&tiquetes\tCtrl+T
+_C_MNU_FILE_REMOVE &Suprimeix les etiquetes\tCtrl+R
+_C_MNU_FILE_REMOVEFILE S&uprimeix\tSupr
+_C_MNU_FILE_RENAME Canvia nom\tF2
+_C_MNU_FILE_SAVE &Desa les etiquetes\tCtrl+S
+_C_MNU_FILE_SAVECONFIG D&esa configuració ...
+_C_MNU_FREEDB f&reedb
+_C_MNU_FREEDB_INDEX Crea índex local
+_C_MNU_FS_EXT Camps ampliats
+_C_MNU_FS_FNCT Funcions
+_C_MNU_FS_INFO Camps d’informació
+_C_MNU_FS_REM Suprimeix de l'historial
+_C_MNU_FS_REMALL Suprimeix tot l'historial...
+_C_MNU_FS_REMALL_MSG Esteu segur que voleu suprimir tots els elements?
+_C_MNU_HELP A&juda
+_C_MNU_HELP_ABOUT Quant a Mp3tag...
+_C_MNU_HELP_DONATE Donació
+_C_MNU_HELP_FINDER &Continguts...\tF1
+_C_MNU_HELP_FIRSTSTEPS &Primers passos
+_C_MNU_HELP_KEYBOARD &Dreceres de teclat
+_C_MNU_HELP_SUPPORT Assistència tècnica en línia...
+_C_MNU_HELP_UPGRADE Comprova si hi ha nova versió ...
+_C_MNU_HELP_WWW Lloc &web de Mp3tag...
+_C_MNU_TAGSOURCES &Fonts d’etiquetes
+_C_MNU_TOOLS &Eines
+_C_MNU_VIEW &Visualitza
+_C_MNU_VIEW_COLUMNS &Personalitza les columnes...
+_C_MNU_VIEW_FILTER &Filtre\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY Aplica automàticament el filtre
+_C_MNU_VIEW_ID3 Plafó d’etiquetes\tCtrl+Q
+_C_MNU_VIEW_REFRESH A&ctualitza\tF5
+_C_MNU_VIEW_SORTBY O&rdena per
+_C_MNU_VIEW_TAGS E&tiquetes ampliades...\tALT+T
+_C_MNU_VIEW_TOOLBAR Barra d'eines
+_C_MNU_SB_ACTIONS Aplica les accions definides per l'usuari (conversió majúscules/minúscules, reemplaça, ...) als fitxers seleccionats.
+_C_MNU_SB_CON_FTF Canvia els noms dels fitxers segons un patró definit basat en el nom antic del fitxer.
+_C_MNU_SB_CON_FTT Importa les etiquetes dels noms de fitxer.
+_C_MNU_SB_CON_TFF Importa les etiquetes des d’un fitxer de text.
+_C_MNU_SB_CON_TTF Canvia el nom dels fitxers segons el patró definit basat en les etiquetes.
+_C_MNU_SB_CON_TTT Formata les etiquetes basant-se en etiquetes.
+_C_MNU_SB_EDIT_COPY Copia el text seleccionat o l’etiqueta del fitxer seleccionat al porta-retalls.
+_C_MNU_SB_EDIT_CUT Retallar el text seleccionat o l’etiqueta del fitxer seleccionat i moure-ho al porta-retalls.
+_C_MNU_SB_EDIT_INVERTSELECTION Inverteix la selecció actual.
+_C_MNU_SB_EDIT_NEXT Marca el següent fitxer a la vista de fitxers.
+_C_MNU_SB_EDIT_PASTE Enganxa el contingut del porta-retalls a la marca d’inserció o en el fitxer seleccionat.
+_C_MNU_SB_EDIT_SELECT Selecciona els fitxers de la vista de fitxers.
+_C_MNU_SB_EDIT_UNDO Desfés la darrera operació.
+_C_MNU_SB_EDIT_UNSELECTALL Anul·la la selecció de tots els fitxers.
+_C_MNU_SB_EXTRA_OPTIONS Mostra el diàleg Opcions.
+_C_MNU_SB_EXTRA_RESET_EDITS Suprimeix el text de tots els camps al plafó d’etiquetes.
+_C_MNU_SB_EXTRA_SET_EDITS Estableix els valors estàndard definits a tots els camps d’entrada del plafó d’etiquetes.
+_C_MNU_SB_EXTRA_TRACKWIZARD Executa l'auxiliar de numeració automàtica de pistes.
+_C_MNU_SB_FILE_ADD Afegeix un directori a la llista de fitxers.
+_C_MNU_SB_FILE_CDDB Obtén informació sobre el CD d'àudio inserit o els fitxers d'àudio seleccionats mitjançant una connexió a internet.
+_C_MNU_SB_FILE_CDDBLOCAL Obtén informació sobre el CD d'àudio inserit o els fitxers d'àudio seleccionats mitjançant la base de dades local de freedb.
+_C_MNU_SB_FILE_COPY Copia els fitxers seleccionats a un altre directori.
+_C_MNU_SB_FILE_DELETE Suprimeix els fitxers seleccionats.
+_C_MNU_SB_FILE_DIR Canvia directori de treball actual.
+_C_MNU_SB_FILE_EXIT Surt de l'aplicació.
+_C_MNU_SB_FILE_EXPORT Exporta etiquetes i informació dels fitxers seleccionats.
+_C_MNU_SB_FILE_FAVDIR Canvia al directori preferit.
+_C_MNU_SB_FILE_FREEDBINDEX Crea la base de dades de l'índex freedb local per cercar a través de freedb local.
+_C_MNU_SB_FILE_MOVE Mou els fitxers seleccionats a un altre directori.
+_C_MNU_SB_FILE_PLALL Crea una llista de reproducció de tots els fitxers.
+_C_MNU_SB_FILE_PLAY Reprodueix els fitxers seleccionats.
+_C_MNU_SB_FILE_PLAYLIST Carrega el contingut d’una llista de reproducció.
+_C_MNU_SB_FILE_PLSEL Crea una llista de reproducció dels fitxers seleccionats.
+_C_MNU_SB_FILE_PROPERTIES Mostra les propietats del fitxer seleccionat.
+_C_MNU_SB_FILE_READ Copia les etiquetes del fitxer seleccionat als camps del plafó d’etiquetes.
+_C_MNU_SB_FILE_REMOVE Suprimeix les etiquetes del fitxer seleccionat.
+_C_MNU_SB_FILE_REMOVEFILE Suprimeix els fitxers seleccionats.
+_C_MNU_SB_FILE_RENAME Canvia el nom del fitxer seleccionat.
+_C_MNU_SB_FILE_SAVE Desa les etiquetes en els fitxers seleccionats.
+_C_MNU_SB_FILE_SAVECONFIG Desa configuració actual en un fitxer de configuració.
+_C_MNU_SB_HELP_ABOUT Informació sobre Mp3tag.
+_C_MNU_SB_HELP_CONTEXT Mostra ajuda contextual sobre els camps seleccionats, els menús i les finestres.
+_C_MNU_SB_HELP_DONATE Considereu fer un donatiu per ajudar al desenvolupament de Mp3tag.
+_C_MNU_SB_HELP_FINDER Mostra el contingut de l’ajuda.
+_C_MNU_SB_HELP_FIRSTSTEPS Mostra una breu introducció a Mp3tag.
+_C_MNU_SB_HELP_KEYBOARD Mostra la llista de dreceres de teclat.
+_C_MNU_SB_HELP_SUPPORT Ves als fòrums de discussió de Mp3tag.
+_C_MNU_SB_HELP_UPGRADE Comprova si hi ha actualitzacions de Mp3tag.
+_C_MNU_SB_HELP_WWW Ves al lloc web de Mp3tag.
+_C_MNU_SB_UPDIR Canvia al directori superior.
+_C_MNU_SB_VIEW_COLUMNS Mostra un diàleg on es poden personalitzar les columnes de la vista de fitxers.
+_C_MNU_SB_VIEW_FILTER Filtra la vista de fitxers.
+_C_MNU_SB_VIEW_ID3 Mostra o amaga el plafó d'etiquetes.
+_C_MNU_SB_VIEW_REFRESH Actualitza la vista de fitxers.
+_C_MNU_SB_VIEW_TAGS Mostra el diàleg d'etiquetes ampliades.
+_C_MNU_SB_VIEW_TOOLBAR Mostra o amaga la barra d’eines.
+_C_MNU_SB_WND_IDLE Preparat.
+_C_MNU_SB_WND_MAXIMIZE Expandeix la finestra perquè ocupi tota la pantalla.
+_C_MNU_SB_WND_MINIMIZE Minimitza la finestra a la barra de tasques.
+_C_MNU_SB_WND_MOVE Mou la ubicació de la finestra.
+_C_MNU_SB_WND_RESTORE Restaura la finestra a la mida normal des d’ocupar tota la pantalla o estar minimitzada.
+_C_MNU_SB_WND_SIZE Canvia la mida de la finestra.
+_C_MULTILINE Multilínia
+_C_OK &D'acord
+_C_OPT_ACTIONGROUPS Grups d'accions
+_C_OPT_ACTIONS Accions
+_C_OPT_ACTIONS_TYPE Seleccioneu el tipus d'acció
+_C_OPT_ADVANCED Avançades
+_C_OPT_ADVANCED_ID3V2LANG Codi d’idioma en els comentaris ID3v2 (ISO-639-2)
+_C_OPT_ADVANCED_LISTCHAPTERS Llista els capítols com a fitxers separats
+_C_OPT_CAPTION Opcions
+_C_OPT_CDDB_CAPTION freedb
+_C_OPT_CDDB_CHK_USEPROXY Utilitza un pr&oxy
+_C_OPT_CDDB_FRM_CDDB Servidor freedb
+_C_OPT_CDDB_FRM_LOCALPATH Camí &local de freedb:
+_C_OPT_CDDB_FRM_PROXY Proxy
+_C_OPT_CDDB_RD_FMT_UNIX Format UNIX
+_C_OPT_CDDB_RD_FMT_WIN Format Windows
+_C_OPT_CDDB_ST_ADDRESS &Adreça:
+_C_OPT_CDDB_ST_EMAIL Adreça de &correu electrònic:
+_C_OPT_CDDB_ST_NAME &Nom:
+_C_OPT_CDDB_ST_PATH Camí:
+_C_OPT_CDDB_ST_PORT Port:
+_C_OPT_CDDB_ST_PROXYNAME &Proxy:
+_C_OPT_CDDB_ST_PROXYPORT Po&rt:
+_C_OPT_CDDB_ST_PWD Con&trasenya:
+_C_OPT_CDDB_ST_TIMEOUT T&emps d’espera:
+_C_OPT_CDDB_ST_USERNAME Nom d'&usuari:
+_C_OPT_CDDB3_CAPTION Local
+_C_OPT_CON_FRM_FTT &Nom de fitxer - Etiquetes
+_C_OPT_CON_FRM_TFF Fitxer de te&xt - Etiquetes
+_C_OPT_CON_FRM_TTF E&tiquetes - Nom de fitxer
+_C_OPT_CON_ST_FNAME Nom de fitxer:
+_C_OPT_CON_ST_FS Cadena de format:
+_C_OPT_DIR Directoris
+_C_OPT_DIR_COVER Directori de caràtules
+_C_OPT_EMPTY_HINT Seleccioneu un tema a continuació
+_C_OPT_EXP_CAPTION Exporta
+_C_OPT_EXP_CHK_APPEND Afegeix dades
+_C_OPT_EXP_CHK_WRITEBOM Escriu BOM (Marca d’ordre de bytes)
+_C_OPT_EXP_FRM_EXPORT Exporta configuració
+_C_OPT_EXP_RD_TRACK Pista
+_C_OPT_EXP_ST_FNAME Nom del fitxer exportat:
+_C_OPT_EXP_ST_NAME Nom de la nova configuració d'exportació
+_C_OPT_FMT_CASE Conversió entre majúscules i minúscules
+_C_OPT_FMT_FRM_FTF Nom de fitxer - Nom de fitxer
+_C_OPT_FMT_ST_BEGIN Les paraules comencen a partir o després de qualsevol de les següents:
+_C_OPT_FMT_ST_FNAME_NEW Patró de noms de fitxer nous:
+_C_OPT_FMT_ST_FNAME_OLD Patró de noms de fitxer antics:
+_C_OPT_FMT2 Reemplaça
+_C_OPT_FMT2_CASE Distingeix entre majúscules i minúscules en comparar
+_C_OPT_FMT2_COL_ORIGINAL Original
+_C_OPT_FMT2_COL_REPLACE Reemplaça amb
+_C_OPT_FMT2_ONLYWORDS només com a paraula sencera
+_C_OPT_GEN_CAPTION General
+_C_OPT_GEN_CHK_AUTOSAVE Desa etiquetes en utilitzar les &fletxes o fer clic amb el ratolí
+_C_OPT_GEN_CHK_FOLDERSTART començar en aquest directori
+_C_OPT_GEN_CHK_GRID Mostra les línies de la graella a la vista de fitxers
+_C_OPT_GEN_CHK_JUMPONEDIT Selecciona el següent fitxer si s'edita en vista de fitxers
+_C_OPT_GEN_CHK_KEEPFILETIME Preserva la data i hora dels fitxers en desar les etiquetes
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Manté els fitxers moguts a la llista de fitxers
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS als avisos d’Accions
+_C_OPT_GEN_CHK_MSG_CHANGE després de canviar
+_C_OPT_GEN_CHK_MSG_CUT en retallar etiquetes
+_C_OPT_GEN_CHK_MSG_DEL després de suprimir
+_C_OPT_GEN_CHK_MSG_DELETEFILE en suprimir fitxers
+_C_OPT_GEN_CHK_MSG_EXPORT en exportar etiquetes
+_C_OPT_GEN_CHK_MSG_PASTE en enganxar etiquetes
+_C_OPT_GEN_CHK_MSG_REMOVETAGS en suprimir etiquetes
+_C_OPT_GEN_CHK_MSG_SAVE després de desar
+_C_OPT_GEN_CHK_PL Crea llista de &reproducció automàticament
+_C_OPT_GEN_CHK_RELPL Entrades relatives respecte al directori de treball
+_C_OPT_GEN_CHK_AUTOCOMPLETE Compleció automàtica en els quadres de selecció
+_C_OPT_GEN_CHK_SELECTFILES Selecciona els fitxers automàticament
+_C_OPT_GEN_CHK_SORTNATURAL Utilitza l’ordenació natural
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH &Mostra el directori actual en el títol de la finestra
+_C_OPT_GEN_FRM_GEN General
+_C_OPT_GEN_FRM_MSG Mostra missatge
+_C_OPT_GEN_FRM_PL Nom de fitxer de la &llista de reproducció
+_C_OPT_GEN_RD_PLALL de tots els fitxers
+_C_OPT_GEN_RD_PLSEL dels fitxers seleccionats
+_C_OPT_GEN_ST_FAVDIR Directori preferit:
+_C_OPT_GEN2_CAPTION Missatges
+_C_OPT_GENRES Gèneres definits per l'usuari
+_C_OPT_GENRES_HIDESTANDARD Mostrar només els gèneres definits per l'usuari
+_C_OPT_ID3_CHK_ISO88591 Sempre escriu les etiquetes ISO-8859-1 en lloc d’UTF-16
+_C_OPT_ID3_CHK_LEADINGZEROS Zeros a l’esquerra dels números de pista (01, 02, ...)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND ID3v2 només si ID3v1 és massa petit
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ Llegeix
+_C_OPT_ID3_FRM_REMOVE Suprimeix
+_C_OPT_ID3_FRM_WRITE Escriu
+_C_OPT_LIB Biblioteca
+_C_OPT_LIB_CHK_ENABLE Habilita la biblioteca
+_C_OPT_LIB_CHK_RESTRICT Inclou només aquests directoris
+_C_OPT_LIB_CLEANUP Neteja de la biblioteca
+_C_OPT_MAPPING Assignació
+_C_OPT_MAPPING_FRM Assignacions de camp definides per l’usuari
+_C_OPT_MAPPING_SOURCE Origen
+_C_OPT_MAPPING_TARGET Destinació
+_C_OPT_PLAYLIST_CAPTION Llista de reproducció
+_C_OPT_PLAYLIST_EXTENDED Escriu informació ampliada
+_C_OPT_PLAYLIST_NOFOLDERS No creïs directoris
+_C_OPT_PLAYLIST_SHOWDLG Mostra diàleg de confirmació de nom de fitxer
+_C_OPT_TAG Etiquetes
+_C_OPT_TAGS_COVER Nom per defecte del fitxer de caràtula:
+_C_OPT_TAGS_EXT Com es desa en prémer << i >> al diàleg d’etiquetes ampliades:
+_C_OPT_TAGS_FILEFILTER Restringeix els fitxers entrants a:
+_C_OPT_TAGS_NOIMG &No mostris la primera imatge del directori com a caràtula
+_C_OPT_TOOLS Eines
+_C_OPT_TOOLS_CHK_DEFAULT Al fer doble clic utilitza el programa especial:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES per a tots els fitxers seleccionats
+_C_OPT_TOOLS_COL_PARAM Paràmetre
+_C_OPT_TOOLS_COL_PATH Camí
+_C_OPT_TOOLS_EDIT Personalitza l'eina. Nom i camí són obligatoris.
+_C_OPT_TOOLS_FRM_DEFAULT Eina per defecte
+_C_OPT_TOOLS_FRM_TOOLS Eines
+_C_OVERWRITE Sobre&escriu
+_C_RENAME &Canvia el nom
+_C_TT_CDDB freedb ...
+_C_TT_CDDBLOCAL freedb (local)...
+_C_TT_CLOSE Tanca
+_C_TT_DIR Canvia directori...
+_C_TT_EDIT_UNDO Desfés
+_C_TT_EXPORT Exporta
+_C_TT_FAVDIR Directori preferit
+_C_TT_FILE_ADD Afegeix directori...
+_C_TT_FILE_COPY Copia a...
+_C_TT_FILE_DELETE Suprimeix...
+_C_TT_FILE_MOVE Mou a...
+_C_TT_FILE_PLAY Reprodueix
+_C_TT_FILE_PROPERTIES Propietats...
+_C_TT_FILE_RENAME Canvia el nom
+_C_TT_FTF Nom de fitxer - Nom de fitxer
+_C_TT_FTT Nom de fitxer - Etiqueta
+_C_TT_HELP Contingut de l'ajuda...
+_C_TT_OPT Diàleg d'opcions...
+_C_TT_PLALL Crea llista de reproducció de tots els fitxers
+_C_TT_PLSEL Crea llista de reproducció dels fitxers seleccionats
+_C_TT_REFRESH Actualitza la vista de fitxers
+_C_TT_REMOVE Suprimeix etiquetes
+_C_TT_SAVE Desa
+_C_TT_TFF Fitxer de text - Etiqueta
+_C_TT_TTF Etiqueta - Nom de fitxer
+_C_TT_TTT Etiqueta - Etiqueta
+_C_TT_UPDIR Amunt
+_C_WIZARD_TRACKS Auxiliar de numeració automàtica
+_C_WIZARD_TRACKS_BEGIN Comença a la pista número:
+_C_WIZARD_TRACKS_DESC Assigna número de pista i de disc
+_C_WIZARD_TRACKS_DISC_BEGIN Comença en el número de disc
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Zeros a l’esquerra dels números de disc (01, 02, ...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Desa el nombre de discos
+_C_WIZARD_TRACKS_DISCNUMBER Número de disc
+_C_WIZARD_TRACKS_RESETFOLDERS Reinicia el comptador per cada directori
+_C_WIZARD_TRACKS_SAVETOTAL Desa el nombre total de pistes
+_C_WIZARD_TRACKS_TRACKNUMBER Número de pista
+_M_ERR_CANCEL Procés cancel·lat.
+_M_ERR_CDDB_CD S’ha produït un error en llegir el CD d'àudio
+_M_ERR_CDDB_CONNECT S’ha produït un error en connectar-se al servidor: {1}
+_M_ERR_CDDB_NOENTRY No s'ha trobat cap entrada adequada per a la identificació de freedb {1}.
+_M_ERR_CDDB_NOENTRYINLOCALBD No s'ha trobat cap entrada adequada per a la identificació de freedb {1} a la base de dades freedb local '{2}'.
+_M_ERR_CDDB_PARSER La consulta no ha tornat cap resultat.
+_M_ERR_CDDB_READ S’ha produït un error en llegir dades de {1}
+_M_ERR_CONFIGURATION No es pot importar la configuració.
+_M_ERR_COPY No es poden copiar els fitxers seleccionats.
+_M_ERR_DELETE No es poden suprimir els fitxers seleccionats.
+_M_ERR_FILECREATE No es pot crear el fitxer \"{1}\".
+_M_ERR_FILEDELETE No es pot suprimir el fitxer \"{1}\".
+_M_ERR_FILENAMEALREADYEXISTS El fitxer \"{1}\" ja existeix.
+_M_ERR_FILENAMEALREADYEXISTS2 No s’ha canviat el nom del fitxer \"{1}\".
+_M_ERR_FILEOPABORTED És possible que el contingut del directori actual hagi canviat.\n\nVoleu tornar a llegir el directori actual?
+_M_ERR_FILEOPEN El fitxer \"{1}\" no es pot obrir.
+_M_ERR_FILEREADONLY El fitxer \"{1}\" és només de lectura.\n\nVoleu que Mp3tag inhabiliti la protecció d’escriptura d'aquest i dels següents fitxers només de lectura?
+_M_ERR_FOLDERCANNOTBEACCESSED S’ha produït un error d'accés.\n\nNo es pot accedir al directori \"{1}\".
+_M_ERR_INVALID_FILENAME Especifiqueu un nom de fitxer vàlid.
+_M_ERR_INVALID_FTF_FS La cadena \"{1}\" no és una cadena de format vàlida per a noms de fitxer.
+_M_ERR_INVALID_TOKEN {1}:\nEls següents caràcters no estan permesos en els noms de fitxer:\n\\ / : * ? \" < > |\n\nVoleu que ho corregeixi automàticament?
+_M_ERR_MOVE No es poden moure els fitxers seleccionats.
+_M_ERR_ONLINE_NOTFOUND No hi ha cap entrada que coincideixi amb els criteris de cerca.
+_M_ERR_OPT_CDDB_NOADDRESS Introduïu l'adreça d'un servidor freedb.
+_M_ERR_OPT_CDDB_NOEMAIL Introduïu la vostra adreça de correu electrònic a 'Opcions, freedb, Servidor'. S'utilitzarà per registrar l'accés al servidor freedb.
+_M_ERR_OPT_CDDB_NONAME Introduïu un nom vàlid per la configuració.
+_M_ERR_OPT_CDDB_NOPORT Introduïu el número de port d’un servidor freedb.
+_M_ERR_PARSELINE No es pot analitzar la línia {1}.
+_M_ERR_PLAY El fitxer \"{1}\" no es pot obrir per reproduir-lo
+_M_ERR_READ_FILE El fitxer \"{1}\" no es pot obrir per llegir-lo.
+_M_ERR_RENAME_FILE No es pot canviar el nom del fitxer \"{1}\" a \"{2}\".
+_M_ERR_RETRY Do you want to retry?
+_M_ERR_TL_NOTAGS No s'ha trobat cap entrada que coincideixi amb el fitxer \"{1}\".
+_M_ERR_WRITE_FILE No es pot obrir el fitxer \"{1}\" per escriure-hi.
+_M_ERR_YN \n\nVoleu continuar?
+_M_LOG_FMT_FNAME S’han canviat {1} de {2} noms de fitxer.\n
+_M_LOG_FMT_TAG Les etiquetes s’han formatat a {1} de {2} fitxers.\n
+_M_LOG_FTF S’han canviat {1} de {2} noms de fitxer.
+_M_LOG_FTT S’han obtingut les etiquetes de {1} de {2} fitxers.
+_M_LOG_PL_ALL S’ha creat la llista de reproducció \"{1}\" de tots els fitxers ({2}).
+_M_LOG_PL_SEL S’ha creat la llista de reproducció \"{1}\" dels ({2}) fitxers seleccionats.
+_M_LOG_REMOVE S’han suprimit les etiquetes del fitxer \"{1}\".
+_M_LOG_REMOVED S’han suprimit les etiquetes de {1} de {2} fitxers.
+_M_LOG_REMOVE_NOTAG El fitxer \"{1}\" no conté etiquetes.
+_M_LOG_SAVE S’han desat les etiquetes al fitxer \"{1}\".
+_M_LOG_SAVED S’han desat les etiquetes a {1} de {2} fitxers.
+_M_LOG_TFF S’han importat les etiquetes de \"{1}\" a {2} de {3} fitxers.
+_M_LOG_TFF_S S’han importat les etiquetes de \"{1}\" a un fitxer.
+_M_LOG_TTF S’han canviat {1} de {2} noms de fitxer.\n
+_M_STAT_PLAY S’està reproduint el fitxer \"{1}\"...
+_M_STR_ACTION_ADJUSTCOVER Adjust cover
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Format
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
+_M_STR_ACTION_CODEPAGE Converteix pàgina de codis
+_M_STR_ACTION_CODEPAGE_DESC Pàgina de codis
+_M_STR_ACTION_EXPORTCOVER Exporta la caràtula a fitxer
+_M_STR_ACTION_EXPORTCOVER_DUPES Exporta les caràtules duplicades
+_M_STR_ACTION_EXPORTCOVER_TYPES Exporta només les caràtules del tipus
+_M_STR_ACTION_FORMAT Valor de format
+_M_STR_ACTION_GUESS Dedueix els valors
+_M_STR_ACTION_GUESSPATTERN Patró de deducció
+_M_STR_ACTION_GUESSSOURCE Format original
+_M_STR_ACTION_IMPORTCOVER Importa la caràtula des del fitxer
+_M_STR_ACTION_IMPORTCOVER_FS Cadena de format pel nom de fitxer d'imatge:
+_M_STR_ACTION_IMPORTCOVER_DELETE &Suprimeix la caràtula existent
+_M_STR_ACTION_IMPORTCOVER_TYPE Importa la caràtula com a:
+_M_STR_ACTION_IMPORTTEXT Importa fitxer de text
+_M_STR_ACTION_MERGEDUPLICATEFIELDS Fusiona camps duplicats
+_M_STR_ACTION_REGEXP Reemplaça segons l'expressió regular
+_M_STR_ACTION_REGEXP_EXP Expressió regular
+_M_STR_ACTION_REGEXP_MATCH Reemplaça les coincidències amb
+_M_STR_ACTION_REMOVEDUPES Suprimeix els camps duplicats
+_M_STR_ACTION_REM Suprimeix camps
+_M_STR_ACTION_REM_DESC Camps a suprimir (separats per punt i coma):
+_M_STR_ACTION_REM_EX Suprimeix els camps excepte
+_M_STR_ACTION_REM_EX_DESC Camps a mantenir (separats per punt i coma):
+_M_STR_ACTION_SPLITFIELDS Divideix els camps segons un separador
+_M_STR_ACTIONGROUP_NAME Nom del grup d'accions
+_M_STR_ALBUM Àlbum
+_M_STR_ALBUMARTIST Intèrpret de l'àlbum
+_M_STR_ALL_FILEDLGFILTER Tots els fitxers (*.*)|*.*||
+_M_STR_ARTIST Intèrpret
+_M_STR_AUTHOR Autor
+_M_STR_BACK < &Enrere
+_M_STR_BROWSE_COPY Copia a:
+_M_STR_BROWSE_MOVE Mou a:
+_M_STR_BROWSE_TEXT Seleccioneu un directori que contingui fitxers d'àudio.
+_M_STR_BYTES Bytes
+_M_STR_CDDB_CD Llegeix CD d'àudio
+_M_STR_CDDB_CONNECT connecta amb {1} ...
+_M_STR_CDDB_CONNECTED  connectat.
+_M_STR_CDDB_IDXDB_ENTRIES s'han creat les entrades a la base de dades
+_M_STR_CDDB_RETRIEVE Recupera informació de Títol
+_M_STR_COLUMNFILENAME Fitxer
+_M_STR_COLUMNPATH Camí
+_M_STR_COLUMNUSEDCOLS mostrat
+_M_STR_COMBO_HOLD < manté >
+_M_STR_COMBO_REMOVE < en blanc >
+_M_STR_COMBO_USER < introduïu >
+_M_STR_COMMENT Comentari
+_M_STR_COMPOSER Compositor
+_M_STR_COPYOF Copia de {1}
+_M_STR_COVER Caràtula
+_M_STR_COVER_ADD Voleu mantenir les caràtules existents?
+_M_STR_COVER_CORRECTAR Corregeix relació d'aspecte
+_M_STR_COVER_SETDESC Estableix la &descripció de la caràtula...
+_M_STR_COVER_SETTYPE Estableix el &tipus de caràtula
+_M_STR_COVERVARIES Diverses caràtules
+_M_STR_CUSTOMIZE Personalitza...
+_M_STR_DAY dia
+_M_STR_DAYS dies
+_M_STR_DEFAULTVALUE Valor per defecte
+_M_STR_DISCID Identificació CDDB
+_M_STR_DISCOGS_OAUTH_PIN Introduïu el codi d’autorització de Discogs
+_M_STR_DISCNUMBER Número de disc
+_M_STR_ERR_CDDB_NOENTRYSELECTED Seleccioni una entrada.
+_M_STR_EXPORT_DELETE Voleu suprimir la configuració d'exportació \"{1}\"?
+_M_STR_EXPORT_FILEDLGTITLE Seleccioneu el fitxer d'exportació
+_M_STR_EXPORT_MULTIPLE Un fitxer per directori
+_M_STR_EXPORT_SHOWEXPORTFILE \n\nMostro fitxer d’exportació ara?
+_M_STR_EXP_MSG L’exportació ha processat {2} fitxers i ha escrit al fitxer '{1}'.
+_M_STR_FIELD Camp:
+_M_STR_FIELDSIZE Mida del camp
+_M_STR_FIELDROWS Files
+_M_STR_FILE Fitxer
+_M_STR_FILEDELETE Esteu segur que voleu suprimir tots els fitxers seleccionats?
+_M_STR_FILEMODIFIED Data
+_M_STR_FILESIZE Mida
+_M_STR_FILTER &Filtre:
+_M_STR_FMT_CAPITAL Majúscules i minúscules combinades
+_M_STR_FMT_HIGH Tot majúscules
+_M_STR_FMT_LOW Tot minúscules
+_M_STR_FMT_SENTENCE Per frases
+_M_STR_FREEDBCREATEINDEX Voleu crear la base de dades de l’índex freedb local?\n\nPot trigar alguns minuts.
+_M_STR_FREEDB_SEARCH cerca a la web de freedb
+_M_STR_GENRE Gènere
+_M_STR_GENRES Gèneres
+_M_STR_HIDE &Amaga
+_M_STR_ITEMALREADYEXISTS Ja existeix un objecte amb aquest nom, voleu sobreescriure'l?
+_M_STR_LANGUAGE Idioma
+_M_STR_M3U_FILEDLGFILTER Fitxers compatibles (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_METADATA &Metadades
+_M_STR_MOVEDOWN Mou &avall
+_M_STR_MOVEUP Mou a&munt
+_M_STR_MPEGBITRATE Taxa de bits
+_M_STR_MPEGFREQUENCY Freqüència
+_M_STR_MPEGLENGTH Durada
+_M_STR_MPEGMODE Mode
+_M_STR_MPEGVERSION Còdec
+_M_STR_MSGCUT Esteu segur que voleu suprimir les etiquetes dels fitxers seleccionats i copiar-les al porta-retalls?
+_M_STR_MSGPASTE Esteu segur que voleu enganxar el contingut del porta-retalls com etiquetes noves dels fitxers seleccionats?
+_M_STR_MSGREMOVE Esteu segur que voleu suprimir les etiquetes dels fitxers seleccionats?
+_M_STR_NAME &Nom
+_M_STR_NETWORKING Xarxa
+_M_STR_NEXT &Següent >
+_M_STR_NOACTION - Cap acció -
+_M_STR_NOACTIONENABLED Quan utilitzeu aquesta funció, activeu almenys una acció mitjançant les caselles de selecció.
+_M_STR_NUMERIC Nu&mèric
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH Seleccioneu un directori de treball per a la base de dades freedb local.
+_M_STR_OPT_CDDB_PROCEED Es suprimiran tots els servidors!\n\nVoleu continuar?\n
+_M_STR_OPTIMIZEMP4 Optimitza MP4
+_M_STR_OPTS_ALWAYS sempre
+_M_STR_OPTS_ASK pregunta
+_M_STR_OPTS_NEVER mai
+_M_STR_PLNAME Llista de reproducció - Nom de fitxer
+_M_STR_PL_CONFIRM Crea llista de reproducció amb aquest nom
+_M_STR_PL_SAVEFILTER Fitxer de llista de reproducció (*.m3u)|*.m3u|Fitxer de llista de reproducció Unicode (*.m3u8)|*.m3u8||
+_M_STR_PREVIEW Visualització prèvia
+_M_STR_PROPERTIES Propietats de {1}
+_M_STR_QUICK Ràpid
+_M_STR_RECURSE Subdirectoris
+_M_STR_REST Resta
+_M_STR_SAVE_NOT < sense associació >
+_M_STR_SAVECONFIG La configuració s’ha desat a '{1}'.\n\nPer restablir la vostra configuració, extragueu l’arxiu comprimit a {2}.
+_M_STR_SAVECONFIG_FILEDLGFILTER Arxius de configuració (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE Desa configuració a...
+_M_STR_SAVEIMAGE Desa la imatge a l’etiqueta
+_M_STR_SAVEIMAGEDIRECTORY Desa la imatge al disc
+_M_STR_SAVESELECTION Desa la selecció...
+_M_STR_SB_ABORTED interromput
+_M_STR_SB_ACTION S'estan executant accions sobre el fitxer... {1} de {2}
+_M_STR_SB_CLEANUPDATABASE S’estan processant fitxers... {1} de {2} ({3} netejats)
+_M_STR_SB_CLEANUPDATABASE_BINARIES Neteja de binaris orfes
+_M_STR_SB_CLEANUPDATABASE_COVERS Neteja de caràtules òrfenes
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Neteja de fitxers que no són de la biblioteca
+_M_STR_SB_EXPORTTAGS S'està exportant informació d’etiquetes... {1} registres de {2} fitxers
+_M_STR_SB_LOADTAGS S'estan llegint dades d’etiquetes... {1} de {2}
+_M_STR_SB_READDIRECTORY S'està llegint el directori
+_M_STR_SB_REMOVETAGS S'estan suprimint dades d’etiquetes... {1} de {2}
+_M_STR_SB_RENAMEFILES S’està canviant el nom del fitxer... {1} de {2}
+_M_STR_SB_WRITETAGS S'estan gravant les dades d’etiquetes... {1} de {2}
+_M_STR_SHOWCHOOSEDLG Mostra diàleg de selecció
+_M_STR_SEARCHBY Cerca per:
+_M_STR_SEARCHTEXT Text:
+_M_STR_SEPARATOR Separador
+_M_STR_SHOW &Mostra
+_M_STR_SIZE_LARGE Gran
+_M_STR_SIZE_MEDIUM Mitjà
+_M_STR_SIZE_NORMAL Normal
+_M_STR_SIZE_SMALLER Més petit
+_M_STR_SIZE_SMALL Petit
+_M_STR_SNA Àrea de notificació
+_M_STR_SNA_SHOW Mostra sempre la icona a l'àrea de notificació
+_M_STR_SNA_SHOWMIN Minimitza a l'àrea de notificació
+_M_STR_STRIPCHAPTERSMP4 Elimina capítols MP4
+_M_STR_TAG_COPIED S'han copiat les etiquetes de {1} fitxers al porta-retalls.
+_M_STR_TAG2 Etiqueta
+_M_STR_TAGFIELDS_REMOVE Elimina el camp
+_M_STR_TAGFIELDS_REMOVEALL Elimina tots els camps...
+_M_STR_TAGFIELDS_REMOVEALLMSG Esteu segur que voleu suprimir tots els camps de la llista?
+_M_STR_TAGFIELDS_RESET Restableix els camps...
+_M_STR_TAGFIELDS_RESETMSG Esteu segur que voleu restablir la llista dels camps als predeterminats?
+_M_STR_TAGPANEL Plafó d’etiquetes
+_M_STR_TAGPANEL_COVER Mostra caràtula
+_M_STR_TAGPANEL_DIRECTORY Mostra selector de directoris
+_M_STR_TAGLIST_FILEDLGFILTER Fitxer de text ({1})
+_M_STR_TAGLIST_FILEDLGTITLE Selecciona fitxer de text
+_M_STR_TAGSOURCES Origens d’etiquetes
+_M_STR_THISALBUMON Aquest àlbum a {1}
+_M_STR_TITLE Títol
+_M_STR_TRYAGAIN Voleu tornar a intentar-ho?
+_M_STR_TTF Etiquetes - Nom de fitxer
+_M_STR_UPDATE_FRM Actualitzacions
+_M_STR_UPDATE_OPT_CHECK Comprova si hi ha actualitzacions a l’inici
+_M_STR_UPDATE_OPT_CHECK_BETA Inclou també versions en desenvolupament (Beta)
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Mostra les notes del llançament de les versions noves
+_M_STR_UPDATEAVAILABLE Hi ha disponible una nova versió de {1}.\n\nVoleu descarregar ara aquesta actualització des de {2}?
+_M_STR_UPDATENOTAVAILABLE Esteu utilitzant la darrera versió de {1}.\n\nNo hi ha actualitzacions disponibles.
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS &Utilitats
+_M_STR_VALUE Va&lor
+_M_STR_VERSION Versió
+_M_STR_YEAR Any
+_M_TP_CDDB_LOCALPATH Especifiqueu el directori per a la base de dades freedb local
+_M_TP_CDDB_SITES Llista actual de servidors freedb via Internet
+_M_TP_CVR_CLIPBOARD &Enganxa la caràtula
+_M_TP_CVR_CLIPBOARD_COPY Copia la caràtula
+_M_TP_CVR_CLIPBOARD_CUT &Retalla la caràtula
+_M_TP_CVR_DEL &Suprimeix la caràtula
+_M_TP_CVR_NEW &Afegeix la caràtula...
+_M_TP_CVR_SAVE &Extreu la caràtula...
+_M_TP_DUPLICATE Duplica
+_M_TP_EXP_DEL &Suprimeix
+_M_TP_EXP_EDIT Edita
+_M_TP_EXP_FILE Selecciona el fitxer d’exportació
+_M_TP_EXP_HLP Mostra l’ajuda ràpida
+_M_TP_EXP_LOAD Carrega la configuració...
+_M_TP_EXP_NEW &Nova
+_M_TP_EXP_SAVE Desa la configuració...
+_M_TP_GEN_DIR Selecciona un directori
+_M_TP_TAG_DEL Suprimeix el camp
+_M_TP_TAG_EDIT Edita el camp...
+_M_TP_TAG_NEW Afegeix el camp...
+_M_TS_ADDINFO Informació a&ddicional
+_M_TS_MULTIPLEVALUES Valors múltiples
+_M_TS_RELEASE &Versió
+_M_TS_TRACKS &Pistes
+_M_UNDO_CANNOTUNDO No es pot desfer {1}
+_M_UNDO_CDDB freedb
+_M_UNDO_DIRECTORYCREATE Crea un directori
+_M_UNDO_DIRECTORYMOVE Mou el directori
+_M_UNDO_FORMAT Formata
+_M_UNDO_FTF Nom de fitxer - Nom de fitxer
+_M_UNDO_FTT Nom de fitxer - Etiquetes
+_M_UNDO_REMOVEFILE Suprimeix
+_M_UNDO_RENAME Canvia el nom
+_M_UNDO_TAGCHANGE Canvia les etiquetes
+_M_UNDO_TAGREMOVE Suprimeix les etiquetes
+_M_UNDO_TAGSAVE Desa les etiquetes
+_M_UNDO_TFF Fitxer de text - Etiquetes
+_M_UNDO_TTF Etiquetes - Nom de fitxer

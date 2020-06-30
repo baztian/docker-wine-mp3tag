@@ -1,0 +1,622 @@
+﻿LANGAUTHOR 상먀애인, 양루카스, cgh30217
+LANGCONTACT yangluke@naver.com
+LANGVERSION 2.61a
+LANGNAME Korean
+LANGNAMELOC 한국어
+SLangCancel 취소
+SLangOk 확인(&O)
+SLangErrCatch 실행 시간 오류\n\n파일:\t{1}\n줄:\t{2}\n\n응용프로그램이 예기치 않은 예외적인 상황과 정의되지 않은 상태에 직면했습니다. 응용프로그램을 닫고 파일을 보내주세요.\n\n{3}\n\n그리고 우리의 지원 직원에게 오류에 대한 상세한 설명을 보내주세요.\n\n전자우편: support@mp3tag.de
+SLangErrCheck 실행 시간 오류\n\n파일:\t{1}\n줄:\t{2}\n항:\t{3}\n코드:\t0x{4}\n\n응용프로그램이 예기치 않은 예외적인 상황과 정의되지 않은 상태에 직면했습니다. 응용프로그램을 닫고 파일을 보내주세요.\n\n{5}\n\n그리고 우리의 지원 직원에게 오류에 대한 상세한 설명을 보내주세요.\n\n전자우편: support@mp3tag.de
+SLangErrDriveCannotBeAccessed {1} 드라이브에 접근할 수 없습니다.
+SLangErrFileCannotBeAccessed {1} 파일에 접근할 수 없습니다.
+SLangErrFileCannotBeDeleted {1} 파일을 삭제할 수 없습니다.\n\n» 다른 프로세스가 파일을 사용 중은 아닌지 확인해주세요.
+SLangErrFolderCannotBeAccessed {1} 디렉토리에 접근할 수 없습니다.
+SLangErrFolderCannotBeDeleted {1} 디렉토리를 삭제할 수 없습니다.\n\n» 다른 프로세스가 디렉토리를 사용 중은 아닌지 확인해주세요.
+SLangErrHelpBrowserIsNotAvailable Mp3tag가 사용자의 기본 웹 브라우저로 도움말 파일을 표시할 수 없습니다.
+SLangErrHelpSystemIsNotAvailable 도움말 시스템을 사용할 수 없습니다.\n\n» {1}를 재설치해 주세요.
+SLangErrHelpTopicIsNotAvailable 도움말 제목을 사용할 수 없습니다.\n\n» 우리의 지원 직원에게 연락해주세요.\n\n전자우편: support@mp3tag.de
+SLangErrNotEnoughFreeDiskSpace {1} 장치에 충분한 공간이 없습니다.\n\n» 적어도 {2} 드라이브 공간이 필요합니다.
+SLangErrRegistryCannotBeAccessed 데이터를 읽는 중 오류가 발생했습니다.\n\n윈도우 레지스트리에 접근할 수 없습니다.
+SLangMsgItemExistsAlready 이 설명을 가진 항목이 이미 있습니다.\n\n» 다른 설명을 사용하세요.
+SLangMsgFirstSteps 첫 단계에서 사용하려면 시간이 조금 필요합니다.
+SLangMsgShutdownInfo {1}를 종료하는 동안 기다려주세요.
+SLangWrnAppIsAlreadyRunning 이 응용프로그램의 인스턴스가 이미 실행 중입니다.
+SLangWrnAppHasToBeRestarted Mp3tag가 변경사항을 적용하기 위해 재시작해야 합니다.\n\nMp3tag를 지금 재시작하시겠습니까?
+SLangWrnNameContainsInvalidCharacters 설명에 유효하지 않은 문자가 포함되어 있습니다.\n\n» 다른 설명을 사용하세요.
+SLangWrnStartLogging FLOG1 명령 줄 매개변수와 함께 {1}가 시작되었습니다. 이 매개변수는 디버깅 목적으로 사용됩니다.\n\n로깅 기능을 사용하길 원하십니까?
+_C_ABORT 중지
+_C_ABORTING Aborting...
+_C_APP_ST_ALBUM 앨범
+_C_APP_ST_ARTIST 아티스트
+_C_APP_ST_COMMENT 설명
+_C_APP_ST_FOLDER 디렉토리
+_C_APP_ST_GENRE 장르
+_C_APP_ST_TITLE 제목
+_C_APP_ST_TRACK 트랙
+_C_APP_ST_YEAR 제작년도
+_C_CANCEL 취소
+_C_CANCELING Canceling...
+_C_CLOSE 닫기
+_C_DLG_CDDBCONFIRM_CAPTION 검색 결과의 목록...
+_C_DLG_CDDBCONFIRM_CHK_DISCID disc-ID를 설명 필드로 복사
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 disc-ID를 DISCID 필드로 복사
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER 편집물...
+_C_DLG_CDDBCONFIRM_CHK_SORT 정렬 제안
+_C_DLG_CDDBCONFIRM_ST_INFO 하나 이상의 결과를 찾았습니다.\n하나를 선택해주세요:
+_C_DLG_CDDBCONFIRM_ST_INFO2 {1} 데이타베이스에서 {2} 결과를 찾았습니다.\n하나를 선택해주세요:
+_C_DLG_CDDBCONFIRM_STC_TOP 태그 정보 조정
+_C_DLG_CDDBINPUT_CAPTION freedb-ID 입력
+_C_DLG_CDDBINPUT_ST_CATEGORY 분류:
+_C_DLG_CDDBINPUT_ST_ID freedb-ID:
+_C_DLG_CDDBSTYLE_CAPTION freedb
+_C_DLG_CDDBSTYLE_RD_CDROM 삽입된 오디오 CD에서 결정(&A)
+_C_DLG_CDDBSTYLE_RD_ENTER 입장
+_C_DLG_CDDBSTYLE_RD_MP3 선택한 파일에서 결정
+_C_DLG_CDDBSTYLE_RD_SEARCH 웹 검색을 거쳐 결정
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL 문자 검색을 거쳐 결정
+_C_DLG_CDDBSTYLE_STC_TOP freedb-ID...
+_C_DLG_COLUMNS_CAPTION 열
+_C_DLG_COLUMNS_TOP 열의 가시성 조정
+_C_DLG_TAGS 태그 정보 편집
+_C_DLG_TTF_TOP 문자열 형식 선택
+_C_HELP 도움말(&H)
+_C_MNU_ACTIONS 실행(&A)\tALT+6
+_C_MNU_CON 변환(&C)
+_C_MNU_CON_FTF 파일명 - 파일명(&I)\tALT+3
+_C_MNU_CON_FTT 파일명 - 태그(&F)\tALT+2
+_C_MNU_CON_TFF 텍스트 파일 - 태그(&X)\tALT+4
+_C_MNU_CON_TTF 태그 - 파일명(&T)\tALT+1
+_C_MNU_CON_TTT 태그 - 태그(T&)\tALT+5
+_C_MNU_EDIT 편집(&E)
+_C_MNU_EDIT_COPY 복사(&O)\tCtrl+C
+_C_MNU_EDIT_CUT 잘라내기(&T)\tCtrl+X
+_C_MNU_EDIT_INVERTSELECTION 선택 영역 반전(&I)\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT 다음 파일 선택(&N)\tCtrl+N
+_C_MNU_EDIT_PASTE 붙여넣기(&P)\tCtrl+V
+_C_MNU_EDIT_SELECT 모든 파일 선택(&F)\tCtrl+A
+_C_MNU_EDIT_UNDO 되돌리기(&U)\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL 모든 파일 선택해제(&U)\tCtrl+U
+_C_MNU_EXTRA 도구(&O)
+_C_MNU_EXTRA_OPTIONS 설정...(&O)\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS 모든 입력 필드 복구(&I)\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS 입력 필드의 기본값\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD 자동 번호달기 마법사...\tCtrl+K
+_C_MNU_FILE 파일(&F)
+_C_MNU_FILE_ADD 디렉토리 추가...
+_C_MNU_FILE_CDDB freedb...\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL freedb (지역)...\tCtrl+L
+_C_MNU_FILE_COPY 복사...
+_C_MNU_FILE_DELETE 삭제...
+_C_MNU_FILE_DIR 디렉토리 변경...(&D)\tCtrl+D
+_C_MNU_FILE_EXIT 종료(&X)\tAlt+F4
+_C_MNU_FILE_EXPORT 내보내기...(&E)\tCtrl+E
+_C_MNU_FILE_FAVDIR 즐겨찾는 디렉토리(&F)\tCtrl+F
+_C_MNU_FILE_MOVE 이동...
+_C_MNU_FILE_PLALL 재생목록 (모든 파일)\tCtrl+P
+_C_MNU_FILE_PLAY 재생
+_C_MNU_FILE_PLAYLIST 재생목록/큐시트 불러오기...
+_C_MNU_FILE_PLSEL 재생목록 (선택한 파일)
+_C_MNU_FILE_PROPERTIES 등록정보...
+_C_MNU_FILE_READ 태그 읽기(&T)\tCtrl+T
+_C_MNU_FILE_REMOVE 태그 제거(&R)\tCtrl+R
+_C_MNU_FILE_REMOVEFILE 제거(&M)\tDel
+_C_MNU_FILE_RENAME 이름 바꾸기\tF2
+_C_MNU_FILE_SAVE 태그 저장(&S)\tCtrl+S
+_C_MNU_FILE_SAVECONFIG 구성요소 저장...(&C)
+_C_MNU_FREEDB freedb(&R)
+_C_MNU_FREEDB_INDEX 지역 색인 만들기
+_C_MNU_FS_EXT 확장된 필드
+_C_MNU_FS_FNCT 기능
+_C_MNU_FS_INFO 정보 필드
+_C_MNU_FS_REM 히스토리에서 제거
+_C_MNU_FS_REMALL 히스토리에서 모두 제거...
+_C_MNU_FS_REMALL_MSG 모든 목록을 제거하길 윈합니까?
+_C_MNU_HELP 도움말(&H)
+_C_MNU_HELP_ABOUT Mp3tag에 대하여...
+_C_MNU_HELP_DONATE 기부
+_C_MNU_HELP_FINDER 내용물...(&C)\tF1
+_C_MNU_HELP_FIRSTSTEPS 첫 단계로(&F)
+_C_MNU_HELP_KEYBOARD 키보드 단축키(&K)
+_C_MNU_HELP_SUPPORT 온라인 지원...
+_C_MNU_HELP_UPGRADE 새 버전 확인...
+_C_MNU_HELP_WWW Mp3tag 웹사이트...(&W)
+_C_MNU_TAGSOURCES 태그 소스(&S)
+_C_MNU_TOOLS 도구(&T)
+_C_MNU_VIEW 보기(&V)
+_C_MNU_VIEW_COLUMNS 사용자 정의 열...(&C)
+_C_MNU_VIEW_FILTER 필터(&F)\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY Auto-apply filter
+_C_MNU_VIEW_ID3 태그 패널\tCtrl+Q
+_C_MNU_VIEW_REFRESH 새로 고침(&E)\tF5
+_C_MNU_VIEW_SORTBY 정렬(&S)
+_C_MNU_VIEW_TAGS 확장된 태그...(&X)\tALT+T
+_C_MNU_VIEW_TOOLBAR 도구 모음(&L)
+_C_MNU_SB_ACTIONS 선택한 파일에 사용자 정의 실행 (대·소문자 변환, 교체, ....) 적용
+_C_MNU_SB_CON_FTF 이전 파일명에 기반한 미리 정의된 방식으로 파일명 바꾸기
+_C_MNU_SB_CON_FTT 파일명의 미리 정의된 방식으로 태그 얻기
+_C_MNU_SB_CON_TFF 텍스트 파일의 미리 정의된 방식으로 태그 얻기
+_C_MNU_SB_CON_TTF 태그에 기반한 미리 정의된 방식으로 파일명 바꾸기
+_C_MNU_SB_CON_TTT 태그에 기반한 태그 포맷
+_C_MNU_SB_EDIT_COPY 텍스트 선택이나 선택한 파일의 태그를 클립보드로 복사
+_C_MNU_SB_EDIT_CUT 텍스트 선택이나 선택한 파일의 태그를 잘라서 클립보드로 이동
+_C_MNU_SB_EDIT_INVERTSELECTION 현재 선택 반전
+_C_MNU_SB_EDIT_NEXT 파일보기에 다음 파일 표시
+_C_MNU_SB_EDIT_PASTE 삽입 표시나 선택한 파일에 클립보드의 내용 붙여넣기
+_C_MNU_SB_EDIT_SELECT 파일보기에서 파일 선택
+_C_MNU_SB_EDIT_UNDO 마지막 실행 되돌리기
+_C_MNU_SB_EDIT_UNSELECTALL 모든 파일 선택해제
+_C_MNU_SB_EXTRA_OPTIONS 설정 대화상자 보기
+_C_MNU_SB_EXTRA_RESET_EDITS 태그 패널의 모든 입력 필드에서 텍스트 제거
+_C_MNU_SB_EXTRA_SET_EDITS 태그 패널의 모든 입력 필드에 미리 정의된 표준값 넣기
+_C_MNU_SB_EXTRA_TRACKWIZARD 자동 트랙 번호달기 마법사 실행
+_C_MNU_SB_FILE_ADD 파일 목록에 디렉토리 추가
+_C_MNU_SB_FILE_CDDB 인터넷에서 삽입한 오디오 CD나 선택한 오디오 파일에 대한 정보 얻기
+_C_MNU_SB_FILE_CDDBLOCAL 지역 freedb 데이터베이스에서 삽입한 오디오 CD나 선택한 파일에 대한 정보 얻기
+_C_MNU_SB_FILE_COPY 선택한 파일을 다른 디렉토리로 복사
+_C_MNU_SB_FILE_DELETE 선택한 파일 삭제
+_C_MNU_SB_FILE_DIR 현재 작업 중인 디렉토리 변경
+_C_MNU_SB_FILE_EXIT 종료
+_C_MNU_SB_FILE_EXPORT 선택한 파일에서 태그와 파일 정보 내보내기
+_C_MNU_SB_FILE_FAVDIR 기본 디렉토리로 변경
+_C_MNU_SB_FILE_FREEDBINDEX 지역 freedb에서 검색하기 위하여 지역 freedb 색인 데이터베이스 만들기
+_C_MNU_SB_FILE_MOVE 선택한 파일을 다른 디렉토리로 이동
+_C_MNU_SB_FILE_PLALL 모든 파일에서 재생목록 만들기
+_C_MNU_SB_FILE_PLAY 선택한 파일 재생
+_C_MNU_SB_FILE_PLAYLIST 재생목록의 내용 불러오기
+_C_MNU_SB_FILE_PLSEL 선택한 파일에서 재생목록 만들기
+_C_MNU_SB_FILE_PROPERTIES 선택한 파일의 등록정보 보기
+_C_MNU_SB_FILE_READ 태그 패널의 필드를 입력하기 위해 선택한 파일의 태그 읽기
+_C_MNU_SB_FILE_REMOVE 선택한 파일에서 태그 제거
+_C_MNU_SB_FILE_REMOVEFILE 선택한 파일 제거
+_C_MNU_SB_FILE_RENAME 선택한 파일 이름 바꾸기
+_C_MNU_SB_FILE_SAVE 선택한 파일의 태그 저장
+_C_MNU_SB_FILE_SAVECONFIG 구성 파일에 현재 설정 저장
+_C_MNU_SB_HELP_ABOUT Mp3tag에 대한 정보
+_C_MNU_SB_HELP_CONTEXT 선택된 필드, 메뉴, 창을 위한 도움말 내용 보기
+_C_MNU_SB_HELP_DONATE Please consider donating to support Mp3tag's development.
+_C_MNU_SB_HELP_FINDER 도움말 내용 보기
+_C_MNU_SB_HELP_FIRSTSTEPS Mp3tag의 간단한 소개 보기
+_C_MNU_SB_HELP_KEYBOARD 키보드 단축키의 목록 보기
+_C_MNU_SB_HELP_SUPPORT Mp3tag 포럼 가기
+_C_MNU_SB_HELP_UPGRADE Check for updates of Mp3tag
+_C_MNU_SB_HELP_WWW Mp3tag 웹사이트 가기
+_C_MNU_SB_UPDIR 상위 디렉토리로 변경
+_C_MNU_SB_VIEW_COLUMNS 파일보기를 위한 열을 사용자 정의할 수 있을 때 대화상자 보기
+_C_MNU_SB_VIEW_FILTER 파일보기 필터
+_C_MNU_SB_VIEW_ID3 태그 입력 마스크 보기/숨기기
+_C_MNU_SB_VIEW_REFRESH 파일보기 새로 고침
+_C_MNU_SB_VIEW_TAGS 확장된 태그 대화상자 보기
+_C_MNU_SB_VIEW_TOOLBAR 도구 모음 보기/숨기기
+_C_MNU_SB_WND_IDLE 준비
+_C_MNU_SB_WND_MAXIMIZE 최대 화면 크기로 창 확장
+_C_MNU_SB_WND_MINIMIZE 작업 표시줄로 창 최소화
+_C_MNU_SB_WND_MOVE 창 위치 이동
+_C_MNU_SB_WND_RESTORE 최대 또는 최소 화면에서 보통 크기로 창 복구
+_C_MNU_SB_WND_SIZE 창 크기 변경
+_C_MULTILINE 다중선
+_C_OK 확인(&O)
+_C_OPT_ACTIONGROUPS 실행 그룹
+_C_OPT_ACTIONS 실행
+_C_OPT_ACTIONS_TYPE 실행 유형 선택
+_C_OPT_ADVANCED Advanced
+_C_OPT_ADVANCED_ID3V2LANG ID3v2 comment language code (ISO-639-2)
+_C_OPT_ADVANCED_LISTCHAPTERS List chapters as separate files
+_C_OPT_CAPTION 설정
+_C_OPT_CDDB_CAPTION freedb
+_C_OPT_CDDB_CHK_USEPROXY 프록시 사용(&O)
+_C_OPT_CDDB_FRM_CDDB freedb 서버
+_C_OPT_CDDB_FRM_LOCALPATH 지역 freedb 경로(&L):
+_C_OPT_CDDB_FRM_PROXY 프록시
+_C_OPT_CDDB_RD_FMT_UNIX 유닉스 형식
+_C_OPT_CDDB_RD_FMT_WIN 윈도우 형식
+_C_OPT_CDDB_ST_ADDRESS 주소(&A):
+_C_OPT_CDDB_ST_EMAIL 전자우편 주소(&E):
+_C_OPT_CDDB_ST_NAME 이름(&N):
+_C_OPT_CDDB_ST_PATH 경로:
+_C_OPT_CDDB_ST_PORT 포트:
+_C_OPT_CDDB_ST_PROXYNAME 프록시(&P):
+_C_OPT_CDDB_ST_PROXYPORT 포트(&R):
+_C_OPT_CDDB_ST_PWD 비밀번호(&W):
+_C_OPT_CDDB_ST_TIMEOUT 시간초과(&I):
+_C_OPT_CDDB_ST_USERNAME 사용자 이름(&U):
+_C_OPT_CDDB3_CAPTION 지역 freedb
+_C_OPT_CON_FRM_FTT 파일명 - 태그(&F)
+_C_OPT_CON_FRM_TFF 텍스트 파일 - 태그(&X)
+_C_OPT_CON_FRM_TTF 태그 - 파일명(&T)
+_C_OPT_CON_ST_FNAME 파일명:
+_C_OPT_CON_ST_FS 문자열 형식:
+_C_OPT_DIR 디렉토리
+_C_OPT_DIR_COVER 표지 그림 디렉토리
+_C_OPT_EMPTY_HINT 아래에서 제목을 선택해주세요.
+_C_OPT_EXP_CAPTION 내보내기
+_C_OPT_EXP_CHK_APPEND 데이터 추가
+_C_OPT_EXP_CHK_WRITEBOM BOM 쓰기
+_C_OPT_EXP_FRM_EXPORT 구성요소 내보내기
+_C_OPT_EXP_RD_TRACK 트랙
+_C_OPT_EXP_ST_FNAME 내보낼 파일명:
+_C_OPT_EXP_ST_NAME 내보낼 구성요소의 새 이름
+_C_OPT_FMT_CASE 대·소문자 변환
+_C_OPT_FMT_FRM_FTF 파일명 - 파일명
+_C_OPT_FMT_ST_BEGIN ~의 전/후로 시작하는 단어:
+_C_OPT_FMT_ST_FNAME_NEW 새 파일명 방식:
+_C_OPT_FMT_ST_FNAME_OLD 이전 파일명 방식:
+_C_OPT_FMT2 교체
+_C_OPT_FMT2_CASE 대·소문자 감지 비교
+_C_OPT_FMT2_COL_ORIGINAL 원본
+_C_OPT_FMT2_COL_REPLACE ~(으)로 교체
+_C_OPT_FMT2_ONLYWORDS 전체 단어로만
+_C_OPT_GEN_CAPTION 일반
+_C_OPT_GEN_CHK_AUTOSAVE 방향키/한 번의 마우스 클릭 사용으로 태그 저장(&U)
+_C_OPT_GEN_CHK_FOLDERSTART 이 디렉토리에서 시작
+_C_OPT_GEN_CHK_GRID 파일보기에 격자 라인 표시
+_C_OPT_GEN_CHK_JUMPONEDIT 파일보기에서 편집 시 자동으로 다음 파일 선택
+_C_OPT_GEN_CHK_KEEPFILETIME 태그 저장 시 파일 수정 시간 보존
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Keep moved files in file list
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS 실행 후 경고 시
+_C_OPT_GEN_CHK_MSG_CHANGE 변경 후
+_C_OPT_GEN_CHK_MSG_CUT 태그 잘라낼 때
+_C_OPT_GEN_CHK_MSG_DEL 삭제 후
+_C_OPT_GEN_CHK_MSG_DELETEFILE 파일 삭제 시
+_C_OPT_GEN_CHK_MSG_EXPORT 태그 내보낼 때
+_C_OPT_GEN_CHK_MSG_PASTE 태그 붙여넣을 때
+_C_OPT_GEN_CHK_MSG_REMOVETAGS 태그 제거 시
+_C_OPT_GEN_CHK_MSG_SAVE 저장 후
+_C_OPT_GEN_CHK_PL 자동으로 재생목록 만들기(&P)
+_C_OPT_GEN_CHK_RELPL 작업 디렉토리에서 관계있는 항목
+_C_OPT_GEN_CHK_AUTOCOMPLETE 선택 상자에서 자동완성
+_C_OPT_GEN_CHK_SELECTFILES Select files automatically
+_C_OPT_GEN_CHK_SORTNATURAL 자연 정렬 사용
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH 제목 창에 현재 디렉토리 표시(&S)
+_C_OPT_GEN_FRM_GEN 일반
+_C_OPT_GEN_FRM_MSG 메시지 보기
+_C_OPT_GEN_FRM_PL 재생목록의 파일명(&F)
+_C_OPT_GEN_RD_PLALL 모든 파일로 부터
+_C_OPT_GEN_RD_PLSEL 선택한 파일로 부터
+_C_OPT_GEN_ST_FAVDIR 즐겨찾는 디렉토리:
+_C_OPT_GEN2_CAPTION 메시지
+_C_OPT_GENRES 사용자 정의 장르
+_C_OPT_GENRES_HIDESTANDARD 사용자 정의 장르만 보기
+_C_OPT_ID3_CHK_ISO88591 UTF-16 대신에 ISO-8859-1 태그로 항상 쓰기
+_C_OPT_ID3_CHK_LEADINGZEROS 트랙번호 맨 앞에 0 사용 (01, 02, ...)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND ID3v1가 너무 작을 경우만 ID3v2 사용
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ 읽기
+_C_OPT_ID3_FRM_REMOVE 제거
+_C_OPT_ID3_FRM_WRITE 쓰기
+_C_OPT_LIB Library
+_C_OPT_LIB_CHK_ENABLE Enable Library
+_C_OPT_LIB_CHK_RESTRICT Only include these directories
+_C_OPT_LIB_CLEANUP Cleanup Library
+_C_OPT_MAPPING 지도화
+_C_OPT_MAPPING_FRM 사용자 정의 영역 지도화
+_C_OPT_MAPPING_SOURCE 소스
+_C_OPT_MAPPING_TARGET 타겟
+_C_OPT_PLAYLIST_CAPTION 재생목록
+_C_OPT_PLAYLIST_EXTENDED 확장된 정보 쓰기
+_C_OPT_PLAYLIST_NOFOLDERS 디렉토리를 만들지 않기
+_C_OPT_PLAYLIST_SHOWDLG 파일명 확인 대화상자 보기
+_C_OPT_TAG 태그
+_C_OPT_TAGS_COVER 표지 그림을 위한 기본 파일명:
+_C_OPT_TAGS_EXT 확장된 태그 대화상자에 <<와 >>를 위한 방식 저장:
+_C_OPT_TAGS_FILEFILTER 가져올 파일에 대한 제한:
+_C_OPT_TAGS_NOIMG 파일 디렉토리에서 첫 번째 이미지를 표지 그림으로 보여주지 않기(&D)
+_C_OPT_TOOLS 도구
+_C_OPT_TOOLS_CHK_DEFAULT 더블 클릭으로 특정 프로그램 사용:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES 선택한 모든 파일을 위하여
+_C_OPT_TOOLS_COL_PARAM 매개변수
+_C_OPT_TOOLS_COL_PATH 경로
+_C_OPT_TOOLS_EDIT 사용자 정의 도구. 이름과 경로는 필수
+_C_OPT_TOOLS_FRM_DEFAULT 기본 도구
+_C_OPT_TOOLS_FRM_TOOLS 도구
+_C_OVERWRITE 덮어쓰기(&W)
+_C_RENAME 이름 바꾸기(&R)
+_C_TT_CDDB freedb...
+_C_TT_CDDBLOCAL freedb (지역)...
+_C_TT_CLOSE 닫기
+_C_TT_DIR 디렉토리 변경...
+_C_TT_EDIT_UNDO 되돌리기
+_C_TT_EXPORT 내보내기
+_C_TT_FAVDIR 즐겨찾는 디렉토리
+_C_TT_FILE_ADD 디렉토리 추가...
+_C_TT_FILE_COPY 복사할 위치...
+_C_TT_FILE_DELETE 삭제...
+_C_TT_FILE_MOVE 이동할 위치...
+_C_TT_FILE_PLAY 재생
+_C_TT_FILE_PROPERTIES 등록정보...
+_C_TT_FILE_RENAME 이름 바꾸기
+_C_TT_FTF 파일명 - 파일명
+_C_TT_FTT 파일명 - 태그
+_C_TT_HELP 도움말 내용...
+_C_TT_OPT 설정 대화상자...
+_C_TT_PLALL 모든 파일을 재생목록으로 만들기
+_C_TT_PLSEL 선택한 파일을 재생목록으로 만들기
+_C_TT_REFRESH 파일보기 새로 고침
+_C_TT_REMOVE 태그 제거
+_C_TT_SAVE 저장
+_C_TT_TFF 텍스트 파일 - 태그
+_C_TT_TTF 태그 - 파일명
+_C_TT_TTT 태그 - 태그
+_C_TT_UPDIR 위로
+_C_WIZARD_TRACKS 자동 번호달기 마법사
+_C_WIZARD_TRACKS_BEGIN 시작할 트랙번호:
+_C_WIZARD_TRACKS_DESC Assign track- and discnumbers
+_C_WIZARD_TRACKS_DISC_BEGIN Begin at discnumber
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Leading zeros for discnumbers (01, 02, ...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Save total count of discs
+_C_WIZARD_TRACKS_DISCNUMBER Discnumber
+_C_WIZARD_TRACKS_RESETFOLDERS 각 디렉토리의 카운터 초기화
+_C_WIZARD_TRACKS_SAVETOTAL 전체 트랙 수 저장
+_C_WIZARD_TRACKS_TRACKNUMBER Tracknumber
+_M_ERR_CANCEL 처리가 취소되었습니다.
+_M_ERR_CDDB_CD 오디오 CD 읽기 오류
+_M_ERR_CDDB_CONNECT 서버 연결 오류: {1}
+_M_ERR_CDDB_NOENTRY freedb ID {1}에 적합한 항목을 찾을 수 없습니다.
+_M_ERR_CDDB_NOENTRYINLOCALBD 지역 freedb 데이터베이스 '{1}'에 freedb ID '{2}'에 대한 적합한 항목을 찾을 수 없습니다.
+_M_ERR_CDDB_PARSER 질문에 대한 결과가 없습니다.
+_M_ERR_CDDB_READ {1}에서 데이터 읽기 오류
+_M_ERR_CONFIGURATION 구성요소를 가져올 수 없습니다.
+_M_ERR_COPY 선택한 파일을 복사할 수 없습니다!
+_M_ERR_DELETE 선택한 파일을 삭제할 수 없습니다!
+_M_ERR_FILECREATE \"{1}\" 파일을 만들 수 없습니다.
+_M_ERR_FILEDELETE \"{1}\" 파일을 삭제할 수 없습니다.
+_M_ERR_FILENAMEALREADYEXISTS \"{1}\" 파일이 이미 있습니다.
+_M_ERR_FILENAMEALREADYEXISTS2 \"{1}\" 파일의 이름을 바꾸지 않았습니다.
+_M_ERR_FILEOPABORTED 현재 디렉토리의 내용이 변경되었을지도 모릅니다.\n\n현재 디렉토리를 다시 읽기를 원하십니까?
+_M_ERR_FILEOPEN \"{1}\" 파일을 열 수 없습니다.
+_M_ERR_FILEREADONLY \"{1}\" 파일은 읽기 전용입니다.\n\nMp3tag가 읽기 전용 파일의 쓰기 보호를 무력화시킬까요?
+_M_ERR_FOLDERCANNOTBEACCESSED 접근 오류\n\n\"{1}\" 디렉토리에 접근할 수 없습니다.
+_M_ERR_INVALID_FILENAME 유효한 파일명을 기입해주세요.
+_M_ERR_INVALID_FTF_FS \"{1}\" 문자열은 파일명에 대한 유효한 문자열 형식이 아닙니다.
+_M_ERR_INVALID_TOKEN {1}:\n파일명에 다음과 같은 문자는 허용되지 않습니다:\n\\ / : * ? \" < > |\n\n자동으로 수정하길 원하십니까?
+_M_ERR_MOVE 선택한 파일을 이동할 수 없습니다!
+_M_ERR_ONLINE_NOTFOUND 죄송합니다. 사용자의 검색 기준에 맞는 항목이 없습니다.
+_M_ERR_OPT_CDDB_NOADDRESS freedb 서버의 주소를 입력해주세요.
+_M_ERR_OPT_CDDB_NOEMAIL '설정, freedb, 서버'에 사용자의 전자우편 주소를 입력해주세요. freedb 서버의 접근 로깅에 사용될 것입니다.
+_M_ERR_OPT_CDDB_NONAME 구성을 위한 유효한 이름을 입력해주세요.
+_M_ERR_OPT_CDDB_NOPORT freedb 서버의 포트 번호를 입력해주세요.
+_M_ERR_PARSELINE {1} 라인을 분석할 수 없습니다.
+_M_ERR_PLAY 재생을 위한 \"{1}\" 파일을 열 수 없습니다.
+_M_ERR_READ_FILE \"{1}\" 파일을 읽기 위하여 열 수 없습니다.
+_M_ERR_RENAME_FILE \"{1}\" 파일은 \"{2}\"로 이름을 바꿀 수 없습니다.
+_M_ERR_RETRY Do you want to retry?
+_M_ERR_TL_NOTAGS \"{1}\"에 맞는 것이 없습니다.
+_M_ERR_WRITE_FILE \"{1}\" 파일을 쓰기 위하여 열 수 없습니다.
+_M_ERR_YN \n\n계속하길 원하십니까?
+_M_LOG_FMT_FNAME {1} 파일의 {2}의 이름이 변경되었습니다.\n
+_M_LOG_FMT_TAG {1} 파일의 {2}의 태그를 포맷했습니다.\n
+_M_LOG_FTF {1} 파일의 {2}의 이름을 변경했습니다.
+_M_LOG_FTT {1} 파일의 {2}(으)로 부터 태그를 얻었습니다.
+_M_LOG_PL_ALL 모든 ({2}) 파일로부터 \"{1}\" 재생목록을 만들었습니다.
+_M_LOG_PL_SEL 선택된 ({2}) 파일로부터 \"{1}\" 재생목록을 만들었습니다.
+_M_LOG_REMOVE \"{1}\" 파일에서 태그를 제거했습니다.
+_M_LOG_REMOVED {1} 파일의 {2}(으)로 부터 태그를 제거했습니다.
+_M_LOG_REMOVE_NOTAG \"{1}\" 파일에 태그가 없습니다.
+_M_LOG_SAVE \"{1}\" 파일에 태그를 저장했습니다.
+_M_LOG_SAVED {1} 파일의 {2}에 태그를 저장했습니다.
+_M_LOG_TFF \"{1}\" 텍스트 파일에서 태그를 추출하고 {2} 파일의 {3} 에 태그를 저장했습니다.
+_M_LOG_TFF_S \"{1}\"에서 태그를 가져왔습니다.
+_M_LOG_TTF {1} 파일의 {2}의 이름을 변경했습니다.
+_M_STAT_PLAY \"{1}\" 파일 재생 중...
+_M_STR_ACTION_ADJUSTCOVER Adjust cover
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Format
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
+_M_STR_ACTION_CODEPAGE 코드페이지 변환
+_M_STR_ACTION_CODEPAGE_DESC 코드페이지
+_M_STR_ACTION_EXPORTCOVER 파일에서 표지 내보내기
+_M_STR_ACTION_EXPORTCOVER_DUPES 중복 표지 내보내기
+_M_STR_ACTION_EXPORTCOVER_TYPES Export only covers of type
+_M_STR_ACTION_FORMAT 값 형식
+_M_STR_ACTION_GUESS 추측 값
+_M_STR_ACTION_GUESSPATTERN 추측 방식
+_M_STR_ACTION_GUESSSOURCE 소스 형식
+_M_STR_ACTION_IMPORTCOVER 파일에서 표지 가져오기
+_M_STR_ACTION_IMPORTCOVER_FS 이미지 파일명을 위한 문자열 형식:
+_M_STR_ACTION_IMPORTCOVER_DELETE 존재하는 표지 그림 삭제(&D)
+_M_STR_ACTION_IMPORTCOVER_TYPE 표지 가져오기:
+_M_STR_ACTION_IMPORTTEXT 텍스트 파일 가져오기
+_M_STR_ACTION_MERGEDUPLICATEFIELDS 중복된 필드 합치기
+_M_STR_ACTION_REGEXP 정규 표현으로 교체
+_M_STR_ACTION_REGEXP_EXP 정규 표현
+_M_STR_ACTION_REGEXP_MATCH 일치하는 것과 교체 
+_M_STR_ACTION_REMOVEDUPES 중복된 필드 제거
+_M_STR_ACTION_REM 필드 제거
+_M_STR_ACTION_REM_DESC 제거할 필드 (세미콜론으로 분리):
+_M_STR_ACTION_REM_EX ~ 제외한 필드 제거
+_M_STR_ACTION_REM_EX_DESC 남겨둘 필드 (세미콜론으로 분리):
+_M_STR_ACTION_SPLITFIELDS 분리기로 필드 나누기
+_M_STR_ACTIONGROUP_NAME 실행 그룹의 이름
+_M_STR_ALBUM 앨범
+_M_STR_ALBUMARTIST 앨범 아티스트
+_M_STR_ALL_FILEDLGFILTER 모든 파일 (*.*)|*.*||
+_M_STR_ARTIST 아티스트
+_M_STR_AUTHOR 저작자
+_M_STR_BACK < 뒤로(&B)
+_M_STR_BROWSE_COPY 복사할 위치:
+_M_STR_BROWSE_MOVE 이동할 위치:
+_M_STR_BROWSE_TEXT 오디오 파일이 포함된 디렉토리를 선택해주세요.
+_M_STR_BYTES 바이트
+_M_STR_CDDB_CD 오디오 CD 읽기
+_M_STR_CDDB_CONNECT {1}에 연결...
+_M_STR_CDDB_CONNECTED 연결되었습니다!
+_M_STR_CDDB_IDXDB_ENTRIES 데이터베이스 항목을 만들었습니다.
+_M_STR_CDDB_RETRIEVE 제목 정보 검색
+_M_STR_COLUMNFILENAME 파일명
+_M_STR_COLUMNPATH 경로
+_M_STR_COLUMNUSEDCOLS 표시
+_M_STR_COMBO_HOLD < 유지하기 >
+_M_STR_COMBO_REMOVE < 빈 공간 >
+_M_STR_COMBO_USER < 입력하기 >
+_M_STR_COMMENT 설명
+_M_STR_COMPOSER 작곡가
+_M_STR_COPYOF {1}의 사본
+_M_STR_COVER 표지
+_M_STR_COVER_ADD 현재의 표지를 계속 유지하시겠습니까?
+_M_STR_COVER_CORRECTAR 종횡 비율 수정
+_M_STR_COVER_SETDESC 표지 설명 설정...
+_M_STR_COVER_SETTYPE 표지 형식 설정
+_M_STR_COVERVARIES 표지 변경
+_M_STR_CUSTOMIZE Customize...
+_M_STR_DAY 날짜
+_M_STR_DAYS 날짜
+_M_STR_DEFAULTVALUE Default value
+_M_STR_DISCID CDDB ID
+_M_STR_DISCOGS_OAUTH_PIN Enter Discogs authorization code
+_M_STR_DISCNUMBER 디스크번호
+_M_STR_ERR_CDDB_NOENTRYSELECTED 항목을 선택해주세요.
+_M_STR_EXPORT_DELETE \"{1}\" 내보내기 구성을 삭제하시겠습니까?
+_M_STR_EXPORT_FILEDLGTITLE 내보내기 파일 선택
+_M_STR_EXPORT_MULTIPLE 디렉토리 당 하나의 파일
+_M_STR_EXPORT_SHOWEXPORTFILE \n\n내보낼 파일을 지금 표시할까요?
+_M_STR_EXP_MSG 처리된 {2} 파일을 내보내고 '{1}' 파일에 썼습니다.
+_M_STR_FIELD 필드(&I):
+_M_STR_FIELDSIZE Size of field
+_M_STR_FIELDROWS Rows
+_M_STR_FILE 파일
+_M_STR_FILEDELETE 선택한 모든 파일을 삭제하길 원하십니까?
+_M_STR_FILEMODIFIED 수정됨
+_M_STR_FILESIZE 크기
+_M_STR_FILTER 필터(&F):
+_M_STR_FMT_CAPITAL 혼합된 대·소문자
+_M_STR_FMT_HIGH 대문자
+_M_STR_FMT_LOW 소문자
+_M_STR_FMT_SENTENCE 문장
+_M_STR_FREEDBCREATEINDEX 지역 freedb 색인 데이터베이스를 만들까요?\n\n몇 분이 걸릴 수 있습니다.
+_M_STR_FREEDB_SEARCH freedb 웹 검색
+_M_STR_GENRE 장르
+_M_STR_GENRES 장르
+_M_STR_HIDE 숨기기(&H)
+_M_STR_ITEMALREADYEXISTS 이 이름의 항목이 이미 있습니다. 덮어쓰시겠습니까?
+_M_STR_LANGUAGE 언어
+_M_STR_M3U_FILEDLGFILTER 지원하는 파일 (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_METADATA 메타데이터(&M)
+_M_STR_MOVEDOWN 아래로 이동(&V)
+_M_STR_MOVEUP 위로 이동(&P)
+_M_STR_MPEGBITRATE 비트레이트
+_M_STR_MPEGFREQUENCY 주파수
+_M_STR_MPEGLENGTH 길이
+_M_STR_MPEGMODE 방식
+_M_STR_MPEGVERSION 코덱
+_M_STR_MSGCUT 선택한 파일의 태그를 제거해서 클립보드로 복사하길 정말로 원하십니까?
+_M_STR_MSGPASTE 선택한 파일의 새 태그로 클립보드의 내용을 붙여넣길 정말로 원하십니까?
+_M_STR_MSGREMOVE 선택한 파일의 태그를 제거하길 정말로 원하십니까?
+_M_STR_NAME 이름(&A)
+_M_STR_NETWORKING 네트워킹
+_M_STR_NEXT 다음(&N) >
+_M_STR_NOACTION - 실행 없음 -
+_M_STR_NOACTIONENABLED 이 기능을 사용할 때 체크표시를 통해 적어도 하나의 실행을 활성화하세요.
+_M_STR_NUMERIC 숫자(&M)
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH 지역 freedb 데이터베이스를 위한 작업 디렉토리를 선택해주세요.
+_M_STR_OPT_CDDB_PROCEED 모든 서버를 제거할 것입니다!\n\n계속하길 원하십니까?\n
+_M_STR_OPTIMIZEMP4 MP4 최적화
+_M_STR_OPTS_ALWAYS 항상
+_M_STR_OPTS_ASK 프롬프트
+_M_STR_OPTS_NEVER 절대 아님
+_M_STR_PLNAME 재생목록 - 파일명
+_M_STR_PL_CONFIRM 이 이름으로 재생목록 만들기
+_M_STR_PL_SAVEFILTER Playlist File (*.m3u)|*.m3u|Unicode Playlist File (*.m3u8)|*.m3u8||
+_M_STR_PREVIEW 미리보기
+_M_STR_PROPERTIES {1} 등록정보
+_M_STR_QUICK 급속
+_M_STR_RECURSE 하위 디렉토리
+_M_STR_REST 나머지
+_M_STR_SAVE_NOT < 관련 없음 >
+_M_STR_SAVECONFIG '{1}' 파일에 사용자의 설정을 저장할 수 있습니다.\n\n사용자의 설정을 재설정하기 위해 파일을 추출합니다.\n\"{2}\".
+_M_STR_SAVECONFIG_FILEDLGFILTER 구성요소 파일 (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE 구성요소에 저장...
+_M_STR_SAVEIMAGE 태그에 이미지 저장
+_M_STR_SAVEIMAGEDIRECTORY 디스크에 이미지 저장
+_M_STR_SAVESELECTION 선택 저장...
+_M_STR_SB_ABORTED 중단됨
+_M_STR_SB_ACTION 파일에 실행 적용 중... {1}의 {2}
+_M_STR_SB_CLEANUPDATABASE Processing files ... {1} of {2} ({3} cleaned)
+_M_STR_SB_CLEANUPDATABASE_BINARIES Cleanup orphaned binaries
+_M_STR_SB_CLEANUPDATABASE_COVERS Cleanup orphaned covers
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Cleanup non-library files
+_M_STR_SB_EXPORTTAGS 태그 정보를 내보내는 중... {1} 파일의 {2} 기록
+_M_STR_SB_LOADTAGS 태그 데이터 읽는 중... {1}의 {2}
+_M_STR_SB_READDIRECTORY 디렉토리 읽는 중
+_M_STR_SB_REMOVETAGS 태그 데이터 제거 중... {1}의 {2}
+_M_STR_SB_RENAMEFILES 파일 이름 바꾸는 중... {1}의 {2}
+_M_STR_SB_WRITETAGS 태그 데이터 쓰는 중... {1}의 {2}
+_M_STR_SHOWCHOOSEDLG 선택 대화상자 보기
+_M_STR_SEARCHBY 검색:
+_M_STR_SEARCHTEXT 텍스트:
+_M_STR_SEPARATOR 분리자
+_M_STR_SHOW 보기(&W)
+_M_STR_SIZE_LARGE Large
+_M_STR_SIZE_MEDIUM Medium
+_M_STR_SIZE_NORMAL Normal
+_M_STR_SIZE_SMALLER Smaller
+_M_STR_SIZE_SMALL Small
+_M_STR_SNA 알림 영역
+_M_STR_SNA_SHOW 알림 영역에 항상 아이콘 보여주기
+_M_STR_SNA_SHOWMIN 알림 영역으로 최소화
+_M_STR_STRIPCHAPTERSMP4 Strip MP4 chapters
+_M_STR_TAG_COPIED {1} 파일의 태그를 클립보드에 복사했습니다.
+_M_STR_TAG2 태그
+_M_STR_TAGFIELDS_REMOVE 필드 제거
+_M_STR_TAGFIELDS_REMOVEALL 모든 필드 제거...
+_M_STR_TAGFIELDS_REMOVEALLMSG 목록으로부터 모든 필드를 제거하길 원합니까?
+_M_STR_TAGFIELDS_RESET 필드 재설정...
+_M_STR_TAGFIELDS_RESETMSG 필드 리스트를 기본값으로 재설정하기를 원합니까?
+_M_STR_TAGPANEL 태그 패널
+_M_STR_TAGPANEL_COVER 표지 그림 보기
+_M_STR_TAGPANEL_DIRECTORY 디렉토리 스위처 보기
+_M_STR_TAGLIST_FILEDLGFILTER 텍스트 파일 ({1})
+_M_STR_TAGLIST_FILEDLGTITLE 텍스트 파일 선택
+_M_STR_TAGSOURCES 태그 소스
+_M_STR_THISALBUMON {1} 상의 이 앨범
+_M_STR_TITLE 제목
+_M_STR_TRYAGAIN 다시 시도할까요?
+_M_STR_TTF 태그 - 파일명
+_M_STR_UPDATE_FRM 업데이트
+_M_STR_UPDATE_OPT_CHECK 시작시 업데이트 확인
+_M_STR_UPDATE_OPT_CHECK_BETA 개발 빌드도 포함 (베타)
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Display release notes for new versions
+_M_STR_UPDATEAVAILABLE Mp3tag {1}의 새 버전이 사용 가능합니다!\n\n지금 {2}에서 새 업데이트를 다운받길 원하십니까?
+_M_STR_UPDATENOTAVAILABLE 최신 버전 {1}을(를) 사용 중입니다.\n\n이용 가능한 업데이트가 없습니다.
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS 도구(&U)
+_M_STR_VALUE 값(&L)
+_M_STR_VERSION 버전
+_M_STR_YEAR 제작년도
+_M_TP_CDDB_LOCALPATH 지역 freedb 디렉토리를 기입하세요.
+_M_TP_CDDB_SITES 인터넷을 통한 freedb 서버의 현재 목록
+_M_TP_CVR_CLIPBOARD 표지 붙여넣기
+_M_TP_CVR_CLIPBOARD_COPY 표지 복사
+_M_TP_CVR_CLIPBOARD_CUT 표지 잘라내기
+_M_TP_CVR_DEL 표지 제거
+_M_TP_CVR_NEW 표지 추가...
+_M_TP_CVR_SAVE 표지 추출...
+_M_TP_DUPLICATE 복사본 만들기
+_M_TP_EXP_DEL 삭제(&D)
+_M_TP_EXP_EDIT 편집
+_M_TP_EXP_FILE 내보내기 파일 선택
+_M_TP_EXP_HLP 빠른 도움말 보기
+_M_TP_EXP_LOAD 구성요소 불러오기...
+_M_TP_EXP_NEW 새 구성요소 만들기(&N)
+_M_TP_EXP_SAVE 구성요소 저장...
+_M_TP_GEN_DIR 디렉토리 선택
+_M_TP_TAG_DEL 필드 제거
+_M_TP_TAG_EDIT 필드 편집...
+_M_TP_TAG_NEW 필드 추가...
+_M_TS_ADDINFO 추가적인 정보
+_M_TS_MULTIPLEVALUES 복수의 값
+_M_TS_RELEASE 출시(&R)
+_M_TS_TRACKS 트랙(&T)
+_M_UNDO_CANNOTUNDO {1}를 되돌릴 수 없습니다
+_M_UNDO_CDDB freedb
+_M_UNDO_DIRECTORYCREATE 디렉토리 만들기
+_M_UNDO_DIRECTORYMOVE 디렉토리 이동
+_M_UNDO_FORMAT 형식
+_M_UNDO_FTF 파일명 - 파일명
+_M_UNDO_FTT 파일명 - 태그
+_M_UNDO_REMOVEFILE 제거
+_M_UNDO_RENAME 이름 바꾸기
+_M_UNDO_TAGCHANGE 태그 변경
+_M_UNDO_TAGREMOVE 태그 제거
+_M_UNDO_TAGSAVE 태그 저장
+_M_UNDO_TFF 텍스트 파일 - 태그
+_M_UNDO_TTF 태그 - 파일명

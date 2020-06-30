@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<!-- Florian Heidenreich -->
+	<!-- http://www.mp3tag.de/en -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta name="Author" content="Florian Heidenreich" />
+	<meta name="Description" content="Mp3tag Help - Configuration &gt; Advanced" />
+	<meta name="Keywords" content="" />
+	<title>Mp3tag Help - Configuration, Advanced</title>
+	<link rel="stylesheet" type="text/css" href="content.css" />
+</head>
+<body>
+<div id="left">
+		
+<ul>
+	<li><a href="index.html">Index</a></li>
+	<li><a href="main_commands.html">Menus</a></li>
+	<li><a href="main_converter.html">Convert</a></li>
+	<li><a href="options_format.html">Actions</a></li>
+	<li><a href="options_export.html">Export</a></li>
+	<li><a href="main_scripting.html">Scripting</a></li>
+	<li><a href="main_filter.html">Filter</a></li>
+	<li><a href="main_viewcolumns.html">Columns</a></li>
+	<li><a href="options.html">Options</a></li>
+	<li class="separator"></li>
+	<li><a href="misc_donate.html">Donate</a></li>
+</ul>
+
+</div>
+
+	<div id="wrap2">
+	<div id="header"><a href="index.html" title="Back to main page"><img src="images/banner.gif" alt="Back to main page" title="Back to main page" /></a></div>
+
+	<div>
+		
+		<h1><a href="options.html" title="Back to Configuration overview...">Configuration</a> &gt; <a href="options_tags.html" title="Back to Tags overview...">Tags</a> &gt; Advanced</h1>
+		
+		<h2>ID3v2 comment language code (ISO-639-2)</h2>
+		<p>
+			Different programs require ID3v2 comments to be written with specific language code identifiers. Mp3tag's default is
+			'eng', but depending on the language of your Windows installation, you might want to use the ISO-639-2 of this language
+			so that comments are displayed in Windows Explorer or Windows Media Player (e.g., 'deu' for a German Windows installation).
+			However, if you use another language code than 'eng' iTunes won't read the comments of your ID3v2 tagged files anymore, since
+			it requires them to be written with this particular language code identifier.
+		</p>
+
+		<h2>List chapters as separate files</h2>
+		<p>
+			Some file formats, e.g., MP4 or Matroska, can have chapters. If you enable this setting and reload the directory,
+			Mp3tag lists chapters as separate files. It's especially helpful if you're into editing video files and
+			want to edit the titles of the individual chapters (or the global tags of a file if disabled).
+		</p>
+		<p>
+			Especially if the option to list chapter as separate files is disabled, it can be
+			difficult to identify which files actually have chapters. You can use the following information
+			fields to identify those files: <code>%_subsong_count%</code> provides the number of
+			subsongs in a file and <code>%_subsong%</code> contains the subsong index.
+		</p>
+		
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>	
+	</div>
+	
+	<p class="copyright"><strong>Made with love in Dresden.</strong> Copyright &copy; 1999-2020 <a href="http://www.mp3tag.de/en/" class="external">Florian Heidenreich</a>. All rights reserved.</p>
+
+	</div>
+</body>
+</html>

@@ -1,0 +1,622 @@
+﻿LANGAUTHOR Majed Alotaibi
+LANGCONTACT ma_maky@yahoo.com
+LANGVERSION 2.98
+LANGNAME Arabic
+LANGNAMELOC العربية
+SLangCancel إلغاء
+SLangOk &موافق
+SLangErrCatch خطأ وقت التشغيل\n\nملف:\t{1}\nالسطر:\t{2}\n\nواجه البرنامج خطأ غير متوقع وهو في حالة غير محددة. الرجاء إغلاق التطبيق وإرسال الملف\n\n{3}\n\nووصف الخطأ المفصل لموظفي الدعم.\n\nالبريد: support@mp3tag.de
+SLangErrCheck خطأ وقت التشغيل\n\nملف:\t{1}\nالسطر:\t{2}\nمصطلح:\t{3}\nالكود:\t0x{4}\n\nواجه البرنامج خطأ غير متوقع وهو في حالة غير محددة. الرجاء إغلاق التطبيق وإرسال الملف\n\n{5}\n\nووصف الخطأ المفصل لموظفي الدعم.\n\nالبريد: support@mp3tag.de
+SLangErrDriveCannotBeAccessed القرص {1} لا يمكن الوصول إليه.
+SLangErrFileCannotBeAccessed الملف {1} لا يمكن الوصول إليه.
+SLangErrFileCannotBeDeleted الملف {1} لا يمكن حذفه.\n\n» تأكد أنه غير مستخدم من قبل عملية أخرى.
+SLangErrFolderCannotBeAccessed دليل {1} لا يمكن الوصول إليه.
+SLangErrFolderCannotBeDeleted دليل {1} لا يمكن حذفه. .\n.\n»يرجى التأكد من عدم وجود عمليات أخرى تستخدم الدليل.
+SLangErrHelpBrowserIsNotAvailable Mp3tag لم يكن قادرا على عرض ملف المساعدة في متصفح الويب القياسي الخاص بك.
+SLangErrHelpSystemIsNotAvailable نظام المساعدة غير متوفرة. .\n.\n»الرجاء إعادة تثبيت {1}.
+SLangErrHelpTopicIsNotAvailable موضوع التعليمات غير متوفر .\n.\n»يرجى الاتصال بفريق الدعم.\n.\nالبريد: support@mp3tag.de
+SLangErrNotEnoughFreeDiskSpace لا توجد مساحة كافية على الجهاز {1}. .\n.\n»يرجى التأكد من توفر {2} من مساحة القرص على الأقل.
+SLangErrRegistryCannotBeAccessed خطأ في قراءة البيانات .\n.\nيتعذر الوصول إلى سجل ويندوز.
+SLangMsgItemExistsAlready إدخال مع هذا الوصف موجود بالفعل. .\n.\n»الرجاء استخدام وصف آخر.
+SLangMsgFirstSteps يرجى أخذ بعض الوقت لتعتاد على الخطوات الأولى.
+SLangMsgShutdownInfo يرجى الانتظار بينما يتم إغلاق {1}.
+SLangWrnAppIsAlreadyRunning عملية أخرى من هذا التطبيق قيد التشغيل بالفعل.
+SLangWrnAppHasToBeRestarted يحتاج Mp3tag إلى إعادة التشغيل لتطبيق التغييرات. .\n.\nهل تريد إعادة تشغيل Mp3tag الآن؟
+SLangWrnNameContainsInvalidCharacters الوصف يحتوي على أحرف غير صالحة. .\n.\n»الرجاء استخدام وصف آخر.
+SLangWrnStartLogging أنت بدأت {1} مع المعلمة FLOG1 لسطر الأوامر. يتم استخدام هذه المعلمة لأغراض التصحيح.\n\nهل تريد بدء تشغيل ميزة السجل؟
+_C_ABORT إحباط
+_C_ABORTING جار الإحباط...
+_C_APP_ST_ALBUM الألبوم
+_C_APP_ST_ARTIST الفنان
+_C_APP_ST_COMMENT التعليق
+_C_APP_ST_FOLDER الدليل
+_C_APP_ST_GENRE النوع
+_C_APP_ST_TITLE العنوان
+_C_APP_ST_TRACK المقطوعة
+_C_APP_ST_YEAR السنة
+_C_CANCEL &إلغاء
+_C_CANCELING جار الإلغاء...
+_C_CLOSE إ&غلاق
+_C_DLG_CDDBCONFIRM_CAPTION قائمة نتائج البحث ...
+_C_DLG_CDDBCONFIRM_CHK_DISCID نسخ معرف القرص لحقل التعليق
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 نسخ معرف القرص إلى حقل DISCID
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER التجميع ...
+_C_DLG_CDDBCONFIRM_CHK_SORT الفرز المقترح
+_C_DLG_CDDBCONFIRM_ST_INFO تم العثور على أكثر من نتيجة\nالرجاء اختيار واحدة:
+_C_DLG_CDDBCONFIRM_ST_INFO2 هناك {2} من نتائج البحث من قاعدة البيانات {1}\nالرجاء اختيار واحدة:
+_C_DLG_CDDBCONFIRM_STC_TOP ضبط معلومات البطاقة
+_C_DLG_CDDBINPUT_CAPTION أدخل معرف freedb
+_C_DLG_CDDBINPUT_ST_CATEGORY الفئة:
+_C_DLG_CDDBINPUT_ST_ID معرف freedb:
+_C_DLG_CDDBSTYLE_CAPTION freedb
+_C_DLG_CDDBSTYLE_RD_CDROM تحديد من القرص الصوتي المدرج
+_C_DLG_CDDBSTYLE_RD_ENTER إدخال
+_C_DLG_CDDBSTYLE_RD_MP3 تحديد من الملفات المحددة
+_C_DLG_CDDBSTYLE_RD_SEARCH تحديد عن طريق البحث على شبكة الإنترنت
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL تحديد عن طريق البحث عن النص
+_C_DLG_CDDBSTYLE_STC_TOP معرف freedb...
+_C_DLG_COLUMNS_CAPTION أعمدة
+_C_DLG_COLUMNS_TOP ضبط رؤية الأعمدة
+_C_DLG_TAGS تحرير معلومات البطاقة
+_C_DLG_TTF_TOP حدد سلسلة التنسيق
+_C_HELP م&ساعدة
+_C_MNU_ACTIONS إجراءات\tALT+6
+_C_MNU_CON تحويل
+_C_MNU_CON_FTF اسم الملف - اسم الملف\tALT+3
+_C_MNU_CON_FTT &اسم الملف - البطاقة\tALT+2
+_C_MNU_CON_TFF ملف نصي - البطاقة\tALT+4
+_C_MNU_CON_TTF &البطاقة - اسم الملف\tALT+1
+_C_MNU_CON_TTT البطاقة - البطاقة\tALT+5
+_C_MNU_EDIT &تحرير
+_C_MNU_EDIT_COPY نسخ\tCtrl+C
+_C_MNU_EDIT_CUT قص\tCtrl+X
+_C_MNU_EDIT_INVERTSELECTION &عكس التحديد\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT حدد الملف التالي\tCtrl+N
+_C_MNU_EDIT_PASTE &لصق\tCtrl+V
+_C_MNU_EDIT_SELECT حدد كل الملفات\tCtrl+A
+_C_MNU_EDIT_UNDO &تراجع\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL &إلغاء تحديد الكلtCtrl+U
+_C_MNU_EXTRA أدوات
+_C_MNU_EXTRA_OPTIONS &خيارات...\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS استعادة كل حقول الإدخال\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS القم الافتراضية في حقول الإدخال\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD معالج الترقيم التلقائي...\tCtrl+K
+_C_MNU_FILE &ملف
+_C_MNU_FILE_ADD إضافة دليل...
+_C_MNU_FILE_CDDB freedb...\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL freedb (محلي)...\tCtrl+L
+_C_MNU_FILE_COPY نسخ...
+_C_MNU_FILE_DELETE حذف...
+_C_MNU_FILE_DIR تغيير الدليل...\tCtrl+D
+_C_MNU_FILE_EXIT خروج\tAlt+F4
+_C_MNU_FILE_EXPORT &تصدير...\tCtrl+E
+_C_MNU_FILE_FAVDIR &الدليل المفضل\tCtrl+F
+_C_MNU_FILE_MOVE نقل...
+_C_MNU_FILE_PLALL قائمة التشغيل (كل الملفات)\tCtrl+P
+_C_MNU_FILE_PLAY تشغيل
+_C_MNU_FILE_PLAYLIST تحميل قائمة التشغيل / CueSheet ...
+_C_MNU_FILE_PLSEL قائمة التشغيل (ملفات مختارة)
+_C_MNU_FILE_PROPERTIES خصائص...
+_C_MNU_FILE_READ قراء البطاقة\tCtrl+T
+_C_MNU_FILE_REMOVE &حذف البطاقة\tCtrl+R
+_C_MNU_FILE_REMOVEFILE حذف\tDel
+_C_MNU_FILE_RENAME إعادة تسمية\tF2
+_C_MNU_FILE_SAVE &حفظ البطاقة\tCtrl+S
+_C_MNU_FILE_SAVECONFIG حفظ التكوين...
+_C_MNU_FREEDB f&reedb
+_C_MNU_FREEDB_INDEX إنشاء فهرس محلي
+_C_MNU_FS_EXT الحقول الموسعة
+_C_MNU_FS_FNCT وظائف
+_C_MNU_FS_INFO حقول المعلومات
+_C_MNU_FS_REM إزالة من المحفوظات 
+_C_MNU_FS_REMALL إزالة الجميع من المحفوظات ...
+_C_MNU_FS_REMALL_MSG هل أنت متأكد من حذف كل العناصر؟
+_C_MNU_HELP م&ساعدة
+_C_MNU_HELP_ABOUT حول Mp3tag ...
+_C_MNU_HELP_DONATE التبرع
+_C_MNU_HELP_FINDER &المحتويات...\tF1
+_C_MNU_HELP_FIRSTSTEPS الخطوات الأولى
+_C_MNU_HELP_KEYBOARD اختصارات لوحة المفاتيح
+_C_MNU_HELP_SUPPORT الدعم عبر الانترنت
+_C_MNU_HELP_UPGRADE تحقق من وجود إصدار جديد ...
+_C_MNU_HELP_WWW موقع Mp3tag ...
+_C_MNU_TAGSOURCES مصادر البطاقات
+_C_MNU_TOOLS &أدوات
+_C_MNU_VIEW عرض
+_C_MNU_VIEW_COLUMNS تخصيص الأعمدة ...
+_C_MNU_VIEW_FILTER &تصفية\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY التصفية التلقائية
+_C_MNU_VIEW_ID3 لوحة البطاقات\tCtrl+Q
+_C_MNU_VIEW_REFRESH تحديث\tF5
+_C_MNU_VIEW_SORTBY ترتيب حسب:
+_C_MNU_VIEW_TAGS البطاقات الموسعة...\tALT+T
+_C_MNU_VIEW_TOOLBAR شريط الأدوات
+_C_MNU_SB_ACTIONS تطبيق الإجراءات المعرفة من قبل المستخدم (تبديل الحالة، الاستبدال، ...) إلى الملفات المحددة.
+_C_MNU_SB_CON_FTF إعادة تسمية الملفات بناء على نمط محدد على أساس اسم الملف القديم.
+_C_MNU_SB_CON_FTT استيراد البطاقات من أسماء الملفات.
+_C_MNU_SB_CON_TFF استيراد البطاقات من ملفات نصية.
+_C_MNU_SB_CON_TTF إعادة تسمية الملفات على نمط محدد بناء على البطاقات.
+_C_MNU_SB_CON_TTT تنسيق البطاقات على أساس العلامات.
+_C_MNU_SB_EDIT_COPY نسخ النص المحدد أو العلامات من الملف المحدد إلى الحافظة.
+_C_MNU_SB_EDIT_CUT قص النص المحدد أو العلامات من الملف المحدد ونقله إلى الحافظة.
+_C_MNU_SB_EDIT_INVERTSELECTION عكس التحديد الحالي.
+_C_MNU_SB_EDIT_NEXT تعليم الملف التالي في عرض الملفات.
+_C_MNU_SB_EDIT_PASTE لصق المحتوى من الحافظة في العلامة المدرجة أو في الملف المحدد.
+_C_MNU_SB_EDIT_SELECT اختيار الملفات من عرض الملفات.
+_C_MNU_SB_EDIT_UNDO تراجع عن الإجراء الأخير
+_C_MNU_SB_EDIT_UNSELECTALL إلغاء تحديد كافة الملفات.
+_C_MNU_SB_EXTRA_OPTIONS عرض نافذة الخيارات.
+_C_MNU_SB_EXTRA_RESET_EDITS إزالة النص من جميع حقول الإدخال في لوحة البطاقة.
+_C_MNU_SB_EXTRA_SET_EDITS تعيين كافة حقول الإدخال في لوحة البطاقة للقيم القياسية المعرفة.
+_C_MNU_SB_EXTRA_TRACKWIZARD تشغيل معالج ترقيم المقطوعات التلقائي.
+_C_MNU_SB_FILE_ADD إضافة الدليل إلى قائمة الملفات.
+_C_MNU_SB_FILE_CDDB الحصول على معلومات حول القرص المضغوط الصوتي أو الملفات الصوتية المختارة عن طريق الاتصال بشبكة الانترنت.
+_C_MNU_SB_FILE_CDDBLOCAL الحصول على معلومات حول القرص المضغوط الصوتي أو الملفات الصوتية المختارة عن طريق قاعدة بيانات freedb.
+_C_MNU_SB_FILE_COPY نسخ الملفات المحددة إلى دليل آخر.
+_C_MNU_SB_FILE_DELETE حذف الملفات المحددة.
+_C_MNU_SB_FILE_DIR تغيير دليل العمل الحالي.
+_C_MNU_SB_FILE_EXIT الخروج من التطبيق.
+_C_MNU_SB_FILE_EXPORT تصدير البطاقات ومعلومات لبملف من الملفات المحددة.
+_C_MNU_SB_FILE_FAVDIR تغيير إلى الدليل الافتراضي.
+_C_MNU_SB_FILE_FREEDBINDEX إنشاء قاعدة بيانات فهرس freedb محلية للبحث من خلال freedb محلي.
+_C_MNU_SB_FILE_MOVE نقل الملفات المحددة إلى دليل آخر.
+_C_MNU_SB_FILE_PLALL إنشاء قائمة تشغيل من جميع الملفات.
+_C_MNU_SB_FILE_PLAY تشغيل الملفات المحددة.
+_C_MNU_SB_FILE_PLAYLIST تحميل محتويات قائمة التشغيل.
+_C_MNU_SB_FILE_PLSEL إنشاء قائمة تشغيل من الملفات المحددة.
+_C_MNU_SB_FILE_PROPERTIES عرض خصائص الملف المحدد.
+_C_MNU_SB_FILE_READ قراءة البطاقة من الملف المحدد إلى حقول الإدخال في لوحة البطاقات.
+_C_MNU_SB_FILE_REMOVE إزالة البطاقة من الملف المحدد.
+_C_MNU_SB_FILE_REMOVEFILE إزالة الملفات المحددة.
+_C_MNU_SB_FILE_RENAME إعادة تسمية الملف المحدد.
+_C_MNU_SB_FILE_SAVE حفظ البطاقة في الملفات المحددة.
+_C_MNU_SB_FILE_SAVECONFIG حفظ الإعدادات الحالية في ملف التكوين.
+_C_MNU_SB_HELP_ABOUT معلومات عن Mp3tag.
+_C_MNU_SB_HELP_CONTEXT عرض التعليمات للحقول المنقور عليها، والقوائم، والنوافذ.
+_C_MNU_SB_HELP_DONATE يرجى التبرع لدعم تطوير Mp3tag.
+_C_MNU_SB_HELP_FINDER عرض محتويات المساعدة.
+_C_MNU_SB_HELP_FIRSTSTEPS عرض مقدمة قصيرة حول Mp3tag.
+_C_MNU_SB_HELP_KEYBOARD عرض قائمة اختصارات لوحة المفاتيح.
+_C_MNU_SB_HELP_SUPPORT انتقل إلى منتديات Mp3tag.
+_C_MNU_SB_HELP_UPGRADE تحقق من وجود تحديثات لـ Mp3tag.
+_C_MNU_SB_HELP_WWW انتقل إلى موقع Mp3tag.
+_C_MNU_SB_UPDIR التغيير إلى الدليل العلوي
+_C_MNU_SB_VIEW_COLUMNS إظهار مربع حوار لتخصيص أعمدة عرض الملفات.
+_C_MNU_SB_VIEW_FILTER تصفية عرض الملفات.
+_C_MNU_SB_VIEW_ID3 إظهار / إخفاء لوحة البطاقات.
+_C_MNU_SB_VIEW_REFRESH تحديث العرض ملفات.
+_C_MNU_SB_VIEW_TAGS عرض نافذة البطاقات الموسعة.
+_C_MNU_SB_VIEW_TOOLBAR إظهار / إخفاء شريط الأدوات.
+_C_MNU_SB_WND_IDLE جاهز
+_C_MNU_SB_WND_MAXIMIZE توسيع النافذة لحجم الشاشة الكاملة
+_C_MNU_SB_WND_MINIMIZE تصغير النافذة لشريط المهام
+_C_MNU_SB_WND_MOVE نقل مكان النافذة
+_C_MNU_SB_WND_RESTORE استعادة النافذة إلى الحجم العادي من ملء الشاشة أو التصغير
+_C_MNU_SB_WND_SIZE تغيير حجم النافذة
+_C_MULTILINE خطوط متعددة
+_C_OK &موافق
+_C_OPT_ACTIONGROUPS مجموعات الإجراءات
+_C_OPT_ACTIONS الإجراءات
+_C_OPT_ACTIONS_TYPE حدد نوع الإجراء
+_C_OPT_ADVANCED متقدم
+_C_OPT_ADVANCED_ID3V2LANG ID3v2 رمز لغة التعليق (ISO-639-2)
+_C_OPT_ADVANCED_LISTCHAPTERS سرد الفصول كملفات منفصلة
+_C_OPT_CAPTION خيارات
+_C_OPT_CDDB_CAPTION freedb
+_C_OPT_CDDB_CHK_USEPROXY استخدام بروكسي
+_C_OPT_CDDB_FRM_CDDB خادم freedb
+_C_OPT_CDDB_FRM_LOCALPATH مسار freedb المحلي:
+_C_OPT_CDDB_FRM_PROXY الوكيل
+_C_OPT_CDDB_RD_FMT_UNIX تنسيق UNIX
+_C_OPT_CDDB_RD_FMT_WIN تنسيق Windows
+_C_OPT_CDDB_ST_ADDRESS العنوان :
+_C_OPT_CDDB_ST_EMAIL عنوان البريد:
+_C_OPT_CDDB_ST_NAME الاسم:
+_C_OPT_CDDB_ST_PATH المسار:
+_C_OPT_CDDB_ST_PORT المنفذ:
+_C_OPT_CDDB_ST_PROXYNAME الوكيل:
+_C_OPT_CDDB_ST_PROXYPORT المنفذ:
+_C_OPT_CDDB_ST_PWD كلمة المرور:
+_C_OPT_CDDB_ST_TIMEOUT المهلة:
+_C_OPT_CDDB_ST_USERNAME اسم المستخدم:
+_C_OPT_CDDB3_CAPTION محلي freedb
+_C_OPT_CON_FRM_FTT اسم الملف - البطاقة
+_C_OPT_CON_FRM_TFF ملف نصي - البطاقة
+_C_OPT_CON_FRM_TTF البطاقة - اسم الملف
+_C_OPT_CON_ST_FNAME اسم الملف:
+_C_OPT_CON_ST_FS سلسلة التنسيق:
+_C_OPT_DIR المجلدات
+_C_OPT_DIR_COVER مجلد الغلاف
+_C_OPT_EMPTY_HINT يرجى تحديد موضوع أدناه
+_C_OPT_EXP_CAPTION تصدير 
+_C_OPT_EXP_CHK_APPEND إلحاق البيانات
+_C_OPT_EXP_CHK_WRITEBOM كتابة BOM
+_C_OPT_EXP_FRM_EXPORT تصدير التكوين
+_C_OPT_EXP_RD_TRACK المقطوعة
+_C_OPT_EXP_ST_FNAME اسم ملف التصدير:
+_C_OPT_EXP_ST_NAME اسم تكوين التصدير الجديد
+_C_OPT_FMT_CASE تبديل حالة الحروف
+_C_OPT_FMT_FRM_FTF اسم الملف - اسم الملف
+_C_OPT_FMT_ST_BEGIN الكلمات تبدأ من / بعد أي من:
+_C_OPT_FMT_ST_FNAME_NEW نمط اسم ملف جديد:
+_C_OPT_FMT_ST_FNAME_OLD نمط اسم ملف قديم:
+_C_OPT_FMT2 استبدال
+_C_OPT_FMT2_CASE مقارنة لحالة الأحرف
+_C_OPT_FMT2_COL_ORIGINAL الأصلي
+_C_OPT_FMT2_COL_REPLACE استبدال بـ
+_C_OPT_FMT2_ONLYWORDS فقط ككلمة كاملة
+_C_OPT_GEN_CAPTION عام
+_C_OPT_GEN_CHK_AUTOSAVE حفظ البطاقات عند استخدام مفاتيح الأسهم/نقرة فأرة واحدة
+_C_OPT_GEN_CHK_FOLDERSTART بدأ من هذا الدليل
+_C_OPT_GEN_CHK_GRID عرض خطوط الشبكة في عرض الملفات
+_C_OPT_GEN_CHK_JUMPONEDIT تلقائيا حدد الملف التالي عند التحرير في عرض الملفات
+_C_OPT_GEN_CHK_KEEPFILETIME الحفاظ على وقت تعديل الملف عند حفظ البطاقات
+_C_OPT_GEN_CHK_KEEPMOVEDFILES الاحتفاظ بالملفات المنقولة في قائمة الملفات
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS في التحذيرات من الإجراءات
+_C_OPT_GEN_CHK_MSG_CHANGE بعد التغيير
+_C_OPT_GEN_CHK_MSG_CUT في قص البطاقات
+_C_OPT_GEN_CHK_MSG_DEL بعد الحذف
+_C_OPT_GEN_CHK_MSG_DELETEFILE عند حذف الملفات
+_C_OPT_GEN_CHK_MSG_EXPORT عند تصدير البطاقات
+_C_OPT_GEN_CHK_MSG_PASTE عند لصق البطاقات
+_C_OPT_GEN_CHK_MSG_REMOVETAGS عند حذف البطاقات
+_C_OPT_GEN_CHK_MSG_SAVE بعد الحفظ
+_C_OPT_GEN_CHK_PL إنشاء قائمة التشغيل تلقائيا
+_C_OPT_GEN_CHK_RELPL مدخلات نسبية من دليل العمل
+_C_OPT_GEN_CHK_AUTOCOMPLETE الإكمال التلقائي في مربعات التحديد
+_C_OPT_GEN_CHK_SELECTFILES اختيار الملفات تلقائيا
+_C_OPT_GEN_CHK_SORTNATURAL استخدام الفرز الطبيعي
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH عرض الدليل الحالي في عنوان النافذة
+_C_OPT_GEN_FRM_GEN عام
+_C_OPT_GEN_FRM_MSG إظهار رسالة
+_C_OPT_GEN_FRM_PL اسم ملف قائمة التشغيل
+_C_OPT_GEN_RD_PLALL من كل الملفات
+_C_OPT_GEN_RD_PLSEL من الملفات المحددة
+_C_OPT_GEN_ST_FAVDIR الدليل المفضل:
+_C_OPT_GEN2_CAPTION الرسائل
+_C_OPT_GENRES أنواع معرفة من قبل المستخدم
+_C_OPT_GENRES_HIDESTANDARD إظهار الأنواع المعرفة من قبل المستخدم فقط
+_C_OPT_ID3_CHK_ISO88591 دائما كتابة بطاقات ISO-8859-1  بدلا من UTF-16
+_C_OPT_ID3_CHK_LEADINGZEROS الأصفار البادئة لترقيم المقطوعات (01، 02، ...)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND ID3v2 إلا إذا ID3V1 صغيرة جدا
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ قراءة
+_C_OPT_ID3_FRM_REMOVE إزالة
+_C_OPT_ID3_FRM_WRITE كتابة
+_C_OPT_LIB المكتبة
+_C_OPT_LIB_CHK_ENABLE تمكين المكتبة
+_C_OPT_LIB_CHK_RESTRICT تضمين هذه المجلدات فقط
+_C_OPT_LIB_CLEANUP تنظيف المكتبة
+_C_OPT_MAPPING تعيين
+_C_OPT_MAPPING_FRM تعيينات حقول معرفة من قبل المستخدم 
+_C_OPT_MAPPING_SOURCE مصدر
+_C_OPT_MAPPING_TARGET الهدف
+_C_OPT_PLAYLIST_CAPTION قائمة التشغيل
+_C_OPT_PLAYLIST_EXTENDED كتابة معلومات موسعة
+_C_OPT_PLAYLIST_NOFOLDERS لا تنشيء أدلة
+_C_OPT_PLAYLIST_SHOWDLG عرض نافذة تأكيد اسم الملف
+_C_OPT_TAG البطاقات
+_C_OPT_TAGS_COVER اسم الملف الافتراضي لصورة الغلاف:
+_C_OPT_TAGS_EXT وضع الحفظ لـ << and >> في نافذة البطاقات الموسعة:
+_C_OPT_TAGS_FILEFILTER تقييد الملفات الواردة إلى:
+_C_OPT_TAGS_NOIMG لا تعرض الصورة الأولى من دليل الملف كصورة غلاف
+_C_OPT_TOOLS أدوات
+_C_OPT_TOOLS_CHK_DEFAULT استخدام برنامج خاص عند النقر المزدوج:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES لكل الملفات المحددة
+_C_OPT_TOOLS_COL_PARAM المعامل
+_C_OPT_TOOLS_COL_PATH المسار
+_C_OPT_TOOLS_EDIT أداة التخصيص. الاسم والمسار إلزامية.
+_C_OPT_TOOLS_FRM_DEFAULT الأداة الافتراضية
+_C_OPT_TOOLS_FRM_TOOLS أدوات
+_C_OVERWRITE استبدال
+_C_RENAME إعادة تسمية
+_C_TT_CDDB freedb...
+_C_TT_CDDBLOCAL freedb (محلي)...
+_C_TT_CLOSE إغلاق 
+_C_TT_DIR تغيير الدليل...
+_C_TT_EDIT_UNDO تراجَع
+_C_TT_EXPORT تصدير 
+_C_TT_FAVDIR الدليل المفضل
+_C_TT_FILE_ADD إضافة دليل...
+_C_TT_FILE_COPY نسخ إلى...
+_C_TT_FILE_DELETE حذف...
+_C_TT_FILE_MOVE نقل إلى...
+_C_TT_FILE_PLAY تشغيل
+_C_TT_FILE_PROPERTIES خصائص...
+_C_TT_FILE_RENAME إعادة تسمية
+_C_TT_FTF اسم الملف - اسم الملف
+_C_TT_FTT اسم الملف - البطاقة
+_C_TT_HELP محتويات التعليمات...
+_C_TT_OPT نافذة الخيارات...
+_C_TT_PLALL إنشاء قائمة تشغيل من جميع الملفات
+_C_TT_PLSEL إنشاء قائمة تشغيل من الملفات المحددة
+_C_TT_REFRESH تحديث عرض الملفات.
+_C_TT_REMOVE إزالة البطاقة
+_C_TT_SAVE حفظ
+_C_TT_TFF ملف نصي - البطاقة
+_C_TT_TTF البطاقة - اسم الملف
+_C_TT_TTT البطاقة - البطاقة
+_C_TT_UPDIR أعلى
+_C_WIZARD_TRACKS معالج الترقيم التلقائي
+_C_WIZARD_TRACKS_BEGIN بدء عند رقم المقطوعة:
+_C_WIZARD_TRACKS_DESC تعيين المقطوعات وأرقام الأقراص
+_C_WIZARD_TRACKS_DISC_BEGIN البدء في رقم القرص
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS الأصفار في مقدمة رقم القرص (01 ، 02 ،...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL حفظ العدد الإجمالي للأقراص
+_C_WIZARD_TRACKS_DISCNUMBER رقم القرص
+_C_WIZARD_TRACKS_RESETFOLDERS إعادة تعيين العداد لكل دليل
+_C_WIZARD_TRACKS_SAVETOTAL حفظ إجمالي عدد المقطوعات
+_C_WIZARD_TRACKS_TRACKNUMBER رقم المقطوعة
+_M_ERR_CANCEL تم إلغاء العملية.
+_M_ERR_CDDB_CD خطأ في قراءة القرص المضغوط الصوتي
+_M_ERR_CDDB_CONNECT حدث خطأ أثناء الاتصال بالخادم: {1}
+_M_ERR_CDDB_NOENTRY لم يتم العثور على إدخالات مناسبة لمعرف freedb {1}.
+_M_ERR_CDDB_NOENTRYINLOCALBD لم يتم العثور على إدخالات مناسبة لمعرف freedb {1} في قاعدة بيانات freedb المحلية '{2}'.
+_M_ERR_CDDB_PARSER لم يرجع الاستعلام أية نتائج.
+_M_ERR_CDDB_READ حدث خطأ أثناء قراءة البيانات من {1}
+_M_ERR_CONFIGURATION لا يمكن استيراد التكوين.
+_M_ERR_COPY تعذر نسخ الملفات المحددة!
+_M_ERR_DELETE لا يمكن حذف الملفات المحددة!
+_M_ERR_FILECREATE الملف \"{1}\" لا يمكن إنشاؤه.
+_M_ERR_FILEDELETE الملف \"{1}\" لا يمكن حذفه.
+_M_ERR_FILENAMEALREADYEXISTS الملف \"{1}\" موجود بالفعل.
+_M_ERR_FILENAMEALREADYEXISTS2 الملف \"{1}\" لم تتم إعادة تسميته.
+_M_ERR_FILEOPABORTED قد يكون محتوى الدليل الحالي تغير.\n\nهل تريد إعادة قراءة الدليل الحالي؟
+_M_ERR_FILEOPEN الملف \"{1}\" لا يمكن فتحه.
+_M_ERR_FILEREADONLY ملف \"{1}\" هو للقراءة فقط.\n\nهل يجب على Mp3tag تعطيل الحماية ضد الكتابة له وأي ملفات تالية للقراءة فقط؟
+_M_ERR_FOLDERCANNOTBEACCESSED خطأ في الوصول\n\nالمجلد \"{1}\" لا يمكن الوصول إليه.
+_M_ERR_INVALID_FILENAME الرجاء تحديد اسم ملف صالح.
+_M_ERR_INVALID_FTF_FS سلسلة \"{1}\" ليست سلسلة تنسيق صحيحة لأسماء الملفات.
+_M_ERR_INVALID_TOKEN {1}: \nالأحرف التالية غير مسموح بها في أسماء الملفات: \n\\ / : * ? \" < > |\n\nهل تريد أن تصحح تلقائياً؟
+_M_ERR_MOVE لا يمكن نقل الملفات المحددة!
+_M_ERR_ONLINE_NOTFOUND عذراً، لا توجد إدخالات مطابقة لمعايير البحث الخاصة بك.
+_M_ERR_OPT_CDDB_NOADDRESS الرجاء إدخال عنوان خادم freedb.
+_M_ERR_OPT_CDDB_NOEMAIL الرجاء إدخال عنوان البريد الإلكتروني الخاص بك تحت 'خيارات، freedb، الخادم'. سيتم استخدامه لعمل سجل للوصول إلى خادم freedb.
+_M_ERR_OPT_CDDB_NONAME الرجاء إدخال اسم صالح للتكوين.
+_M_ERR_OPT_CDDB_NOPORT الرجاء إدخال رقم منفذ خادم freedb.
+_M_ERR_PARSELINE لا يمكن تحليل السطر {1}.
+_M_ERR_PLAY لا يمكن فتح ملف \"{1}\" لتشغيله!
+_M_ERR_READ_FILE لا يمكن فتح ملف \"{1}\" للقراءة!
+_M_ERR_RENAME_FILE لا يمكن إعادة تسمية ملف \"{1}\" إلى "{2}\".
+_M_ERR_RETRY Do you want to retry?
+_M_ERR_TL_NOTAGS لا يوجد إدخال مطابق لملف \"{1}\".
+_M_ERR_WRITE_FILE ملف \"{1}\" لا يمكن فتحه للكتابة.
+_M_ERR_YN \n\nهل تريد المتابعة؟
+_M_LOG_FMT_FNAME {1} من {2} ملف تمت إعادة تسميته. \n
+_M_LOG_FMT_TAG تنسيق البطاقات في {1} من {2} ملفات.\n
+_M_LOG_FTF أعيدت تسمية {1} من {2} ملف.
+_M_LOG_FTT بطاقات مستمدة من {1} من {2} ملف.
+_M_LOG_PL_ALL قائمة التشغيل \"{1}\" تم إنشاؤها من كافة الملفات الـ ({2}).
+_M_LOG_PL_SEL قائمة التشغيل \"{1}\" تم إنشاؤها من الملفات المحددة الـ ({2}).
+_M_LOG_REMOVE تمت إزالة البطاقة من الملف \"{1}\".
+_M_LOG_REMOVED تمت إزالة البطاقة من {1} من {2} ملف.
+_M_LOG_REMOVE_NOTAG لا يوجد بطاقة في ملف \"{1}\".
+_M_LOG_SAVE تم حفظ البطاقة في ملف \"{1}\".
+_M_LOG_SAVED تم حفظ البطاقة في {1} من {2} ملف.
+_M_LOG_TFF تم استيراد البطاقات من \"{1}\" إلى {2} من {3} ملف.
+_M_LOG_TFF_S تم استيراد البطاقات من \"{1}\" إلى ملف واحد.
+_M_LOG_TTF {1} من {2} ملف تمت إعادة تسميتها.
+_M_STAT_PLAY تشغيل الملف \"{1}\"...
+_M_STR_ACTION_ADJUSTCOVER Adjust cover
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Format
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
+_M_STR_ACTION_CODEPAGE تحويل صفحة التعليمات البرمجية
+_M_STR_ACTION_CODEPAGE_DESC صفحة التعليمات البرمجية
+_M_STR_ACTION_EXPORTCOVER تصدير الغلاف إلى ملف
+_M_STR_ACTION_EXPORTCOVER_DUPES تصدير الأغلفة المكررة
+_M_STR_ACTION_EXPORTCOVER_TYPES تصدير أغلفة فقط من النوع
+_M_STR_ACTION_FORMAT تنسيق القيمة
+_M_STR_ACTION_GUESS تخمين القيم
+_M_STR_ACTION_GUESSPATTERN جار تخمين النمط
+_M_STR_ACTION_GUESSSOURCE تنسيق المصدر
+_M_STR_ACTION_IMPORTCOVER استيراد الغلاف من ملف
+_M_STR_ACTION_IMPORTCOVER_FS سلسلة التنسيق لاسم ملف الصورة:
+_M_STR_ACTION_IMPORTCOVER_DELETE حذف صورة الغلاف الموجودة
+_M_STR_ACTION_IMPORTCOVER_TYPE استيراد الغلاف كـ:
+_M_STR_ACTION_IMPORTTEXT استيراد ملف نصي
+_M_STR_ACTION_MERGEDUPLICATEFIELDS دمج الحقول المكررة
+_M_STR_ACTION_REGEXP استبدال بالتعبير النمطي
+_M_STR_ACTION_REGEXP_EXP التعبير النمطي
+_M_STR_ACTION_REGEXP_MATCH استبدال التطابق بـ
+_M_STR_ACTION_REMOVEDUPES قم بإزالة الحقول المكررة
+_M_STR_ACTION_REM إزالة الحقول
+_M_STR_ACTION_REM_DESC الحقول المراد إزالتها (مفصولة بفاصلة منقوطة):
+_M_STR_ACTION_REM_EX قم بإزالة الحقول عدا
+_M_STR_ACTION_REM_EX_DESC الحقول المراد تركها (مفصولة بفاصلة منقوطة):
+_M_STR_ACTION_SPLITFIELDS تقسيم الحقول بفاصل
+_M_STR_ACTIONGROUP_NAME اسم مجموعة الإجراءات
+_M_STR_ALBUM الألبوم 
+_M_STR_ALBUMARTIST فنان الألبوم
+_M_STR_ALL_FILEDLGFILTER كل الملفات (*.*)|*.*||
+_M_STR_ARTIST الفنان
+_M_STR_AUTHOR المؤلف
+_M_STR_BACK < لل&خلف
+_M_STR_BROWSE_COPY نسخ إلى:
+_M_STR_BROWSE_MOVE نقل إلى:
+_M_STR_BROWSE_TEXT الرجاء تحديد دليل يحتوي على ملفات صوتية.
+_M_STR_BYTES بايت
+_M_STR_CDDB_CD قراءة قرص مضغوط صوتي
+_M_STR_CDDB_CONNECT الاتصال بـ {1}...
+_M_STR_CDDB_CONNECTED  متصل!
+_M_STR_CDDB_IDXDB_ENTRIES تم إنساء الإدخالات في قاعدة البيانات
+_M_STR_CDDB_RETRIEVE استرداد معلومات العنوان
+_M_STR_COLUMNFILENAME اسم الملف
+_M_STR_COLUMNPATH المسار
+_M_STR_COLUMNUSEDCOLS ظاهرة
+_M_STR_COMBO_HOLD < إبقاء >
+_M_STR_COMBO_REMOVE < فارغ >
+_M_STR_COMBO_USER < إدخال >
+_M_STR_COMMENT التعليق
+_M_STR_COMPOSER الملحن
+_M_STR_COPYOF نسخة {1}
+_M_STR_COVER الغلاف
+_M_STR_COVER_ADD هل تريد الاحتفاظ بالأغلفة الموجودة؟
+_M_STR_COVER_CORRECTAR تصحيح نسبة العرض إلى الارتفاع
+_M_STR_COVER_SETDESC تعيين وصف الغلاف...
+_M_STR_COVER_SETTYPE تعيين نوع الغلاف...
+_M_STR_COVERVARIES تفاوت الغلاف
+_M_STR_CUSTOMIZE تخصيص...
+_M_STR_DAY يوم
+_M_STR_DAYS أيام
+_M_STR_DEFAULTVALUE القيمة الافتراضية
+_M_STR_DISCID معرف CDDB
+_M_STR_DISCOGS_OAUTH_PIN أدخل رمز المصادقة لـ Discogs
+_M_STR_DISCNUMBER رقم القرص
+_M_STR_ERR_CDDB_NOENTRYSELECTED الرجاء تحديد إدخال.
+_M_STR_EXPORT_DELETE حذف تكوين التصدير \"{1}\"?
+_M_STR_EXPORT_FILEDLGTITLE حدد ملف التصدير
+_M_STR_EXPORT_MULTIPLE ملف واحد لكل دليل
+_M_STR_EXPORT_SHOWEXPORTFILE \n\nإظهار ملف التصدير الآن؟
+_M_STR_EXP_MSG التصدير عالج {2} ملف، وكتب إلى الملف '{1}'.
+_M_STR_FIELD الحقل:
+_M_STR_FIELDSIZE حجم الحقل
+_M_STR_FIELDROWS الصفوف
+_M_STR_FILE الملف
+_M_STR_FILEDELETE هل تريد حذف كافة الملفات المحددة؟
+_M_STR_FILEMODIFIED معدل
+_M_STR_FILESIZE الحجم
+_M_STR_FILTER التصفية:
+_M_STR_FMT_CAPITAL حالة مختلطة
+_M_STR_FMT_HIGH أحرف كبيرة
+_M_STR_FMT_LOW أحرف صغيرة
+_M_STR_FMT_SENTENCE الجملة
+_M_STR_FREEDBCREATEINDEX إنشاء قاعدة بيانات فهرس freedb محلي؟ \n\nThis يمكن أن يستغرق بضع دقائق.
+_M_STR_FREEDB_SEARCH البحث في freedb عبر الويب
+_M_STR_GENRE النوع
+_M_STR_GENRES الأنواع
+_M_STR_HIDE إخفاء
+_M_STR_ITEMALREADYEXISTS عنصر بهذا الاسم موجود بالفعل، استبدال؟
+_M_STR_LANGUAGE اللغة
+_M_STR_M3U_FILEDLGFILTER الملفات المدعومة (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_METADATA البيانات الوصفية
+_M_STR_MOVEDOWN تحريك لأسفل
+_M_STR_MOVEUP تحريك لأعلى
+_M_STR_MPEGBITRATE معدل البت
+_M_STR_MPEGFREQUENCY التردد
+_M_STR_MPEGLENGTH الطول
+_M_STR_MPEGMODE الوضع
+_M_STR_MPEGVERSION برنامج الترميز
+_M_STR_MSGCUT هل تريد حقا أن إزالة البطاقات من الملفات المحددة ونسخ البطاقات إلى الحافظة؟?
+_M_STR_MSGPASTE هل تريد حقا لصق محتويات الحافظة كبطاقات جديدة للملفات المحددة؟?
+_M_STR_MSGREMOVE هل تريد حقا إزالة البطاقات من الملفات المحددة؟
+_M_STR_NAME الاسم
+_M_STR_NETWORKING الشبكة
+_M_STR_NEXT &التالي >
+_M_STR_NOACTION - بلا إجراء -
+_M_STR_NOACTIONENABLED الرجاء تمكين إجراء واحد على الأقل عن طريق علامات الاختيار الموجودة عند استخدام هذه الميزة.
+_M_STR_NUMERIC رقمي
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH الرجاء تحديد دليل عمل لقاعدة البيانات freedb المحلية.
+_M_STR_OPT_CDDB_PROCEED يؤدي هذا إلى إزالة كافة الخوادم! \n\nهل ترغب في الاستمرار؟ \n
+_M_STR_OPTIMIZEMP4 تحسين MP4
+_M_STR_OPTS_ALWAYS دائما
+_M_STR_OPTS_ASK مطالبة
+_M_STR_OPTS_NEVER أبدا
+_M_STR_PLNAME قائمة التشغيل - اسم الملف
+_M_STR_PL_CONFIRM إنشاء قائمة تشغيل بهذا الاسم
+_M_STR_PL_SAVEFILTER ملف قائمة تشغيل (*.m3u)|*.m3u|ملف قائمة تشغيل يونيكود (*.m3u8)|*.m3u8||
+_M_STR_PREVIEW معاينة
+_M_STR_PROPERTIES {1} خصائص
+_M_STR_QUICK سريع
+_M_STR_RECURSE الدلائل الفرعية
+_M_STR_REST المتبقى
+_M_STR_SAVE_NOT < بلا ارتباط >
+_M_STR_SAVECONFIG تم حفظ الإعدادات الخاصة بك إلى '{1}'.\n\nلتأسيس الإعدادات استخرج الأرشيف إلى\n\"{2}\".
+_M_STR_SAVECONFIG_FILEDLGFILTER ملفات التكوين (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE حفظ التكوين في...
+_M_STR_SAVEIMAGE حفظ الصورة إلى البطاقة
+_M_STR_SAVEIMAGEDIRECTORY حفظ الصورة إلى القرص
+_M_STR_SAVESELECTION حفظ التحديد...
+_M_STR_SB_ABORTED إحباط
+_M_STR_SB_ACTION تطبيق إجراءات للملف... {1} من {2}
+_M_STR_SB_CLEANUPDATABASE يتم الآن معالجة الملفات... {1} من {2} (تم تنظيف {3})
+_M_STR_SB_CLEANUPDATABASE_BINARIES تنظيف الثنائيات المعزولة
+_M_STR_SB_CLEANUPDATABASE_COVERS تنظيف الأغلفة المعزولة
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES تنظيف الملفات التي ليست في المكتبة
+_M_STR_SB_EXPORTTAGS تصدير معلومات البطاقة... {1} سجل من {2} ملف
+_M_STR_SB_LOADTAGS قراءة بيانات البطاقة ... {1} من {2}
+_M_STR_SB_READDIRECTORY قراءة الدليل
+_M_STR_SB_REMOVETAGS إزالة بيانات البطاقة... {1} من {2}
+_M_STR_SB_RENAMEFILES إعادة تسمية الملف... {1} من {2}
+_M_STR_SB_WRITETAGS كتابة بيانات البطاقة... {1} من {2}
+_M_STR_SHOWCHOOSEDLG إظهار نافذة التحديد
+_M_STR_SEARCHBY بحث بواسطة:
+_M_STR_SEARCHTEXT النص:
+_M_STR_SEPARATOR الفاصل
+_M_STR_SHOW إظهار
+_M_STR_SIZE_LARGE كبير
+_M_STR_SIZE_MEDIUM متوسط
+_M_STR_SIZE_NORMAL عادي
+_M_STR_SIZE_SMALLER صغير
+_M_STR_SIZE_SMALL أصغر
+_M_STR_SNA ناحية الإعلام
+_M_STR_SNA_SHOW دائما إظهار الرمز في منطقة الإعلام
+_M_STR_SNA_SHOWMIN تصغير إلى منطقة الإعلام
+_M_STR_STRIPCHAPTERSMP4 استخرج فصول MP4
+_M_STR_TAG_COPIED تم نسخ البطاقات لـ {1} ملفا إلى الحافظة.
+_M_STR_TAG2 البطاقة
+_M_STR_TAGFIELDS_REMOVE حذف الحقل
+_M_STR_TAGFIELDS_REMOVEALL إزالة كل الحقول
+_M_STR_TAGFIELDS_REMOVEALLMSG هل أنت متأكد من أنك تريد إزالة كافة الحقول من القائمة؟
+_M_STR_TAGFIELDS_RESET إعادة تعيين الحقول...
+_M_STR_TAGFIELDS_RESETMSG هل أنت متأكد من رغبتك في إعادة تعيين قائمة الحقول إلى الافتراضي؟
+_M_STR_TAGPANEL لوحة البطاقات
+_M_STR_TAGPANEL_COVER إظهار صورة الغلاف
+_M_STR_TAGPANEL_DIRECTORY إظهار مبدل الدلائل
+_M_STR_TAGLIST_FILEDLGFILTER ملفات نصية ({1})
+_M_STR_TAGLIST_FILEDLGTITLE اختر ملف النص
+_M_STR_TAGSOURCES مصادر البطاقات
+_M_STR_THISALBUMON هذا الألبوم على {1}
+_M_STR_TITLE العنوان
+_M_STR_TRYAGAIN هل تريد إعادة المحاولة؟
+_M_STR_TTF البطاقة - اسم الملف
+_M_STR_UPDATE_FRM التحديثات
+_M_STR_UPDATE_OPT_CHECK التحقق من وجود تحديثات في بدء التشغيل
+_M_STR_UPDATE_OPT_CHECK_BETA تضمين إصدارات التطوير (بيتا)
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES عرض ملاحظات الإصدارات الجديدة
+_M_STR_UPDATEAVAILABLE {1} إصدار جديد متاح! \n\nهل تريد تحميل هذا التحديث من {2} الآن؟
+_M_STR_UPDATENOTAVAILABLE أنت تستخدم أحدث إصدار {1}.\n\nلا يوجد تحديث متوفر.
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS أد&وات
+_M_STR_VALUE القيمة
+_M_STR_VERSION الإصدار
+_M_STR_YEAR السنة
+_M_TP_CDDB_LOCALPATH حدد دليل freedb المحلي
+_M_TP_CDDB_SITES القائمة الحالية لخوادم freedb عبر الإنترنت
+_M_TP_CVR_CLIPBOARD لصق الغلاف
+_M_TP_CVR_CLIPBOARD_COPY نسخ الغلاف
+_M_TP_CVR_CLIPBOARD_CUT قص الغلاف
+_M_TP_CVR_DEL إزالة الغلاف
+_M_TP_CVR_NEW إضافة غلاف
+_M_TP_CVR_SAVE استخراج الغلاف
+_M_TP_DUPLICATE تكرار
+_M_TP_EXP_DEL حذف
+_M_TP_EXP_EDIT تحرير
+_M_TP_EXP_FILE حدد ملف التصدير
+_M_TP_EXP_HLP عرض المساعدة السريعة
+_M_TP_EXP_LOAD تحميل التكوين...
+_M_TP_EXP_NEW جديد
+_M_TP_EXP_SAVE حفظ التكوين...
+_M_TP_GEN_DIR اختيار الدليل
+_M_TP_TAG_DEL حذف الحقل
+_M_TP_TAG_EDIT تحرير الحقل...
+_M_TP_TAG_NEW إضافة حقل ...
+_M_TS_ADDINFO معلومات إضافية
+_M_TS_MULTIPLEVALUES قيم متعددة
+_M_TS_RELEASE الإصدار
+_M_TS_TRACKS المقطوعات
+_M_UNDO_CANNOTUNDO لا يمكن التراجع عن {1}
+_M_UNDO_CDDB freedb
+_M_UNDO_DIRECTORYCREATE إنشاء دليل
+_M_UNDO_DIRECTORYMOVE نقل الدليل
+_M_UNDO_FORMAT التنسيق
+_M_UNDO_FTF اسم الملف - اسم الملف
+_M_UNDO_FTT اسم الملف - البطاقة
+_M_UNDO_REMOVEFILE إزالة
+_M_UNDO_RENAME إعادة تسمية
+_M_UNDO_TAGCHANGE تغيير البطاقة
+_M_UNDO_TAGREMOVE إزالة البطاقة
+_M_UNDO_TAGSAVE حفظ البطاقة
+_M_UNDO_TFF ملف نصي - البطاقة
+_M_UNDO_TTF البطاقة - اسم الملف

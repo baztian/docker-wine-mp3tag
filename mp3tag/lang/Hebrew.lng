@@ -1,0 +1,622 @@
+﻿LANGAUTHOR ION
+LANGCONTACT ion_il@yahoo.com
+LANGVERSION 3.01
+LANGNAME Hebrew
+LANGNAMELOC עברית
+SLangCancel ביטול
+SLangOk &אישור
+SLangErrCatch שגיאת זמן ריצה\n\nקובץ:\t{1}\nשורה:\t{2}\n\nהיישום נתקל בחריגה בלתי צפויה והוא במצב בלתי מוגדר. אנא סגור את היישום ושלח את הקובץ\n\n{3}\n\n.ותיאור מפורט של שגיאה לצוות התמיכה שלנו\n\nsupport@mp3tag.de :דוא''ל
+SLangErrCheck שגיאת זמן ריצה\n\nקובץ:\t{1}\nשורה:\t{2}\nתנאי:\t{3}\nקוד:\t0x{4}\n\nהיישום נתקל בחריגה בלתי צפויה והוא במצב בלתי מוגדר. אנא סגור את היישום ושלח את הקובץ\n\n{5}\n\n.ותיאור מפורט של שגיאה לצוות התמיכה שלנו\n\nsupport@mp3tag.de :דוא''ל
+SLangErrDriveCannotBeAccessed .הכונן {1} אינו בר גישה
+SLangErrFileCannotBeAccessed .הקובץ {1} אינו בר גישה
+SLangErrFileCannotBeDeleted .הקובץ {1} אינו יכול להימחק\n\n.אנא וודא שאין תהליכים אחרים המשתמשים בקובץ
+SLangErrFolderCannotBeAccessed .התיקייה {1} אינה ברת גישה
+SLangErrFolderCannotBeDeleted .התיקייה {1} אינה יכולה להימחק\n\n.אנא וודא שאין תהליכים אחרים המשתמשים בתיקייה
+SLangErrHelpBrowserIsNotAvailable .לא הצליח להציג את קובץ העזרה בדפדפן הרגיל שלך Mp3tag
+SLangErrHelpSystemIsNotAvailable .מערכת העזרה אינה זמינה\n\n.{1} אנא התקן מחדש את
+SLangErrHelpTopicIsNotAvailable .נושא העזרה אינו זמין\n\n.אנא צור קשר עם צוות התמיכה שלנו\n\nsupport@mp3tag.de :דוא''ל
+SLangErrNotEnoughFreeDiskSpace .{2} לא נותר מספיק מקום פנוי בהתקן\n\n.אנא וודא שיש לפחות {1} מקום בכונן
+SLangErrRegistryCannotBeAccessed שגיאה בקריאת נתונים\n\n.Windows לא ניתן להשיג גישה אל הרישום של
+SLangMsgItemExistsAlready .כניסה בעלת תיאור זה קיימת כבר\n\n.אנא השתמש בתיאור אחר
+SLangMsgFirstSteps .אנא קח קצת זמן כדי להתחיל עם הצעדים הראשונים
+SLangMsgShutdownInfo .אנא המתן בזמן ש־{1} מכובה
+SLangWrnAppIsAlreadyRunning .הרצה של יישום זה פועלת כבר
+SLangWrnAppHasToBeRestarted .חייב להיפעל מחדש כדי להחיל את השינויים Mp3tag\n\n?כעת Mp3tag האם אתה רוצה להפעיל מחדש את
+SLangWrnNameContainsInvalidCharacters .התיאור מכיל תווים בלתי תקינים\n\n.אנא השתמש בתיאור אחר
+SLangWrnStartLogging .משתנה זה משמש למטרות ניפוי תקלים .FLOG1 התחלת את {1} עם משתנה שורת הפקודה\n\n?האם אתה רוצה להתחיל את מאפיין יומן האירועים
+_C_ABORT השמט
+_C_ABORTING Aborting...משמיט
+_C_APP_ST_ALBUM :&אלבום
+_C_APP_ST_ARTIST :א&מן
+_C_APP_ST_COMMENT :ה&ערה
+_C_APP_ST_FOLDER :&תיקייה
+_C_APP_ST_GENRE :&סוגה
+_C_APP_ST_TITLE :כו&תרת
+_C_APP_ST_TRACK :ר&צועה
+_C_APP_ST_YEAR :&שנה
+_C_CANCEL &בטל
+_C_CANCELING ...מבטל
+_C_CLOSE ס&גור
+_C_DLG_CDDBCONFIRM_CAPTION ...רשימה של תוצאות חיפוש
+_C_DLG_CDDBCONFIRM_CHK_DISCID העתק זהות דיסק לשדה הערה
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 DISCID העתק זהות דיסק לשדה
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER ...אוסף
+_C_DLG_CDDBCONFIRM_CHK_SORT הצע מיון
+_C_DLG_CDDBCONFIRM_ST_INFO .נמצאה יותר מתוצאה אחת\n:אנא בחר אחת
+_C_DLG_CDDBCONFIRM_ST_INFO2 .{1} ישנן {2} תוצאות חיפוש ממסד הנתונים\n:אנא בחר אחת
+_C_DLG_CDDBCONFIRM_STC_TOP התאמת מידע תגית
+_C_DLG_CDDBINPUT_CAPTION הכנסת זהות מסד נתונים
+_C_DLG_CDDBINPUT_ST_CATEGORY מדור:
+_C_DLG_CDDBINPUT_ST_ID זהות מסד נתונים:
+_C_DLG_CDDBSTYLE_CAPTION מסד נתונים
+_C_DLG_CDDBSTYLE_RD_CDROM קבע מדיסק &שמע שהוכנס
+_C_DLG_CDDBSTYLE_RD_ENTER הכנס
+_C_DLG_CDDBSTYLE_RD_MP3 קבע מקבצים שנבחרו
+_C_DLG_CDDBSTYLE_RD_SEARCH קבע באמצעות חיפוש ברשת
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL קבע באמצעות חיפוש מלל
+_C_DLG_CDDBSTYLE_STC_TOP ...זהות מסד נתונים
+_C_DLG_COLUMNS_CAPTION עמודות
+_C_DLG_COLUMNS_TOP התאם את ראות העמודות
+_C_DLG_TAGS עריכת מידע תגית
+_C_DLG_TTF_TOP בחירת מחרוזת תסדיר
+_C_HELP &עזרה
+_C_MNU_ACTIONS פעולות\tALT+6
+_C_MNU_CON &המרה
+_C_MNU_CON_FTF &שם קובץ - שם קובץ\tALT+3
+_C_MNU_CON_FTT שם &קובץ - תגית\tALT+2
+_C_MNU_CON_TFF קובץ מ&לל - תגית\tALT+4
+_C_MNU_CON_TTF &תגית - שם קובץ\tALT+1
+_C_MNU_CON_TTT ת&גית - תגית\tALT+5
+_C_MNU_EDIT &עריכה
+_C_MNU_EDIT_COPY ה&עתק\tCtrl+C
+_C_MNU_EDIT_CUT ג&זור\tCtrl+X
+_C_MNU_EDIT_INVERTSELECTION &הפוך בחירה\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT בחר בקובץ ה&בא\tCtrl+N
+_C_MNU_EDIT_PASTE &הדבק\tCtrl+V
+_C_MNU_EDIT_SELECT בחר בכל ה&קבצים\tCtrl+A
+_C_MNU_EDIT_UNDO &בטל\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL &בטל בחירת הכל\tCtrl+U
+_C_MNU_EXTRA כ&לים
+_C_MNU_EXTRA_OPTIONS ...&אפשרויות\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS שחזור כל שדות ה&קלט\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS ערכי ברירת מחדל בשדות קלט\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD ...אשף של מספור אוטומטי\tCtrl+K
+_C_MNU_FILE &קובץ
+_C_MNU_FILE_ADD ...הוסף תיקייה
+_C_MNU_FILE_CDDB ...מסד נתונים\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL ...מסד נתונים (מקומי)\tCtrl+L
+_C_MNU_FILE_COPY ...העתק
+_C_MNU_FILE_DELETE ...מחק
+_C_MNU_FILE_DIR ...שנה &תיקייה\tCtrl+D
+_C_MNU_FILE_EXIT י&ציאה\tAlt+F4
+_C_MNU_FILE_EXPORT ...&ייצא\tCtrl+E
+_C_MNU_FILE_FAVDIR תיקייה מו&עדפת\tCtrl+F
+_C_MNU_FILE_MOVE ...העבר
+_C_MNU_FILE_PLALL (רשימת ניגון (כל הקבצים\tCtrl+P
+_C_MNU_FILE_PLAY נגן
+_C_MNU_FILE_PLAYLIST ...Cue טען רשימת ניגון/גיליון
+_C_MNU_FILE_PLSEL רשימת ניגון (קבצים שנבחרו)
+_C_MNU_FILE_PROPERTIES ...מאפיינים
+_C_MNU_FILE_READ קרא &תגית\tCtrl+T
+_C_MNU_FILE_REMOVE &מחק תגית\tCtrl+R
+_C_MNU_FILE_REMOVEFILE ה&סר\tDel
+_C_MNU_FILE_RENAME שנה שם\tF2
+_C_MNU_FILE_SAVE &שמור תגית\tCtrl+S
+_C_MNU_FILE_SAVECONFIG ...שמור &תצורה
+_C_MNU_FREEDB מ&סד נתונים
+_C_MNU_FREEDB_INDEX צור מדד מקומי
+_C_MNU_FS_EXT שדות מורחבים
+_C_MNU_FS_FNCT תפקודים
+_C_MNU_FS_INFO שדות מידע
+_C_MNU_FS_REM מחק מההיסטוריה
+_C_MNU_FS_REMALL ...מחק הכל מההיסטוריה
+_C_MNU_FS_REMALL_MSG ?האם אתה בטוח שאתה רוצה למחוק את כל הפריטים
+_C_MNU_HELP &עזרה
+_C_MNU_HELP_ABOUT ...Mp3tag אודות
+_C_MNU_HELP_DONATE תרומה
+_C_MNU_HELP_FINDER ...&תוכן העניינים\tF1
+_C_MNU_HELP_FIRSTSTEPS צעדים &ראשונים
+_C_MNU_HELP_KEYBOARD &קיצורי דרך ממקלדת
+_C_MNU_HELP_SUPPORT ...תמיכה מקוונת
+_C_MNU_HELP_UPGRADE ...בדוק אחר גרסה חדשה
+_C_MNU_HELP_WWW ...Mp3tag ה&אתר של
+_C_MNU_TAGSOURCES מקורות &תגיות
+_C_MNU_TOOLS &כלים
+_C_MNU_VIEW &תצוגה
+_C_MNU_VIEW_COLUMNS ...&התאם אישית עמודות
+_C_MNU_VIEW_FILTER &מסנן\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY החל אוטומטית מסנן
+_C_MNU_VIEW_ID3 לוח תגית\tCtrl+Q
+_C_MNU_VIEW_REFRESH ר&ענן\tF5
+_C_MNU_VIEW_SORTBY &מיין לפי
+_C_MNU_VIEW_TAGS ...תגיות מור&חבות\tALT+T
+_C_MNU_VIEW_TOOLBAR סר&גל כלים
+_C_MNU_SB_ACTIONS .החלת פעולות המוגדרות ע״י המשתמש (המרת רישיות, החלפה, ...) בקבצים שנבחרו
+_C_MNU_SB_CON_FTF .שינוי שמות קבצים על פי דפוס מוגדר על סמך שמות ישנים של קבצים
+_C_MNU_SB_CON_FTT .יבוא תגיות משמות קבצים
+_C_MNU_SB_CON_TFF .יבוא תגיות מקבצי מלל
+_C_MNU_SB_CON_TTF .שינוי שמות קבצים על פי דפוס מוגדר על סמך תגיות
+_C_MNU_SB_CON_TTT .תיסדור תגיות על סמך תגיות
+_C_MNU_SB_EDIT_COPY .העתקת בחירת מלל או התגית של הקובץ שנבחר לתוך הלוח
+_C_MNU_SB_EDIT_CUT .גזירת בחירת מלל או התגית של הקובץ שנבחר והעברתם לתוך הלוח
+_C_MNU_SB_EDIT_INVERTSELECTION .הפיכת הבחירה הנוכחית
+_C_MNU_SB_EDIT_NEXT .סימון הקובץ הבא בתצוגת הקבצים
+_C_MNU_SB_EDIT_PASTE .הדבקת תוכן הלוח בסימן ההקלדה או בקובץ שנבחר
+_C_MNU_SB_EDIT_SELECT .בחירת קבצים מתצוגת קבצים
+_C_MNU_SB_EDIT_UNDO .ביטול הפעולה האחרונה
+_C_MNU_SB_EDIT_UNSELECTALL .ביטול בחירת כל הקבצים
+_C_MNU_SB_EXTRA_OPTIONS .הצגת דו שיח אפשרויות
+_C_MNU_SB_EXTRA_RESET_EDITS .הסרת מלל מכל שדות הקלט בלוח התגית
+_C_MNU_SB_EXTRA_SET_EDITS .קביעת כל שדות הקלט בלוח התגית לערכים רגילים מוגדרים
+_C_MNU_SB_EXTRA_TRACKWIZARD .הפעלת אשף של מספור רצועות אוטומטי
+_C_MNU_SB_FILE_ADD .הוספת תיקייה לרשימת הקבצים
+_C_MNU_SB_FILE_CDDB .השגת מידע אודות דיסק שמע שהוכנס או קבצי שמע שנבחרו באמצעות חיבור לאינטרנט
+_C_MNU_SB_FILE_CDDBLOCAL .השגת מידע אודות דיסק שמע שהוכנס או קבצי שמע שנבחרו באמצעות מסד נתונים מקומי
+_C_MNU_SB_FILE_COPY .העתקת הקבצים שנבחרו אל תיקייה אחרת
+_C_MNU_SB_FILE_DELETE .מחיקת הקבצים שנבחרו
+_C_MNU_SB_FILE_DIR .שינוי תיקיית עבודה נוכחית
+_C_MNU_SB_FILE_EXIT .יציאה מהיישום
+_C_MNU_SB_FILE_EXPORT .יצוא תגית ומידע של קובץ מהקבצים שנבחרו
+_C_MNU_SB_FILE_FAVDIR .שינוי אל תיקיית ברירת מחדל
+_C_MNU_SB_FILE_FREEDBINDEX .יצירת מדד למסד הנתונים המקומי עבור חיפוש דרך מסד הנתונים המקומי
+_C_MNU_SB_FILE_MOVE .העברת הקבצים שנבחרו אל תיקייה אחרת
+_C_MNU_SB_FILE_PLALL .יצירת רשימת ניגון מכל הקבצים
+_C_MNU_SB_FILE_PLAY .ניגון הקבצים שנבחרו
+_C_MNU_SB_FILE_PLAYLIST .טעינת התכנים של רשימת ניגון
+_C_MNU_SB_FILE_PLSEL .יצירת רשימת ניגון מהקבצים שנבחרו
+_C_MNU_SB_FILE_PROPERTIES .הצגת מאפייני הקובץ שנבחר
+_C_MNU_SB_FILE_READ .קריאת תגית מהקובץ שנבחר אל שדות קלט בלוח התגית
+_C_MNU_SB_FILE_REMOVE .הסרת תגית מהקבצים שנבחרו
+_C_MNU_SB_FILE_REMOVEFILE .הסרת הקבצים שנבחרו
+_C_MNU_SB_FILE_RENAME .שינוי שם הקובץ שנבחר
+_C_MNU_SB_FILE_SAVE .שמירת תגית בקבצים שנבחרו
+_C_MNU_SB_FILE_SAVECONFIG .שמירת הקביעות הנוכחיות בקובץ תצורה
+_C_MNU_SB_HELP_ABOUT Mp3tag מידע אודות
+_C_MNU_SB_HELP_CONTEXT .הצגת עזרת הקשר עבור שדות, תפריטים וחלונות לחוצים
+_C_MNU_SB_HELP_DONATE .Mp3tag אנא שקול לתרום כדי לתמוך בפיתוח של
+_C_MNU_SB_HELP_FINDER .הצגת תכני העזרה
+_C_MNU_SB_HELP_FIRSTSTEPS .Mp3tag הצגת הקדמה קצרה אל
+_C_MNU_SB_HELP_KEYBOARD .הצגת רשימת קיצורי דרך ממקלדת
+_C_MNU_SB_HELP_SUPPORT .Mp3tag מעבר לפורומים של
+_C_MNU_SB_HELP_UPGRADE .Mp3tag בדיקה אחר עדכונים של
+_C_MNU_SB_HELP_WWW .Mp3tag מעבר לאתר של
+_C_MNU_SB_UPDIR שינוי אל תיקייה עליונה
+_C_MNU_SB_VIEW_COLUMNS .הצגת דו שיח שבו עמודות עבור תצוגת קבצים יכולות להיתאם
+_C_MNU_SB_VIEW_FILTER .סינון תצוגת הקבצים
+_C_MNU_SB_VIEW_ID3 .הצגה/הסתרה של לוח התגית
+_C_MNU_SB_VIEW_REFRESH .רענון תצוגת הקבצים
+_C_MNU_SB_VIEW_TAGS .הצגת דו השיח תגית מורחבת
+_C_MNU_SB_VIEW_TOOLBAR .הצגה/הסתרה של סרגל הכלים
+_C_MNU_SB_WND_IDLE מוכן
+_C_MNU_SB_WND_MAXIMIZE הרחבת החלון לגודל מסך מלא
+_C_MNU_SB_WND_MINIMIZE מזעור החלון לשורת המשימות
+_C_MNU_SB_WND_MOVE העברת מיקום החלון
+_C_MNU_SB_WND_RESTORE שחזור החלון לגודל רגיל ממסך מלא או ממזעור
+_C_MNU_SB_WND_SIZE שינוי גודל החלון
+_C_MULTILINE רב־שורות
+_C_OK &אישור
+_C_OPT_ACTIONGROUPS קבוצות פעולה
+_C_OPT_ACTIONS פעולות
+_C_OPT_ACTIONS_TYPE בחירת סוג פעולה
+_C_OPT_ADVANCED מתקדם
+_C_OPT_ADVANCED_ID3V2LANG (ISO-639-2) ID3v2 קוד שפת הערת
+_C_OPT_ADVANCED_LISTCHAPTERS כתוב ברשימה פרקים בתור קבצים נפרדים
+_C_OPT_CAPTION אפשרויות
+_C_OPT_CDDB_CAPTION מסד נתונים
+_C_OPT_CDDB_CHK_USEPROXY השתמש בי&פוי כוח
+_C_OPT_CDDB_FRM_CDDB שרת מסד נתונים
+_C_OPT_CDDB_FRM_LOCALPATH &נתיב מסד נתונים מקומי
+_C_OPT_CDDB_FRM_PROXY יפוי כוח
+_C_OPT_CDDB_RD_FMT_UNIX UNIX תסדיר
+_C_OPT_CDDB_RD_FMT_WIN Windows תסדיר
+_C_OPT_CDDB_ST_ADDRESS :&כתובת
+_C_OPT_CDDB_ST_EMAIL :כתובת דו&א״ל
+_C_OPT_CDDB_ST_NAME :&שם
+_C_OPT_CDDB_ST_PATH :נתיב
+_C_OPT_CDDB_ST_PORT :פתחה
+_C_OPT_CDDB_ST_PROXYNAME :&יפוי כוח
+_C_OPT_CDDB_ST_PROXYPORT :פ&תחה
+_C_OPT_CDDB_ST_PWD :&סיסמה
+_C_OPT_CDDB_ST_TIMEOUT &פסק זמן
+_C_OPT_CDDB_ST_USERNAME :&שם משתמש
+_C_OPT_CDDB3_CAPTION מסד נתונים מקומי
+_C_OPT_CON_FRM_FTT שם &קובץ - תגית
+_C_OPT_CON_FRM_TFF קובץ מ&לל - תגית
+_C_OPT_CON_FRM_TTF &תגית - שם קובץ
+_C_OPT_CON_ST_FNAME שם קובץ:
+_C_OPT_CON_ST_FS מחרוזת תסדיר:
+_C_OPT_DIR תיקיות
+_C_OPT_DIR_COVER תיקיית אומנות עטיפה
+_C_OPT_EMPTY_HINT אנא בחר נושא למטה
+_C_OPT_EXP_CAPTION יצוא
+_C_OPT_EXP_CHK_APPEND צרף נתונים
+_C_OPT_EXP_CHK_WRITEBOM BOM כתוב
+_C_OPT_EXP_FRM_EXPORT יצוא תצורה
+_C_OPT_EXP_RD_TRACK רצועה
+_C_OPT_EXP_ST_FNAME :שם קובץ היצוא
+_C_OPT_EXP_ST_NAME שם של תצורת יצוא חדשה
+_C_OPT_FMT_CASE המרת רישיות
+_C_OPT_FMT_FRM_FTF שם קובץ - שם קובץ
+_C_OPT_FMT_ST_BEGIN :אותיות המתחילות מ/אחרי כל
+_C_OPT_FMT_ST_FNAME_NEW דפוס חדש לשם קובץ:
+_C_OPT_FMT_ST_FNAME_OLD דפוס ישן לשם קובץ:
+_C_OPT_FMT2 החלפה
+_C_OPT_FMT2_CASE השוואת היתלות רישיות
+_C_OPT_FMT2_COL_ORIGINAL מקורי
+_C_OPT_FMT2_COL_REPLACE החלף עם
+_C_OPT_FMT2_ONLYWORDS רק כמילה כולה
+_C_OPT_GEN_CAPTION כללי
+_C_OPT_GEN_CHK_AUTOSAVE שמור תגיות בעת שימוש במקשי חצים/לחיצת עכבר בודדת
+_C_OPT_GEN_CHK_FOLDERSTART התחל מתיקייה זו
+_C_OPT_GEN_CHK_GRID הצג קווי סורג בתצוגת קבצים
+_C_OPT_GEN_CHK_JUMPONEDIT בחר באופן אוטומטי קובץ הבא בעריכה בתצוגת קבצים
+_C_OPT_GEN_CHK_KEEPFILETIME שמר זמן שינוי קובץ בעת שמירת תגיות
+_C_OPT_GEN_CHK_KEEPMOVEDFILES השאר קבצים שהועברו ברשימת קבצים
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS באזהרות מפעולות
+_C_OPT_GEN_CHK_MSG_CHANGE אחרי שינוי
+_C_OPT_GEN_CHK_MSG_CUT בגזירת תגיות
+_C_OPT_GEN_CHK_MSG_DEL אחרי מחיקה
+_C_OPT_GEN_CHK_MSG_DELETEFILE במחיקת קבצים
+_C_OPT_GEN_CHK_MSG_EXPORT ביצוא תגיות
+_C_OPT_GEN_CHK_MSG_PASTE בהדבקת תגיות
+_C_OPT_GEN_CHK_MSG_REMOVETAGS בהסרת תגיות
+_C_OPT_GEN_CHK_MSG_SAVE אחרי שמירה
+_C_OPT_GEN_CHK_PL צור רשימת &ניגון באופן אוטומטי
+_C_OPT_GEN_CHK_RELPL כניסות קשורות מתיקיית עבודה
+_C_OPT_GEN_CHK_AUTOCOMPLETE השלמה אוטומטית בתיבות בחירה
+_C_OPT_GEN_CHK_SELECTFILES בחר קבצים באופן אוטומטי
+_C_OPT_GEN_CHK_SORTNATURAL השתמש במיון טבעי
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH &הצג תיקייה נוכחית בכותרת החלון
+_C_OPT_GEN_FRM_GEN כללי
+_C_OPT_GEN_FRM_MSG הצגת הודעה
+_C_OPT_GEN_FRM_PL &שם קובץ של רשימת ניגון
+_C_OPT_GEN_RD_PLALL מכל הקבצים
+_C_OPT_GEN_RD_PLSEL מקבצים שנבחרו
+_C_OPT_GEN_ST_FAVDIR :תיקייה מועדפת
+_C_OPT_GEN2_CAPTION הודעות
+_C_OPT_GENRES סוגות מוגדרות ע״י משתמש
+_C_OPT_GENRES_HIDESTANDARD הצג רק סוגות שהוגדרו ע״י משתמש
+_C_OPT_ID3_CHK_ISO88591 UTF-16 במקום ISO-8859-1 תמיד כתוב תגיות
+_C_OPT_ID3_CHK_LEADINGZEROS (01, 02, ...) אפסים מקדימים אל מספרי רצועות
+_C_OPT_ID3_CHK_LENGTHDEPENDEND קטן מדי ID3v1 רק אם ID3v2
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ קריאה
+_C_OPT_ID3_FRM_REMOVE הסרה
+_C_OPT_ID3_FRM_WRITE כתיבה
+_C_OPT_LIB סיפרייה
+_C_OPT_LIB_CHK_ENABLE אפשר סיפרייה
+_C_OPT_LIB_CHK_RESTRICT כלול רק תיקיות אלו
+_C_OPT_LIB_CLEANUP נקה סיפרייה
+_C_OPT_MAPPING מיפוי
+_C_OPT_MAPPING_FRM מיפויי שדה מוגדרים ע״י משתמש
+_C_OPT_MAPPING_SOURCE מקור
+_C_OPT_MAPPING_TARGET מטרה
+_C_OPT_PLAYLIST_CAPTION רשימת ניגון
+_C_OPT_PLAYLIST_EXTENDED כתוב מידע מורחב
+_C_OPT_PLAYLIST_NOFOLDERS אל תיצור תיקיות
+_C_OPT_PLAYLIST_SHOWDLG הצג דו שיח לאימות שם קובץ
+_C_OPT_TAG תגיות
+_C_OPT_TAGS_COVER :שם קובץ ברירת מחדל עבור עטיפה
+_C_OPT_TAGS_EXT :מצב שמירה עבור << ו־ >> בדו שיח תגיות מורחבות
+_C_OPT_TAGS_FILEFILTER :הגבל קבצים נכנסים אל
+_C_OPT_TAGS_NOIMG &אל תציג תמונה ראשונה מתיקיית קובץ כעטיפה
+_C_OPT_TOOLS כלים
+_C_OPT_TOOLS_CHK_DEFAULT השתמש בתוכנית מיוחדת בלחיצות כפולות:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES עבור כל הקבצים שנבחרו
+_C_OPT_TOOLS_COL_PARAM משתנה
+_C_OPT_TOOLS_COL_PATH נתיב
+_C_OPT_TOOLS_EDIT .התאמת כלי. שם ונתיב הם הכרחיים
+_C_OPT_TOOLS_FRM_DEFAULT כלי ברירת מחדל
+_C_OPT_TOOLS_FRM_TOOLS כלים
+_C_OVERWRITE &דרוס
+_C_RENAME &שנה שם
+_C_TT_CDDB ...מסד נתונים
+_C_TT_CDDBLOCAL ...מסד נתונים (מקומי)
+_C_TT_CLOSE סגור
+_C_TT_DIR ...שנה תיקייה
+_C_TT_EDIT_UNDO בטל
+_C_TT_EXPORT ייצא
+_C_TT_FAVDIR תיקייה מועדפת
+_C_TT_FILE_ADD ...הוסף תיקייה
+_C_TT_FILE_COPY ...העתק אל
+_C_TT_FILE_DELETE ...מחק
+_C_TT_FILE_MOVE ...העבר אל
+_C_TT_FILE_PLAY נגן
+_C_TT_FILE_PROPERTIES ...מאפיינים
+_C_TT_FILE_RENAME שנה שם
+_C_TT_FTF שם קובץ - שם קובץ
+_C_TT_FTT שם קובץ - תגית
+_C_TT_HELP ...תכני עזרה
+_C_TT_OPT ...דו שיח אפשרויות
+_C_TT_PLALL צור רשימת ניגון מכל הקבצים
+_C_TT_PLSEL צור רשימת ניגון מקבצים שנבחרו
+_C_TT_REFRESH רענן תצוגת קבצים
+_C_TT_REMOVE הסר תגית
+_C_TT_SAVE שמור
+_C_TT_TFF קובץ מלל - תגית
+_C_TT_TTF תגית - שם קובץ
+_C_TT_TTT תגית - תגית
+_C_TT_UPDIR למעלה
+_C_WIZARD_TRACKS אשף של מספור אוטומטי
+_C_WIZARD_TRACKS_BEGIN התחל במספר רצועה:
+_C_WIZARD_TRACKS_DESC הקצה רצועות ומספרי דיסקים
+_C_WIZARD_TRACKS_DISC_BEGIN התחל במספר דיסק
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS (01, 02, ...) אפסים מקדימים אל מספרי דיסקים
+_C_WIZARD_TRACKS_DISC_SAVETOTAL שמור ספירה כוללת של דיסקים
+_C_WIZARD_TRACKS_DISCNUMBER מספר דיסק
+_C_WIZARD_TRACKS_RESETFOLDERS אפס מונה לכל תיקייה בנפרד
+_C_WIZARD_TRACKS_SAVETOTAL שמור ספירה כוללת של רצועות
+_C_WIZARD_TRACKS_TRACKNUMBER מספר רצועה
+_M_ERR_CANCEL .התהליך בוטל
+_M_ERR_CDDB_CD שגיאה בקריאת דיסק שמע
+_M_ERR_CDDB_CONNECT {1} :שגיאה בחיבור לשרת
+_M_ERR_CDDB_NOENTRY .{1} לא נמצאה כניסה מתאימה עבור זהות מסד הנתונים
+_M_ERR_CDDB_NOENTRYINLOCALBD .'{2}' במסד הנתונים המקומי {1} לא נמצאה כניסה מתאימה עבור זהות מסד הנתונים
+_M_ERR_CDDB_PARSER .השאילתה לא הניבה תוצאות
+_M_ERR_CDDB_READ {1}-שגיאה בקריאת נתונים מ
+_M_ERR_CONFIGURATION .לא ניתן לייבא תצורה
+_M_ERR_COPY !לא ניתן להעתיק את הקבצים שנבחרו
+_M_ERR_DELETE !לא ניתן למחוק את הקבצים שנבחרו
+_M_ERR_FILECREATE אינו יכול להיווצר \"{1}\"
+_M_ERR_FILEDELETE אינו יכול להימחק \"{1}\"
+_M_ERR_FILENAMEALREADYEXISTS .קיים כבר \"{1}\" הקובץ
+_M_ERR_FILENAMEALREADYEXISTS2 .לא שונה \"{1}\" שמו של הקובץ
+_M_ERR_FILEOPABORTED .התוכן של התיקייה הנוכחית כנראה השתנה\n\n?האם אתה רוצה לקרוא מחדש את התיקייה הנוכחית
+_M_ERR_FILEOPEN אינו יכול להיפתח \"{1}\"
+_M_ERR_FILEREADONLY הקובץ \"{1}\" הוא לקריאה בלבד\n\n?האם להשבית את הגנתו מפני כתיבה ושל כל הקבצים לקריאה בלבד הבאים
+_M_ERR_FOLDERCANNOTBEACCESSED שגיאת גישה\n\n.אינה ברת גישה \"{1}\" התיקייה
+_M_ERR_INVALID_FILENAME .אנא ציין שם תקין של קובץ
+_M_ERR_INVALID_FTF_FS .המחרוזת \"{1}\" אינה מחרוזת תסדיר תקינה עבור שמות קבצים
+_M_ERR_INVALID_TOKEN {1}:\n:התווים הבאים אינם מורשים בשמות קבצים\n\\ / : * ? \" < > |\n\n?האם אתה רוצה שהם יתוקנו באופן אוטומטי
+_M_ERR_MOVE !לא ניתן להעביר את הקבצים שנבחרו
+_M_ERR_ONLINE_NOTFOUND .אין כניסות התואמות לאמת מידת החיפוש שלך
+_M_ERR_OPT_CDDB_NOADDRESS .אנא הכנס כתובת של שרת מסד נתונים
+_M_ERR_OPT_CDDB_NOEMAIL .אנא הכנס את כתובת הדוא''ל שלך תחת 'אפשרויות, מסד נתונים, שרת'. היא תשמש עבור התחברות לצורך גישה לשרת מסד הנתונים
+_M_ERR_OPT_CDDB_NONAME .אנא הכנס שם תקין עבור התצורה
+_M_ERR_OPT_CDDB_NOPORT .אנא הכנס מספר יציאה של שרת מסד נתונים
+_M_ERR_PARSELINE .{1} לא ניתן לנתח את שורה
+_M_ERR_PLAY !לא ניתן לפתוח את הקובץ \"{1}\" לניגון
+_M_ERR_READ_FILE .אינו יכול להיפתח לקריאה \"{1}\" הקובץ
+_M_ERR_RENAME_FILE .\"{2}\" אינו יכול להשתנות אל \"{1}\" שמו של הקובץ
+_M_ERR_RETRY ?האם אתה רוצה לנסות שוב
+_M_ERR_TL_NOTAGS .\"{1}\" אין כניסה תואמת לקובץ
+_M_ERR_WRITE_FILE .הקובץ\n\{1}\\nאינו יכול להיפתח לכתיבה
+_M_ERR_YN \n\n?האם אתה רוצה להמשיך
+_M_LOG_FMT_FNAME .שונה שמם של {1} מתוך {2} קבצים\n
+_M_LOG_FMT_TAG .תגיות תוסדרו ב־{1} מתוך {2} קבצים\n
+_M_LOG_FTF .שונה שמם של {1} מתוך {2} קבצים
+_M_LOG_FTT .תגית נגזרה מ־{1} מתוך {2} קבצים
+_M_LOG_PL_ALL .נוצרה מכל ({2}) הקבצים \"{1}\" רשימת הניגון
+_M_LOG_PL_SEL .נוצרה מהקבצים ({2}) שנבחרו \"{1}\" רשימת הניגון
+_M_LOG_REMOVE .\"{1}\" תגית הוסרה מהקובץ
+_M_LOG_REMOVED .תגית הוסרה מ־{1} מתוך {2} קבצים
+_M_LOG_REMOVE_NOTAG .\"{1}\" אין תגית בקובץ
+_M_LOG_SAVE .\"{1}\" תגית נשמרה בקובץ
+_M_LOG_SAVED .תגית נשמרה ב־{1} מתוך {2} קבצים
+_M_LOG_TFF .אל {2} מתוך {3} קבצים \"{1}\"־יובאו תגיות מ
+_M_LOG_TFF_S .אל קובץ אחד \"{1}\"־יובאו תגיות מ
+_M_LOG_TTF .שונה שמם של {1} מתוך {2} קבצים
+_M_STAT_PLAY ...\"{1}\" מנגן את הקובץ
+_M_STR_ACTION_ADJUSTCOVER התאם עטיפה
+_M_STR_ACTION_ADJUSTCOVER_FORMAT תסדיר
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP מקורי
+_M_STR_ACTION_ADJUSTCOVER_SIZE גודל מרבי
+_M_STR_ACTION_CODEPAGE המר דף קוד
+_M_STR_ACTION_CODEPAGE_DESC דף קוד
+_M_STR_ACTION_EXPORTCOVER יצוא עטיפה לקובץ
+_M_STR_ACTION_EXPORTCOVER_DUPES ייצא עטיפות כפולות
+_M_STR_ACTION_EXPORTCOVER_TYPES ייצא עטיפות רק מסוג
+_M_STR_ACTION_FORMAT ערך תסדיר
+_M_STR_ACTION_GUESS ניחוש ערכים
+_M_STR_ACTION_GUESSPATTERN ניחוש דפוס
+_M_STR_ACTION_GUESSSOURCE תסדיר מקור
+_M_STR_ACTION_IMPORTCOVER יבוא עטיפה מקובץ
+_M_STR_ACTION_IMPORTCOVER_FS תסדיר מחרוזת לשמות קבצי תמונה:
+_M_STR_ACTION_IMPORTCOVER_DELETE &מחק עטיפה קיימת
+_M_STR_ACTION_IMPORTCOVER_TYPE :ייבא עטיפה כ
+_M_STR_ACTION_IMPORTTEXT יבוא קובץ מלל
+_M_STR_ACTION_MERGEDUPLICATEFIELDS מזג שדות כפולים
+_M_STR_ACTION_REGEXP החלף עם ביטוי רגולרי
+_M_STR_ACTION_REGEXP_EXP ביטוי רגולרי
+_M_STR_ACTION_REGEXP_MATCH החלף התאמות עם
+_M_STR_ACTION_REMOVEDUPES הסר שדות כפולים
+_M_STR_ACTION_REM הסרת שדות
+_M_STR_ACTION_REM_DESC :שדות להסרה (מופרד באמצעות ;)
+_M_STR_ACTION_REM_EX הסרת שדות מלבד
+_M_STR_ACTION_REM_EX_DESC :שדות להשארה (מופרד באמצעות ;)
+_M_STR_ACTION_SPLITFIELDS פיצול שדה ע״י מפריד
+_M_STR_ACTIONGROUP_NAME שם של קבוצת פעולות
+_M_STR_ALBUM אלבום
+_M_STR_ALBUMARTIST אמן האלבום
+_M_STR_ALL_FILEDLGFILTER (*.*) כל הקבצים|*.*||
+_M_STR_ARTIST אמן
+_M_STR_AUTHOR מחבר
+_M_STR_BACK < &הקודם
+_M_STR_BROWSE_COPY העתק אל:
+_M_STR_BROWSE_MOVE העבר אל:
+_M_STR_BROWSE_TEXT בחירת תיקייה המכילה קבצי שמע
+_M_STR_BYTES בתים
+_M_STR_CDDB_CD קריאת דיסק שמע
+_M_STR_CDDB_CONNECT ...{1} מתחבר אל
+_M_STR_CDDB_CONNECTED  !מחובר
+_M_STR_CDDB_IDXDB_ENTRIES כניסות מסד נתונים נוצרו
+_M_STR_CDDB_RETRIEVE אחזר מידע כותרת
+_M_STR_COLUMNFILENAME שם קובץ
+_M_STR_COLUMNPATH נתיב
+_M_STR_COLUMNUSEDCOLS מוצג
+_M_STR_COMBO_HOLD < שמור >
+_M_STR_COMBO_REMOVE < ריק >
+_M_STR_COMBO_USER < הכנס >
+_M_STR_COMMENT הערה
+_M_STR_COMPOSER מלחין
+_M_STR_COPYOF {1} עותק של
+_M_STR_COVER עטיפה
+_M_STR_COVER_ADD ?האם אתה רוצה לשמור את העטיפות הקיימות
+_M_STR_COVER_CORRECTAR תקן יחס רוחב־גובה
+_M_STR_COVER_SETDESC ...קבע &תיאור עטיפה
+_M_STR_COVER_SETTYPE קבע &סוג עטיפה
+_M_STR_COVERVARIES עטיפה מתחלפת
+_M_STR_CUSTOMIZE ...התאם אישית
+_M_STR_DAY יום
+_M_STR_DAYS ימים
+_M_STR_DEFAULTVALUE ערך ברירת מחדל
+_M_STR_DISCID זהות מסד נתונים לדיסקים
+_M_STR_DISCOGS_OAUTH_PIN Discogs הכנס קוד אימות עבור
+_M_STR_DISCNUMBER מספר דיסק
+_M_STR_ERR_CDDB_NOENTRYSELECTED אנא בחר כניסה
+_M_STR_EXPORT_DELETE ?\"{1}\" האם למחוק את תצורת היצוא
+_M_STR_EXPORT_FILEDLGTITLE בחירת קובץ יצוא
+_M_STR_EXPORT_MULTIPLE קובץ אחד לכל תיקייה
+_M_STR_EXPORT_SHOWEXPORTFILE \n\n?האם להציג את קובץ היצוא כעת
+_M_STR_EXP_MSG היצוא עיבד {2} קבצים וכתב בקובץ '{1}'
+_M_STR_FIELD ש&דה:
+_M_STR_FIELDSIZE גודל שדה
+_M_STR_FIELDROWS שורות
+_M_STR_FILE קובץ
+_M_STR_FILEDELETE ?האם אתה באמת רוצה למחוק את כל הקבצים שנבחרו
+_M_STR_FILEMODIFIED השתנה
+_M_STR_FILESIZE גודל
+_M_STR_FILTER מ&סנן:
+_M_STR_FMT_CAPITAL רישיות מעורבבת
+_M_STR_FMT_HIGH אותיות גדולות
+_M_STR_FMT_LOW אותיות קטנות
+_M_STR_FMT_SENTENCE משפט
+_M_STR_FREEDBCREATEINDEX ?האם ליצור מדד למסד נתונים מקומי\n\n.זה יכול לקחת מספר דקות
+_M_STR_FREEDB_SEARCH חיפוש מקוון במסד נתונים
+_M_STR_GENRE סוגה
+_M_STR_GENRES סוגות
+_M_STR_HIDE ה&סתר
+_M_STR_ITEMALREADYEXISTS ?פריט בשם זה קיים כבר, לדרוס אותו
+_M_STR_LANGUAGE שפה
+_M_STR_M3U_FILEDLGFILTER (*.m3u; *.m3u8; *.cue) קבצים נתמכים|*.m3u; *.m3u8; *.cue||
+_M_STR_METADATA &מטא־נתונים
+_M_STR_MOVEDOWN הזז למ&טה
+_M_STR_MOVEUP הזז למ&עלה
+_M_STR_MPEGBITRATE קצב סיביות
+_M_STR_MPEGFREQUENCY תדר
+_M_STR_MPEGLENGTH אורך
+_M_STR_MPEGMODE מצב
+_M_STR_MPEGVERSION Codec
+_M_STR_MSGCUT ?האם אתה באמת רוצה להסיר את התגיות של הקבצים שנבחרו ולהעתיק את התגיות לתוך הלוח
+_M_STR_MSGPASTE ?האם אתה באמת רוצה להדביק את תוכנו של הלוח כתגיות החדשות של הקבצים שנבחרו
+_M_STR_MSGREMOVE ?האם אתה באמת רוצה להסיר את התגיות של הקבצים שנבחרו
+_M_STR_NAME &שם
+_M_STR_NETWORKING רשת
+_M_STR_NEXT &הבא >
+_M_STR_NOACTION - ללא פעולה -
+_M_STR_NOACTIONENABLED .אנא אפשר לפחות פעולה אחת באמצעות סימני הביקורת במהלך שימוש במאפיין זה
+_M_STR_NUMERIC מס&פרי
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH המקומי freedb בחירת תיקיית עבודה למסד הנתונים
+_M_STR_OPT_CDDB_PROCEED !זה ימחק את כל השרתים\n\n?האם אתה רוצה להמשיך\n
+_M_STR_OPTIMIZEMP4 MP4 יעול
+_M_STR_OPTS_ALWAYS תמיד
+_M_STR_OPTS_ASK תיידע
+_M_STR_OPTS_NEVER אף פעם
+_M_STR_PLNAME רשימת ניגון - שם קובץ
+_M_STR_PL_CONFIRM יצירת רשימת ניגון בשם זה
+_M_STR_PL_SAVEFILTER (*.m3u) קובץ רשימת ניגון|*.m3u|(*.m3u8) Unicode קובץ רשימת ניגון|*.m3u8||
+_M_STR_PREVIEW תצוגה מקדימה
+_M_STR_PROPERTIES {1} מאפייני
+_M_STR_QUICK זריז
+_M_STR_RECURSE תת־תיקיות
+_M_STR_REST כל השאר
+_M_STR_SAVE_NOT < ללא שיוך >
+_M_STR_SAVECONFIG קביעותיך נשמרו תחת\n'{1}'\n\nכדי להקים מחדש את קביעותיך, חלץ את הארכיון אל\n\"{2}\"
+_M_STR_SAVECONFIG_FILEDLGFILTER (*.zip) קבצי תצורה|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE ...שמירת תצורה ב
+_M_STR_SAVEIMAGE שמור תמונה בתגית
+_M_STR_SAVEIMAGEDIRECTORY שמור תמונה בדיסק
+_M_STR_SAVESELECTION ...שמור בחירה
+_M_STR_SB_ABORTED הושמט
+_M_STR_SB_ACTION מחיל פעולות בקובץ... {1} מתוך {2}
+_M_STR_SB_CLEANUPDATABASE מעבד קבצים ... {1} מתוך {2} ({3} נוקו)
+_M_STR_SB_CLEANUPDATABASE_BINARIES נקה קבצים בינאריים יתומים
+_M_STR_SB_CLEANUPDATABASE_COVERS נקה עטיפות יתומות
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES נקה קבצי אי־סיפרייה
+_M_STR_SB_EXPORTTAGS מייצא מידע תגית ... {1} רשומות מתוך {2} קבצים
+_M_STR_SB_LOADTAGS קורא נתוני תגית ... {1} מתוך {2}
+_M_STR_SB_READDIRECTORY קורא תיקייה
+_M_STR_SB_REMOVETAGS מסיר נתוני תגית ... {1} מתוך {2}
+_M_STR_SB_RENAMEFILES משנה שם קובץ ... {1} מתוך {2}
+_M_STR_SB_WRITETAGS כותב נתוני תגית ... {1} מתוך {2}
+_M_STR_SHOWCHOOSEDLG הצג דו שיח בחירה
+_M_STR_SEARCHBY חפש לפי:
+_M_STR_SEARCHTEXT מלל:
+_M_STR_SEPARATOR מפריד
+_M_STR_SHOW הצ&ג
+_M_STR_SIZE_LARGE גדול
+_M_STR_SIZE_MEDIUM בינוני
+_M_STR_SIZE_NORMAL רגיל
+_M_STR_SIZE_SMALLER קטן יותר
+_M_STR_SIZE_SMALL קטן
+_M_STR_SNA אזור ההתראות
+_M_STR_SNA_SHOW הצג תמיד צלמית באזור ההתראות
+_M_STR_SNA_SHOWMIN מזער לאזור ההתראות
+_M_STR_STRIPCHAPTERSMP4 MP4 הפשט פרקי
+_M_STR_TAG_COPIED .הועתקו תגיות של {1} קבצים ללוח
+_M_STR_TAG2 תגית
+_M_STR_TAGFIELDS_REMOVE הסר שדה
+_M_STR_TAGFIELDS_REMOVEALL ...הסר את כל השדות
+_M_STR_TAGFIELDS_REMOVEALLMSG ?האם אתה בטוח שאתה רוצה להסיר את כל השדות מהרשימה
+_M_STR_TAGFIELDS_RESET ...אפס שדות
+_M_STR_TAGFIELDS_RESETMSG ?האם אתה בטוח שאתה רוצה לאפס את כל השדות לברירת המחדל שלהם
+_M_STR_TAGPANEL לוח תגית
+_M_STR_TAGPANEL_COVER הצג אומנות עטיפה
+_M_STR_TAGPANEL_DIRECTORY הצג מחליף תיקיות
+_M_STR_TAGLIST_FILEDLGFILTER ({1}) קבצי מלל
+_M_STR_TAGLIST_FILEDLGTITLE בחירת קובץ מלל
+_M_STR_TAGSOURCES מקורות תגיות
+_M_STR_THISALBUMON {1}-אלבום זה ב
+_M_STR_TITLE כותרת
+_M_STR_TRYAGAIN ?האם אתה רוצה לנסות שוב
+_M_STR_TTF תגית - שם קובץ
+_M_STR_UPDATE_FRM עדכונים
+_M_STR_UPDATE_OPT_CHECK בדוק אחר עדכונים בהזנק
+_M_STR_UPDATE_OPT_CHECK_BETA כלול גם בניות פיתוח (ביתא)
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES הצג הערות שחרור עבור גרסאות חדשות
+_M_STR_UPDATEAVAILABLE !זמינה {1} גרסה חדשה\n\nהאם אתה רוצה להוריד כעת עדכון זה מן {2}
+_M_STR_UPDATENOTAVAILABLE .{1} אתה משתמש בגרסה האחרונה\n\n.עדכון אינו זמין
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS יעילות
+_M_STR_VALUE &ערך
+_M_STR_VERSION גרסה
+_M_STR_YEAR שנה
+_M_TP_CDDB_LOCALPATH ציין תיקיית מסד נתונים מקומי
+_M_TP_CDDB_SITES רשימה נוכחית של שרתי מסד נתונים דרך האינטרנט
+_M_TP_CVR_CLIPBOARD ה&דבק עטיפה
+_M_TP_CVR_CLIPBOARD_COPY העתק עטיפה
+_M_TP_CVR_CLIPBOARD_CUT &גזור עטיפה
+_M_TP_CVR_DEL ה&סר עטיפה
+_M_TP_CVR_NEW ...&הוסף עטיפה
+_M_TP_CVR_SAVE ...&חלץ עטיפה
+_M_TP_DUPLICATE שכפל
+_M_TP_EXP_DEL &מחק
+_M_TP_EXP_EDIT ערוך
+_M_TP_EXP_FILE בחר קובץ יצוא
+_M_TP_EXP_HLP הצג עזרה מהירה
+_M_TP_EXP_LOAD ...טען תצורה
+_M_TP_EXP_NEW &חדש
+_M_TP_EXP_SAVE ...שמור תצורה
+_M_TP_GEN_DIR בחר תיקייה
+_M_TP_TAG_DEL הסר שדה
+_M_TP_TAG_EDIT ...ערוך שדה
+_M_TP_TAG_NEW ...הוסף שדה
+_M_TS_ADDINFO מידע &נוסף
+_M_TS_MULTIPLEVALUES ערכים רבים
+_M_TS_RELEASE &שחרור
+_M_TS_TRACKS &רצועות
+_M_UNDO_CANNOTUNDO {1} בלתי ניתן לבטל
+_M_UNDO_CDDB מסד נתונים
+_M_UNDO_DIRECTORYCREATE יצירת תיקייה
+_M_UNDO_DIRECTORYMOVE העברת תיקייה
+_M_UNDO_FORMAT תסדיר
+_M_UNDO_FTF שם קובץ - שם קובץ
+_M_UNDO_FTT שם קובץ - תגית
+_M_UNDO_REMOVEFILE הסרה
+_M_UNDO_RENAME שינוי שם
+_M_UNDO_TAGCHANGE שינוי תגית
+_M_UNDO_TAGREMOVE הסרת תגית
+_M_UNDO_TAGSAVE שמירת תגית
+_M_UNDO_TFF קובץ מלל - תגית
+_M_UNDO_TTF תגית - שם קובץ

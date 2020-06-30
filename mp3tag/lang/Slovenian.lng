@@ -1,0 +1,622 @@
+﻿LANGAUTHOR Peter Gladek
+LANGCONTACT peter.gladek@gmail.com
+LANGVERSION 2.86
+LANGNAME Slovenian
+LANGNAMELOC Slovenščina
+SLangCancel Prekliči
+SLangOk V redu
+SLangErrCatch Napaka med izvajanjem\n\nDatoteka:\t{1}\nVrstica:\t{2}\n\nAplikacija je naletela na nepričakovano napako. Zaprite program in pošljite datoteko\n\n{3}\n\n z opisom napake naši tehnični podpori na naslov \n\nsupport@mp3tag.de
+SLangErrCheck Napaka med izvajanjem\n\nDatoteka:\t{1}\nVrstica:\t{2}\nIzraz:\t{3}\n Koda:\t0x{4}\n\nAplikacija je naletela na nepričakovano napako. Zaprite program in pošljite datoteko\n\n{5}\n\n z opisom napake naši tehnični podpori na naslov\n\nsupport@mp3tag.de
+SLangErrDriveCannotBeAccessed Pogon {1} ni na voljo.
+SLangErrFileCannotBeAccessed Datoteka {1} ni na voljo.
+SLangErrFileCannotBeDeleted Datoteke {1} ni mogoče izbrisati.\n\n» Prepričajte se, da je ne uporablja drug proces.
+SLangErrFolderCannotBeAccessed Mapa {1} ni na voljo.
+SLangErrFolderCannotBeDeleted Mape {1} ni mogoče izbrisati.\n\n» Prepričajte se, da je ne uporablja drug proces.
+SLangErrHelpBrowserIsNotAvailable Mp3tag ni uspel prikazati datoteke s pomočjo v vašem provzetem brskalniku.
+SLangErrHelpSystemIsNotAvailable Sistem pomoči ni na voljo.\n\n» Ponovno namestite {1}.
+SLangErrHelpTopicIsNotAvailable Tema pomoči ni na voljo.\n\n» Prosim, kontaktirajte našo tehnično podporo.\n\ne-pošta: support@mp3tag.de
+SLangErrNotEnoughFreeDiskSpace Na napravi {1} ni dovolj prostora.\n\n» Zagotovite vsaj {2} prostora.
+SLangErrRegistryCannotBeAccessed Napaka pri branju podatkov.\n\nNimam dostopa do Windows Registra.
+SLangMsgItemExistsAlready Vnos s tem opisom že obstaja.\n\n» Uporabite drugačen opis.
+SLangMsgFirstSteps Vzemite si nekaj časa, da se seznanite s prvimi koraki.
+SLangMsgShutdownInfo Prosim, počakajte, da se {1} zapre.
+SLangWrnAppIsAlreadyRunning Ena instanca te aplikacije je že odprta.
+SLangWrnAppHasToBeRestarted Za uveljavitev sprememb se mora aplikacija ponovno zagnati.\n\nŽelite aplikacijo ponovno zagnati zdaj?
+SLangWrnNameContainsInvalidCharacters Opis vsebuje neveljavne znake.\n\n» Prosim, spremenite opis.
+SLangWrnStartLogging {1} ste zagnali s parametrom FLOG1. Ta parameter se uporablja za ugotavljanje napak.\n\nAli želite zagnati shranjevanje v dnevniško datoteko?
+_C_ABORT Prekini
+_C_ABORTING Aborting...
+_C_APP_ST_ALBUM Album
+_C_APP_ST_ARTIST Izvajalec
+_C_APP_ST_COMMENT Komentar
+_C_APP_ST_FOLDER Mapa
+_C_APP_ST_GENRE Zvrst
+_C_APP_ST_TITLE Naslov
+_C_APP_ST_TRACK Skladba
+_C_APP_ST_YEAR Leto
+_C_CANCEL Prekliči
+_C_CANCELING Canceling...
+_C_CLOSE Zapri
+_C_DLG_CDDBCONFIRM_CAPTION Seznam rezultatov iskanja ...
+_C_DLG_CDDBCONFIRM_CHK_DISCID Kopiraj ID diska v polje Komentar
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 Kopiraj ID diska v polje DISCID
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER Kompilacija ...
+_C_DLG_CDDBCONFIRM_CHK_SORT Predlagaj sortiranje
+_C_DLG_CDDBCONFIRM_ST_INFO Najdenih je več rezultatov.\nIzberite enega:
+_C_DLG_CDDBCONFIRM_ST_INFO2 V podatkovni bazi {1} je bilo najdenih {2} rezultatov.\nIzberite enega:
+_C_DLG_CDDBCONFIRM_STC_TOP Uredi informacije oznak
+_C_DLG_CDDBINPUT_CAPTION Vpišite freeDB ID
+_C_DLG_CDDBINPUT_ST_CATEGORY Kategorija:
+_C_DLG_CDDBINPUT_ST_ID freeDB ID:
+_C_DLG_CDDBSTYLE_CAPTION freeDB
+_C_DLG_CDDBSTYLE_RD_CDROM Pridobi iz vstavljenega audio CD-ja
+_C_DLG_CDDBSTYLE_RD_ENTER Vpiši
+_C_DLG_CDDBSTYLE_RD_MP3 Pridobi iz izbranih datotek
+_C_DLG_CDDBSTYLE_RD_SEARCH Pridobi z iskanjem v spletu
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL Pridobi z besedilnim iskanjem
+_C_DLG_CDDBSTYLE_STC_TOP freeDB ID ...
+_C_DLG_COLUMNS_CAPTION Stolpci
+_C_DLG_COLUMNS_TOP Nastavi vidnost stolpcev
+_C_DLG_TAGS Uredi oznake
+_C_DLG_TTF_TOP Izberite obliko zapisa
+_C_HELP Pomoč
+_C_MNU_ACTIONS Dejanja\tAlt+6
+_C_MNU_CON Preslikave
+_C_MNU_CON_FTF Ime datoteke -> Ime datoteke\tAlt+3
+_C_MNU_CON_FTT Ime datoteke -> Oznake\tAlt+2
+_C_MNU_CON_TFF Besedilna datoteka -> Oznake\tAlt+4
+_C_MNU_CON_TTF Oznake -> Ime datoteke\tAlt+1
+_C_MNU_CON_TTT Oznake -> Oznake\tAlt+5
+_C_MNU_EDIT Uredi
+_C_MNU_EDIT_COPY Kopiraj\tCtrl+C
+_C_MNU_EDIT_CUT Izreži\tCtrl+X
+_C_MNU_EDIT_INVERTSELECTION Preobrni izbor\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT Izberi naslednjo datoteko\tCtrl+N
+_C_MNU_EDIT_PASTE Prilepi\tCtrl+V
+_C_MNU_EDIT_SELECT Izberi vse datoteke\tCtrl+A
+_C_MNU_EDIT_UNDO Razveljavi\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL Odznači vse\tCtrl+U
+_C_MNU_EXTRA Orodja
+_C_MNU_EXTRA_OPTIONS Možnosti ...\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS Ponastavi vsa vnosna polja\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS Privzete vrednosti v vnosnih poljih\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD Čarovnik za samodejno oštevilčenje ...\tCtrl+K
+_C_MNU_FILE Datoteka
+_C_MNU_FILE_ADD Dodaj mapo ...
+_C_MNU_FILE_CDDB freeDB ...\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL freeDB (lokalno) ...\tCtrl+L
+_C_MNU_FILE_COPY Kopiraj ...
+_C_MNU_FILE_DELETE Izbriši ...
+_C_MNU_FILE_DIR Spremeni mapo ...\tCtrl+D
+_C_MNU_FILE_EXIT Izhod\tAlt+F4
+_C_MNU_FILE_EXPORT Izvozi ...\tCtrl+E
+_C_MNU_FILE_FAVDIR Mapa Priljubljene\tCtrl+F
+_C_MNU_FILE_MOVE Premakni ...
+_C_MNU_FILE_PLALL Seznam predvajanja (vse datoteke)\tCtrl+P
+_C_MNU_FILE_PLAY Predvajaj
+_C_MNU_FILE_PLAYLIST Naloži seznam predvajanja/Cuesheet ...
+_C_MNU_FILE_PLSEL Seznam predvajanja (izbrane datoteke)
+_C_MNU_FILE_PROPERTIES Lastnosti ...
+_C_MNU_FILE_READ Beri oznake\tCtrl+T
+_C_MNU_FILE_REMOVE Odstrani oznake\tCtrl+R
+_C_MNU_FILE_REMOVEFILE Odstrani\tDel
+_C_MNU_FILE_RENAME Preimenuj\tF2
+_C_MNU_FILE_SAVE Shrani oznake\tCtrl+S
+_C_MNU_FILE_SAVECONFIG Shrani konfiguracijo ...
+_C_MNU_FREEDB freeDB
+_C_MNU_FREEDB_INDEX Izdelaj kazalo lokalne podatkovne baze
+_C_MNU_FS_EXT Več oznak
+_C_MNU_FS_FNCT Funkcije
+_C_MNU_FS_INFO Polja z informacijami
+_C_MNU_FS_REM Odstrani iz zgodovine
+_C_MNU_FS_REMALL Pobriši vso zgodovino ...
+_C_MNU_FS_REMALL_MSG Ste prepričani, da želite odstraniti vse elemente?
+_C_MNU_HELP Pomoč
+_C_MNU_HELP_ABOUT O programu Mp3tag ...
+_C_MNU_HELP_DONATE Donacija
+_C_MNU_HELP_FINDER Vsebina pomoči ...\tF1
+_C_MNU_HELP_FIRSTSTEPS Prvi koraki
+_C_MNU_HELP_KEYBOARD Bližnjice na tipkovnici
+_C_MNU_HELP_SUPPORT Spletna podpora ...
+_C_MNU_HELP_UPGRADE Preveri, ali so na voljo posodobitve ...
+_C_MNU_HELP_WWW Mp3tag Spletna stran ...
+_C_MNU_TAGSOURCES Viri oznak
+_C_MNU_TOOLS Orodja
+_C_MNU_VIEW Pogled
+_C_MNU_VIEW_COLUMNS Prilagodi stolpce ...
+_C_MNU_VIEW_FILTER Filter\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY Auto-apply filter
+_C_MNU_VIEW_ID3 Podokno z oznakami\tCtrl+Q
+_C_MNU_VIEW_REFRESH Osveži\tF5
+_C_MNU_VIEW_SORTBY Razvrsti po
+_C_MNU_VIEW_TAGS Več oznak ...\tAlt+T
+_C_MNU_VIEW_TOOLBAR Orodna vrstica
+_C_MNU_SB_ACTIONS Uveljavi uporabnikova dejanja (velike začetnice, zamenjava, ...) na izbranih datotekah.
+_C_MNU_SB_CON_FTF Preimenuje datoteke po vzorcu glede na staro ime.
+_C_MNU_SB_CON_FTT Pridobi oznake iz imen datotek.
+_C_MNU_SB_CON_TFF Pridobi oznake iz besedilne datoteke.
+_C_MNU_SB_CON_TTF Preimenuje datoteke glede na oznake.
+_C_MNU_SB_CON_TTT Formira oznake iz  starih oznak.
+_C_MNU_SB_EDIT_COPY Kopira izbrano besedilo ali oznake izbrane datoteke v odložišče.
+_C_MNU_SB_EDIT_CUT Izreže izbrano besedilo ali oznake izbrane datoteke v odložišče.
+_C_MNU_SB_EDIT_INVERTSELECTION Preobrne trenutni izbor.
+_C_MNU_SB_EDIT_NEXT Označi naslednjo datoteko na seznamu.
+_C_MNU_SB_EDIT_PASTE Prilepi vsebino odložišča na mesto kazalke ali v izbrano datoteko.
+_C_MNU_SB_EDIT_SELECT Izbere datoteke iz seznama.
+_C_MNU_SB_EDIT_UNDO Razveljavi zadnje dejanje.
+_C_MNU_SB_EDIT_UNSELECTALL Ukine izbor
+_C_MNU_SB_EXTRA_OPTIONS Pokaže pogovorno okno z nastavitvami programa.
+_C_MNU_SB_EXTRA_RESET_EDITS Počisti vse oznake.
+_C_MNU_SB_EXTRA_SET_EDITS Nastavi vse oznake na privzete vrednosti.
+_C_MNU_SB_EXTRA_TRACKWIZARD Zažene čarovnika za samodejno oštevilčenje.
+_C_MNU_SB_FILE_ADD Doda mapo na seznam datotek.
+_C_MNU_SB_FILE_CDDB Pridobi informacije o vstavljenem avdio CD-ju ali izbranih datotekah z interneta.
+_C_MNU_SB_FILE_CDDBLOCAL Pridobi informacije o vstavljenem avdio CD-ju ali izbranih datotekah iz lokalne freeDB podatkovne baze.
+_C_MNU_SB_FILE_COPY Kopira izbrane datoteke v drugo mapo.
+_C_MNU_SB_FILE_DELETE Izbriše izbrane datoteke.
+_C_MNU_SB_FILE_DIR Spremeni trenutno delovno mapo.
+_C_MNU_SB_FILE_EXIT Izhod iz programa.
+_C_MNU_SB_FILE_EXPORT Izvozi oznake in informacije o datoteki iz izbranih datotek.
+_C_MNU_SB_FILE_FAVDIR Spremeni na privzeto mapo.
+_C_MNU_SB_FILE_FREEDBINDEX Ustvari kazalo lokalne freeDB podatkovne baze.
+_C_MNU_SB_FILE_MOVE Premakne izbrane datoteke v drugo mapo.
+_C_MNU_SB_FILE_PLALL Ustvari seznam predvajanja iz vseh datotek.
+_C_MNU_SB_FILE_PLAY Predvaja izbrane datoteke.
+_C_MNU_SB_FILE_PLAYLIST Naloži vsebino seznama predvajanja.
+_C_MNU_SB_FILE_PLSEL Ustvari seznam predvajanja iz izbranih datotek.
+_C_MNU_SB_FILE_PROPERTIES Prikaže lastnosti izbrane datoteke.
+_C_MNU_SB_FILE_READ Vnese prebrane oznake iz izbrane datoteke v vnosna polja v podokno z oznakami.
+_C_MNU_SB_FILE_REMOVE Odstrani oznake iz izbrane datoteke.
+_C_MNU_SB_FILE_REMOVEFILE Odstrani izbrane datoteke.
+_C_MNU_SB_FILE_RENAME Preimenuje izbrane datoteke.
+_C_MNU_SB_FILE_SAVE Shrani oznake v izbranih datotekah.
+_C_MNU_SB_FILE_SAVECONFIG Shrani trenutne nastavitve v konfiguracijsko datoteko.
+_C_MNU_SB_HELP_ABOUT Informacije o programu Mp3tag.
+_C_MNU_SB_HELP_CONTEXT Pokaže kontekstno pomoč za vsa polja, menije in okna.
+_C_MNU_SB_HELP_DONATE Prosim, podprite razvoj programa Mp3tag z donacijo.
+_C_MNU_SB_HELP_FINDER Prikaže okno s pomočjo.
+_C_MNU_SB_HELP_FIRSTSTEPS Prikaže kratek uvod v program Mp3tag.
+_C_MNU_SB_HELP_KEYBOARD Prikaže seznam bližnjic na tipkovnici.
+_C_MNU_SB_HELP_SUPPORT Prikaže Mp3tag forum.
+_C_MNU_SB_HELP_UPGRADE Preveri, če so na voljo posodobitve za Mp3tag.
+_C_MNU_SB_HELP_WWW Prikaže spletno stran Mp3tag.
+_C_MNU_SB_UPDIR V nadrejeno mapo
+_C_MNU_SB_VIEW_COLUMNS Prikaže pogovorno okno za prilagajanje stolpcev v pogledu datotek.
+_C_MNU_SB_VIEW_FILTER Filtrira pogled datotek.
+_C_MNU_SB_VIEW_ID3 Pokaže/skrije podokno z oznakami.
+_C_MNU_SB_VIEW_REFRESH Osveži pogled datotek.
+_C_MNU_SB_VIEW_TAGS Prikaže pogovorno okno z več oznakami.
+_C_MNU_SB_VIEW_TOOLBAR Pokaže/skrije orodno vrstico.
+_C_MNU_SB_WND_IDLE Pripravljen
+_C_MNU_SB_WND_MAXIMIZE Razširi okno čez cel zaslon
+_C_MNU_SB_WND_MINIMIZE Minimira okno v opravilno vrstico
+_C_MNU_SB_WND_MOVE Premakne okno
+_C_MNU_SB_WND_RESTORE Obnovi okno na normalno velikost iz celozaslonskega ali minimiranega načina
+_C_MNU_SB_WND_SIZE Spremeni velikost okna
+_C_MULTILINE Večvrstično
+_C_OK V redu
+_C_OPT_ACTIONGROUPS Skupine dejanj
+_C_OPT_ACTIONS Dejanja
+_C_OPT_ACTIONS_TYPE Izberite tip dejanja
+_C_OPT_ADVANCED Napredno
+_C_OPT_ADVANCED_ID3V2LANG Koda jezika ID3v2 komentarja (ISO-639-2)
+_C_OPT_ADVANCED_LISTCHAPTERS List chapters as separate files
+_C_OPT_CAPTION Možnosti
+_C_OPT_CDDB_CAPTION freeDB
+_C_OPT_CDDB_CHK_USEPROXY Uporabi posredniški strežnik
+_C_OPT_CDDB_FRM_CDDB freeDB strežnik
+_C_OPT_CDDB_FRM_LOCALPATH Pot Lokalnega freeDB:
+_C_OPT_CDDB_FRM_PROXY Posredniški strežnik
+_C_OPT_CDDB_RD_FMT_UNIX UNIX format
+_C_OPT_CDDB_RD_FMT_WIN Windows format
+_C_OPT_CDDB_ST_ADDRESS Naslov:
+_C_OPT_CDDB_ST_EMAIL E-poštni naslov:
+_C_OPT_CDDB_ST_NAME Ime:
+_C_OPT_CDDB_ST_PATH Pot:
+_C_OPT_CDDB_ST_PORT Vrata:
+_C_OPT_CDDB_ST_PROXYNAME Posredniški strežnik:
+_C_OPT_CDDB_ST_PROXYPORT Vrata:
+_C_OPT_CDDB_ST_PWD Geslo:
+_C_OPT_CDDB_ST_TIMEOUT Poteče čez:
+_C_OPT_CDDB_ST_USERNAME Uporabniško ime:
+_C_OPT_CDDB3_CAPTION Lokalna freedb
+_C_OPT_CON_FRM_FTT Ime datoteke -> Oznake
+_C_OPT_CON_FRM_TFF Besedilna datoteka -> Oznake
+_C_OPT_CON_FRM_TTF Oznake -> Ime datoteke
+_C_OPT_CON_ST_FNAME Ime datoteke:
+_C_OPT_CON_ST_FS Formiraj niz znakov:
+_C_OPT_DIR Mape
+_C_OPT_DIR_COVER Mapa ovitka
+_C_OPT_EMPTY_HINT Izberite temo
+_C_OPT_EXP_CAPTION Izvoz
+_C_OPT_EXP_CHK_APPEND Dodaj podatke
+_C_OPT_EXP_CHK_WRITEBOM Zapiši BOM
+_C_OPT_EXP_FRM_EXPORT Izvozi konfiguracijo
+_C_OPT_EXP_RD_TRACK Skladba
+_C_OPT_EXP_ST_FNAME Ime datoteke za izvoz:
+_C_OPT_EXP_ST_NAME Ime nove izvozne konfiguracije
+_C_OPT_FMT_CASE Velike/male črke
+_C_OPT_FMT_FRM_FTF Ime datoteke -> ime datoteke
+_C_OPT_FMT_ST_BEGIN Besede, ki se začnejo z:
+_C_OPT_FMT_ST_FNAME_NEW Nova oblika imena datoteke:
+_C_OPT_FMT_ST_FNAME_OLD Stara oblika imena datoteke:
+_C_OPT_FMT2 Zamenjaj
+_C_OPT_FMT2_CASE Primerjava (Razlikovanje velikih/malih črk)
+_C_OPT_FMT2_COL_ORIGINAL Izvirnik
+_C_OPT_FMT2_COL_REPLACE Zamenjaj z
+_C_OPT_FMT2_ONLYWORDS Samo kot cela beseda
+_C_OPT_GEN_CAPTION Splošno
+_C_OPT_GEN_CHK_AUTOSAVE Shrani oznake pri uporabi puščic/enojnem kliku miške
+_C_OPT_GEN_CHK_FOLDERSTART Začni iz te mape
+_C_OPT_GEN_CHK_GRID Pokaži mrežne črte v pogledu datotek
+_C_OPT_GEN_CHK_JUMPONEDIT Ob urejanju v pogledu datotek sam skoči na naslednjo datoteko
+_C_OPT_GEN_CHK_KEEPFILETIME Ohrani čas spremembe datoteke ob shranjevanju oznak
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Keep moved files in file list
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS ob opozorilih dejanj
+_C_OPT_GEN_CHK_MSG_CHANGE po spremembi
+_C_OPT_GEN_CHK_MSG_CUT ob rezanju oznak
+_C_OPT_GEN_CHK_MSG_DEL po brisanju
+_C_OPT_GEN_CHK_MSG_DELETEFILE ob brisanju datotek
+_C_OPT_GEN_CHK_MSG_EXPORT ob izvažanju oznak
+_C_OPT_GEN_CHK_MSG_PASTE ob lepljenju oznak
+_C_OPT_GEN_CHK_MSG_REMOVETAGS ob odstranjevanju oznak
+_C_OPT_GEN_CHK_MSG_SAVE po shranjevanju
+_C_OPT_GEN_CHK_PL Samodejno izdelaj seznam predvajanja
+_C_OPT_GEN_CHK_RELPL Vnosi, relativni glede na delovno mapo
+_C_OPT_GEN_CHK_AUTOCOMPLETE Samodejno izpolnjevanje izbirnih polj
+_C_OPT_GEN_CHK_SELECTFILES Samodejna izbira datotek
+_C_OPT_GEN_CHK_SORTNATURAL Uporabi naravno sortiranje
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH Pokaži trenutno mapo v naslovni vrstici okna
+_C_OPT_GEN_FRM_GEN Splošno
+_C_OPT_GEN_FRM_MSG Pokaži sporočilo
+_C_OPT_GEN_FRM_PL Ime seznama predvajanja
+_C_OPT_GEN_RD_PLALL iz vseh datotek
+_C_OPT_GEN_RD_PLSEL iz izbranih datotek
+_C_OPT_GEN_ST_FAVDIR Mapa Priljubljene:
+_C_OPT_GEN2_CAPTION Sporočila
+_C_OPT_GENRES Uporabniško določene zvrsti
+_C_OPT_GENRES_HIDESTANDARD Pokaži samo uporabniško določene zvrsti
+_C_OPT_ID3_CHK_ISO88591 Vedno zapiši ISO-8859-1 oznake namesto UTF-16
+_C_OPT_ID3_CHK_LEADINGZEROS Vodilne ničle za številke skladb (01, 02, ...)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND ID3v2 samo, če ID3v1 ni mogoče
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ Beri
+_C_OPT_ID3_FRM_REMOVE Odstrani
+_C_OPT_ID3_FRM_WRITE Zapiši
+_C_OPT_LIB Knjižnica
+_C_OPT_LIB_CHK_ENABLE Omogoči knjižnico
+_C_OPT_LIB_CHK_RESTRICT Vključi samo izbrane mape
+_C_OPT_LIB_CLEANUP Počisti knjižnico
+_C_OPT_MAPPING Preslikave
+_C_OPT_MAPPING_FRM Uporabniško določene preslikave polj
+_C_OPT_MAPPING_SOURCE Izvor
+_C_OPT_MAPPING_TARGET Cilj
+_C_OPT_PLAYLIST_CAPTION Seznam predvajanja
+_C_OPT_PLAYLIST_EXTENDED Zapiši razširjene informacije
+_C_OPT_PLAYLIST_NOFOLDERS Ne izdeluj map
+_C_OPT_PLAYLIST_SHOWDLG Pokaži pogovorno okno za potrditev imena datoteke
+_C_OPT_TAG Oznake
+_C_OPT_TAGS_COVER Privzeto ime datoteke za ovitek:
+_C_OPT_TAGS_EXT Način shranjevanja za << in >> v pogovornem oknu Več oznak:
+_C_OPT_TAGS_FILEFILTER Omeji vhodna imena datotek na:
+_C_OPT_TAGS_NOIMG Ne prikaži prve slike iz mape kot naslovnico
+_C_OPT_TOOLS Orodja
+_C_OPT_TOOLS_CHK_DEFAULT Ob dvokliku uporabi program:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES za vse izbrane datoteke
+_C_OPT_TOOLS_COL_PARAM Parameter
+_C_OPT_TOOLS_COL_PATH Pot
+_C_OPT_TOOLS_EDIT Prilagodi orodja. Ime in pot sta obvezna.
+_C_OPT_TOOLS_FRM_DEFAULT Privzeto orodje
+_C_OPT_TOOLS_FRM_TOOLS Orodja
+_C_OVERWRITE Prepiši
+_C_RENAME Preimenuj
+_C_TT_CDDB freeDB ...
+_C_TT_CDDBLOCAL freeDB (lokalno) ...
+_C_TT_CLOSE Zapri
+_C_TT_DIR Spremeni mapo ...
+_C_TT_EDIT_UNDO Razveljavi
+_C_TT_EXPORT Izvozi
+_C_TT_FAVDIR Mapa Priljubljene
+_C_TT_FILE_ADD Dodaj mapo ...
+_C_TT_FILE_COPY Kopiraj v ...
+_C_TT_FILE_DELETE Izbriši ...
+_C_TT_FILE_MOVE Premakni v ...
+_C_TT_FILE_PLAY Predvajaj
+_C_TT_FILE_PROPERTIES Lastnosti ...
+_C_TT_FILE_RENAME Preimenuj
+_C_TT_FTF Ime datoteke -> Ime datoteke
+_C_TT_FTT Ime datoteke -> Oznake
+_C_TT_HELP Vsebina pomoči ...
+_C_TT_OPT Pogovorno okno z možnostmi ...
+_C_TT_PLALL Izdelaj seznam predvajanja iz vseh datotek
+_C_TT_PLSEL Izdelaj seznam predvajanja iz izbranih datotek
+_C_TT_REFRESH Osveži pogled datotek
+_C_TT_REMOVE Odstrani oznako
+_C_TT_SAVE Shrani
+_C_TT_TFF Besedilna datoteka -> Oznake
+_C_TT_TTF Oznake -> Ime datoteke
+_C_TT_TTT Oznake -> Oznake
+_C_TT_UPDIR Gor
+_C_WIZARD_TRACKS Čarovnik za samodejno oštevilčenje
+_C_WIZARD_TRACKS_BEGIN Začni pri številki skladbe:
+_C_WIZARD_TRACKS_DESC Assign track- and discnumbers
+_C_WIZARD_TRACKS_DISC_BEGIN Begin at discnumber
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Leading zeros for discnumbers (01, 02, ...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Save total count of discs
+_C_WIZARD_TRACKS_DISCNUMBER Discnumber
+_C_WIZARD_TRACKS_RESETFOLDERS Ponastavi števec za vsako mapo
+_C_WIZARD_TRACKS_SAVETOTAL Shrani skupno število skladb
+_C_WIZARD_TRACKS_TRACKNUMBER Tracknumber
+_M_ERR_CANCEL Proces preklican.
+_M_ERR_CDDB_CD Napaka pri branju avdio CD-ja
+_M_ERR_CDDB_CONNECT Napaka v povezavi s strežnikom: {1}
+_M_ERR_CDDB_NOENTRY Za freeDB ID {1} ne najdem primernega vnosa.
+_M_ERR_CDDB_NOENTRYINLOCALBD Za freeDB ID {1} v lokalni podatkovni bazi '{2}' ne najdem primernega vnosa.
+_M_ERR_CDDB_PARSER Povpraševanje ni vrnilo rezultatov.
+_M_ERR_CDDB_READ Napaka pri branju podatkov iz {1}
+_M_ERR_CONFIGURATION Konfiguracije ni bilo mogoče uvoziti.
+_M_ERR_COPY Izbranih datotek ni mogoče kopirati!
+_M_ERR_DELETE Izbranih datotek ni mogoče izbrisati!
+_M_ERR_FILECREATE Datoteke \"{1}\" ni mogoče ustvariti.
+_M_ERR_FILEDELETE Datoteke \"{1}\" ni mogoče izbrisati.
+_M_ERR_FILENAMEALREADYEXISTS Datoteka \"{1}\" že obstaja.
+_M_ERR_FILENAMEALREADYEXISTS2 Datoteka \"{1}\" ni bila preimenovana.
+_M_ERR_FILEOPABORTED Vsebina trenutne mape se je mogoče spremenila.\n\nAli želite trenutno mapo ponovno prebrati?
+_M_ERR_FILEOPEN Datoteke \"{1}\" ni mogoče odpreti.
+_M_ERR_FILEREADONLY Datoteka \"{1}\" je samo za branje.\n\nOnemogočim zaščito proti pisanju te in vseh ostalih datotek, ki so samo za branje?
+_M_ERR_FOLDERCANNOTBEACCESSED Napaka pri dostopu\n\nDo mape \"{1}\" ni mogoče dostopati.
+_M_ERR_INVALID_FILENAME Navedite veljavno ime datoteke.
+_M_ERR_INVALID_FTF_FS Niz \"{1}\" ni veljavne oblike za uporabo v imenih datotek.
+_M_ERR_INVALID_TOKEN {1}:\nV imenih datotek niso dovoljeni naslednji znaki:\n\\ / : * ? \" < > |\n\nPopravim samodejno?
+_M_ERR_MOVE Izbranih datotek ni mogoče premakniti!
+_M_ERR_ONLINE_NOTFOUND Ni vnosov, ki bi ustrezali kriterijem iskanja.
+_M_ERR_OPT_CDDB_NOADDRESS Vpišite naslov freeDB strežnika.
+_M_ERR_OPT_CDDB_NOEMAIL Vpišite vaš e-poštni naslov pod 'Možnosti, freeDB, Strežnik'. Uporabljen bo za zapisovanje dostopa na freeDB strežnik.
+_M_ERR_OPT_CDDB_NONAME Vpišite veljavno ime za konfiguracijo.
+_M_ERR_OPT_CDDB_NOPORT Vpišite številko vrat freeDB strežnika.
+_M_ERR_PARSELINE Vrstice {1} ni mogoče razčleniti.
+_M_ERR_PLAY Datoteke \"{1}\" ni mogoče predvajati.
+_M_ERR_READ_FILE Datoteke \"{1}\" ni mogoče odpreti za branje.
+_M_ERR_RENAME_FILE Datoteke \"{1}\" ni mogoče preimenovati v \"{2}\".
+_M_ERR_RETRY Do you want to retry?
+_M_ERR_TL_NOTAGS Vnos za datoteko \"{1}\" se ne ujema.
+_M_ERR_WRITE_FILE Datoteke \"{1}\" ni mogoče odpreti za pisanje.
+_M_ERR_YN \n\nAli želite nadaljevati?
+_M_LOG_FMT_FNAME {1} od {2} datotek preimenovanih.\n
+_M_LOG_FMT_TAG Oznake uporabljene v {1} od {2} datotek.\n
+_M_LOG_FTF Preimenovanih {1} od {2} datotek.
+_M_LOG_FTT Oznake pridobljene iz {1} od {2} datotek.
+_M_LOG_PL_ALL Seznam predvajanja \"{1}\" izdelan iz vseh ({2}) datotek.
+_M_LOG_PL_SEL Seznam predvajanja \"{1}\" izdelan iz izbranih ({2}) datotek.
+_M_LOG_REMOVE Oznake odstranjene iz datoteke \"{1}\".
+_M_LOG_REMOVED Oznake odstranjene iz {1} od {2} datotek.
+_M_LOG_REMOVE_NOTAG V datoteki \"{1}\" ni oznak.
+_M_LOG_SAVE Oznake v datoteki \"{1}\" shranjene.
+_M_LOG_SAVED Oznake shranjene v {1} od {2} datotek.
+_M_LOG_TFF Oznake uvožene \"{1}\" in shranjene v {2} od {3} datotek.
+_M_LOG_TFF_S Oznake uvožene iz \"{1}\" v eno datoteko.
+_M_LOG_TTF {1} od {2} datotek preimenovanih.
+_M_STAT_PLAY Predvajam datoteko \"{1}\" ...
+_M_STR_ACTION_ADJUSTCOVER Adjust cover
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Format
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
+_M_STR_ACTION_CODEPAGE Pretvori kodno tabelo
+_M_STR_ACTION_CODEPAGE_DESC Kodna tabela
+_M_STR_ACTION_EXPORTCOVER Izvozi ovitek v datoteko
+_M_STR_ACTION_EXPORTCOVER_DUPES Izvozi podvojene ovitke
+_M_STR_ACTION_EXPORTCOVER_TYPES Izvozi samo ovitke tipa
+_M_STR_ACTION_FORMAT Oblikuj vrednost
+_M_STR_ACTION_GUESS Ugani vrednosti
+_M_STR_ACTION_GUESSPATTERN Poskušam uganiti vzorec
+_M_STR_ACTION_GUESSSOURCE Izvorna oblika
+_M_STR_ACTION_IMPORTCOVER Uvozi ovitek iz datoteke
+_M_STR_ACTION_IMPORTCOVER_FS Oblika zapisa za ime slike:
+_M_STR_ACTION_IMPORTCOVER_DELETE Izbriši trenutni ovitek
+_M_STR_ACTION_IMPORTCOVER_TYPE Uvozi ovitek kot:
+_M_STR_ACTION_IMPORTTEXT Uvozi besedilno datoteko
+_M_STR_ACTION_MERGEDUPLICATEFIELDS Združi podvojena polja
+_M_STR_ACTION_REGEXP Zamenjaj s standardnim izrazom
+_M_STR_ACTION_REGEXP_EXP Standardni izraz
+_M_STR_ACTION_REGEXP_MATCH Zamenjaj ujemajoče z
+_M_STR_ACTION_REMOVEDUPES Odstrani podvojena polja
+_M_STR_ACTION_REM Odstrani polja
+_M_STR_ACTION_REM_DESC Polja za odstranitev (ločeno s podpičjem):
+_M_STR_ACTION_REM_EX Odstrani polja, razen
+_M_STR_ACTION_REM_EX_DESC Polja za ohranitev (ločeno s podpičjem):
+_M_STR_ACTION_SPLITFIELDS Loči polja s separatorjem
+_M_STR_ACTIONGROUP_NAME Ime skupine dejanj
+_M_STR_ALBUM Album
+_M_STR_ALBUMARTIST Izvajalec albuma
+_M_STR_ALL_FILEDLGFILTER Vse datoteke (*.*)|*.*||
+_M_STR_ARTIST Izvajalec
+_M_STR_AUTHOR Avtor
+_M_STR_BACK < Nazaj
+_M_STR_BROWSE_COPY Kopiraj v:
+_M_STR_BROWSE_MOVE Premakni v:
+_M_STR_BROWSE_TEXT Izberite mapo, ki vsebuje audio datoteke.
+_M_STR_BYTES bajtov
+_M_STR_CDDB_CD Beri audio CD
+_M_STR_CDDB_CONNECT poveži se z {1} ...
+_M_STR_CDDB_CONNECTED  povezano!
+_M_STR_CDDB_IDXDB_ENTRIES vnosi v podatkovni bazi so ustvarjeni
+_M_STR_CDDB_RETRIEVE Pridobi informacije o naslovih
+_M_STR_COLUMNFILENAME Ime datoteke
+_M_STR_COLUMNPATH Pot
+_M_STR_COLUMNUSEDCOLS vidno
+_M_STR_COMBO_HOLD < ni spremembe >
+_M_STR_COMBO_REMOVE < prazno >
+_M_STR_COMBO_USER < vnesi >
+_M_STR_COMMENT Komentar
+_M_STR_COMPOSER Skladatelj
+_M_STR_COPYOF Kopija od {1}
+_M_STR_COVER Ovitek
+_M_STR_COVER_ADD Želite obdržati obstoječe ovitke?
+_M_STR_COVER_CORRECTAR Popravi razmerje stranic
+_M_STR_COVER_SETDESC Nastavi opis ovitka ...
+_M_STR_COVER_SETTYPE Nastavi tip ovitka
+_M_STR_COVERVARIES Različni ovitki
+_M_STR_CUSTOMIZE Customize...
+_M_STR_DAY dan
+_M_STR_DAYS dni
+_M_STR_DEFAULTVALUE Default value
+_M_STR_DISCID CDDB ID
+_M_STR_DISCOGS_OAUTH_PIN Vpišite svojo Discogs kodo za dostop.
+_M_STR_DISCNUMBER Številka diska
+_M_STR_ERR_CDDB_NOENTRYSELECTED Izberite vnos.
+_M_STR_EXPORT_DELETE Izbrišem izvozno konfiguracijo \"{1}\"?
+_M_STR_EXPORT_FILEDLGTITLE Izberite izvozno datoteko
+_M_STR_EXPORT_MULTIPLE Ena datoteka na mapo
+_M_STR_EXPORT_SHOWEXPORTFILE \n\nPrikažem izvozno datoteko?
+_M_STR_EXP_MSG Izvoz je obdelal {2} datotek in zapisal v datoteko '{1}'.
+_M_STR_FIELD Polje:
+_M_STR_FIELDSIZE Size of field
+_M_STR_FIELDROWS Rows
+_M_STR_FILE Datoteka
+_M_STR_FILEDELETE Želite izbrisati izbrane datoteke?
+_M_STR_FILEMODIFIED Spremenjeno
+_M_STR_FILESIZE Velikost
+_M_STR_FILTER Filter:
+_M_STR_FMT_CAPITAL Velike Začetnice
+_M_STR_FMT_HIGH VELIKE ČRKE
+_M_STR_FMT_LOW male črke
+_M_STR_FMT_SENTENCE Kot v stavku
+_M_STR_FREEDBCREATEINDEX Želite izdelati kazalo lokalne freeDB podatkovne baze?\n\nTo lahko traja nekaj minut.
+_M_STR_FREEDB_SEARCH freeDB spletno iskanje
+_M_STR_GENRE Zvrst
+_M_STR_GENRES Zvrsti
+_M_STR_HIDE Skrij
+_M_STR_ITEMALREADYEXISTS Predmet s tem imenom že obstaja. Želite nadaljevati?
+_M_STR_LANGUAGE Jezik
+_M_STR_M3U_FILEDLGFILTER Podprte datoteke (*.bm3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_METADATA Meta podatki
+_M_STR_MOVEDOWN Premakni dol
+_M_STR_MOVEUP Premakni gor
+_M_STR_MPEGBITRATE Bitna hitrost
+_M_STR_MPEGFREQUENCY Frekvenca vzorčenja
+_M_STR_MPEGLENGTH Dolžina
+_M_STR_MPEGMODE Način
+_M_STR_MPEGVERSION Kodek
+_M_STR_MSGCUT Ali ste prepričani, da želite izrezati oznake iz izbranih datotek?
+_M_STR_MSGPASTE Ali ste prepričani, da želite prilepiti oznake v izbrane datoteke?
+_M_STR_MSGREMOVE Ali ste prepričani, da želite odstraniti oznake iz izbranih datotek?
+_M_STR_NAME Ime
+_M_STR_NETWORKING Omrežje
+_M_STR_NEXT Naprej >
+_M_STR_NOACTION - Brez dejanj -
+_M_STR_NOACTIONENABLED Pri uporabi te funkcije vključite vsaj eno dejanje.
+_M_STR_NUMERIC Številsko
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH Prosim izberite delovno mapo za lokalno freeDB podatkovno bazo.
+_M_STR_OPT_CDDB_PROCEED To bo odstranilo vse strežnike!\n\nAli želite nadaljevati?\n
+_M_STR_OPTIMIZEMP4 Optimiziraj MP4
+_M_STR_OPTS_ALWAYS vedno
+_M_STR_OPTS_ASK vprašaj
+_M_STR_OPTS_NEVER nikoli
+_M_STR_PLNAME Seznam predvajanja -> Ime datoteke
+_M_STR_PL_CONFIRM Ustvari seznam predvajanja s tem imenom
+_M_STR_PL_SAVEFILTER Datoteka seznama predvajanja (*.m3u)|*.m3u|Unicode datoteka seznama predvajanja (*.m3u8)|*.m3u8||
+_M_STR_PREVIEW Predogled
+_M_STR_PROPERTIES {1} Lastnosti
+_M_STR_QUICK hitra
+_M_STR_RECURSE Vključi podmape
+_M_STR_REST Ostalo
+_M_STR_SAVE_NOT < ni asociacije >
+_M_STR_SAVECONFIG Vaše nastavitve bodo shranjene v datoteko '{1}'.\n\nČe želite obnoviti vaše nastavitve, ekstrahirajte arhiv v \"{2}\".
+_M_STR_SAVECONFIG_FILEDLGFILTER Konfiguracijske datoteke (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE Shrani konfiguracijo v ...
+_M_STR_SAVEIMAGE Shrani sliko v oznako
+_M_STR_SAVEIMAGEDIRECTORY Shrani sliko na disk
+_M_STR_SAVESELECTION Shrani izbor ...
+_M_STR_SB_ABORTED prekinjeno
+_M_STR_SB_ACTION Uveljavljam dejanja na datoteke ... {1} od {2}
+_M_STR_SB_CLEANUPDATABASE Procesiram datoteke ... {1} of {2} ({3} počiščenih)
+_M_STR_SB_CLEANUPDATABASE_BINARIES Cleanup orphaned binaries
+_M_STR_SB_CLEANUPDATABASE_COVERS Cleanup orphaned covers
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Cleanup non-library files
+_M_STR_SB_EXPORTTAGS Izvažam informacije oznak ... {1}  zapisov od {2} datotek
+_M_STR_SB_LOADTAGS Berem oznake ... {1} od {2}
+_M_STR_SB_READDIRECTORY Berem mapo
+_M_STR_SB_REMOVETAGS Odstranjujem oznake ... {1} od {2}
+_M_STR_SB_RENAMEFILES Preimenujem datoteke ... {1} od {2}
+_M_STR_SB_WRITETAGS Zapisujem oznake ... {1} od {2}
+_M_STR_SHOWCHOOSEDLG Pokaži pogovorno okno z izbiro
+_M_STR_SEARCHBY Išči po:
+_M_STR_SEARCHTEXT Besedilo:
+_M_STR_SEPARATOR Ločilo
+_M_STR_SHOW Pokaži
+_M_STR_SIZE_LARGE Large
+_M_STR_SIZE_MEDIUM Medium
+_M_STR_SIZE_NORMAL Normal
+_M_STR_SIZE_SMALLER Smaller
+_M_STR_SIZE_SMALL Small
+_M_STR_SNA Območje za obvestila
+_M_STR_SNA_SHOW Vedno pokaži ikono v območju za obvestila
+_M_STR_SNA_SHOWMIN Minimiraj v področje za obvestila
+_M_STR_STRIPCHAPTERSMP4 Razstavi MP4 poglavja
+_M_STR_TAG_COPIED Oznake iz {1} datotek so kopirane v odložišče.
+_M_STR_TAG2 Oznake
+_M_STR_TAGFIELDS_REMOVE Odstrani polje
+_M_STR_TAGFIELDS_REMOVEALL Odstrani vsa polja ...
+_M_STR_TAGFIELDS_REMOVEALLMSG Ali ste prepričani, da želite odstraniti vsa polja s seznama?
+_M_STR_TAGFIELDS_RESET Ponastavi polja ...
+_M_STR_TAGFIELDS_RESETMSG Ali ste prepričani, da želite ponastaviti vsa polja na privzete vrednosti?
+_M_STR_TAGPANEL Podokno z oznakami
+_M_STR_TAGPANEL_COVER Pokaži ovitek
+_M_STR_TAGPANEL_DIRECTORY Pokaži menjalnik map
+_M_STR_TAGLIST_FILEDLGFILTER Besedilne datoteke ({1})
+_M_STR_TAGLIST_FILEDLGTITLE Izberi besedilno datoteko
+_M_STR_TAGSOURCES Viri oznak
+_M_STR_THISALBUMON Ta album na {1}
+_M_STR_TITLE Naslov
+_M_STR_TRYAGAIN Želite poskusiti znova?
+_M_STR_TTF Oznake -> Ime datoteke
+_M_STR_UPDATE_FRM Posodobitve
+_M_STR_UPDATE_OPT_CHECK Ob zagonu preveri, ali so na voljo posodobitve
+_M_STR_UPDATE_OPT_CHECK_BETA Vključi tudi razvojne različice (Beta)
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Display release notes for new versions
+_M_STR_UPDATEAVAILABLE Na voljo je Mp3tag, različica {1}!\n\nAli želite prenesti posodobitev iz {2} zdaj?
+_M_STR_UPDATENOTAVAILABLE Uporabljate najnovejšo različico, {1}.\n\nNa voljo ni novih posodobitev.
+_M_STR_URL http://www.mp3tag.de/en/download.html
+_M_STR_UTILS Možnosti
+_M_STR_VALUE Vrednost
+_M_STR_VERSION Različica
+_M_STR_YEAR Leto
+_M_TP_CDDB_LOCALPATH Navedite lokalno freeDB mapo
+_M_TP_CDDB_SITES Trenutni seznam freeDB strežnikov na internetu
+_M_TP_CVR_CLIPBOARD Prilepi ovitek
+_M_TP_CVR_CLIPBOARD_COPY Kopiraj ovitek
+_M_TP_CVR_CLIPBOARD_CUT Izreži ovitek
+_M_TP_CVR_DEL Odstrani ovitek
+_M_TP_CVR_NEW Dodaj ovitek ...
+_M_TP_CVR_SAVE Shrani ovitek ...
+_M_TP_DUPLICATE Podvoji
+_M_TP_EXP_DEL Izbriši
+_M_TP_EXP_EDIT Uredi
+_M_TP_EXP_FILE Izberite izvozno datoteko
+_M_TP_EXP_HLP Prikaži hitro pomoč
+_M_TP_EXP_LOAD Naloži konfiguracijo ...
+_M_TP_EXP_NEW Novo
+_M_TP_EXP_SAVE Shrani konfiguracijo ...
+_M_TP_GEN_DIR Izberite mapo
+_M_TP_TAG_DEL Odstrani polje
+_M_TP_TAG_EDIT Uredi polje ...
+_M_TP_TAG_NEW Dodaj polje ...
+_M_TS_ADDINFO Dodatne informacije
+_M_TS_MULTIPLEVALUES Več vrednosti
+_M_TS_RELEASE Sprosti
+_M_TS_TRACKS Skladbe
+_M_UNDO_CANNOTUNDO Ni mogoče razveljaviti {1}
+_M_UNDO_CDDB freeDB
+_M_UNDO_DIRECTORYCREATE Ustvari mapo
+_M_UNDO_DIRECTORYMOVE Premakni mapo
+_M_UNDO_FORMAT Oblikovanje
+_M_UNDO_FTF Ime datoteke -> Ime datoteke
+_M_UNDO_FTT Ime datoteke -> Oznake
+_M_UNDO_REMOVEFILE Odstrani
+_M_UNDO_RENAME Preimenuj
+_M_UNDO_TAGCHANGE Spremeni oznake
+_M_UNDO_TAGREMOVE Odstrani oznake
+_M_UNDO_TAGSAVE Shrani oznake
+_M_UNDO_TFF Besedilna datoteka -> Oznake
+_M_UNDO_TTF Oznake -> Ime datoteke

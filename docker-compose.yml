@@ -1,7 +1,7 @@
 version: '2'
 services:
   openfire:
-    image: miguelwill/debian-wine-vnc:latest
+    image: miguelwill/debian-wine-mp3tag:latest
     ports:
       - "5900:5900/tcp"
     environment:

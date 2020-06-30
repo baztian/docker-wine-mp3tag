@@ -1,0 +1,622 @@
+﻿LANGAUTHOR Patriccollu di Santa Maria è Sichè
+LANGCONTACT Patrick.Santa-Maria[at]LaPoste.Net
+LANGVERSION 2.98
+LANGNAME Corsican
+LANGNAMELOC Corsu
+SLangCancel Abbandunà
+SLangOk &Vai
+SLangErrCatch Sbagliu Impurtantissimu\n\nSchedariu :\t{1}\nLinea :\t{2}\n\nUn sbagliu scunnisciutu hè accadutu è l’appiecazione si trova avà in un statu indefinitu. Ci vole à chjode l’appiecazione è mandà u schedariu\n\n{3}\n\ncù una discrizzione detagliata di u sbagliu à a nostra squadra d’assistenza.\n\Indirizzu elettronicu : support@mp3tag.de
+SLangErrCheck Sbagliu Impurtantissimu\n\nSchedariu :\t{1}\nLinea :\t{2}\nVucabulu :\t{3}\nCodice :\t0x{4}\n\nUn sbagliu scunnisciutu hè accadutu è l’appiecazione si trova avà in un statu indefinitu. Ci vole à chjode l’appiecazione è mandà u schedariu\n\n{5}\n\ncù una discrizzione detagliata di u sbagliu à a nostra squadra d’assistenza.\n\nIndirizzu elettronicu : support@mp3tag.de
+SLangErrDriveCannotBeAccessed U lettore {1} ùn hè micca accessibule.
+SLangErrFileCannotBeAccessed U schedariu {1} ùn hè micca accessibule.
+SLangErrFileCannotBeDeleted U schedariu {1} ùn pò micca esse squassatu.\n\n» Assicuratevvi chì alcunu altru prucessu ùn impiegassi u schedariu.
+SLangErrFolderCannotBeAccessed U cartulare {1} ùn hè micca accessibule.
+SLangErrFolderCannotBeDeleted U cartulare {1} ùn pò micca esse squassatu.\n\n» Assicuratevvi chì alcunu altru prucessu ùn impiegassi u cartulare.
+SLangErrHelpBrowserIsNotAvailable Mp3tag ùn hà micca pussutu affissà u schedariu d’aiutu in u vostru navigatore web.
+SLangErrHelpSystemIsNotAvailable Sistema d’aiutu micca dispunibule.\n\n» Ci vole à installà {1} torna.
+SLangErrHelpTopicIsNotAvailable A rubrica d’aiutu ùn hè micca dispunibule.\n\n» Ci vole à cuntattà a nostra squadra d’assistenza.\n\nIndirizzu elettronicu : support@mp3tag.de
+SLangErrNotEnoughFreeDiskSpace Ùn ci hè micca abbastanza di spaziu liberu nant’à {1}.\n\n» Assicuratevvi chì ci sia al menu {2} di spaziu liberu.
+SLangErrRegistryCannotBeAccessed Sbagliu durante a lettura di i dati\n\nÙn pò micca accede à u Registru Windows.
+SLangMsgItemExistsAlready Un’elementu cù sta discrizzione esiste dighjà.\n\n» Ci vole à impiegà un’altra discrizzione.
+SLangMsgFirstSteps Pigliate un pocu di tempu à avvizzavvi à i primi passi.
+SLangMsgShutdownInfo Aspettate per piacè chì {1} si chjodi.
+SLangWrnAppIsAlreadyRunning Un instanza di st’appiecazione hè dighjà in corsu.
+SLangWrnAppHasToBeRestarted Mp3tag deve esse rilanciatu per appiecà i cambiamenti.\n\nVulete rilancià Mp3tag avà ?
+SLangWrnNameContainsInvalidCharacters A discrizzione cuntene caratteri micca accettevule.\n\n» Ci vole à impiegà un’altra discrizzione.
+SLangWrnStartLogging Avete lanciatu {1} cù u parametru di linea di cumanda FLOG1. Stu parametru hè impiegatu in u scopu di spannà.\n\nVulete principià l’arregistramentu di i messaghji ?
+_C_ABORT &Interrompe
+_C_ABORTING Interruzzione…
+_C_APP_ST_ALBUM &Albumu
+_C_APP_ST_ARTIST Art&ista
+_C_APP_ST_COMMENT &Cummentu
+_C_APP_ST_FOLDER &Cartulare
+_C_APP_ST_GENRE &Generu
+_C_APP_ST_TITLE &Titulu
+_C_APP_ST_TRACK T&raccia
+_C_APP_ST_YEAR A&nnu
+_C_CANCEL &Abbandunà
+_C_CANCELING Abbandonu…
+_C_CLOSE &Chjode
+_C_DLG_CDDBCONFIRM_CAPTION Lista di i risultati di ricerca…
+_C_DLG_CDDBCONFIRM_CHK_DISCID Cupià l’ID di u discu ver di u campu di cummentu
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 Cupià l’ID di u discu ver di u campu DISCID
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER Aghjuntitura…
+_C_DLG_CDDBCONFIRM_CHK_SORT Sugerisce l’ordine
+_C_DLG_CDDBCONFIRM_ST_INFO Più d’un elementu hè statu trovu.\nCi vole à scegliene unu :
+_C_DLG_CDDBCONFIRM_ST_INFO2 Ci hè {2} risultati trovi in a banca di dati {1}.\nCi vole à scegliene unu :
+_C_DLG_CDDBCONFIRM_STC_TOP Accuncià l’infurmazioni d’etichetta
+_C_DLG_CDDBINPUT_CAPTION Scrivite l’ID freeDB
+_C_DLG_CDDBINPUT_ST_CATEGORY Categuria :
+_C_DLG_CDDBINPUT_ST_ID ID freeDB :
+_C_DLG_CDDBSTYLE_CAPTION freedb
+_C_DLG_CDDBSTYLE_RD_CDROM determinà à partesi di u CD &audio tramessu
+_C_DLG_CDDBSTYLE_RD_ENTER dà u so numeru
+_C_DLG_CDDBSTYLE_RD_MP3 determinà da i schedarii selezziunati
+_C_DLG_CDDBSTYLE_RD_SEARCH determinà via una ricerca web
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL determinà via una ricerca testuale
+_C_DLG_CDDBSTYLE_STC_TOP ID freeDB…
+_C_DLG_COLUMNS_CAPTION Culonne
+_C_DLG_COLUMNS_TOP Accuncià a vista di e culonne
+_C_DLG_TAGS Mudificà l’infurmazioni d’etichetta
+_C_DLG_TTF_TOP Selezziunà u furmatu
+_C_HELP Ai&utu
+_C_MNU_ACTIONS &Azzioni\tALT+6
+_C_MNU_CON &Cunvertisce
+_C_MNU_CON_FTF &Nome di schedariu - Nome di schedariu\tALT+3
+_C_MNU_CON_FTT Nome di &schedariu - Etichetta\tALT+2
+_C_MNU_CON_TFF Schedariu di &testu - Etichetta\tALT+4
+_C_MNU_CON_TTF &Etichetta - Nome di schedariu\tALT+1
+_C_MNU_CON_TTT Et&ichetta - Etichetta\tALT+5
+_C_MNU_EDIT &Mudificà
+_C_MNU_EDIT_COPY C&upià\tCtrl+C
+_C_MNU_EDIT_CUT &Taglià\tCtrl+X
+_C_MNU_EDIT_INVERTSELECTION &Arritrusà a selezzione\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT Selezziunà u schedariu s&eguente\tCtrl+N
+_C_MNU_EDIT_PASTE &Incullà\tCtrl+V
+_C_MNU_EDIT_SELECT Sele&zziunà tutti i schedarii\tCtrl+A
+_C_MNU_EDIT_UNDO Dis&fà\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL &Deselezziunà tuttu\tCtrl+U
+_C_MNU_EXTRA A&ttrezzi
+_C_MNU_EXTRA_OPTIONS &Ozzioni…\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS &Rimette à zeru tutti i campi d’entrata\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS Valori predefiniti in i campi d’entrata\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD &Assistente di numerazione autumatica di traccia…\tCtrl+K
+_C_MNU_FILE &Schedariu
+_C_MNU_FILE_ADD Aghjunghje un cartulare…
+_C_MNU_FILE_CDDB &freedb…\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL freedb (&Lucale)…\tCtrl+L
+_C_MNU_FILE_COPY C&upià…
+_C_MNU_FILE_DELETE Squassà…
+_C_MNU_FILE_DIR Cam&bià di cartulare…\tCtrl+D
+_C_MNU_FILE_EXIT E&sce\tAlt+F4
+_C_MNU_FILE_EXPORT &Espurtà…\tCtrl+E
+_C_MNU_FILE_FAVDIR Cartulare &favuritu\tCtrl+F
+_C_MNU_FILE_MOVE Dis&piazzà…
+_C_MNU_FILE_PLALL Lista di lettura (tu&tti i schedarii)\tCtrl+P
+_C_MNU_FILE_PLAY Sunà
+_C_MNU_FILE_PLAYLIST Ca&ricà a lista di lettura / a scheda CUE…
+_C_MNU_FILE_PLSEL Lista di lettura (schedarii sele&zziunati)
+_C_MNU_FILE_PROPERTIES Pruprietà…
+_C_MNU_FILE_READ &Leghje l’etichetta\tCtrl+T
+_C_MNU_FILE_REMOVE &Caccià l’etichetta\tCtrl+R
+_C_MNU_FILE_REMOVEFILE &Caccià\tDel
+_C_MNU_FILE_RENAME &Rinumà\tF2
+_C_MNU_FILE_SAVE &Arregistrà l’etichetta\tCtrl+S
+_C_MNU_FILE_SAVECONFIG Arregistrà a c&unfigurazione…
+_C_MNU_FREEDB &freedb
+_C_MNU_FREEDB_INDEX Creà un indice lucale
+_C_MNU_FS_EXT Campi allungati
+_C_MNU_FS_FNCT Funzioni
+_C_MNU_FS_INFO Campi d’infurmazione
+_C_MNU_FS_REM Caccià da u storicu
+_C_MNU_FS_REMALL Caccià tuttu da u storicu…
+_C_MNU_FS_REMALL_MSG Site sicuru di vulè caccià tutti l’elementi ?
+_C_MNU_HELP Ai&utu
+_C_MNU_HELP_ABOUT &Apprupositu di Mp3tag…
+_C_MNU_HELP_DONATE &Rigalà
+_C_MNU_HELP_FINDER &Cuntenutu…\tF1
+_C_MNU_HELP_FIRSTSTEPS &Primi passi
+_C_MNU_HELP_KEYBOARD Accurtatoghji di &tastera
+_C_MNU_HELP_SUPPORT Assistenza &inlinea…
+_C_MNU_HELP_UPGRADE Ricercà e nove &versioni…
+_C_MNU_HELP_WWW Situ &web di Mp3tag…
+_C_MNU_TAGSOURCES Urigine di l’&etichetta
+_C_MNU_TOOLS A&ttrezzi
+_C_MNU_VIEW &Leghje
+_C_MNU_VIEW_COLUMNS &Persunalizà e culonne…
+_C_MNU_VIEW_FILTER &Filtru\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY Appiecazione autumatica di filtru
+_C_MNU_VIEW_ID3 Finestra di campi d’&etichetta\tCtrl+Q
+_C_MNU_VIEW_REFRESH &Attualizà\tF5
+_C_MNU_VIEW_SORTBY &Classificà da
+_C_MNU_VIEW_TAGS Etichette A&llungate…\tALT+T
+_C_MNU_VIEW_TOOLBAR &Barra d’attrezzi
+_C_MNU_SB_ACTIONS Appiecheghja l’azzioni definite da l’utilizatore (minuscule/maiuscule, rimpiazamentu, …) à i schedarii selezziunati.
+_C_MNU_SB_CON_FTF Rinumà i schedarii cù un mudellu basatu nant’à i vechji nomi.
+_C_MNU_SB_CON_FTT Impurtà l’etichette da i nomi di schedariu.
+_C_MNU_SB_CON_TFF Impurtà l’etichette da i schedarii di testu.
+_C_MNU_SB_CON_TTF Rinumà i schedarii cù un mudellu basatu nant’à l’etichette.
+_C_MNU_SB_CON_TTT Creà campi d’etichette da d’altri campi chì esistenu.
+_C_MNU_SB_EDIT_COPY Cupià a selezzione di testu o l’etichette di u schedariu selezziunatu ver di u preme’papei.
+_C_MNU_SB_EDIT_CUT Taglià a selezzione di testu o l’etichette di u schedariu selezziunatu dispiazzendullu ver di u preme’papei.
+_C_MNU_SB_EDIT_INVERTSELECTION Arritrusà a selezzione.
+_C_MNU_SB_EDIT_NEXT Selezziunà u schedariu seguente in a vista.
+_C_MNU_SB_EDIT_PASTE Incullà u cuntenutu di u preme’papei à u locu indicatu o in u schedariu selezziunatu.
+_C_MNU_SB_EDIT_SELECT Selezziunà tutti i schedarii di a vista.
+_C_MNU_SB_EDIT_UNDO Disfà l’ultima operazione.
+_C_MNU_SB_EDIT_UNSELECTALL Deselezziunà tutti i schedarii.
+_C_MNU_SB_EXTRA_OPTIONS Affissà a finestra di l’ozzioni.
+_C_MNU_SB_EXTRA_RESET_EDITS Caccià u testu da tutti i campi in a finestra d’etichetta.
+_C_MNU_SB_EXTRA_SET_EDITS Tramette i valori predefiniti in tutti i campi di a finestra d’etichetta.
+_C_MNU_SB_EXTRA_TRACKWIZARD Avvià l’assistente di numerazione autumatica di traccia.
+_C_MNU_SB_FILE_ADD Aghjunghje un cartulare à a lista di i schedarii.
+_C_MNU_SB_FILE_CDDB Ottene l’infurmazioni apprupositu di u CD caricatu o di i schedarii audio selezziunati via una cunnessione internet.
+_C_MNU_SB_FILE_CDDBLOCAL Ottene l’infurmazioni apprupositu di u CD caricatu o di i schedarii audio selezziunati via a banca di dati freedb lucale.
+_C_MNU_SB_FILE_COPY Cupià i schedarii selezziunati ver di un cartulare specificatu.
+_C_MNU_SB_FILE_DELETE Squassà i schedarii selezziunati.
+_C_MNU_SB_FILE_DIR Cambià di cartulare di travagliu currente.
+_C_MNU_SB_FILE_EXIT Chità l’appiecazione.
+_C_MNU_SB_FILE_EXPORT Espurtà l’etichetta è l’infurmazione di schedariu da schedarii selezziunati.
+_C_MNU_SB_FILE_FAVDIR Impiegà u cartulare predefinitu.
+_C_MNU_SB_FILE_FREEDBINDEX Creà l’indice di a banca di dati freedb lucale per a ricerca da a freedb lucale.
+_C_MNU_SB_FILE_MOVE Dispiazzà i schedarii selezziunati ver di un cartulare specificatu.
+_C_MNU_SB_FILE_PLALL Creà a lista di lettura cù tutti i schedarii.
+_C_MNU_SB_FILE_PLAY Sunà i schedarii selezziunati.
+_C_MNU_SB_FILE_PLAYLIST Caricà u cuntenutu di una lista di lettura.
+_C_MNU_SB_FILE_PLSEL Creà a lista di lettura cù i schedarii selezziunati.
+_C_MNU_SB_FILE_PROPERTIES Affissà e pruprietà di u schedariu selezziunatu.
+_C_MNU_SB_FILE_READ Caricà l’etichette di u schedariu selezziunatu in a finestra d’etichetta.
+_C_MNU_SB_FILE_REMOVE Caccià l’etichette da i schedarii selezziunati.
+_C_MNU_SB_FILE_REMOVEFILE Caccià i schedarii selezziunati da a lista.
+_C_MNU_SB_FILE_RENAME Rinumà u schedariu selezziunatu.
+_C_MNU_SB_FILE_SAVE Arregistrà l’etichette in i schedarii selezziunati.
+_C_MNU_SB_FILE_SAVECONFIG Arregistrà e preferenze attuale in un schedariu di cunfigurazione.
+_C_MNU_SB_HELP_ABOUT Infurmazione apprupositu di Mp3tag.
+_C_MNU_SB_HELP_CONTEXT Affissà l’aiutu cuntestuale per i campi, dialoghi è finestre.
+_C_MNU_SB_HELP_DONATE Podasse hè l’ora di fà una dunazione per sustene u sviluppu di Mp3tag.
+_C_MNU_SB_HELP_FINDER Affissà e rubriche di l’aiutu (in inglese).
+_C_MNU_SB_HELP_FIRSTSTEPS Affissà un cortu introitu à Mp3tag (in inglese).
+_C_MNU_SB_HELP_KEYBOARD Affissà a lista di l’accurtatoghji di a tastera (in inglese).
+_C_MNU_SB_HELP_SUPPORT Andà nant’à i fori di a cumunità Mp3tag.
+_C_MNU_SB_HELP_UPGRADE Cuntrollà e nove &versioni di Mp3tag.
+_C_MNU_SB_HELP_WWW Andà nant’à u situ web di Mp3tag.
+_C_MNU_SB_UPDIR Impiegà u cartulare genitore.
+_C_MNU_SB_VIEW_COLUMNS Affissà una finestra induve e culonne di a vista ponu esse persunalizate.
+_C_MNU_SB_VIEW_FILTER Sceglie i schedarii di a vista cù un filtru.
+_C_MNU_SB_VIEW_ID3 Affissà o piattà a finestra di campi d’etichetta.
+_C_MNU_SB_VIEW_REFRESH Attualizà a vista di i schedarii.
+_C_MNU_SB_VIEW_TAGS Affissà u dialogu di l’etichetta allungata.
+_C_MNU_SB_VIEW_TOOLBAR Affissà o piattà a barra d’attrezzi.
+_C_MNU_SB_WND_IDLE Prontu
+_C_MNU_SB_WND_MAXIMIZE Ingrandà a finestra à a dimensione sana di screnu
+_C_MNU_SB_WND_MINIMIZE Inchjuculì a finestra in a barra di tacche
+_C_MNU_SB_WND_MOVE Dispiazzà a finestra
+_C_MNU_SB_WND_RESTORE Rimette a finestra à a so dimensione nurmale
+_C_MNU_SB_WND_SIZE Cambià a dimensione di a finestra
+_C_MULTILINE Multilinea
+_C_OK &Vai
+_C_OPT_ACTIONGROUPS Gruppi d’azzione
+_C_OPT_ACTIONS Azzioni
+_C_OPT_ACTIONS_TYPE Selezziunà un tipu d’azzione
+_C_OPT_ADVANCED Espertu
+_C_OPT_ADVANCED_ID3V2LANG Codice lingua di cummentu ID3v2 (ISO-639-2)
+_C_OPT_ADVANCED_LISTCHAPTERS Listeghja i capituli cum’è schedarii spartuti
+_C_OPT_CAPTION Ozzioni
+_C_OPT_CDDB_CAPTION freedb
+_C_OPT_CDDB_CHK_USEPROXY Impiegà un &proxy
+_C_OPT_CDDB_FRM_CDDB Servitore freedb
+_C_OPT_CDDB_FRM_LOCALPATH &Passeghju di a freedb lucale :
+_C_OPT_CDDB_FRM_PROXY Proxy
+_C_OPT_CDDB_RD_FMT_UNIX Furmatu UNIX
+_C_OPT_CDDB_RD_FMT_WIN Furmatu Windows
+_C_OPT_CDDB_ST_ADDRESS &Indirizzu :
+_C_OPT_CDDB_ST_EMAIL Indirizzu &elettronicu :
+_C_OPT_CDDB_ST_NAME &Nome :
+_C_OPT_CDDB_ST_PATH &Passeghju :
+_C_OPT_CDDB_ST_PORT P&ortu :
+_C_OPT_CDDB_ST_PROXYNAME &Proxy :
+_C_OPT_CDDB_ST_PROXYPORT P&ortu :
+_C_OPT_CDDB_ST_PWD Parolla d’&intrata :
+_C_OPT_CDDB_ST_TIMEOUT &Cumportu d’attesa :
+_C_OPT_CDDB_ST_USERNAME Nome d’&utilizatore  :
+_C_OPT_CDDB3_CAPTION Lucale freedb
+_C_OPT_CON_FRM_FTT Nome di &schedariu - Etichetta
+_C_OPT_CON_FRM_TFF Schedariu di &testu - Etichetta
+_C_OPT_CON_FRM_TTF &Etichetta - Nome di schedariu
+_C_OPT_CON_ST_FNAME Nome di schedariu :
+_C_OPT_CON_ST_FS Furmatu di a catena :
+_C_OPT_DIR Cartulari
+_C_OPT_DIR_COVER Cartulare di cuprendula :
+_C_OPT_EMPTY_HINT Ci vole à selezziunà una rubrica inghjò
+_C_OPT_EXP_CAPTION Espurtà
+_C_OPT_EXP_CHK_APPEND Aghjunghje dati cumplementari
+_C_OPT_EXP_CHK_WRITEBOM Scrive u BOM per l’Unicode
+_C_OPT_EXP_FRM_EXPORT Cunfigurazione d’espurtazione
+_C_OPT_EXP_RD_TRACK Traccia
+_C_OPT_EXP_ST_FNAME Nome di schedariu d’espurtazione :
+_C_OPT_EXP_ST_NAME Nome di a nova cunfigurazione d’espurtazione
+_C_OPT_FMT_CASE Cunversione di caratteri 
+_C_OPT_FMT_FRM_FTF Nome di schedariu - Nome di schedariu
+_C_OPT_FMT_ST_BEGIN E parolle principianu da/dopu ogni :
+_C_OPT_FMT_ST_FNAME_NEW Mudellu di u novu nome di schedariu :
+_C_OPT_FMT_ST_FNAME_OLD Mudellu di u vechju nome di schedariu :
+_C_OPT_FMT2 Rimpiazzà
+_C_OPT_FMT2_CASE Sfarenzià maiuscule è minuscule
+_C_OPT_FMT2_COL_ORIGINAL Uriginale 
+_C_OPT_FMT2_COL_REPLACE Rimpiazzà cù 
+_C_OPT_FMT2_ONLYWORDS Solu e parolle sane
+_C_OPT_GEN_CAPTION Generale
+_C_OPT_GEN_CHK_AUTOSAVE Arregistrà l’etichette cù e &fleccie per navigà o un cliccu simplice
+_C_OPT_GEN_CHK_FOLDERSTART Principià da stu cartulare
+_C_OPT_GEN_CHK_GRID Affissà linee quadrittate nant’à a vista di i schedarii
+_C_OPT_GEN_CHK_JUMPONEDIT Selezziunà autum. u seguente in a vista di mudificazione
+_C_OPT_GEN_CHK_KEEPFILETIME Cunservà data è ora d’urigine à l’arregistr. di l’etichette
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Cunservà i schedarii dispiazzati in a lista di i schedarii
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS à l’avertimenti da l’Azzioni
+_C_OPT_GEN_CHK_MSG_CHANGE dopu un cambiamentu
+_C_OPT_GEN_CHK_MSG_CUT à a tagliatura d’etichette
+_C_OPT_GEN_CHK_MSG_DEL dopu una squassatura
+_C_OPT_GEN_CHK_MSG_DELETEFILE à a squassatura di schedarii
+_C_OPT_GEN_CHK_MSG_EXPORT à l’espurtazione d’etichette
+_C_OPT_GEN_CHK_MSG_PASTE à l’incullatura d’etichette
+_C_OPT_GEN_CHK_MSG_REMOVETAGS à a cacciatura d’etichetta
+_C_OPT_GEN_CHK_MSG_SAVE dopu l’arregistramentu
+_C_OPT_GEN_CHK_PL Creà autumaticamente a &lista di lettura
+_C_OPT_GEN_CHK_RELPL Entrate relative à u cartulare di travagliu currente
+_C_OPT_GEN_CHK_AUTOCOMPLETE Riempiimentu autumaticu di i campi selezziunati
+_C_OPT_GEN_CHK_SELECTFILES Selezzione autumatica di i schedarii
+_C_OPT_GEN_CHK_SORTNATURAL Impiegà l’ordine naturale
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH &Affissà u cartulare currente in u titulu di a finestra
+_C_OPT_GEN_FRM_GEN Generale
+_C_OPT_GEN_FRM_MSG Affissà un messaghju
+_C_OPT_GEN_FRM_PL &Nome di schedariu di a lista di lettura
+_C_OPT_GEN_RD_PLALL da tutti i schedarii
+_C_OPT_GEN_RD_PLSEL da i schedarii selezziunati
+_C_OPT_GEN_ST_FAVDIR Cartulare favuritu :
+_C_OPT_GEN2_CAPTION Messaghji
+_C_OPT_GENRES Generi definiti da l’utilizatore
+_C_OPT_GENRES_HIDESTANDARD Affissà solu i generi definiti da l’utilizatore
+_C_OPT_ID3_CHK_ISO88591 Sempre scrive l’etichette à u furmatu ISO-8859-1 piuttostu chì UTF-16
+_C_OPT_ID3_CHK_LEADINGZEROS Zeru davanti à u numeru di traccia (01, 02, …)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND Impiegà ID3v2 solu s’è ID3v1 hè troppu chjucu
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ Leghje
+_C_OPT_ID3_FRM_REMOVE Caccià
+_C_OPT_ID3_FRM_WRITE Scrive
+_C_OPT_LIB Bibliuteca
+_C_OPT_LIB_CHK_ENABLE Attivà a bibliuteca
+_C_OPT_LIB_CHK_RESTRICT Include solu sti cartulari
+_C_OPT_LIB_CLEANUP Nettà a bibliuteca
+_C_OPT_MAPPING Cartugrafia
+_C_OPT_MAPPING_FRM Cartugrafie di campi definite da l’utilizatore 
+_C_OPT_MAPPING_SOURCE Urigine
+_C_OPT_MAPPING_TARGET Destinazione
+_C_OPT_PLAYLIST_CAPTION Lista di lettura
+_C_OPT_PLAYLIST_EXTENDED Scrive l’infurmazioni allungate :
+_C_OPT_PLAYLIST_NOFOLDERS Ùn creà micca cartulari
+_C_OPT_PLAYLIST_SHOWDLG Presentà u dialogu di cunfirmazione di nome di schedariu
+_C_OPT_TAG Etichette
+_C_OPT_TAGS_COVER Nome di schedariu predefinitu per a cuprendula :
+_C_OPT_TAGS_EXT Modu d’arregistramentu per << è >> in dialogu d’etichette allungate :
+_C_OPT_TAGS_FILEFILTER Limità i schedarii entrendu à :
+_C_OPT_TAGS_NOIMG Ùn affissà &micca cum’è cuprendula a 1a fiura di u cartulare
+_C_OPT_TOOLS Attrezzi
+_C_OPT_TOOLS_CHK_DEFAULT Impiegà un prugramma appostu cù doppiu-cliccu :
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES per tutti i schedarii selezziunati
+_C_OPT_TOOLS_COL_PARAM Parametru
+_C_OPT_TOOLS_COL_PATH Passeghju
+_C_OPT_TOOLS_EDIT Persunalizà l’attrezzu.  Nome è passeghju sò indispensevule.
+_C_OPT_TOOLS_FRM_DEFAULT Attrezzu predefinitu
+_C_OPT_TOOLS_FRM_TOOLS Attrezzi
+_C_OVERWRITE Riscrive &sopra
+_C_RENAME &Rinumà
+_C_TT_CDDB freedb…
+_C_TT_CDDBLOCAL freedb (lucale)…
+_C_TT_CLOSE Chjode
+_C_TT_DIR Cambià di cartulare…
+_C_TT_EDIT_UNDO Disfà
+_C_TT_EXPORT Espurtà
+_C_TT_FAVDIR Cartulare favuritu
+_C_TT_FILE_ADD Aghjunghje un cartulare…
+_C_TT_FILE_COPY Cupià ver di…
+_C_TT_FILE_DELETE Squassà…
+_C_TT_FILE_MOVE Dispiazzà ver di…
+_C_TT_FILE_PLAY Sunà
+_C_TT_FILE_PROPERTIES Pruprietà…
+_C_TT_FILE_RENAME Rinumà
+_C_TT_FTF Nome di schedariu - Nome di schedariu
+_C_TT_FTT Nome di schedariu - Etichetta
+_C_TT_HELP Rubriche d’aiutu…
+_C_TT_OPT Finestra di l’ozzioni…
+_C_TT_PLALL Creà a lista di lettura cù tutti i schedarii
+_C_TT_PLSEL Creà a lista di lettura cù i schedarii selezziunati
+_C_TT_REFRESH Attualizà a vista di i schedarii
+_C_TT_REMOVE Caccià l’etichetta
+_C_TT_SAVE Arregistrà
+_C_TT_TFF Schedariu di testu - Etichetta
+_C_TT_TTF Etichetta - Nome di schedariu
+_C_TT_TTT Etichetta - Etichetta
+_C_TT_UPDIR Cartulare genitore
+_C_WIZARD_TRACKS Assistente di numerazione autumatica di traccia
+_C_WIZARD_TRACKS_BEGIN Principià à a traccia numeru :
+_C_WIZARD_TRACKS_DESC Attribuì traccia- è numeri di discu
+_C_WIZARD_TRACKS_DISC_BEGIN Principià à u numeru di discu
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Zeru davanti à u numeru di discu (01, 02, …)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Arregistrà u numeru tutale di dischi
+_C_WIZARD_TRACKS_DISCNUMBER Numeru di discu
+_C_WIZARD_TRACKS_RESETFOLDERS Rimette u contu à zeru per ogni cartulare
+_C_WIZARD_TRACKS_SAVETOTAL Arregistrà u numeru tutale di traccie
+_C_WIZARD_TRACKS_TRACKNUMBER Numeru di traccia
+_M_ERR_CANCEL Prucessu abbandunatu.
+_M_ERR_CDDB_CD Sbagliu di lettura di u CD audio
+_M_ERR_CDDB_CONNECT Sbagliu di cunnessione à u servitore : {1}
+_M_ERR_CDDB_NOENTRY Alcuna entrata adattata ùn hè stata trova per l’ ID freedb {1}.
+_M_ERR_CDDB_NOENTRYINLOCALBD Alcuna entrata adattata ùn hè stata trova per l’ ID freedb {1} in a banca di dati freedb lucale ’{2}’.
+_M_ERR_CDDB_PARSER A richiesta ùn hà restituitu alcunu risultatu.
+_M_ERR_CDDB_READ Sbagliu di lettura di dati da {1}
+_M_ERR_CONFIGURATION Ùn pò micca impurtà a cunfigurazione.
+_M_ERR_COPY Ùn pò micca cupià i schedarii selezziunati !
+_M_ERR_DELETE Ùn pò micca squassà i schedarii selezziunati !
+_M_ERR_FILECREATE U schedariu \"{1}\" ùn pò micca esse creatu.
+_M_ERR_FILEDELETE U schedariu \"{1}\" ùn pò micca esse squassatu.
+_M_ERR_FILENAMEALREADYEXISTS U schedariu \"{1}\" esiste dighjà.
+_M_ERR_FILENAMEALREADYEXISTS2 U schedariu \"{1}\" ùn hè micca statu rinumatu.
+_M_ERR_FILEOPABORTED U cuntenutu di u cartulare currente po esse statu cambiatu.\n\nVulete leghje torna u cartulare currente ?
+_M_ERR_FILEOPEN U schedariu \"{1}\" ùn pò micca esse apertu.
+_M_ERR_FILEREADONLY U schedariu \"{1}\" hè prutettu da scrittura.\n\nMp3tag deve caccià sta prutezzione da stu schedariu è di tutti l’altri in u listessu casu ?
+_M_ERR_FOLDERCANNOTBEACCESSED Sbagliu d’accessu\n\nU cartulare \"{1}\" ùn hè micca accessibule.
+_M_ERR_INVALID_FILENAME Ci vole à specificà un nome di schedariu accettevule.
+_M_ERR_INVALID_FTF_FS A catena \"{1}\" ùn hè micca accettevule per i nomi di schedariu.
+_M_ERR_INVALID_TOKEN {1}:\nSti caratteri ùn ponu micca stà in i nomi di schedariu :\n\\ / : * ?  \" < > |\n\nVulete chì a currezzione sia autumatica ?
+_M_ERR_MOVE Fiascu di a mossa di i schedarii selezziunati !
+_M_ERR_ONLINE_NOTFOUND Per disgrazia alcuna entrata ùn currisponde à i vostri criterii di ricerca.
+_M_ERR_OPT_CDDB_NOADDRESS Ci vole à scrive l’indirizzu di u servitore freedb.
+_M_ERR_OPT_CDDB_NOEMAIL Ci vole à scrive u vostru indirizzu email in ’Ozzioni, freedb, Servitore’. Quessu serà impiegatu per l’accessu à u servitore freedb.
+_M_ERR_OPT_CDDB_NONAME Ci vole à scrive un nome accettevule per a cunfigurazione.
+_M_ERR_OPT_CDDB_NOPORT Ci vole à scrive u numeru di portu di u servitore freedb.
+_M_ERR_PARSELINE Ùn hè micca pussibule d’analizà a linea {1}.
+_M_ERR_PLAY Ùn hè micca pussibule d’apre u schedariu \"{1}\" per sunallu !
+_M_ERR_READ_FILE U schedariu \"{1}\" ùn pò micca esse apertu per a lettura.
+_M_ERR_RENAME_FILE U schedariu \"{1}\" ùn pò micca esse rinumatu in \"{2}\".
+_M_ERR_RETRY Do you want to retry?
+_M_ERR_TL_NOTAGS Alcuna entrata ùn currisponde per u schedariu \"{1}\".
+_M_ERR_WRITE_FILE U schedariu \"{1}\" ùn pò micca esse apertu per a scrittura.
+_M_ERR_YN \n\nVulete cuntinuà ?
+_M_LOG_FMT_FNAME {1} schedariu(i) di {2} rinumatu(i).\n
+_M_LOG_FMT_TAG Etichette create per {1} schedariu(i) di {2}.\n
+_M_LOG_FTF {1} schedariu(i) di {2} rinumatu(i).
+_M_LOG_FTT Etichette estratte da {1} nome(i) di schedariu di {2}.
+_M_LOG_PL_ALL Lista di lettura \"{1}\" creata da tutti i ({2}) schedarii.
+_M_LOG_PL_SEL Lista di lettura \"{1}\" creata da i ({2}) schedarii selezziunati.
+_M_LOG_REMOVE Etichetta cacciata da u schedariu \"{1}\".
+_M_LOG_REMOVED Etichette cacciate da {1} schedariu(i) di {2}.
+_M_LOG_REMOVE_NOTAG Alcuna etichetta in u schedariu \"{1}\".
+_M_LOG_SAVE Etichetta arregistrata in u schedariu \"{1}\".
+_M_LOG_SAVED Etichette arregistrate in {1} schedariu(i) di {2}.
+_M_LOG_TFF Etichette impurtate da \"{1}\" ver di {2} schedariu(i) di {3}.
+_M_LOG_TFF_S Etichette impurtate da \"{1}\" ver di unu schedariu.
+_M_LOG_TTF {1} schedariu(i) di {2} rinumatu(i).
+_M_STAT_PLAY Sunata di u schedariu \"{1}\" in corsu…
+_M_STR_ACTION_ADJUSTCOVER Adjust cover
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Format
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
+_M_STR_ACTION_CODEPAGE Cunvertisce a pagina di codice
+_M_STR_ACTION_CODEPAGE_DESC Pagina di codice
+_M_STR_ACTION_EXPORTCOVER Espurtà a cuprendula ver di un schedariu
+_M_STR_ACTION_EXPORTCOVER_DUPES Espurtà e cuprendule in doppiu
+_M_STR_ACTION_EXPORTCOVER_TYPES Espurtà solu e cuprendule di tipu
+_M_STR_ACTION_FORMAT Furmà u valore
+_M_STR_ACTION_GUESS Induvinà i valori
+_M_STR_ACTION_GUESSPATTERN Induvina i mudelli
+_M_STR_ACTION_GUESSSOURCE Furmatu d’urigine
+_M_STR_ACTION_IMPORTCOVER Impurtà a cuprendula da u schedariu
+_M_STR_ACTION_IMPORTCOVER_FS Furmatu di catena per i nomi di schedariu di fiura:
+_M_STR_ACTION_IMPORTCOVER_DELETE &Squassà a cuprendula chì esiste
+_M_STR_ACTION_IMPORTCOVER_TYPE Impurtà a cuprendula cum’è :
+_M_STR_ACTION_IMPORTTEXT Impurtà u schedariu di testu
+_M_STR_ACTION_MERGEDUPLICATEFIELDS Unisce i campi in doppiu
+_M_STR_ACTION_REGEXP Rimpiazzà cù una spressione regulare
+_M_STR_ACTION_REGEXP_EXP Spressione regulare
+_M_STR_ACTION_REGEXP_MATCH Rimpiazzà e currispundenze cù
+_M_STR_ACTION_REMOVEDUPES Caccià i campi in doppiu
+_M_STR_ACTION_REM Caccià i campi
+_M_STR_ACTION_REM_DESC Campi à caccià (staccati cù puntu-virgula) :
+_M_STR_ACTION_REM_EX Caccià i campi for di
+_M_STR_ACTION_REM_EX_DESC Campi à lascià (staccati cù puntu-virgula) :
+_M_STR_ACTION_SPLITFIELDS Sparte i campi da un separadore
+_M_STR_ACTIONGROUP_NAME Nome di u gruppu d’azzione
+_M_STR_ALBUM Albumu
+_M_STR_ALBUMARTIST Artista di l’albumu
+_M_STR_ALL_FILEDLGFILTER Tutti i schedarii (*.*)|*.*||
+_M_STR_ARTIST Artista
+_M_STR_AUTHOR Autore
+_M_STR_BACK < &Precedente
+_M_STR_BROWSE_COPY Cupià ver di :
+_M_STR_BROWSE_MOVE Dispiazzà ver di :
+_M_STR_BROWSE_TEXT Ci vole à selezziunà un cartulare chì cuntene schedarii audio.
+_M_STR_BYTES Ottetti
+_M_STR_CDDB_CD Leghje u CD Audio
+_M_STR_CDDB_CONNECT cunnessione à {1}…
+_M_STR_CDDB_CONNECTED  cunnettu !
+_M_STR_CDDB_IDXDB_ENTRIES Entrate di a banca di dati create
+_M_STR_CDDB_RETRIEVE Riceve l’infurmazione di Titulu
+_M_STR_COLUMNFILENAME Nome
+_M_STR_COLUMNPATH Passeghju
+_M_STR_COLUMNUSEDCOLS affissatu
+_M_STR_COMBO_HOLD < cunservà >
+_M_STR_COMBO_REMOVE < biancu >
+_M_STR_COMBO_USER < entre >
+_M_STR_COMMENT Cummentu
+_M_STR_COMPOSER Cumpositore
+_M_STR_COPYOF Copia di {1}
+_M_STR_COVER Cuprendula
+_M_STR_COVER_ADD Vulete cunservà e cuprendule chì esistenu ?
+_M_STR_COVER_CORRECTAR Currege l’aspettu di a fiura
+_M_STR_COVER_SETDESC Definisce a &discrizzione di a cuprendula…
+_M_STR_COVER_SETTYPE Definisce u &tipu di cuprendula
+_M_STR_COVERVARIES Cuprendule sfarente
+_M_STR_CUSTOMIZE Persunalizà…
+_M_STR_DAY ghjornu
+_M_STR_DAYS ghjorni
+_M_STR_DEFAULTVALUE Valore predefinitu
+_M_STR_DISCID ID di a CDDB
+_M_STR_DISCOGS_OAUTH_PIN Scrivite u codice d’autorizazione Discogs
+_M_STR_DISCNUMBER Numeru di discu
+_M_STR_ERR_CDDB_NOENTRYSELECTED Selezziunate un elementu.
+_M_STR_EXPORT_DELETE Squassà a cunfigurazione d’espurtazione \"{1}\" ?
+_M_STR_EXPORT_FILEDLGTITLE Selezziunà u schedariu d’espurtazione
+_M_STR_EXPORT_MULTIPLE Unu schedariu per unu cartulare
+_M_STR_EXPORT_SHOWEXPORTFILE \n\nAffissà u schedariu d’espurtazione avà ?
+_M_STR_EXP_MSG L’infurmazioni di {2} schedariu(i) sò state espurtate ver di ’{1}’.
+_M_STR_FIELD &Campu :
+_M_STR_FIELDSIZE Dimensione di campu
+_M_STR_FIELDROWS Linee
+_M_STR_FILE Schedariu
+_M_STR_FILEDELETE Site sicuru di squassà tutti i schedarii selezziunati ?
+_M_STR_FILEMODIFIED Mudificatu
+_M_STR_FILESIZE Dimensione
+_M_STR_FILTER &Filtru :
+_M_STR_FMT_CAPITAL Maiuscula Per Ogni Parolla
+_M_STR_FMT_HIGH SOLU MAIUSCULE
+_M_STR_FMT_LOW solu minuscule
+_M_STR_FMT_SENTENCE Maiuscula à u principiu di a frasa
+_M_STR_FREEDBCREATEINDEX Creà l’indice di a banca di dati freedb lucale ?\n\nQuessu pò piglià un pocu di tempu.
+_M_STR_FREEDB_SEARCH Ricerca freedb nant’à u Web
+_M_STR_GENRE Generu
+_M_STR_GENRES Generi
+_M_STR_HIDE &Piattà
+_M_STR_ITEMALREADYEXISTS Un elementu di stu nome esiste dighjà, vulete rimpiazzallu ?
+_M_STR_LANGUAGE Lingua
+_M_STR_M3U_FILEDLGFILTER Schedarii accettati (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_METADATA &Metadati
+_M_STR_MOVEDOWN Move in&ghjò
+_M_STR_MOVEUP Move in&sù
+_M_STR_MPEGBITRATE Bitrate
+_M_STR_MPEGFREQUENCY Frequenza
+_M_STR_MPEGLENGTH Durata
+_M_STR_MPEGMODE Modu
+_M_STR_MPEGVERSION Codec
+_M_STR_MSGCUT Site sicuru di vulè caccià l’etichette da i schedarii selezziunati è cupialle ver di u preme’papei ?
+_M_STR_MSGPASTE Site sicuru di vulè incullà u cuntenutu di u preme’papei cum’è nove etichette di i schedarii selezziunati ?
+_M_STR_MSGREMOVE Site sicuru di vulè caccià l’etichette da i schedarii selezziunati ?
+_M_STR_NAME &Nome :
+_M_STR_NETWORKING Reta
+_M_STR_NEXT &Seguente >
+_M_STR_NOACTION - Alcuna azzione -
+_M_STR_NOACTIONENABLED Ci vole à attivà almenu un’azzione quandu voi impiegate sta funzione.
+_M_STR_NUMERIC N&umericu
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH Ci vole à selezziunà un cartulare di travagliu per a banca di dati freedb lucale.
+_M_STR_OPT_CDDB_PROCEED Quessu hà da caccià tutti i Servi !\n\nVulete cuntinuà ?\n
+_M_STR_OPTIMIZEMP4 Megliurà MP4
+_M_STR_OPTS_ALWAYS sempre
+_M_STR_OPTS_ASK dumandà
+_M_STR_OPTS_NEVER mai
+_M_STR_PLNAME Lista di lettura - Nomi di schedariu
+_M_STR_PL_CONFIRM Creà a lista di lettura cù stu nome
+_M_STR_PL_SAVEFILTER Lista di lettura (*.m3u)|*.m3u|Lista di lettura in Unicode (*.m3u8)|*.m3u8||
+_M_STR_PREVIEW Avvistu
+_M_STR_PROPERTIES Pruprietà di {1}
+_M_STR_QUICK &Prontu
+_M_STR_RECURSE Sottu-cartulari
+_M_STR_REST U restu
+_M_STR_SAVE_NOT < senza associu >
+_M_STR_SAVECONFIG E vostre preferenze sò arregistrate ver di ’{1}’.\n\nPer rimette e vostre preferenze cum’è à l’urigine, estrae l’archiviu ver di\n\"{2}\".
+_M_STR_SAVECONFIG_FILEDLGFILTER Schedarii di cunfigurazione (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE Arregistrà a cunfigurazione in…
+_M_STR_SAVEIMAGE Arregistrà a fiura in l’etichetta
+_M_STR_SAVEIMAGEDIRECTORY Arregistrà a fiura ver di u discu
+_M_STR_SAVESELECTION Arregistrà a selezzione…
+_M_STR_SB_ABORTED interrottu
+_M_STR_SB_ACTION Azzioni in corsu nant’à u schedariu … {1} di {2}
+_M_STR_SB_CLEANUPDATABASE Trattamentu di schedariu in corsu … {1} di {2} ({3} nettati)
+_M_STR_SB_CLEANUPDATABASE_BINARIES Nettata di i binarii urfanelli
+_M_STR_SB_CLEANUPDATABASE_COVERS Nettata di e cuprendule urfanelle
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Nettà i schedarii chì ùn sò bibliuteca
+_M_STR_SB_EXPORTTAGS Espurtazione d’infurmazione d’etichetta … {1} arregistramenti di {2} schedariu(i)
+_M_STR_SB_LOADTAGS Lettura di dati d’etichetta … {1} di {2}
+_M_STR_SB_READDIRECTORY Lettura di u cartulare
+_M_STR_SB_REMOVETAGS Cacciatura di dati d’etichetta … {1} di {2}
+_M_STR_SB_RENAMEFILES Cambiamentu di nome di schedariu … {1} di {2}
+_M_STR_SB_WRITETAGS Scrittura di dati d’etichetta … {1} di {2}
+_M_STR_SHOWCHOOSEDLG Presentà u dialogu di selezzione
+_M_STR_SEARCHBY Ricerca da :
+_M_STR_SEARCHTEXT Testu :
+_M_STR_SEPARATOR Separadore
+_M_STR_SHOW &Affissà
+_M_STR_SIZE_LARGE Maiò
+_M_STR_SIZE_MEDIUM Medianu
+_M_STR_SIZE_NORMAL Nurmale
+_M_STR_SIZE_SMALLER Più chjucu
+_M_STR_SIZE_SMALL Chjucu
+_M_STR_SNA Spaziu di nutificazion
+_M_STR_SNA_SHOW Affissà sempre l’icona in u spaziu di nutificazione
+_M_STR_SNA_SHOWMIN Impuculì ver di u spaziu di nutificazione
+_M_STR_STRIPCHAPTERSMP4 Caccià i capituli MP4
+_M_STR_TAG_COPIED Etichette di {1} schedarii cupiate ver di u preme’papei.
+_M_STR_TAG2 Etichetta
+_M_STR_TAGFIELDS_REMOVE Caccià u campu
+_M_STR_TAGFIELDS_REMOVEALL Caccià tutti i campi…
+_M_STR_TAGFIELDS_REMOVEALLMSG Site sicuru di vulè caccià tutti i campi da sta lista ?
+_M_STR_TAGFIELDS_RESET Viutà i campi…
+_M_STR_TAGFIELDS_RESETMSG Site sicuru di vulè rimette a lista di campi à u so valore predefinitu ?
+_M_STR_TAGPANEL Finestra di campi d’etichetta
+_M_STR_TAGPANEL_COVER Affissà a cuprendula
+_M_STR_TAGPANEL_DIRECTORY Affissà a scelta di cartulare
+_M_STR_TAGLIST_FILEDLGFILTER Schedarii di testu ({1})
+_M_STR_TAGLIST_FILEDLGTITLE Selezziunà u schedariu di testu
+_M_STR_TAGSOURCES Urigine di l’etichetta
+_M_STR_THISALBUMON St’albumu nant’à {1}
+_M_STR_TITLE Titulu
+_M_STR_TRYAGAIN Vulete pruvà torna ?
+_M_STR_TTF Etichetta - Nome di schedariu
+_M_STR_UPDATE_FRM Rinnovi
+_M_STR_UPDATE_OPT_CHECK Cuntrollu di e nove versioni à u principiu
+_M_STR_UPDATE_OPT_CHECK_BETA Include dinù e versioni in corsu di sviluppu (Beta)
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Affissà l’annutazioni di versione per e nove versioni
+_M_STR_UPDATEAVAILABLE Una nova versione {1} hè dispunibule !\n\nVulete scaricà avà stu rinnovu da {2} ?
+_M_STR_UPDATENOTAVAILABLE Impiegate l’ultima versione {1}.\n\nAlcunu rinnovu ùn hè dispunibule.
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS &Attrezzi
+_M_STR_VALUE &Valore :
+_M_STR_VERSION Versione
+_M_STR_YEAR Annu
+_M_TP_CDDB_LOCALPATH Specificà u cartulare di freedb lucale
+_M_TP_CDDB_SITES Lista attuale di servitori freedb via Internet
+_M_TP_CVR_CLIPBOARD &Incullà a cuprendula
+_M_TP_CVR_CLIPBOARD_COPY Cupià a cuprendula
+_M_TP_CVR_CLIPBOARD_CUT &Taglià a cuprendula
+_M_TP_CVR_DEL &Caccià a cuprendula
+_M_TP_CVR_NEW &Aghjunghje una cuprendula…
+_M_TP_CVR_SAVE &Estrae a cuprendula…
+_M_TP_DUPLICATE Duplicà
+_M_TP_EXP_DEL &Squassà
+_M_TP_EXP_EDIT Mudificà
+_M_TP_EXP_FILE Selezziunà u schedariu d’espurtazione
+_M_TP_EXP_HLP Affissà l’aiutu prontu
+_M_TP_EXP_LOAD Caricà a cunfigurazione…
+_M_TP_EXP_NEW &Novu
+_M_TP_EXP_SAVE Arregistrà a cunfigurazione…
+_M_TP_GEN_DIR Selezziunà u cartulare
+_M_TP_TAG_DEL Caccià u campu
+_M_TP_TAG_EDIT Mudificà u campu…
+_M_TP_TAG_NEW Aghjunghje un campu…
+_M_TS_ADDINFO &Infurmazione addizziunale
+_M_TS_MULTIPLEVALUES valori multiplice
+_M_TS_RELEASE &Versione
+_M_TS_TRACKS &Traccie
+_M_UNDO_CANNOTUNDO Ùn pò micca disfà {1}
+_M_UNDO_CDDB freedb
+_M_UNDO_DIRECTORYCREATE Creà unu cartulare
+_M_UNDO_DIRECTORYMOVE Dispiazzà u cartulare
+_M_UNDO_FORMAT Furmatu
+_M_UNDO_FTF Nome di schedariu - Nome di schedariu
+_M_UNDO_FTT Nome di schedariu - Etichetta
+_M_UNDO_REMOVEFILE Caccià
+_M_UNDO_RENAME Rinumà
+_M_UNDO_TAGCHANGE Mudificà l’etichetta
+_M_UNDO_TAGREMOVE Caccià l’etichetta
+_M_UNDO_TAGSAVE Arregistrà l’etichetta
+_M_UNDO_TFF Schedariu di testu - Etichetta
+_M_UNDO_TTF Etichetta - Nome di schedariu

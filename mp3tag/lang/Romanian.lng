@@ -1,0 +1,622 @@
+﻿LANGAUTHOR Andrei-Felix Areanu
+LANGCONTACT 
+LANGVERSION 2.61a
+LANGNAME Romanian
+LANGNAMELOC Română
+SLangCancel Anulează
+SLangOk &OK
+SLangErrCatch Eroare la execuție\n\nFișier:\t{1}\nRând:\t{2}\n\nAplicația a întâlnit o excepție neprevăzută și se află într-o stare de nedefinit. Te rugăm să închizi aplicația și să trimiți echipei noastre de asistență fișierul\n\n{3}\n\nîmpreună cu o descriere detaliată a erorii.\n\ne-mail: support@mp3tag.de
+SLangErrCheck Eroare la execuție\n\nFișier:\t{1}\nRând:\t{2}\nTermen:\t{3}\nCod:\t0x{4}\n\nAplicația a întâlnit o excepție neprevăzută și se află într-o stare de nedefinit. Te rugăm să închizi aplicația și să trimiți echipei noastre de asistență fișierul\n\n{5}\n\nîmpreună cu o descriere detaliată a erorii.\n\ne-mail: support@mp3tag.de
+SLangErrDriveCannotBeAccessed Unitatea {1} nu poate fi accesată.
+SLangErrFileCannotBeAccessed Fișierul {1} nu poate fi accesat.
+SLangErrFileCannotBeDeleted Fișierul {1} nu poate fi șters.\n\n» Asigură-te că niciun alt proces nu accesează fișierul.
+SLangErrFolderCannotBeAccessed Dosarul {1} nu poate fi accesat.
+SLangErrFolderCannotBeDeleted Dosarul {1} nu poate fi șters.\n\n» Asigură-te că niciun alt proces nu accesează dosarul.
+SLangErrHelpBrowserIsNotAvailable Mp3tag nu a putut afișa fișierul de ajutor în navigatorul tău implicit de Internet.
+SLangErrHelpSystemIsNotAvailable Sistemul de asistență nu este disponibil.\n\n» Te rugăm să reinstalezi {1}.
+SLangErrHelpTopicIsNotAvailable Acest domeniu nu este disponibil.\n\n» Te rugăm să iei legătura cu echipa noastră de asistență.\n\ne-mail: support@mp3tag.de
+SLangErrNotEnoughFreeDiskSpace Spațiul rămas pe dispozitivul {1} este insuficient.\n\n» Te rugăm să asiguri cel puțin {2} de spațiu liber.
+SLangErrRegistryCannotBeAccessed Eroare la citirea de date\n\nNu s-a putut accesa registrul Windows.
+SLangMsgItemExistsAlready Există deja o intrare cu această descriere.\n\n» Te rugăm să folosești o altă descriere.
+SLangMsgFirstSteps Te rugăm să te familiarizezi cu primii pași.
+SLangMsgShutdownInfo Te rugăm să aștepți până când se va opri {1}.
+SLangWrnAppIsAlreadyRunning Se execută deja o instanță a acestei aplicații.
+SLangWrnAppHasToBeRestarted Mp3tag trebuie repornit pentru a aplica modificările.\n\nDorești să repornești Mp3tag acum?
+SLangWrnNameContainsInvalidCharacters Descrierea conține caractere invalide.\n\n» Te rugăm să folosești o altă descriere.
+SLangWrnStartLogging Ai pornit {1} cu parametrul FLOG1 la linia de comandă. Acest parametru este folosit pentru depanare.\n\nDorești pornirea funcției de jurnalizare?
+_C_ABORT Renunță
+_C_ABORTING Aborting...
+_C_APP_ST_ALBUM A&lbum
+_C_APP_ST_ARTIST Art&ist
+_C_APP_ST_COMMENT Co&mentariu
+_C_APP_ST_FOLDER &Dosar
+_C_APP_ST_GENRE &Gen
+_C_APP_ST_TITLE &Titlu
+_C_APP_ST_TRACK Pi&stă
+_C_APP_ST_YEAR A&n
+_C_CANCEL &Anulează
+_C_CANCELING Canceling...
+_C_CLOSE În&chide
+_C_DLG_CDDBCONFIRM_CAPTION Lista rezultatelor căutării...
+_C_DLG_CDDBCONFIRM_CHK_DISCID Copiază identificatorul discului în câmpul de comentarii
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 Copiază identificatorul discului în câmpul DISCID
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER Compilație...
+_C_DLG_CDDBCONFIRM_CHK_SORT Sugerează o sortare
+_C_DLG_CDDBCONFIRM_ST_INFO S-au găsit mai multe rezultate.\nTe rugăm să alegi unul:
+_C_DLG_CDDBCONFIRM_ST_INFO2 S-au găsit {2} rezultate în baza de date {1}.\nTe rugăm să alegi unul:
+_C_DLG_CDDBCONFIRM_STC_TOP Ajustează informațiile
+_C_DLG_CDDBINPUT_CAPTION Introdu ID-ul freedb
+_C_DLG_CDDBINPUT_ST_CATEGORY Categorie:
+_C_DLG_CDDBINPUT_ST_ID ID freedb:
+_C_DLG_CDDBSTYLE_CAPTION freedb
+_C_DLG_CDDBSTYLE_RD_CDROM determină din CD-ul &audio inserat
+_C_DLG_CDDBSTYLE_RD_ENTER introdu
+_C_DLG_CDDBSTYLE_RD_MP3 determină din fișierele selectate
+_C_DLG_CDDBSTYLE_RD_SEARCH determină printr-o căutare web
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL determină printr-o căutare text
+_C_DLG_CDDBSTYLE_STC_TOP ID freedb...
+_C_DLG_COLUMNS_CAPTION Coloane
+_C_DLG_COLUMNS_TOP Reglează vizibilitatea coloanelor
+_C_DLG_TAGS Modifică etichetele
+_C_DLG_TTF_TOP Alege un șir-model
+_C_HELP &Ajutor
+_C_MNU_ACTIONS Acțiuni\tAlt+6
+_C_MNU_CON &Convertește
+_C_MNU_CON_FTF Nume de f&ișier - Nume de fișier\tAlt+3
+_C_MNU_CON_FTT Nume de &fișier - Etichete\tAlt+2
+_C_MNU_CON_TFF Fișier te&xt - Etichete\tAlt+4
+_C_MNU_CON_TTF E&tichete - Nume de fișier\tAlt+1
+_C_MNU_CON_TTT Etic&hete - Etichete\tAlt+5
+_C_MNU_EDIT &Modifică
+_C_MNU_EDIT_COPY C&opiază\tCtrl+C
+_C_MNU_EDIT_CUT Dec&upează\tCtrl+X
+_C_MNU_EDIT_INVERTSELECTION &Inversează selecția\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT Selectează fișierul u&rmător\tCtrl+N
+_C_MNU_EDIT_PASTE &Lipește\tCtrl+V
+_C_MNU_EDIT_SELECT Selectează toate &fișierele\tCtrl+A
+_C_MNU_EDIT_UNDO &Anulează\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL &Deselectează tot\tCtrl+U
+_C_MNU_EXTRA &Unelte
+_C_MNU_EXTRA_OPTIONS &Opțiuni...\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS Șterge câmpur&ile\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS Valori implicite în câmpuri\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD Asistent de numerotare automată...\tCtrl+K
+_C_MNU_FILE &Fișier
+_C_MNU_FILE_ADD Adaugă dosar...
+_C_MNU_FILE_CDDB freedb...\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL freedb (local)...\tCtrl+K
+_C_MNU_FILE_COPY Copiază...
+_C_MNU_FILE_DELETE Șterge...
+_C_MNU_FILE_DIR Modifică &dosarul...\tCtrl+D
+_C_MNU_FILE_EXIT &Ieșire\tAlt+F4
+_C_MNU_FILE_EXPORT &Exportă...\tCtrl+E
+_C_MNU_FILE_FAVDIR Dosar &favorit\tCtrl+F
+_C_MNU_FILE_MOVE Mută...
+_C_MNU_FILE_PLALL Listă de redare (cu toate fișierele)\tCtrl+P
+_C_MNU_FILE_PLAY Redă
+_C_MNU_FILE_PLAYLIST Deschide listă/fișier de indexare...
+_C_MNU_FILE_PLSEL Listă de redare (cu fișierele selectate)
+_C_MNU_FILE_PROPERTIES Proprietăți...
+_C_MNU_FILE_READ Citește e&tichetele\tCtrl+T
+_C_MNU_FILE_REMOVE E&limină etichetele\tCtrl+R
+_C_MNU_FILE_REMOVEFILE Eli&mină\tDelete
+_C_MNU_FILE_RENAME Redenumește\tF2
+_C_MNU_FILE_SAVE &Salvează etichetele\tCtrl+S
+_C_MNU_FILE_SAVECONFIG Salvează &opțiunile...
+_C_MNU_FREEDB f&reedb
+_C_MNU_FREEDB_INDEX Creează index local
+_C_MNU_FS_EXT Câmpuri suplimentare
+_C_MNU_FS_FNCT Funcții
+_C_MNU_FS_INFO Câmpuri de infomații
+_C_MNU_FS_REM Elimină din istoric
+_C_MNU_FS_REMALL Elimină tot din istoric...
+_C_MNU_FS_REMALL_MSG Dorești să elimini toate elementele?
+_C_MNU_HELP &Ajutor
+_C_MNU_HELP_ABOUT Despre Mp3tag...
+_C_MNU_HELP_DONATE Donații
+_C_MNU_HELP_FINDER &Sumar...\tF1
+_C_MNU_HELP_FIRSTSTEPS &Primii pași
+_C_MNU_HELP_KEYBOARD &Taste rapide
+_C_MNU_HELP_SUPPORT Asistență online...
+_C_MNU_HELP_UPGRADE Caută versiuni mai noi...
+_C_MNU_HELP_WWW Sit &web Mp3tag...
+_C_MNU_TAGSOURCES &Surse de etichetare
+_C_MNU_TOOLS &Unelte
+_C_MNU_VIEW A&fișează
+_C_MNU_VIEW_COLUMNS &Personalizează coloanele...
+_C_MNU_VIEW_FILTER &Filtru\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY Auto-apply filter
+_C_MNU_VIEW_ID3 Panou de etichete\tCtrl+Q
+_C_MNU_VIEW_REFRESH &Reîmprospătează\tF5
+_C_MNU_VIEW_SORTBY &Sortează după
+_C_MNU_VIEW_TAGS &Etichete suplimentare...\tAlt+T
+_C_MNU_VIEW_TOOLBAR &Bară de unelte
+_C_MNU_SB_ACTIONS Aplică fișierelor selectate acțiuni definite de utilizator (capitalizare, înlocuire etc.).
+_C_MNU_SB_CON_FTF Redenumește fișierele după un model definit, pe baza numelor vechi.
+_C_MNU_SB_CON_FTT Importă etichete din numele fișierelor.
+_C_MNU_SB_CON_TFF Importă etichete din fișiere text.
+_C_MNU_SB_CON_TTF Redenumește fișierele după un model definit, pe baza etichetelor.
+_C_MNU_SB_CON_TTT Formatează etichetele pe baza altor etichete.
+_C_MNU_SB_EDIT_COPY Copiază textul selectat sau etichetele fișierului selectat în clipboard.
+_C_MNU_SB_EDIT_CUT Decupează textul selectat sau etichetele fișierului selectat și mută informațiile în clipboard.
+_C_MNU_SB_EDIT_INVERTSELECTION Inversează selecția curentă.
+_C_MNU_SB_EDIT_NEXT Selectează următorul fișier.
+_C_MNU_SB_EDIT_PASTE Lipește conținutul din clipboard la poziția cursorului sau în fișierul selectat.
+_C_MNU_SB_EDIT_SELECT Selectează toate fișierele.
+_C_MNU_SB_EDIT_UNDO Anulează ultima operație.
+_C_MNU_SB_EDIT_UNSELECTALL Deselectează toate fișierele.
+_C_MNU_SB_EXTRA_OPTIONS Deschide fereastra de opțiuni.
+_C_MNU_SB_EXTRA_RESET_EDITS Elimină textul din toate câmpurile din panoul de etichete.
+_C_MNU_SB_EXTRA_SET_EDITS Alocă valori implicite tuturor câmpurilor din panoul de etichete.
+_C_MNU_SB_EXTRA_TRACKWIZARD Pornește asistentul de numerotare automată a pistelor.
+_C_MNU_SB_FILE_ADD Adaugă conținutul unui dosar la lista de fișiere.
+_C_MNU_SB_FILE_CDDB Obține informații despre CD-ul audio inserat sau despre fișierele selectate prin conexiunea la Internet.
+_C_MNU_SB_FILE_CDDBLOCAL Obține informații despre CD-ul audio inserat sau despre fișierele selectate prin baza de date freedb locală.
+_C_MNU_SB_FILE_COPY Copiază fișierele selectate în alt dosar.
+_C_MNU_SB_FILE_DELETE Șterge fișierele selectate.
+_C_MNU_SB_FILE_DIR Modifică dosarul de lucru curent.
+_C_MNU_SB_FILE_EXIT Părăsește aplicația.
+_C_MNU_SB_FILE_EXPORT Exportă etichetele și informațiile generale ale fișierelor selectate.
+_C_MNU_SB_FILE_FAVDIR Comută la dosarul preferat.
+_C_MNU_SB_FILE_FREEDBINDEX Creează baza de date freedb locală de indecși pentru căutarea ulterioară în aceasta.
+_C_MNU_SB_FILE_MOVE Mută fișierele selectate în alt dosar.
+_C_MNU_SB_FILE_PLALL Creează o listă de redare cu toate fișierele.
+_C_MNU_SB_FILE_PLAY Redă fișierele selectate.
+_C_MNU_SB_FILE_PLAYLIST Încarcă conținutul unei liste de redare.
+_C_MNU_SB_FILE_PLSEL Creează o listă de redare cu fișierele selectate.
+_C_MNU_SB_FILE_PROPERTIES Afișează proprietățile fișierului selectat.
+_C_MNU_SB_FILE_READ Citește și afișează etichetele fișierului selectat în câmpurile din panoul de etichete.
+_C_MNU_SB_FILE_REMOVE Elimină etichetele din fișierul selectat.
+_C_MNU_SB_FILE_REMOVEFILE Elimină fișierele selectate.
+_C_MNU_SB_FILE_RENAME Redenumește fișierul selectat.
+_C_MNU_SB_FILE_SAVE Salvează etichetele în fișierele selectate.
+_C_MNU_SB_FILE_SAVECONFIG Salvează preferințele curente într-un fișier de configurare.
+_C_MNU_SB_HELP_ABOUT Informații despre Mp3tag.
+_C_MNU_SB_HELP_CONTEXT Afișează descrieri ale câmpurilor, meniurilor și ferestrelor selectate.
+_C_MNU_SB_HELP_DONATE Please consider donating to support Mp3tag's development.
+_C_MNU_SB_HELP_FINDER Afișează paginile de ajutor.
+_C_MNU_SB_HELP_FIRSTSTEPS Arată o scurtă introducere către Mp3tag.
+_C_MNU_SB_HELP_KEYBOARD Afișează o listă a scurtăturilor de la tastatură.
+_C_MNU_SB_HELP_SUPPORT Accesează forumurile Mp3tag.
+_C_MNU_SB_HELP_UPGRADE Check for updates of Mp3tag
+_C_MNU_SB_HELP_WWW Accesează situl web Mp3tag.
+_C_MNU_SB_UPDIR Comută la dosarul-părinte.
+_C_MNU_SB_VIEW_COLUMNS Deschide o fereastră în care pot fi configurate coloanele listei de fișiere.
+_C_MNU_SB_VIEW_FILTER Filtrează fișierele.
+_C_MNU_SB_VIEW_ID3 Afișează/ascunde panoul de etichete.
+_C_MNU_SB_VIEW_REFRESH Reîmprospătează lista de fișiere.
+_C_MNU_SB_VIEW_TAGS Deschide fereastra cu etichete suplimentare.
+_C_MNU_SB_VIEW_TOOLBAR Afișează/ascunde bara de unelte.
+_C_MNU_SB_WND_IDLE Gata
+_C_MNU_SB_WND_MAXIMIZE Aduce fereastra la mărimea întregului ecran
+_C_MNU_SB_WND_MINIMIZE Minimizează fereastra în bara de sarcini
+_C_MNU_SB_WND_MOVE Modifică poziția ferestrei
+_C_MNU_SB_WND_RESTORE Readuce fereastra la dimensiunea normală
+_C_MNU_SB_WND_SIZE Modifică mărimea ferestrei
+_C_MULTILINE Mai multe rânduri
+_C_OK &OK
+_C_OPT_ACTIONGROUPS Grupuri de acțiuni
+_C_OPT_ACTIONS Acțiuni
+_C_OPT_ACTIONS_TYPE Selectează tipul de acțiune
+_C_OPT_ADVANCED Advanced
+_C_OPT_ADVANCED_ID3V2LANG ID3v2 comment language code (ISO-639-2)
+_C_OPT_ADVANCED_LISTCHAPTERS List chapters as separate files
+_C_OPT_CAPTION Opțiuni
+_C_OPT_CDDB_CAPTION freedb
+_C_OPT_CDDB_CHK_USEPROXY Folosește un pr&oxy
+_C_OPT_CDDB_FRM_CDDB Server freedb
+_C_OPT_CDDB_FRM_LOCALPATH Calea către freedb &local
+_C_OPT_CDDB_FRM_PROXY Proxy
+_C_OPT_CDDB_RD_FMT_UNIX Format UNIX
+_C_OPT_CDDB_RD_FMT_WIN Format Windows
+_C_OPT_CDDB_ST_ADDRESS &Adresă:
+_C_OPT_CDDB_ST_EMAIL Adresă de &e-mail:
+_C_OPT_CDDB_ST_NAME &Nume:
+_C_OPT_CDDB_ST_PATH Cale:
+_C_OPT_CDDB_ST_PORT Port:
+_C_OPT_CDDB_ST_PROXYNAME &Proxy:
+_C_OPT_CDDB_ST_PROXYPORT Po&rt:
+_C_OPT_CDDB_ST_PWD Par&olă:
+_C_OPT_CDDB_ST_TIMEOUT L&imită de timp:
+_C_OPT_CDDB_ST_USERNAME Nume de &utilizator:
+_C_OPT_CDDB3_CAPTION Local freedb
+_C_OPT_CON_FRM_FTT Nume de &fișier - Etichete
+_C_OPT_CON_FRM_TFF Fișier te&xt - Etichete
+_C_OPT_CON_FRM_TTF E&tichete - Nume de fișier
+_C_OPT_CON_ST_FNAME Nume de fișier:
+_C_OPT_CON_ST_FS Șir-model:
+_C_OPT_DIR Dosare
+_C_OPT_DIR_COVER Dosar de coperte
+_C_OPT_EMPTY_HINT Selectează un domeniu de mai jos
+_C_OPT_EXP_CAPTION Exportă
+_C_OPT_EXP_CHK_APPEND Anexează datele
+_C_OPT_EXP_CHK_WRITEBOM Scrie BOM
+_C_OPT_EXP_FRM_EXPORT Exportă opțiunile
+_C_OPT_EXP_RD_TRACK Pistă
+_C_OPT_EXP_ST_FNAME Numele fișierului exportat:
+_C_OPT_EXP_ST_NAME Numele noului model de export
+_C_OPT_FMT_CASE Capitalizare
+_C_OPT_FMT_FRM_FTF Nume de fișier - Nume de fișier
+_C_OPT_FMT_ST_BEGIN Cuvintele încep de la/după:
+_C_OPT_FMT_ST_FNAME_NEW Noul model de nume de fișier:
+_C_OPT_FMT_ST_FNAME_OLD Vechiul model de nume de fișier:
+_C_OPT_FMT2 Înlocuiește
+_C_OPT_FMT2_CASE comparație cu distincție între majuscule și minuscule
+_C_OPT_FMT2_COL_ORIGINAL Original
+_C_OPT_FMT2_COL_REPLACE Înlocuiește cu
+_C_OPT_FMT2_ONLYWORDS doar cuvinte întregi
+_C_OPT_GEN_CAPTION General
+_C_OPT_GEN_CHK_AUTOSAVE Salvează etichetele la folosirea tastelor-săgeată/la clic
+_C_OPT_GEN_CHK_FOLDERSTART începe de la acest dosar
+_C_OPT_GEN_CHK_GRID Afișează diferit rândurile pare/impare
+_C_OPT_GEN_CHK_JUMPONEDIT Selectează automat următorul fișier la editarea direct din listă
+_C_OPT_GEN_CHK_KEEPFILETIME Păstrează data modificării fișierelor la salvarea etichetelor
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Keep moved files in file list
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS la avertizări legate de acțiuni
+_C_OPT_GEN_CHK_MSG_CHANGE după modificare
+_C_OPT_GEN_CHK_MSG_CUT la decuparea etichetelor
+_C_OPT_GEN_CHK_MSG_DEL după ștergere
+_C_OPT_GEN_CHK_MSG_DELETEFILE la ștergerea de fișiere
+_C_OPT_GEN_CHK_MSG_EXPORT la exportul de etichete
+_C_OPT_GEN_CHK_MSG_PASTE la lipirea de etichete
+_C_OPT_GEN_CHK_MSG_REMOVETAGS la eliminarea de etichete
+_C_OPT_GEN_CHK_MSG_SAVE după salvare
+_C_OPT_GEN_CHK_PL Creează automat o listă de redare
+_C_OPT_GEN_CHK_RELPL Intrările sunt relative la dosarul de lucru
+_C_OPT_GEN_CHK_AUTOCOMPLETE Completare automată a câmpurilor
+_C_OPT_GEN_CHK_SELECTFILES Select files automatically
+_C_OPT_GEN_CHK_SORTNATURAL Folosește sortarea naturală
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH Indică dosarul curent în bara de titlu
+_C_OPT_GEN_FRM_GEN General
+_C_OPT_GEN_FRM_MSG Arată mesaj
+_C_OPT_GEN_FRM_PL Numele fișierului listei de redare
+_C_OPT_GEN_RD_PLALL cu toate fișierele
+_C_OPT_GEN_RD_PLSEL cu fișierele selectate
+_C_OPT_GEN_ST_FAVDIR Dosar favorit
+_C_OPT_GEN2_CAPTION Mesaje
+_C_OPT_GENRES Genuri definite de utilizator
+_C_OPT_GENRES_HIDESTANDARD Afișează numai genurile definite de utilizator
+_C_OPT_ID3_CHK_ISO88591 Memorează etichetele după standardul ISO-8859-1, în loc de UTF-16
+_C_OPT_ID3_CHK_LEADINGZEROS Zerouri inițiale pentru numerotarea pistelor (01, 02, ...)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND Doar ID3v2 dacă ID3v1 e prea mic
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ Citește
+_C_OPT_ID3_FRM_REMOVE Elimină
+_C_OPT_ID3_FRM_WRITE Scrie
+_C_OPT_LIB Library
+_C_OPT_LIB_CHK_ENABLE Enable Library
+_C_OPT_LIB_CHK_RESTRICT Only include these directories
+_C_OPT_LIB_CLEANUP Cleanup Library
+_C_OPT_MAPPING Asocieri
+_C_OPT_MAPPING_FRM Asocieri de câmpuri definite de utilizator
+_C_OPT_MAPPING_SOURCE Sursă
+_C_OPT_MAPPING_TARGET Destinație
+_C_OPT_PLAYLIST_CAPTION Listă de redare
+_C_OPT_PLAYLIST_EXTENDED Scrie informații suplimentare
+_C_OPT_PLAYLIST_NOFOLDERS Nu crea dosare
+_C_OPT_PLAYLIST_SHOWDLG Afișează fereastra de confirmare a numelui de fișier
+_C_OPT_TAG Etichete
+_C_OPT_TAGS_COVER Nume de fișier implicit pentru copertă:
+_C_OPT_TAGS_EXT Mod de salvare pentru << și >> în fereastra de etichete suplimentare:
+_C_OPT_TAGS_FILEFILTER Deschide numai fișiere cu extensiile:
+_C_OPT_TAGS_NOIMG Nu afișa prima imagine din dosar drept copertă
+_C_OPT_TOOLS Unelte
+_C_OPT_TOOLS_CHK_DEFAULT Folosește un program special la dublu-clic:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES pentru toate fișierele selectate
+_C_OPT_TOOLS_COL_PARAM Parametru
+_C_OPT_TOOLS_COL_PATH Cale
+_C_OPT_TOOLS_EDIT Personalizează-ți unealta. Numele și calea sunt obligatorii.
+_C_OPT_TOOLS_FRM_DEFAULT Unealta implicită
+_C_OPT_TOOLS_FRM_TOOLS Unelte
+_C_OVERWRITE &Suprascrie
+_C_RENAME &Redenumește
+_C_TT_CDDB freedb...
+_C_TT_CDDBLOCAL freedb (local)...
+_C_TT_CLOSE Închide
+_C_TT_DIR Modifică dosarul...
+_C_TT_EDIT_UNDO Anulează
+_C_TT_EXPORT Exportă
+_C_TT_FAVDIR Dosar favorit
+_C_TT_FILE_ADD Adaugă dosar...
+_C_TT_FILE_COPY Copiază în...
+_C_TT_FILE_DELETE Șterge...
+_C_TT_FILE_MOVE Mută în...
+_C_TT_FILE_PLAY Redă
+_C_TT_FILE_PROPERTIES Proprietăți...
+_C_TT_FILE_RENAME Redenumește
+_C_TT_FTF Nume de fișier - Nume de fișier
+_C_TT_FTT Nume de fișier - Etichete
+_C_TT_HELP Ajutor...
+_C_TT_OPT Opțiuni...
+_C_TT_PLALL Creează o listă de redare cu toate fișierele
+_C_TT_PLSEL Creează o listă de redare cu fișierele selectate
+_C_TT_REFRESH Reîmprospătează lista de fișiere
+_C_TT_REMOVE Elimină etichetele
+_C_TT_SAVE Salvează
+_C_TT_TFF Fișier text - Etichete
+_C_TT_TTF Etichete - Nume de fișier
+_C_TT_TTT Etichete - Etichete
+_C_TT_UPDIR Sus
+_C_WIZARD_TRACKS Asistent de numerotare automată
+_C_WIZARD_TRACKS_BEGIN Începe de la numărul:
+_C_WIZARD_TRACKS_DESC Assign track- and discnumbers
+_C_WIZARD_TRACKS_DISC_BEGIN Begin at discnumber
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Leading zeros for discnumbers (01, 02, ...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Save total count of discs
+_C_WIZARD_TRACKS_DISCNUMBER Discnumber
+_C_WIZARD_TRACKS_RESETFOLDERS Resetează contorul pentru fiecare dosar
+_C_WIZARD_TRACKS_SAVETOTAL Salvează numărul total de piste
+_C_WIZARD_TRACKS_TRACKNUMBER Tracknumber
+_M_ERR_CANCEL Procesul a fost anulat.
+_M_ERR_CDDB_CD Eroare la citirea CD-ului audio
+_M_ERR_CDDB_CONNECT Eroare la conectarea cu serverul: {1}
+_M_ERR_CDDB_NOENTRY Nu s-a găsit nicio intrare corespunzătoare identificatorului freedb {1}.
+_M_ERR_CDDB_NOENTRYINLOCALBD Nu s-a găsit nicio intrare corespunzătoare identificatorului freedb {1} în baza de date freedb locală „{2}”.
+_M_ERR_CDDB_PARSER Interogarea nu a returnat niciun rezultat.
+_M_ERR_CDDB_READ Eroare la citirea de date din {1}
+_M_ERR_CONFIGURATION Opțiunile nu au putut fi importate.
+_M_ERR_COPY Fișierele selectate nu au putut fi copiate!
+_M_ERR_DELETE Fișierele selectate nu au putut fi șterse!
+_M_ERR_FILECREATE Fișierul „{1}” nu poate fi creat.
+_M_ERR_FILEDELETE Fișierul „{1}” nu poate fi șters.
+_M_ERR_FILENAMEALREADYEXISTS Fișierul „{1}” există deja.
+_M_ERR_FILENAMEALREADYEXISTS2 Fișierul „{1}” nu a fost redenumit.
+_M_ERR_FILEOPABORTED Este posibil să se fi schimbat conținutul dosarului curent.\n\nDorești recitirea acestuia?
+_M_ERR_FILEOPEN Fișierul „{1}” nu poate fi deschis.
+_M_ERR_FILEREADONLY Fișierul „{1}” este protejat.\n\nDorești ca Mp3tag să dezactiveze protecția la scriere pentru fișierul acesta și pentru următoarele?
+_M_ERR_FOLDERCANNOTBEACCESSED Eroare de accesare\n\nDosarul „{1}” nu poate fi accesat.
+_M_ERR_INVALID_FILENAME Te rugăm să introduci un nume valid de fișier.
+_M_ERR_INVALID_FTF_FS Șirul „{1}” nu este un șir-model valid pentru nume de fișiere.
+_M_ERR_INVALID_TOKEN {1}:\nUrmătoarele caractere nu pot fi folosite în nume de fișiere:\n\\ / : * ? \" < > |\n\nDorești ca acestea să fie înlocuite automat?
+_M_ERR_MOVE Fișierele selectate nu au putut fi mutate!
+_M_ERR_ONLINE_NOTFOUND Nicio intrare nu corespunde criteriilor tale de căutare.
+_M_ERR_OPT_CDDB_NOADDRESS Introdu adresa unui server freedb.
+_M_ERR_OPT_CDDB_NOEMAIL Introdu-ți adresa de e-mail în „Opțiuni, freedb, Server”. Va fi folosită pentru jurnalizarea accesărilor serverului freedb.
+_M_ERR_OPT_CDDB_NONAME Introdu un nume valid pentru configurația ta.
+_M_ERR_OPT_CDDB_NOPORT Introdu un număr de port pentru serverul freedb.
+_M_ERR_PARSELINE Rândul {1} nu poate fi procesat.
+_M_ERR_PLAY Fișierul „{1}” nu poate fi deschis pentru redare!
+_M_ERR_READ_FILE Fișierul „{1}” nu poate fi deschis pentru citire.
+_M_ERR_RENAME_FILE Fișierul „{1}” nu poate fi redenumit în „{2}”.
+_M_ERR_RETRY Do you want to retry?
+_M_ERR_TL_NOTAGS Nu s-a găsit nicio intrare pentru fișierul „{1}”.
+_M_ERR_WRITE_FILE Fișierul „{1}” nu poate fi deschis pentru scriere.
+_M_ERR_YN \n\nDorești să continui?
+_M_LOG_FMT_FNAME S-au redenumit {1} din cele {2} fișiere.\n
+_M_LOG_FMT_TAG S-au formatat etichetele în {1} din cele {2} fișiere.\n
+_M_LOG_FTF S-au redenumit {1} din cele {2} fișiere.
+_M_LOG_FTT S-au creat obținut etichete pentru {1} din cele {2} fișiere.
+_M_LOG_PL_ALL S-a creat lista „{1}” din toate cele {2} fișiere.
+_M_LOG_PL_SEL S-a creat lista „{1}” din cele {2} fișiere selectate.
+_M_LOG_REMOVE S-au eliminat etichetele din fișierul „{1}”.
+_M_LOG_REMOVED S-au eliminat etichetele din {1} din cele {2} fișiere.
+_M_LOG_REMOVE_NOTAG Nicio etichetă în fișierul „{1}”.
+_M_LOG_SAVE S-au salvat etichetele în fișierul „{1}”.
+_M_LOG_SAVED S-au salvat etichetele în {1} din cele {2} fișiere.
+_M_LOG_TFF S-au importat etichete din „{1}” în {2} din cele {3} fișiere.
+_M_LOG_TFF_S S-au importat etichete din „{1}” într-un fișier.
+_M_LOG_TTF S-au redenumit {1} din cele {2} fișiere.
+_M_STAT_PLAY Se redă fișierul „{1}”...
+_M_STR_ACTION_ADJUSTCOVER Adjust cover
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Format
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
+_M_STR_ACTION_CODEPAGE Convertește pagina de codare
+_M_STR_ACTION_CODEPAGE_DESC Pagină de codare
+_M_STR_ACTION_EXPORTCOVER Exportă coperta în fișier
+_M_STR_ACTION_EXPORTCOVER_DUPES Exportă copertele duplicate
+_M_STR_ACTION_EXPORTCOVER_TYPES Export only covers of type
+_M_STR_ACTION_FORMAT Formatează valoarea
+_M_STR_ACTION_GUESS Ghicește valorile
+_M_STR_ACTION_GUESSPATTERN Model de ghicire
+_M_STR_ACTION_GUESSSOURCE Format-sursă
+_M_STR_ACTION_IMPORTCOVER Importă copertă din fișier
+_M_STR_ACTION_IMPORTCOVER_FS Șir-model pentru numele de fișier-imagine:
+_M_STR_ACTION_IMPORTCOVER_DELETE Ș&terge coperta existentă
+_M_STR_ACTION_IMPORTCOVER_TYPE Importă coperta ca:
+_M_STR_ACTION_IMPORTTEXT Importă fișier text
+_M_STR_ACTION_MERGEDUPLICATEFIELDS Combină câmpurile duplicate
+_M_STR_ACTION_REGEXP Înlocuiește cu o expresie regulată
+_M_STR_ACTION_REGEXP_EXP Expresie regulată
+_M_STR_ACTION_REGEXP_MATCH Înlocuiește rezultatele cu
+_M_STR_ACTION_REMOVEDUPES Elimină câmpurile duplicate
+_M_STR_ACTION_REM Elimină câmpurile
+_M_STR_ACTION_REM_DESC Câmpuri de eliminat (separate prin punct și virgulă):
+_M_STR_ACTION_REM_EX Elimină câmpurile cu excepția
+_M_STR_ACTION_REM_EX_DESC Câmpuri de păstrat (separate prin punct și virgulă):
+_M_STR_ACTION_SPLITFIELDS Împarte câmp prin separator
+_M_STR_ACTIONGROUP_NAME Numele grupului de acțiuni
+_M_STR_ALBUM Album
+_M_STR_ALBUMARTIST Artistul albumului
+_M_STR_ALL_FILEDLGFILTER Toate fișierele (*.*)|*.*||
+_M_STR_ARTIST Artist
+_M_STR_AUTHOR Autor
+_M_STR_BACK < Î&napoi
+_M_STR_BROWSE_COPY Copiază în...
+_M_STR_BROWSE_MOVE Mută în...
+_M_STR_BROWSE_TEXT Selectează un dosar ce conține fișiere audio.
+_M_STR_BYTES octeți
+_M_STR_CDDB_CD Citește CD audio
+_M_STR_CDDB_CONNECT se conectează la {1}...
+_M_STR_CDDB_CONNECTED  conectat!
+_M_STR_CDDB_IDXDB_ENTRIES intrări create
+_M_STR_CDDB_RETRIEVE Obține titluri
+_M_STR_COLUMNFILENAME Nume de fișier
+_M_STR_COLUMNPATH Cale
+_M_STR_COLUMNUSEDCOLS afișate
+_M_STR_COMBO_HOLD < păstrează >
+_M_STR_COMBO_REMOVE < golește >
+_M_STR_COMBO_USER < introdu >
+_M_STR_COMMENT Comentarii
+_M_STR_COMPOSER Compozitor
+_M_STR_COPYOF Copie a {1}
+_M_STR_COVER Copertă
+_M_STR_COVER_ADD Dorești să păstrezi copertele existente?
+_M_STR_COVER_CORRECTAR Corectează raportul de aspect
+_M_STR_COVER_SETDESC &Descrie coperta...
+_M_STR_COVER_SETTYPE &Tipul copertei
+_M_STR_COVERVARIES Copertele diferă
+_M_STR_CUSTOMIZE Customize...
+_M_STR_DAY zi
+_M_STR_DAYS zile
+_M_STR_DEFAULTVALUE Default value
+_M_STR_DISCID ID CDDB
+_M_STR_DISCOGS_OAUTH_PIN Enter Discogs authorization code
+_M_STR_DISCNUMBER Numărul discului
+_M_STR_ERR_CDDB_NOENTRYSELECTED Te rugăm să selectezi o intrare.
+_M_STR_EXPORT_DELETE Dorești să ștergi configurația „{1}”?
+_M_STR_EXPORT_FILEDLGTITLE Selectează fișierul de export
+_M_STR_EXPORT_MULTIPLE Câte un fișier pe dosar
+_M_STR_EXPORT_SHOWEXPORTFILE \n\nDeschizi fișierul exportat acum?
+_M_STR_EXP_MSG S-au procesat {2} fișiere și s-a scris în fișierul „{1}”.
+_M_STR_FIELD &Câmp:
+_M_STR_FIELDSIZE Size of field
+_M_STR_FIELDROWS Rows
+_M_STR_FILE Fișier
+_M_STR_FILEDELETE Dorești să ștergi toate fișierele selectate?
+_M_STR_FILEMODIFIED Modificat la
+_M_STR_FILESIZE Dimensiune
+_M_STR_FILTER Filt&ru:
+_M_STR_FMT_CAPITAL Inițiale Majuscule
+_M_STR_FMT_HIGH DOAR MAJUSCULE
+_M_STR_FMT_LOW doar minuscule
+_M_STR_FMT_SENTENCE Model frază
+_M_STR_FREEDBCREATEINDEX Creezi o bază de date freedb locală?\n\nPoate dura câteva minute.
+_M_STR_FREEDB_SEARCH Căutare web freedb
+_M_STR_GENRE Gen
+_M_STR_GENRES Genuri
+_M_STR_HIDE A&scunde
+_M_STR_ITEMALREADYEXISTS Există deja un element cu acest nume; îl suprascrii?
+_M_STR_LANGUAGE Limbă
+_M_STR_M3U_FILEDLGFILTER Fișiere compatibile (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_METADATA &Metadate
+_M_STR_MOVEDOWN Mută în &jos
+_M_STR_MOVEUP Mută în &sus
+_M_STR_MPEGBITRATE Rată de biți
+_M_STR_MPEGFREQUENCY Frecvență
+_M_STR_MPEGLENGTH Durată
+_M_STR_MPEGMODE Mod
+_M_STR_MPEGVERSION Codec
+_M_STR_MSGCUT Dorești să muți etichetele fișierelor selectate în clipboard?
+_M_STR_MSGPASTE Dorești să înlocuiești etichetele fișierelor selectate cu cele din clipboard?
+_M_STR_MSGREMOVE Dorești să elimini etichetele din fișierele selectate?
+_M_STR_NAME &Nume
+_M_STR_NETWORKING Rețelistică
+_M_STR_NEXT &În&ainte >
+_M_STR_NOACTION - Nicio acțiune -
+_M_STR_NOACTIONENABLED Trebuie să bifezi cel puțin un set de acțiuni pentru a folosi această funcție.
+_M_STR_NUMERIC Nu&meric
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH Selectează un dosar de lucru pentru baza de date freedb locală.
+_M_STR_OPT_CDDB_PROCEED Toate serverele vor fi eliminate!\n\nDorești să continui?\n
+_M_STR_OPTIMIZEMP4 Optimizare MP4
+_M_STR_OPTS_ALWAYS întotdeauna
+_M_STR_OPTS_ASK întreabă
+_M_STR_OPTS_NEVER niciodată
+_M_STR_PLNAME Listă de redare - Nume de fișier
+_M_STR_PL_CONFIRM Creează o listă de redare cu acest nume
+_M_STR_PL_SAVEFILTER Listă de redare (*.m3u)|*.m3u|Listă de redare în format Unicode (*.m3u8)|*.m3u8||
+_M_STR_PREVIEW Previzualiz.
+_M_STR_PROPERTIES {1} Proprietăți
+_M_STR_QUICK Rapid
+_M_STR_RECURSE Subdosare
+_M_STR_REST Rest
+_M_STR_SAVE_NOT < nicio asociere >
+_M_STR_SAVECONFIG Opțiunile tale au fost salvate în „{1}”.\n\nPentru a-ți restabili opțiunile, trebuie să extragi arhiva în\n„{2}”.
+_M_STR_SAVECONFIG_FILEDLGFILTER Fișiere de configurare (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE Salvează opțiunile în...
+_M_STR_SAVEIMAGE Salvează imaginea în etichetă
+_M_STR_SAVEIMAGEDIRECTORY Salvează imaginea pe disc
+_M_STR_SAVESELECTION Salvează selecția...
+_M_STR_SB_ABORTED anulat
+_M_STR_SB_ACTION Se aplică acțiunile pe fișier ... {1} din {2}
+_M_STR_SB_CLEANUPDATABASE Processing files ... {1} of {2} ({3} cleaned)
+_M_STR_SB_CLEANUPDATABASE_BINARIES Cleanup orphaned binaries
+_M_STR_SB_CLEANUPDATABASE_COVERS Cleanup orphaned covers
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Cleanup non-library files
+_M_STR_SB_EXPORTTAGS Se exportă etichetele ... {1} din {2} fișiere
+_M_STR_SB_LOADTAGS Se citesc etichetele ... {1} din {2}
+_M_STR_SB_READDIRECTORY Se citește dosarul
+_M_STR_SB_REMOVETAGS Se elimină etichetele ... {1} din {2}
+_M_STR_SB_RENAMEFILES Se redenumesc fișierele ... {1} din {2}
+_M_STR_SB_WRITETAGS Se scriu etichetele ... {1} din {2}
+_M_STR_SHOWCHOOSEDLG Afișează fereastra de selecție
+_M_STR_SEARCHBY Caută după:
+_M_STR_SEARCHTEXT Text:
+_M_STR_SEPARATOR Separator
+_M_STR_SHOW &Afișează
+_M_STR_SIZE_LARGE Large
+_M_STR_SIZE_MEDIUM Medium
+_M_STR_SIZE_NORMAL Normal
+_M_STR_SIZE_SMALLER Smaller
+_M_STR_SIZE_SMALL Small
+_M_STR_SNA Zona de notificare
+_M_STR_SNA_SHOW Afișează permanent pictograma în zona de notificare
+_M_STR_SNA_SHOWMIN Minimizează în zona de notificare
+_M_STR_STRIPCHAPTERSMP4 Strip MP4 chapters
+_M_STR_TAG_COPIED S-au copiat etichetele a {1} fișiere în clipboard.
+_M_STR_TAG2 Etichete
+_M_STR_TAGFIELDS_REMOVE Elimină câmpul
+_M_STR_TAGFIELDS_REMOVEALL Elimină toate câmpurile...
+_M_STR_TAGFIELDS_REMOVEALLMSG Dorești să elimini toate câmpurile din listă?
+_M_STR_TAGFIELDS_RESET Resetează câmpurile...
+_M_STR_TAGFIELDS_RESETMSG Dorești să aduci lista de câmpuri la modelul implicit?
+_M_STR_TAGPANEL Panou de etichete
+_M_STR_TAGPANEL_COVER Afișează coperta
+_M_STR_TAGPANEL_DIRECTORY Afișează comutatorul de dosare
+_M_STR_TAGLIST_FILEDLGFILTER Fișiere text ({1})
+_M_STR_TAGLIST_FILEDLGTITLE Selectează fișierul text
+_M_STR_TAGSOURCES Surse de etichetare
+_M_STR_THISALBUMON Acest album pe {1}
+_M_STR_TITLE Titlu
+_M_STR_TRYAGAIN Dorești să încerci din nou?
+_M_STR_TTF Etichete - Nume de fișier
+_M_STR_UPDATE_FRM Actualizare
+_M_STR_UPDATE_OPT_CHECK Caută versiuni noi la pornire
+_M_STR_UPDATE_OPT_CHECK_BETA Include și versiunile beta
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Display release notes for new versions
+_M_STR_UPDATEAVAILABLE O nouă versiune ({1}) este disponibilă!\n\nDorești să o descarci de la {2} acum?
+_M_STR_UPDATENOTAVAILABLE Folosești cea mai nouă versiune ({1}).\n\nNu sunt disponibile actualizări.
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS &Utile
+_M_STR_VALUE &Valoare
+_M_STR_VERSION Versiune
+_M_STR_YEAR An
+_M_TP_CDDB_LOCALPATH Alege dosarul freedb local
+_M_TP_CDDB_SITES Lista curentă de servere freedb
+_M_TP_CVR_CLIPBOARD &Lipește coperta
+_M_TP_CVR_CLIPBOARD_COPY &Copiază coperta
+_M_TP_CVR_CLIPBOARD_CUT Dec&upează coperta
+_M_TP_CVR_DEL &Elimină coperta
+_M_TP_CVR_NEW &Adaugă copertă...
+_M_TP_CVR_SAVE E&xtrage coperta...
+_M_TP_DUPLICATE Duplică
+_M_TP_EXP_DEL Ș&terge
+_M_TP_EXP_EDIT Modifică
+_M_TP_EXP_FILE Selectează fișierul de import
+_M_TP_EXP_HLP Afișează sfaturi
+_M_TP_EXP_LOAD Încarcă opțiuni...
+_M_TP_EXP_NEW &Nou
+_M_TP_EXP_SAVE Salvează opțiunile...
+_M_TP_GEN_DIR Selectează dosarul
+_M_TP_TAG_DEL Elimină câmpul
+_M_TP_TAG_EDIT Modifică câmpul...
+_M_TP_TAG_NEW Adaugă câmp...
+_M_TS_ADDINFO &Informații suplimentare
+_M_TS_MULTIPLEVALUES valori multiple
+_M_TS_RELEASE &Lansare
+_M_TS_TRACKS &Piste
+_M_UNDO_CANNOTUNDO Nu s-a putut anula {1}
+_M_UNDO_CDDB freedb
+_M_UNDO_DIRECTORYCREATE Creează dosar
+_M_UNDO_DIRECTORYMOVE Mută dosar
+_M_UNDO_FORMAT Format
+_M_UNDO_FTF Nume de fișier - Nume de fișier
+_M_UNDO_FTT Nume de fișier - Etichete
+_M_UNDO_REMOVEFILE Elimină
+_M_UNDO_RENAME Redenumește
+_M_UNDO_TAGCHANGE Modifică etichetele
+_M_UNDO_TAGREMOVE Elimină etichetele
+_M_UNDO_TAGSAVE Salvează etichetele
+_M_UNDO_TFF Fișier text - Etichete
+_M_UNDO_TTF Etichete - Nume de fișier

@@ -1,0 +1,622 @@
+﻿LANGAUTHOR ADM, Maynak00, Kemal Unal
+LANGCONTACT adem-adm@yandex.com
+LANGVERSION 3.01
+LANGNAME Turkish
+LANGNAMELOC Türkçe
+SLangCancel İ&ptal
+SLangOk &Tamam
+SLangErrCatch Çalışma zamanı hatası\n\nDosya:\t{1}\nSatır:\t{2}\n\nUygulama beklenmeyen bir hatayla karşılaştı ve yanıt vermiyor. Lütfen uygulamayı kapatın ve dosyayı\n\n{3}\n\nve detaylı hata mesajını destek bölümümüze gönderin.\n\nE-posta: support@mp3tag.de
+SLangErrCheck Çalışma zamanı hatası\n\nDosya:\t{1}\nSatır:\t{2}\nKural:\t{3}\nKod:\t0x{4}\n\nUygulama beklenmeyen bir hatayla karşılaştı ve yanıt vermiyor. Lütfen uygulamayı kapatın ve dosyayı\n\n{5}\n\nve detaylı hata mesajını destek bölümümüze gönderin.\n\nE-Posta: support@mp3tag.de
+SLangErrDriveCannotBeAccessed Sürücüye ulaşılamıyor:{1}.\n\n» Lütfen sürücüyü kontrol edin.
+SLangErrFileCannotBeAccessed Dosyaya ulaşılamıyor:{1}.\n\n» Lütfen sürücüyü kontrol edin.
+SLangErrFileCannotBeDeleted Dosya silinemiyor:{1}.\n\n» Lütfen sürücüyü kontrol edin ve başka uygulamaların dosyayı kullanmadığından emin olun.
+SLangErrFolderCannotBeAccessed Klasöre {1} erişilemiyor.\n\n» Lütfen sürücüyü kontrol edin.
+SLangErrFolderCannotBeDeleted Klasör {1} silinemiyor.\n\n» Lütfen sürücüyü kontrol edin ve başka uygulamaların klasörü kullanmadığına emin olun.
+SLangErrHelpBrowserIsNotAvailable MP3tag, standart web tarayıcınızda yardım dosyasını açamadı.\n\n» Lütfen bir internet tarayıcısı kurun.
+SLangErrHelpSystemIsNotAvailable Yardım sistemine ulaşılamadı.\n\n» Lütfen programı yeniden kurun {1}.
+SLangErrHelpTopicIsNotAvailable Bu başlıkta yardım içeriği bulunamadı.\n\n» Lütfen destek bölümümüze başvurun.\n\nE-posta: support@mp3tag.de
+SLangErrNotEnoughFreeDiskSpace Aygıtta yeterli boş alan yok {1}.\n\n» Lütfen {2} kadar yeterli sürücü alanı sağlayın.
+SLangErrRegistryCannotBeAccessed Veriyi okurken hata\n\nWindows kayıt defterine ulaşılamıyor.
+SLangMsgItemExistsAlready Bu tanımda bir giriş zaten var.\n\n» Lütfen başka bir tanım kullanın.
+SLangMsgFirstSteps Lütfen ilk adımlar için biraz zaman ayırın.
+SLangMsgShutdownInfo Lütfen bekleyin, {1} süre içerisinde kapatılıyor.
+SLangWrnAppIsAlreadyRunning Bu uygulama zaten çalışıyor.
+SLangWrnAppHasToBeRestarted Mp3tag değişiklikler için tekrar başlatılmalı.\n\nŞimdi yeniden başlatmak ister misiniz?
+SLangWrnNameContainsInvalidCharacters Tanım geçersiz karakterler içeriyor.\n\n» Lütfen başka bir tanım kullanın.
+SLangWrnStartLogging FLOG1 komut satırı parametresi: {1} ile başlattınız. Bu parametre hata ayıklama amaçlı kullanılır.\n\nGünlük özelliğini başlatmak ister misiniz?
+_C_ABORT Vazgeç
+_C_ABORTING Durduruluyor...
+_C_APP_ST_ALBUM &Albüm
+_C_APP_ST_ARTIST &Sanatçı
+_C_APP_ST_COMMENT Y&orum
+_C_APP_ST_FOLDER &Klasör
+_C_APP_ST_GENRE T&ür
+_C_APP_ST_TITLE &Başlık
+_C_APP_ST_TRACK &Parça
+_C_APP_ST_YEAR &Yıl
+_C_CANCEL İ&ptal
+_C_CANCELING İptal ediliyor...
+_C_CLOSE &Kapat
+_C_DLG_CDDBCONFIRM_CAPTION Arama sonuçlarının listesi...
+_C_DLG_CDDBCONFIRM_CHK_DISCID DISCID bilgisini Yo&rum alanına kopyala
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 &DISCID bilgisini alanına kopyala
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER Derleme...
+_C_DLG_CDDBCONFIRM_CHK_SORT Önerilen sıralama
+_C_DLG_CDDBCONFIRM_ST_INFO Birden fazla sonuç bulundu.\nLütfen birini seçin:
+_C_DLG_CDDBCONFIRM_ST_INFO2 {1} veri tabanı aramasında {2} adet sonuç bulundu.\nLütfen birini seçin:
+_C_DLG_CDDBCONFIRM_STC_TOP Etiket bilgisini ayarla
+_C_DLG_CDDBINPUT_CAPTION freedb ID girin
+_C_DLG_CDDBINPUT_ST_CATEGORY Kategori:
+_C_DLG_CDDBINPUT_ST_ID freedb ID:
+_C_DLG_CDDBSTYLE_CAPTION freedb
+_C_DLG_CDDBSTYLE_RD_CDROM Takılı &Ses CD'den bul
+_C_DLG_CDDBSTYLE_RD_ENTER gir
+_C_DLG_CDDBSTYLE_RD_MP3 seçili dosyalardan bul
+_C_DLG_CDDBSTYLE_RD_SEARCH web aramasından bul
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL Yazıyla aratarak bul
+_C_DLG_CDDBSTYLE_STC_TOP freedb ID...
+_C_DLG_COLUMNS_CAPTION Sütunlar
+_C_DLG_COLUMNS_TOP Sütunların görünümünü ayarla
+_C_DLG_TAGS Etiket bilgisini düzenle
+_C_DLG_TTF_TOP Formatı seçin
+_C_HELP &Yardım
+_C_MNU_ACTIONS Eyle&mler\tALT+6
+_C_MNU_CON Dö&nüştür
+_C_MNU_CON_FTF D&osya Adı - Dosya Adı\tALT+3
+_C_MNU_CON_FTT &Dosya Adı - Etiket\tALT+2
+_C_MNU_CON_TFF &Metin Belgesi - Etiket\tALT+4
+_C_MNU_CON_TTF &Etiket - Dosya Adı\tALT+1
+_C_MNU_CON_TTT E&tiket - Etiket\tALT+5
+_C_MNU_EDIT Dü&zenle
+_C_MNU_EDIT_COPY K&opyala\tCtrl+C
+_C_MNU_EDIT_CUT &Kes\tCtrl+X
+_C_MNU_EDIT_INVERTSELECTION &Diğerlerini Seç\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT So&nraki Dosyayı Seç\tCtrl+N
+_C_MNU_EDIT_PASTE &Yapıştır\tCtrl+V
+_C_MNU_EDIT_SELECT &Tümünü Seç\tCtrl+A
+_C_MNU_EDIT_UNDO Geri &Al\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL Hiç&birini Seçme\tCtrl+U
+_C_MNU_EXTRA A&raçlar
+_C_MNU_EXTRA_OPTIONS &Seçenekler...\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS Tüm Giriş&leri Sıfırla\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS Girişlere varsayılan değerleri geri yükle\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD Numaralandırma Sihirbazı\tCtrl+K
+_C_MNU_FILE &Dosya
+_C_MNU_FILE_ADD Klasör Ekle...
+_C_MNU_FILE_CDDB freedb...\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL Yerel freedb...\tCtrl+L
+_C_MNU_FILE_COPY Klasöre Kopyala...
+_C_MNU_FILE_DELETE Sil...
+_C_MNU_FILE_DIR Klasörü &Değiştir...\tCtrl+D
+_C_MNU_FILE_EXIT &Çıkış\tAlt+F4
+_C_MNU_FILE_EXPORT &Gönder\tCtrl+E
+_C_MNU_FILE_FAVDIR &Seçili Klasör\tCtrl+F
+_C_MNU_FILE_MOVE Klasöre Taşı...
+_C_MNU_FILE_PLALL Çalma Listesi Oluştur (tüm dosyalar)\tCtrl+P
+_C_MNU_FILE_PLAY Oynat
+_C_MNU_FILE_PLAYLIST Çalma Listesi/CUE Katmanı Yükle...
+_C_MNU_FILE_PLSEL Çalma Listesi Oluştur (seçili dosyalar)
+_C_MNU_FILE_PROPERTIES Özellikler...
+_C_MNU_FILE_READ Etiketi &Oku\tCtrl+T
+_C_MNU_FILE_REMOVE &Etiketi Kaldır\tCtrl+R
+_C_MNU_FILE_REMOVEFILE Kaldır\tDel
+_C_MNU_FILE_RENAME Ad Değiştir\tF2
+_C_MNU_FILE_SAVE Etiketi &Kaydet\tCtrl+S
+_C_MNU_FILE_SAVECONFIG Yapılandırma Ka&ydet...
+_C_MNU_FREEDB f&reedb
+_C_MNU_FREEDB_INDEX Y&erel indeks oluştur
+_C_MNU_FS_EXT Alan uzantıları
+_C_MNU_FS_FNCT Fonksiyonlar
+_C_MNU_FS_INFO Bilgi alanları
+_C_MNU_FS_REM Geçmişten kaldır
+_C_MNU_FS_REMALL Tümünü geçmişten sil...
+_C_MNU_FS_REMALL_MSG Tümünü geçmişten silmek istediğinizden emin misiniz?
+_C_MNU_HELP &Yardım
+_C_MNU_HELP_ABOUT Mp3tag Hakkında...
+_C_MNU_HELP_DONATE Bağış
+_C_MNU_HELP_FINDER İçin&dekiler\tF1
+_C_MNU_HELP_FIRSTSTEPS İlk Adımlar
+_C_MNU_HELP_KEYBOARD &Klavye Kısayolları
+_C_MNU_HELP_SUPPORT Çevrimiçi Destek...
+_C_MNU_HELP_UPGRADE Yeni Sürümü Denetle...
+_C_MNU_HELP_WWW Mp3tag &Sitesi...
+_C_MNU_TAGSOURCES &Etiket Kaynağı
+_C_MNU_TOOLS A&raçlar
+_C_MNU_VIEW &Görünüm
+_C_MNU_VIEW_COLUMNS Sütu&nları Düzenle...
+_C_MNU_VIEW_FILTER &Filtrele\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY Filtreyi otomatik uygula
+_C_MNU_VIEW_ID3 E&tiket Paneli\tCtrl+Q
+_C_MNU_VIEW_REFRESH &Yenile\tF5
+_C_MNU_VIEW_SORTBY &Sıralama
+_C_MNU_VIEW_TAGS &Etiketler...\tALT+T
+_C_MNU_VIEW_TOOLBAR &Araç Çubuğu
+_C_MNU_SB_ACTIONS Seçili dosyalara kullanıcı-tanımlı eylemleri (büyük-küçük harf çevirme, yerine koyma) uygular.
+_C_MNU_SB_CON_FTF Eski dosya adı tabanlı tanımlamadan sonra, dosyaları yeniden adlandır.
+_C_MNU_SB_CON_FTT Tanımlı dosya adları kalıbından etiket oluştur.
+_C_MNU_SB_CON_TFF Tanımlı etiket listesi kalıbından etiket oluştur.
+_C_MNU_SB_CON_TTF Tanımlanan etiket tabanlı dosyaları yeniden adlandır.
+_C_MNU_SB_CON_TTT Etiketlere göre etiketleri biçimlendir.
+_C_MNU_SB_EDIT_COPY Yazı seçimini veya seçili dosyanın etiketini panoya kopyala.
+_C_MNU_SB_EDIT_CUT Yazı seçimini veya seçili dosyanın etiketini kes ve panoya taşı.
+_C_MNU_SB_EDIT_INVERTSELECTION Seçimi ters çevir.
+_C_MNU_SB_EDIT_NEXT Dosya görünümünde bir sonraki dosyayı işaretle.
+_C_MNU_SB_EDIT_PASTE İşaretli yere veya seçili dosyanın içine pano içeriğini yapıştır.
+_C_MNU_SB_EDIT_SELECT Listelenen dosyaları seç.
+_C_MNU_SB_EDIT_UNDO Son işlemi geri al.
+_C_MNU_SB_EDIT_UNSELECTALL Tüm dosyaları seçimi geri al.
+_C_MNU_SB_EXTRA_OPTIONS Seçenekleri göster.
+_C_MNU_SB_EXTRA_RESET_EDITS Tüm girişlerdeki yazıları kaldır.
+_C_MNU_SB_EXTRA_SET_EDITS Tüm girişleri tanımlanmış standart değerlere ayarla.
+_C_MNU_SB_EXTRA_TRACKWIZARD Otomatik numaralandırma sihirbazını çalıştırır.
+_C_MNU_SB_FILE_ADD Dosya listesine klasör ekle.
+_C_MNU_SB_FILE_CDDB Takılı Ses CD veya seçili dosyalar hakkında internetten bilgi al.
+_C_MNU_SB_FILE_CDDBLOCAL Takılı Ses CD veya seçili dosyalar hakkında yerel freedb veritabanından bilgi al.
+_C_MNU_SB_FILE_COPY Seçili dosyaları başka bir klasöre kopyala.
+_C_MNU_SB_FILE_DELETE Seçili dosyaları siler.
+_C_MNU_SB_FILE_DIR Klasörü Değiştir...
+_C_MNU_SB_FILE_EXIT Uygulamadan çıkış.
+_C_MNU_SB_FILE_EXPORT Seçili dosyalardan etiket ve dosya bilgilerini gönderir.
+_C_MNU_SB_FILE_FAVDIR Varsayılan klasörün ayarını değiştir.
+_C_MNU_SB_FILE_FREEDBINDEX Yerel freedb araması yapabilmek için, yerel freedb veritabanı oluştur.
+_C_MNU_SB_FILE_MOVE Seçili dosyaları bir başka klasöre taşı.
+_C_MNU_SB_FILE_PLALL Tüm dosyalardan oynatma listesi oluştur.
+_C_MNU_SB_FILE_PLAY Seçili dosyaları oynat.
+_C_MNU_SB_FILE_PLAYLIST Çalma listesinin içeriğini yükle.
+_C_MNU_SB_FILE_PLSEL Seçili dosyalardan çalma listesi oluştur.
+_C_MNU_SB_FILE_PROPERTIES Seçili dosyanın özelliklerini göster.
+_C_MNU_SB_FILE_READ Seçili dosyadan giriş alanına etiketi oku.
+_C_MNU_SB_FILE_REMOVE Seçili dosyanın etiketini kaldır.
+_C_MNU_SB_FILE_REMOVEFILE Seçili dosyaları kaldır.
+_C_MNU_SB_FILE_RENAME Seçili dosyanın adını değiştir.
+_C_MNU_SB_FILE_SAVE Seçili dosyaların etiketi kaydet.
+_C_MNU_SB_FILE_SAVECONFIG Mevcut ayarları bir yapılandırma dosyasına kaydet.
+_C_MNU_SB_HELP_ABOUT Mp3tag hakkında bilgi.
+_C_MNU_SB_HELP_CONTEXT Tıklanan alanlar, menüler ve pencereler için yardım içeriğini göster.
+_C_MNU_SB_HELP_DONATE Mp3tag geliştirilmesine destek olmak için lütfen bağış yapın.
+_C_MNU_SB_HELP_FINDER Yardım İçerikleri...
+_C_MNU_SB_HELP_FIRSTSTEPS Mp3tag hakkında kısa bir giriş göster.
+_C_MNU_SB_HELP_KEYBOARD Klavye kısayolları listesini görüntüler.
+_C_MNU_SB_HELP_SUPPORT Mp3tag forumlarına git...
+_C_MNU_SB_HELP_UPGRADE Mp3tag güncelleme kontrolü.
+_C_MNU_SB_HELP_WWW Mp3tag sitesine git...
+_C_MNU_SB_UPDIR Bir üst klasöre geç
+_C_MNU_SB_VIEW_COLUMNS Dosya görünümü sütunlarının değiştirilebileceği kutuyu göster.
+_C_MNU_SB_VIEW_FILTER Dosya görünümünü süz.
+_C_MNU_SB_VIEW_ID3 Etiket girişi bölümünü göster/gizle.
+_C_MNU_SB_VIEW_REFRESH Dosya görünümünü yenile.
+_C_MNU_SB_VIEW_TAGS Gelişmiş etiket penceresini göster.
+_C_MNU_SB_VIEW_TOOLBAR Araç çubuğunu göster/sakla.
+_C_MNU_SB_WND_IDLE Hazır
+_C_MNU_SB_WND_MAXIMIZE Pencereyi tam ekrana genişlet
+_C_MNU_SB_WND_MINIMIZE Pencereyi simge durumuna küçült
+_C_MNU_SB_WND_MOVE Pencerenin yerini değiştir
+_C_MNU_SB_WND_RESTORE Pencereyi tam ekran veya simge durumundan normal boyutuna getir
+_C_MNU_SB_WND_SIZE Pencere büyüklüğünü değiştir
+_C_MULTILINE Çok satırlı
+_C_OK &Tamam
+_C_OPT_ACTIONGROUPS Eylem grupları
+_C_OPT_ACTIONS Eylemler
+_C_OPT_ACTIONS_TYPE Eylemi seçin
+_C_OPT_ADVANCED Gelişmiş
+_C_OPT_ADVANCED_ID3V2LANG ID3v2 yorumu dil kodu (ISO-639-2)
+_C_OPT_ADVANCED_LISTCHAPTERS Bölümleri ayrı dosya olarak listele
+_C_OPT_CAPTION Seçenekleri
+_C_OPT_CDDB_CAPTION freedb
+_C_OPT_CDDB_CHK_USEPROXY pr&oksi kullan
+_C_OPT_CDDB_FRM_CDDB freedb Sunucusu
+_C_OPT_CDDB_FRM_LOCALPATH Yerel free&db konumu:
+_C_OPT_CDDB_FRM_PROXY Proksi
+_C_OPT_CDDB_RD_FMT_UNIX &UNIX-Formatı
+_C_OPT_CDDB_RD_FMT_WIN &Windows-Formatı
+_C_OPT_CDDB_ST_ADDRESS &Adres:
+_C_OPT_CDDB_ST_EMAIL &E-posta Adresi:
+_C_OPT_CDDB_ST_NAME İ&sim:
+_C_OPT_CDDB_ST_PATH &Konum:
+_C_OPT_CDDB_ST_PORT P&ort:
+_C_OPT_CDDB_ST_PROXYNAME Pro&ksi:
+_C_OPT_CDDB_ST_PROXYPORT Po&rt:
+_C_OPT_CDDB_ST_PWD Parola:
+_C_OPT_CDDB_ST_TIMEOUT &Süre:
+_C_OPT_CDDB_ST_USERNAME &Kullanıcı adı:
+_C_OPT_CDDB3_CAPTION Yerel freedb
+_C_OPT_CON_FRM_FTT &Dosya adı - Etiket
+_C_OPT_CON_FRM_TFF &Metin Belgesi - Etiket
+_C_OPT_CON_FRM_TTF &Etiket - Dosya adı
+_C_OPT_CON_ST_FNAME Dosya Adı:
+_C_OPT_CON_ST_FS Yazım formatı:
+_C_OPT_DIR Klasörler
+_C_OPT_DIR_COVER Albüm kapak klasörü
+_C_OPT_EMPTY_HINT Lütfen bir başlık seçin
+_C_OPT_EXP_CAPTION Gönder
+_C_OPT_EXP_CHK_APPEND &Veriye ekle
+_C_OPT_EXP_CHK_WRITEBOM BOM y&az
+_C_OPT_EXP_FRM_EXPORT Yapılandırmayı gönder
+_C_OPT_EXP_RD_TRACK Parça
+_C_OPT_EXP_ST_FNAME &Gönderilen dosya adı:
+_C_OPT_EXP_ST_NAME Yeni gönderme yapılandırma adı
+_C_OPT_FMT_CASE Büyük-küçük harf çevirme
+_C_OPT_FMT_FRM_FTF Dosya adı - Dosya adı
+_C_OPT_FMT_ST_BEGIN Bu veya bundan başlayan tüm kelimeler:
+_C_OPT_FMT_ST_FNAME_NEW Yeni dosya adı kalıbı:
+_C_OPT_FMT_ST_FNAME_OLD Eski dosya adı kalıbı:
+_C_OPT_FMT2 Yer değiştir:
+_C_OPT_FMT2_CASE büyük-küçük harf duyarlı karşılaştır
+_C_OPT_FMT2_COL_ORIGINAL Orijinal
+_C_OPT_FMT2_COL_REPLACE Yerine koy
+_C_OPT_FMT2_ONLYWORDS sadece tüm kelime olarak
+_C_OPT_GEN_CAPTION Genel
+_C_OPT_GEN_CHK_AUTOSAVE O&k-tuşları/tek tıklama ile etiketleri kaydet
+_C_OPT_GEN_CHK_FOLDERSTART B&u klasörden başla
+_C_OPT_GEN_CHK_GRID &Dosya görünümünde kılavuz çizgilerini göster
+_C_OPT_GEN_CHK_JUMPONEDIT Düzenlerken ot&omatik olarak bir sonraki dosyayı seç
+_C_OPT_GEN_CHK_KEEPFILETIME Etiket kaydedilirken dosya zamanı bilgisini koru
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Taşınan dosyaları &listede tut
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS Eyle&mlerden gelen uyarılar
+_C_OPT_GEN_CHK_MSG_CHANGE &Değişiklikten sonra
+_C_OPT_GEN_CHK_MSG_CUT Etiketler&i keserken
+_C_OPT_GEN_CHK_MSG_DEL &Sildikten sonra
+_C_OPT_GEN_CHK_MSG_DELETEFILE D&osyaları silerken
+_C_OPT_GEN_CHK_MSG_EXPORT Etiketleri &gönderirken
+_C_OPT_GEN_CHK_MSG_PASTE Etiket&leri yapıştırırken
+_C_OPT_GEN_CHK_MSG_REMOVETAGS Etik&etleri kaldırırken
+_C_OPT_GEN_CHK_MSG_SAVE &Kaydetme sonrası
+_C_OPT_GEN_CHK_PL &Otomatik olarak çalma listesi oluştur
+_C_OPT_GEN_CHK_RELPL &Girişler çalışma klasörü ile bağlantılı
+_C_OPT_GEN_CHK_AUTOCOMPLETE &Seçim kutularında otomatik tamamla
+_C_OPT_GEN_CHK_SELECTFILES Dosy&aları otomatik seç
+_C_OPT_GEN_CHK_SORTNATURAL Doğal sıralama &kullan
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH &Mevcut dosya konumu pencere başlığında görünsün
+_C_OPT_GEN_FRM_GEN Genel
+_C_OPT_GEN_FRM_MSG Mesaj göster
+_C_OPT_GEN_FRM_PL Çalma listesinin dosya adı
+_C_OPT_GEN_RD_PLALL t&üm dosyalardan
+_C_OPT_GEN_RD_PLSEL &seçili dosyalardan
+_C_OPT_GEN_ST_FAVDIR Favori klasör:
+_C_OPT_GEN2_CAPTION Mesajlar
+_C_OPT_GENRES Kullanıcı tanımlı türler
+_C_OPT_GENRES_HIDESTANDARD &Sadece kullanıcı tanımlı türleri göster
+_C_OPT_ID3_CHK_ISO88591 UTF-16 yerine daima ISO-8859-1 etiketlerini yaz
+_C_OPT_ID3_CHK_LEADINGZEROS Parça numaraları sıfırlı başlasın (01, 02, ...)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND ID3v2 (sade&ce ID3v1 çok küçükse)
+_C_OPT_ID3_CHK_V1 ID3v&1
+_C_OPT_ID3_CHK_V2 ID3v&2
+_C_OPT_ID3_FRM_READ Oku
+_C_OPT_ID3_FRM_REMOVE Kaldır
+_C_OPT_ID3_FRM_WRITE Yaz
+_C_OPT_LIB Kitaplık
+_C_OPT_LIB_CHK_ENABLE &Kitaplığı Etkinleştir
+_C_OPT_LIB_CHK_RESTRICT &Sadece bu dizinleri dahil et
+_C_OPT_LIB_CLEANUP Kitaplığı Temizle
+_C_OPT_MAPPING Eşleştirme
+_C_OPT_MAPPING_FRM Kullanıcı tanımlı eşleştirmeler
+_C_OPT_MAPPING_SOURCE Kaynak
+_C_OPT_MAPPING_TARGET Hedef
+_C_OPT_PLAYLIST_CAPTION Çalma listesi
+_C_OPT_PLAYLIST_EXTENDED &Ek bilgileri yaz
+_C_OPT_PLAYLIST_NOFOLDERS &Klasör oluşturulmasın
+_C_OPT_PLAYLIST_SHOWDLG &Dosya adı için onay kutusu göster
+_C_OPT_TAG Etiketler
+_C_OPT_TAGS_COVER Kapak resmi dosya adı:
+_C_OPT_TAGS_EXT Etiket kaydı ve gelişmiş diyalogların için kayıt modu:
+_C_OPT_TAGS_FILEFILTER İşlenecek dosya uzantıları listesi:
+_C_OPT_TAGS_NOIMG Klasördeki i&lk resmi albüm kapağı olarak gösterme
+_C_OPT_TOOLS Araçlar
+_C_OPT_TOOLS_CHK_DEFAULT Çift tıklamalarda özel p&rogram kullan:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES &seçili tüm dosyalar için
+_C_OPT_TOOLS_COL_PARAM Parametre
+_C_OPT_TOOLS_COL_PATH Konum
+_C_OPT_TOOLS_EDIT Araç Yapılandırma. İsim ve Konum zorunludur.
+_C_OPT_TOOLS_FRM_DEFAULT Varsayılan Program
+_C_OPT_TOOLS_FRM_TOOLS Araçlar
+_C_OVERWRITE Ü&zerine yaz
+_C_RENAME &Yeniad
+_C_TT_CDDB freedb...
+_C_TT_CDDBLOCAL freedb (yerel)...
+_C_TT_CLOSE Kapat
+_C_TT_DIR Klasörü değiştir...
+_C_TT_EDIT_UNDO Geri al
+_C_TT_EXPORT Gönder
+_C_TT_FAVDIR Seçili klasör
+_C_TT_FILE_ADD Klasör ekle...
+_C_TT_FILE_COPY Klasöre Kopyala...
+_C_TT_FILE_DELETE Sil...
+_C_TT_FILE_MOVE Klasöre Taşı...
+_C_TT_FILE_PLAY Oynat
+_C_TT_FILE_PROPERTIES Özellikler...
+_C_TT_FILE_RENAME Ad değiştir
+_C_TT_FTF Dosya adı - Dosya adı
+_C_TT_FTT Dosya adı - Etiket
+_C_TT_HELP Yardım içerikleri...
+_C_TT_OPT Seçenekler kutusu...
+_C_TT_PLALL Tüm dosyalardan çalma listesi oluştur
+_C_TT_PLSEL Seçili dosyalardan çalma listesi oluştur
+_C_TT_REFRESH Dosya görünümünü yenile
+_C_TT_REMOVE Etiketi kaldır
+_C_TT_SAVE Kaydet
+_C_TT_TFF Etiket listesi - Etiket
+_C_TT_TTF Etiket - Dosya adı
+_C_TT_TTT Etiket - Etiket
+_C_TT_UPDIR Bir üst klasöre
+_C_WIZARD_TRACKS Numaralandırma sihirbazı
+_C_WIZARD_TRACKS_BEGIN Şu parça numarasından başla:
+_C_WIZARD_TRACKS_DESC Disk ve parça numaralarını belirle
+_C_WIZARD_TRACKS_DISC_BEGIN Şu disk numarasından başla:
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Disk numaraları sıfırlı başlasın (01, 02, ...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Toplam disk numarası sayısı
+_C_WIZARD_TRACKS_DISCNUMBER Disk numarası
+_C_WIZARD_TRACKS_RESETFOLDERS Her klasör için sayacı sıfırla
+_C_WIZARD_TRACKS_SAVETOTAL Toplam parça numarası sayısı
+_C_WIZARD_TRACKS_TRACKNUMBER Parça numarası
+_M_ERR_CANCEL İşlem iptal edildi.
+_M_ERR_CDDB_CD Ses CD okurken hata
+_M_ERR_CDDB_CONNECT Sunucusuna bağlanırken hata: {1}
+_M_ERR_CDDB_NOENTRY freedb-ID için uygun bir giriş bulunamadı {1}.
+_M_ERR_CDDB_NOENTRYINLOCALBD freedb-ID için {1} sorgusu '{2}' yerel freedb veritabanında bulunamadı.
+_M_ERR_CDDB_PARSER Sorgu neticesi bulunamadı.
+_M_ERR_CDDB_READ freedb Sunucusundan veri okunurken hata: {1}
+_M_ERR_CONFIGURATION Yapılandırma alınamadı
+_M_ERR_COPY Seçili dosyalar kopyalanamıyor!
+_M_ERR_DELETE Seçili dosyalar silinemiyor!
+_M_ERR_FILECREATE Dosya \"{1}\" oluşturulamadı.
+_M_ERR_FILEDELETE Dosya \"{1}\" silinemedi.
+_M_ERR_FILENAMEALREADYEXISTS \"{1}\" isimde dosya zaten var.
+_M_ERR_FILENAMEALREADYEXISTS2 \"{1}\" dosyası atlandı.
+_M_ERR_FILEOPABORTED Mevcut klasörün içeriği değişti.\n\nMevcut klasörün yeniden okunmasını ister misiniz?
+_M_ERR_FILEOPEN Dosya \"{1}\" açılamadı.
+_M_ERR_FILEREADONLY \"{1}\" salt okunur bir dosya.\n\nMp3tag dosyaların yazma korumasını kaldırsın mı?
+_M_ERR_FOLDERCANNOTBEACCESSED Erişim hatası\n\nKlasöre \"{1}\" erişilemedi.
+_M_ERR_INVALID_FILENAME Lütfen geçerli bir dosya adı belirtin.
+_M_ERR_INVALID_FTF_FS \"{1}\" dosya adları için geçerli bir format değil.
+_M_ERR_INVALID_TOKEN {1}:\nŞu karakterler dosya adlarında kullanılamaz:\n\\ / : * ? \" < > |\n\nOtomatik olarak düzeltilmesini ister misiniz?
+_M_ERR_MOVE Seçili dosyalar taşınamıyor!
+_M_ERR_ONLINE_NOTFOUND Üzgünüz, arama kriterlerinize uyan giriş yok.
+_M_ERR_OPT_CDDB_NOADDRESS Lütfen freedb Sunucusunun adresini yazın.
+_M_ERR_OPT_CDDB_NOEMAIL Lütfen ePosta-adresinizi 'seçenekler, freedb, sunucu' kısmına yazın. Freedb Sunucusuna giriş yapmak için kullanılacak.
+_M_ERR_OPT_CDDB_NONAME Lütfen yapılandırma için geçerli bir isim girin.
+_M_ERR_OPT_CDDB_NOPORT Lütfen freedb Sunucu port numarasını girin.
+_M_ERR_PARSELINE İşlenmeyen satır {1}.
+_M_ERR_PLAY Dosya \"{1}\" açılamadığından çalınamıyor!
+_M_ERR_READ_FILE Dosya \"{1}\" okunma için açılamadı.
+_M_ERR_RENAME_FILE Dosya \"{1}\" yeniden adlandırıldı \"{2}\".
+_M_ERR_RETRY Tekrar denemek ister misiniz?
+_M_ERR_TL_NOTAGS Etiket listesi dosyasında çok az etiket belirtilmiş \"{1}\".\n\n
+_M_ERR_WRITE_FILE Dosya \"{1}\" yazım için açılamadı.
+_M_ERR_YN \n\nDevam etmek istiyor musunuz?
+_M_LOG_FMT_FNAME {1} tanesinin, {2} tane dosyadan adı değiştirildi.\n
+_M_LOG_FMT_TAG {1} tanesi, {2} tane etiketten formatlandı.\n
+_M_LOG_FTF {1}/{2} dosyanın adı değiştirildi.
+_M_LOG_FTT {1}/{2} dosyanın etiketi oluşturuldu.
+_M_LOG_PL_ALL Çalma listesi \"{1}\" tüm dosyalardan ({2}) oluşturuldu.
+_M_LOG_PL_SEL Çalma listesi \"{1}\" seçili dosyalardan ({2}) oluşturuldu.
+_M_LOG_REMOVE Dosyanın etiketi kaldırıldı: \"{1}\".
+_M_LOG_REMOVED {1}/{2} dosyanın etiketi kaldırıldı.
+_M_LOG_REMOVE_NOTAG Dosyada etiket bilgisi yok \"{1}\".
+_M_LOG_SAVE Dosyaya etiket bilgisi kaydedildi \"{1}\".
+_M_LOG_SAVED {1}/{2} dosyanın etiket bilgisi kaydedildi.
+_M_LOG_TFF Etiket listesinden \"{1}\" etiketler alındı ve {2}/{3} kadarına kaydedildi.
+_M_LOG_TFF_S \"{1}\" dosyasından bir etiket bilgisi alındı.
+_M_LOG_TTF {2} dosyadan {1} dosya adı değiştirildi.
+_M_STAT_PLAY Dosya oynatılıyor: \"{1}\"...
+_M_STR_ACTION_ADJUSTCOVER Kapak ayarla
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Format
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Orijinal
+_M_STR_ACTION_ADJUSTCOVER_SIZE En Büyük Boyut
+_M_STR_ACTION_CODEPAGE Sayfa kodlamasını dönüştür
+_M_STR_ACTION_CODEPAGE_DESC Sayfa kodlaması
+_M_STR_ACTION_EXPORTCOVER Kapağı farklı kaydet
+_M_STR_ACTION_EXPORTCOVER_DUPES Çift kapakları kaydet
+_M_STR_ACTION_EXPORTCOVER_TYPES Kayıt edilecek kapak türü:
+_M_STR_ACTION_FORMAT Format değeri
+_M_STR_ACTION_GUESS Tahmini değerler
+_M_STR_ACTION_GUESSPATTERN Tahmini şablon
+_M_STR_ACTION_GUESSSOURCE Kaynak biçimi
+_M_STR_ACTION_IMPORTCOVER Kapağı dosyadan al
+_M_STR_ACTION_IMPORTCOVER_FS Resim dosyası için kelime biçimi:
+_M_STR_ACTION_IMPORTCOVER_DELETE &Mevcut olan kapağı sil
+_M_STR_ACTION_IMPORTCOVER_TYPE Kapak türü:
+_M_STR_ACTION_IMPORTTEXT Metin dosyasından al
+_M_STR_ACTION_MERGEDUPLICATEFIELDS Çoklu alanları birleştir
+_M_STR_ACTION_REGEXP Düzenli ifadeyle yer değiştir
+_M_STR_ACTION_REGEXP_EXP Düzenli ifade
+_M_STR_ACTION_REGEXP_MATCH Uyuşanları yer değiştir
+_M_STR_ACTION_REMOVEDUPES Çoğul etiket alanlarını kaldır
+_M_STR_ACTION_REM Alanları kaldır
+_M_STR_ACTION_REM_DESC Kaldırılacak alanlar (sütunla-ayrılmış):
+_M_STR_ACTION_REM_EX Bu alanlar hariç kaldır
+_M_STR_ACTION_REM_EX_DESC Kalacak alanlar (sütunla-ayrılmış):
+_M_STR_ACTION_SPLITFIELDS Ayırıcıyla alanları ayır
+_M_STR_ACTIONGROUP_NAME Eylem grup ismi
+_M_STR_ALBUM Albüm
+_M_STR_ALBUMARTIST Albüm Sanatçısı
+_M_STR_ALL_FILEDLGFILTER Tüm dosyalar (*.*)|*.*||
+_M_STR_ARTIST Sanatçı
+_M_STR_AUTHOR Yazar
+_M_STR_BACK < &Geri
+_M_STR_BROWSE_COPY Kopyala:
+_M_STR_BROWSE_MOVE Taşı:
+_M_STR_BROWSE_TEXT Lütfen ses dosyalarını içeren klasörü seçin.
+_M_STR_BYTES Bayt
+_M_STR_CDDB_CD Ses-CD oku
+_M_STR_CDDB_CONNECT bağlanıyor {1}...
+_M_STR_CDDB_CONNECTED  bağlandı!
+_M_STR_CDDB_IDXDB_ENTRIES veritabanı girdisi yaratıldı
+_M_STR_CDDB_RETRIEVE Başlık bilgisini al
+_M_STR_COLUMNFILENAME Dosya Adı
+_M_STR_COLUMNPATH Konum
+_M_STR_COLUMNUSEDCOLS görünür
+_M_STR_COMBO_HOLD < koru >
+_M_STR_COMBO_REMOVE < boşluk >
+_M_STR_COMBO_USER < giriş >
+_M_STR_COMMENT Yorum
+_M_STR_COMPOSER Besteci
+_M_STR_COPYOF {1} kopyası
+_M_STR_COVER Kapak
+_M_STR_COVER_ADD Mevcut kapak(lar) korunsun mu?
+_M_STR_COVER_CORRECTAR Görüntü oranını koru
+_M_STR_COVER_SETDESC Kapak açıklaması ekle...
+_M_STR_COVER_SETTYPE Kapak türü
+_M_STR_COVERVARIES Kapak değişken
+_M_STR_CUSTOMIZE Özelleştir...
+_M_STR_DAY gün
+_M_STR_DAYS gün
+_M_STR_DEFAULTVALUE Varsayılan değer
+_M_STR_DISCID CDDB ID
+_M_STR_DISCOGS_OAUTH_PIN Discogs yetkilendirme kodunu girin
+_M_STR_DISCNUMBER Disk No
+_M_STR_ERR_CDDB_NOENTRYSELECTED Lütfen bir girdi seçin.
+_M_STR_EXPORT_DELETE Gönderilen yapılandırma silinsin mi \"{1}\"?
+_M_STR_EXPORT_FILEDLGTITLE Gönderilecek dosyayı seç
+_M_STR_EXPORT_MULTIPLE Klas&ör başına bir dosya
+_M_STR_EXPORT_SHOWEXPORTFILE \n\nOluşturulan dosya şimdi gösterilsin mi?
+_M_STR_EXP_MSG Seçili {2} dosya hakkındaki bilgi, '{1}' dosyasına yazıldı.
+_M_STR_FIELD Alan:
+_M_STR_FIELDSIZE Alan boyutu
+_M_STR_FIELDROWS Satır
+_M_STR_FILE Dosya
+_M_STR_FILEDELETE Seçili tüm dosyaları silmek istediğinize emin misiniz?
+_M_STR_FILEMODIFIED Değiştirildi:
+_M_STR_FILESIZE Boyut
+_M_STR_FILTER &Filtre:
+_M_STR_FMT_CAPITAL Karışık
+_M_STR_FMT_HIGH BÜYÜK harf
+_M_STR_FMT_LOW küçük harf
+_M_STR_FMT_SENTENCE Cümle
+_M_STR_FREEDBCREATEINDEX Yerel freedb veritabanı oluşturulsun mu?\n\nBu birkaç dakika sürebilir.
+_M_STR_FREEDB_SEARCH freedb web-araması
+_M_STR_GENRE Tür
+_M_STR_GENRES Türler
+_M_STR_HIDE &Gizle
+_M_STR_ITEMALREADYEXISTS Bu isimde bir nesne zaten var, üstüne yazılsın mı?
+_M_STR_LANGUAGE Dil
+_M_STR_M3U_FILEDLGFILTER Desteklenen dosyalar (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_METADATA Meta Veri
+_M_STR_MOVEDOWN Aşağı
+_M_STR_MOVEUP Yukarı
+_M_STR_MPEGBITRATE Bit hızı
+_M_STR_MPEGFREQUENCY Frekans
+_M_STR_MPEGLENGTH Uzunluk
+_M_STR_MPEGMODE Kanal
+_M_STR_MPEGVERSION Çözücü
+_M_STR_MSGCUT Seçili dosyanın etiketini kaldırmayı ve etiketi panoya kopyalamayı gerçekten istiyor musunuz?
+_M_STR_MSGPASTE Pano içeriğini gerçekten seçili dosyanın yeni etiketi olarak yapıştırmak istiyor musunuz?
+_M_STR_MSGREMOVE Seçili dosyaların etiketleri kaldırılsın mı?
+_M_STR_NAME İsim
+_M_STR_NETWORKING Bağlantı
+_M_STR_NEXT İ&leri >
+_M_STR_NOACTION - Eylem yok -
+_M_STR_NOACTIONENABLED Lütfen bu özelliği kullanırken en az bir eylemi işaretleyin.
+_M_STR_NUMERIC Sayısal
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH Lütfen yerel freedb veritabanının çalışacağı klasörü seçin.
+_M_STR_OPT_CDDB_PROCEED Bütün sunucular kaldırılacak!\n\nDevam etmek istiyor musunuz?\n
+_M_STR_OPTIMIZEMP4 MP4 İyileştir
+_M_STR_OPTS_ALWAYS her zaman
+_M_STR_OPTS_ASK sor
+_M_STR_OPTS_NEVER asla
+_M_STR_PLNAME Çalma listesi - Dosya adı
+_M_STR_PL_CONFIRM Bu isimle çalma listesi oluştur
+_M_STR_PL_SAVEFILTER Çalma Listesi (*.m3u)|*.m3u|Unicode Çalma Listesi (*.m3u8)|*.m3u8||
+_M_STR_PREVIEW Önizleme
+_M_STR_PROPERTIES {1} Özellikler
+_M_STR_QUICK Hızlı
+_M_STR_RECURSE &Alt klasörler
+_M_STR_REST Diğer
+_M_STR_SAVE_NOT < ilişkili yok >
+_M_STR_SAVECONFIG Ayarların kayıt edildiği dosya '{1}' \n\nGeri yüklemek için çıkartılacak yol\n\"{2}\"
+_M_STR_SAVECONFIG_FILEDLGFILTER Yapılandırma Dosyaları (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE Yapılandırmayı Kaydet...
+_M_STR_SAVEIMAGE Resmi etikete kaydet
+_M_STR_SAVEIMAGEDIRECTORY Resmi diske kaydet
+_M_STR_SAVESELECTION Seçimi kaydet...
+_M_STR_SB_ABORTED iptal edildi
+_M_STR_SB_ACTION Dosyaya uygulanıyor... {1}/{2} tamamlandı
+_M_STR_SB_CLEANUPDATABASE Dosyalar işleniyor {1}/{2} ({3} temizlendi)
+_M_STR_SB_CLEANUPDATABASE_BINARIES Bağımsız veriler temizleniyor
+_M_STR_SB_CLEANUPDATABASE_COVERS Bağımsız kapaklar temizleniyor
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Kitaplık dışı dosyalar temizleniyor
+_M_STR_SB_EXPORTTAGS Etiket bilgisi gönderiliyor... {1}/{2} tamamlandı
+_M_STR_SB_LOADTAGS Etiket okunuyor... {1}/{2} tamamlandı
+_M_STR_SB_READDIRECTORY Klasör okunuyor
+_M_STR_SB_REMOVETAGS Etiket bilgisi kaldırılıyor... {1}/{2} tamamlandı
+_M_STR_SB_RENAMEFILES Ad değiştiriliyor... {1}/{2} tamamlandı
+_M_STR_SB_WRITETAGS Etiket bilgisi yazılıyor... {1}/{2} tamamlandı
+_M_STR_SHOWCHOOSEDLG &Seçim kutusunu göster
+_M_STR_SEARCHBY Ara:
+_M_STR_SEARCHTEXT Yazı:
+_M_STR_SEPARATOR Ayırıcı
+_M_STR_SHOW &Göster
+_M_STR_SIZE_LARGE Büyük
+_M_STR_SIZE_MEDIUM Orta
+_M_STR_SIZE_NORMAL Normal
+_M_STR_SIZE_SMALLER Daha Küçük
+_M_STR_SIZE_SMALL Küçük
+_M_STR_SNA Bildirim Alanı
+_M_STR_SNA_SHOW &Bildirim alanında simgeyi göster
+_M_STR_SNA_SHOWMIN Bildir&im alanına küçült
+_M_STR_STRIPCHAPTERSMP4 MP4 bölümlerini temizle
+_M_STR_TAG_COPIED {1} dosyanın etiketleri panoya kopyalandı.
+_M_STR_TAG2 Etiket
+_M_STR_TAGFIELDS_REMOVE Alanı kaldır
+_M_STR_TAGFIELDS_REMOVEALL Tüm alanları kaldır...
+_M_STR_TAGFIELDS_REMOVEALLMSG Tüm alanlar listeden kaldırılsın mı?
+_M_STR_TAGFIELDS_RESET Alanları sıfırla...
+_M_STR_TAGFIELDS_RESETMSG Varsayılan alanlar yüklensin mi?
+_M_STR_TAGPANEL Etiket Paneli
+_M_STR_TAGPANEL_COVER &Kapak resmini göster
+_M_STR_TAGPANEL_DIRECTORY K&lasör girdisini göster
+_M_STR_TAGLIST_FILEDLGFILTER Etiket listeleri ({1})
+_M_STR_TAGLIST_FILEDLGTITLE Etiket listesi seçin
+_M_STR_TAGSOURCES Etiket Kaynakları
+_M_STR_THISALBUMON Bu albüm {1} üzerinde
+_M_STR_TITLE Başlık
+_M_STR_TRYAGAIN Tekrar denemek ister misiniz?
+_M_STR_TTF Etiket - Dosya adı
+_M_STR_UPDATE_FRM Güncelleme
+_M_STR_UPDATE_OPT_CHECK &Başlangıçta güncelleme kontrolü yap
+_M_STR_UPDATE_OPT_CHECK_BETA &Geliştirme derlemeleri (Beta)
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Yeni sürümler için sürüm notlarını görüntüle
+_M_STR_UPDATEAVAILABLE Mp3tag {1} daha yeni sürümü mevcut!\n\nBu güncelleştirmeyi şimdi {2} adresinden indirmek ister misiniz?
+_M_STR_UPDATENOTAVAILABLE En güncel sürümü kullanıyorsunuz {1}.\n\nGüncelleştirme mevcut değil.
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS A&raçlar
+_M_STR_VALUE Değer
+_M_STR_VERSION Sürüm
+_M_STR_YEAR Yıl
+_M_TP_CDDB_LOCALPATH Yerel freedb klasörünü belirtin
+_M_TP_CDDB_SITES Şu anki internet freedb sunucularının listesi
+_M_TP_CVR_CLIPBOARD Kapağı yapıştır
+_M_TP_CVR_CLIPBOARD_COPY Kapağı kopyala
+_M_TP_CVR_CLIPBOARD_CUT Kapağı kes
+_M_TP_CVR_DEL Kapağı Sil
+_M_TP_CVR_NEW Kapak Ekle...
+_M_TP_CVR_SAVE Kapağı Kaydet
+_M_TP_DUPLICATE Çoğalt
+_M_TP_EXP_DEL Sil
+_M_TP_EXP_EDIT Yapılandırmayı düzenle
+_M_TP_EXP_FILE Gönderilecek dosyayı seç
+_M_TP_EXP_HLP Hızlı yardımı göster
+_M_TP_EXP_LOAD Yapılandırmayı yükle
+_M_TP_EXP_NEW Yeni
+_M_TP_EXP_SAVE Yapılandırmayı kaydet
+_M_TP_GEN_DIR Klasör seç
+_M_TP_TAG_DEL Alan sil
+_M_TP_TAG_EDIT Alan düzenle...
+_M_TP_TAG_NEW Alan ekle...
+_M_TS_ADDINFO Diğer bilgiler
+_M_TS_MULTIPLEVALUES çoklu değer
+_M_TS_RELEASE Temel bilgiler
+_M_TS_TRACKS Parçalar
+_M_UNDO_CANNOTUNDO Geri alınamadı {1}
+_M_UNDO_CDDB freedb
+_M_UNDO_DIRECTORYCREATE Klasör yarat
+_M_UNDO_DIRECTORYMOVE Klasör taşı
+_M_UNDO_FORMAT Format
+_M_UNDO_FTF Dosya adı - Dosya adı
+_M_UNDO_FTT Dosya adı - Etiket
+_M_UNDO_REMOVEFILE Kaldır
+_M_UNDO_RENAME Ad değiştir
+_M_UNDO_TAGCHANGE Etiketi değiştir
+_M_UNDO_TAGREMOVE Etiketi kaldır
+_M_UNDO_TAGSAVE Etiketi kaydet
+_M_UNDO_TFF Etiket listesi - Etiket
+_M_UNDO_TTF Etiket - Dosya adı

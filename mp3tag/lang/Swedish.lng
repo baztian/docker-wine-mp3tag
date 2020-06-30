@@ -1,0 +1,622 @@
+﻿LANGAUTHOR Matthias Stasiak, Dennis Fluttershy
+LANGCONTACT  matthias.stasiak@gmail.com, dennis.fluttershy@gmail.com
+LANGVERSION 2.84
+LANGNAME Swedish
+LANGNAMELOC Svenska
+SLangCancel Avbryt
+SLangOk &OK
+SLangErrCatch Körfel\n\nFil:\t{1}\nRad:\t{2}\n\nProgrammet har oväntat stött på ett fel\noch befinner sig därför i ett icke-fungerande tillstånd.\nStäng programmet och skicka filen\n\n{3}\n\nsamt en detaljerad felbeskrivning till vår support.\n\nE-post: Support@mp3tag.de
+SLangErrCheck Runtime Error\n\nFil:\t{1}\nRad:\t{2}\nTerm:\t{3}\nKod:\t0x{4}\n\nProgrammet har oväntat stött på ett fel\noch befinner sig därför i ett icke-fungerande tillstånd.\nStäng programmet och skicka filen\n\n{5}\n\nsamt en detaljerad felbeskrivning till vår support.\n\neMail: support@mp3tag.de
+SLangErrDriveCannotBeAccessed Kommer inte åt enheten {1}.\n\n» Kontrollera att enheten är igång och fungerar.
+SLangErrFileCannotBeAccessed Kommer inte åt filen {1}.\n\n» Kontrollera att enheten är igång och fungerar.
+SLangErrFileCannotBeDeleted Kan inte ta bort filen {1}.\n\n» Kontrollera att enheten är igång och fungerar\noch att inga andra program eller processer använder filen.
+SLangErrFolderCannotBeAccessed Kommer inte åt mappen {1}.\n\n» Kontrollera att enheten är igång och fungerar.
+SLangErrFolderCannotBeDeleted Kan inte ta bort mappen {1}.\n\n» Kontrollera att enheten är igång och fungerar\noch att inga andra program eller processer använder denna mapp.
+SLangErrHelpBrowserIsNotAvailable Du behöver en webbläsare,\ntill exempel Internet Explorer eller Firefox,\nför att kunna läsa hjälpfilen.\n\n»
+SLangErrHelpSystemIsNotAvailable Hjälpsystemet är inte tillgängligt.\n\n» Vänligen installera om {1}.
+SLangErrHelpTopicIsNotAvailable Hjälpsystemet finns inte tillgänglig.\n\n» Vänligen kontakta vår support.\n\nE-post: Support@mp3tag.de
+SLangErrNotEnoughFreeDiskSpace Det finns inte tillräckligt med plats på enheten {1}.\n\n» Det måste finnas åtminstone {2} ledigt på denna enhet.
+SLangErrRegistryCannotBeAccessed Kan inte läsa den data som behövs.\n\nWindows-registret är av någon anledning inte tillgängligt.
+SLangMsgItemExistsAlready Det finns redan ett objekt med denna beskrivning.\n\n» Vänligen använd en beskrivning som inte redan finns.
+SLangMsgFirstSteps Ta dig gärna lite tid att läsa Nybörjarguiden.
+SLangMsgShutdownInfo Vänta medans {1} avslutas.
+SLangWrnAppIsAlreadyRunning Programmet är redan startat.
+SLangWrnAppHasToBeRestarted Mp3tag måste startas om för att kunna genomföra ändringarna.\n\nVill du starta om Mp3tag nu?
+SLangWrnNameContainsInvalidCharacters Beskrivningen innehåller icke tillåtna tecken.\n\n» Vänligen använd endast tillåtna tecken i beskrivningen.
+SLangWrnStartLogging Du har startat {1} med kommandoparametern FLOG1. Denna parameter används vid felsökning.\n\nVill du starta loggfunktionen för felsökning?
+_C_ABORT Avbryt
+_C_ABORTING Aborting...
+_C_APP_ST_ALBUM &Album
+_C_APP_ST_ARTIST Art&ist
+_C_APP_ST_COMMENT &Kommentar
+_C_APP_ST_FOLDER &Mapp
+_C_APP_ST_GENRE &Genre
+_C_APP_ST_TITLE &Titel
+_C_APP_ST_TRACK &Spår
+_C_APP_ST_YEAR &År
+_C_CANCEL &Avbryt
+_C_CANCELING Canceling...
+_C_CLOSE St&äng
+_C_DLG_CDDBCONFIRM_CAPTION Söklista från databasen...
+_C_DLG_CDDBCONFIRM_CHK_DISCID Kopiera freeDB DiscID till 'Kommentar'-taggen
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 Kopiera freeDB DiscID till 'DiscID'-taggen
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER Ange som samlingsalbum...
+_C_DLG_CDDBCONFIRM_CHK_SORT Sortera efter
+_C_DLG_CDDBCONFIRM_ST_INFO Hittade flera svar. Välj ett av dem:
+_C_DLG_CDDBCONFIRM_ST_INFO2 Det finns {2} träffar i {1} indexet. Välj vilken av dem som du vill använda:
+_C_DLG_CDDBCONFIRM_STC_TOP Hämtad tagginformation
+_C_DLG_CDDBINPUT_CAPTION Ange ett freeDB ID
+_C_DLG_CDDBINPUT_ST_CATEGORY Kategori
+_C_DLG_CDDBINPUT_ST_ID freeDB ID
+_C_DLG_CDDBSTYLE_CAPTION freeDB
+_C_DLG_CDDBSTYLE_RD_CDROM Sök album utifrån en isatt &ljud-CD i datorn
+_C_DLG_CDDBSTYLE_RD_ENTER Ange ett freeDB ID
+_C_DLG_CDDBSTYLE_RD_MP3 Sök album utifrån markerade filer
+_C_DLG_CDDBSTYLE_RD_SEARCH Sök album via en generell webbsökning
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL Sök album via en generell textsökning
+_C_DLG_CDDBSTYLE_STC_TOP Ange/sök freeDB ID...
+_C_DLG_COLUMNS_CAPTION Taggkolumner
+_C_DLG_COLUMNS_TOP Anpassa taggkolumnernas utseende och innehåll
+_C_DLG_TAGS Redigera tagginformationen
+_C_DLG_TTF_TOP Definera ett konverteringsmönster
+_C_HELP Hjälp
+_C_MNU_ACTIONS &Åtgärder\tALT+6
+_C_MNU_CON &Konvertera
+_C_MNU_CON_FTF F&ilnamn -> Filnamn\tALT+3
+_C_MNU_CON_FTT &Filnamn -> Tagg\tALT+2
+_C_MNU_CON_TFF Tagg&lista -> Tagg\tALT+4
+_C_MNU_CON_TTF &Tagg -> Filnamn\tALT+1
+_C_MNU_CON_TTT T&agg - Tagg\tALT+5
+_C_MNU_EDIT &Redigera
+_C_MNU_EDIT_COPY K&opiera\tCtrl+C
+_C_MNU_EDIT_CUT &Klipp ut\tCtrl+X
+_C_MNU_EDIT_INVERTSELECTION &Invertera markering\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT Välj &nästa fil\tCtrl+N
+_C_MNU_EDIT_PASTE K&listra in\tCtrl+V
+_C_MNU_EDIT_SELECT &Markera allt\tCtrl+A
+_C_MNU_EDIT_UNDO &Ångra\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL &Avmarkera alla\tCtrl+U
+_C_MNU_EXTRA &Verktyg
+_C_MNU_EXTRA_OPTIONS Program&konfiguration...\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS &Återställ alla taggar\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS &Skriv standardvärdena i alla taggar\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD &Autonumreringsguiden...\tCtrl+K
+_C_MNU_FILE &Arkiv
+_C_MNU_FILE_ADD &Lägg till mapp...
+_C_MNU_FILE_CDDB Gör en &freeDB sökning...\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL Gör en &lokal freeDB sökning...\tCtrl+L
+_C_MNU_FILE_COPY K&opiera...
+_C_MNU_FILE_DELETE &Ta bort markerade filer från datorn...
+_C_MNU_FILE_DIR &Byt mapp att läsa filer ifrån...\tCtrl+D
+_C_MNU_FILE_EXIT A&vsluta Mp3tag?\tAlt+F4
+_C_MNU_FILE_EXPORT &Exportera tagginformation...\tCtrl+E
+_C_MNU_FILE_FAVDIR Ange denna mapp som startmapp\tCtrl+F
+_C_MNU_FILE_MOVE &Flytta...
+_C_MNU_FILE_PLALL Skapa en spellista med alla filer\tCtrl+P
+_C_MNU_FILE_PLAY &Spela upp
+_C_MNU_FILE_PLAYLIST Öppna en spellista...
+_C_MNU_FILE_PLSEL Skapa en spellista med markerade filer
+_C_MNU_FILE_PROPERTIES Filegenskaper...
+_C_MNU_FILE_READ Läs in alla taggar igen\tCtrl+T
+_C_MNU_FILE_REMOVE Ta bort alla taggar\tCtrl+R
+_C_MNU_FILE_REMOVEFILE Ta bort markerade filer från fillistan...\tDel
+_C_MNU_FILE_RENAME Byt namn på filen\tF2
+_C_MNU_FILE_SAVE Spara alla taggar\tCtrl+S
+_C_MNU_FILE_SAVECONFIG Spara programinställningarna till en fil...
+_C_MNU_FREEDB &freeDB
+_C_MNU_FREEDB_INDEX Skapa en &lokal freeDB
+_C_MNU_FS_EXT Fler taggar...
+_C_MNU_FS_FNCT Funktioner
+_C_MNU_FS_INFO Informationsfält
+_C_MNU_FS_REM Ta bort från historiken
+_C_MNU_FS_REMALL Ta bort allt från historiken...
+_C_MNU_FS_REMALL_MSG Är du säker på att du vill ta bort alla objekt?
+_C_MNU_HELP &Hjälp
+_C_MNU_HELP_ABOUT &Om Mp3tag
+_C_MNU_HELP_DONATE &Donera
+_C_MNU_HELP_FINDER &Visa hjälp\tF1
+_C_MNU_HELP_FIRSTSTEPS Visa &nybörjarguiden
+_C_MNU_HELP_KEYBOARD Lista alla &kortkommandon
+_C_MNU_HELP_SUPPORT Gå till &onlinesupportforumet...
+_C_MNU_HELP_UPGRADE Sök efter en nyare &version...
+_C_MNU_HELP_WWW Gå till Mp3tags &hemsida...
+_C_MNU_TAGSOURCES &Taggkällor
+_C_MNU_TOOLS &Verktyg
+_C_MNU_VIEW Vi&sa
+_C_MNU_VIEW_COLUMNS &Välj kolumner...
+_C_MNU_VIEW_FILTER V&isningfilter\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY Auto-apply filter
+_C_MNU_VIEW_ID3 &Taggpanelen\tCtrl+Q
+_C_MNU_VIEW_REFRESH &Läs in fillistan igen\tF5
+_C_MNU_VIEW_SORTBY &Sortera efter...
+_C_MNU_VIEW_TAGS T&agginformation...\tALT+T
+_C_MNU_VIEW_TOOLBAR &Verktygsfält
+_C_MNU_SB_ACTIONS Applicera åtgärder på markerade filer
+_C_MNU_SB_CON_FTF Byt filnamn enligt en fördefinerad mall baserat på det gamla filnamnet
+_C_MNU_SB_CON_FTT Skapa Taggar utifrån filnamnet efter på en fördefinerad mall
+_C_MNU_SB_CON_TFF Skapa Taggar utifrån en textfil efter på en fördefinerad mall
+_C_MNU_SB_CON_TTF Byt filnamn baserat på Taggar
+_C_MNU_SB_CON_TTT Formatera taggar baserat på taggar.
+_C_MNU_SB_EDIT_COPY Kopiera markerad text eller den markerade filens Taggar till Urklipp
+_C_MNU_SB_EDIT_CUT Klipp Ut markerad text eller den markerade filens Taggar och flytta dem till Urklipp
+_C_MNU_SB_EDIT_INVERTSELECTION Invertera markeringen
+_C_MNU_SB_EDIT_NEXT Markera nästa fil i fillistan
+_C_MNU_SB_EDIT_PASTE Klistra In från Urklipp vid markören eller till markerad fil
+_C_MNU_SB_EDIT_SELECT Markera alla filer i listan
+_C_MNU_SB_EDIT_UNDO Ångra senaste kommandot
+_C_MNU_SB_EDIT_UNSELECTALL Avmarkera alla filer
+_C_MNU_SB_EXTRA_OPTIONS Visa inställningarna
+_C_MNU_SB_EXTRA_RESET_EDITS Ta bort alla taggar
+_C_MNU_SB_EXTRA_SET_EDITS Visa standardvärdena i alla taggar
+_C_MNU_SB_EXTRA_TRACKWIZARD Kör den automatiska Spårnumreringsguiden
+_C_MNU_SB_FILE_ADD Lägg till mappen i fillistan
+_C_MNU_SB_FILE_CDDB Hämta information om den inmatade CDn eller markerade filer från Internet
+_C_MNU_SB_FILE_CDDBLOCAL Hämta information om den inmatade CDn eller markerade filer från ditt lokala freeDB-index
+_C_MNU_SB_FILE_COPY Kopiera markerade filer till en annan mapp
+_C_MNU_SB_FILE_DELETE Flytta markerade filer till papperskorgen
+_C_MNU_SB_FILE_DIR Byt mapp...
+_C_MNU_SB_FILE_EXIT Avsluta programmet
+_C_MNU_SB_FILE_EXPORT Exportera tagg- och filinformationen i markerade filer
+_C_MNU_SB_FILE_FAVDIR Ändra standardmappens inställning
+_C_MNU_SB_FILE_FREEDBINDEX Skapa ett lokalt freeDB-index för sökningar
+_C_MNU_SB_FILE_MOVE Flytta markerade filer till en annan mapp
+_C_MNU_SB_FILE_PLALL Skapa en spellista med alla filer
+_C_MNU_SB_FILE_PLAY Spela upp markerade filer
+_C_MNU_SB_FILE_PLAYLIST Öppna en spellista
+_C_MNU_SB_FILE_PLSEL Skapa en spellista med markerade filer
+_C_MNU_SB_FILE_PROPERTIES Visa filegenskaperna för den markerade filen
+_C_MNU_SB_FILE_READ Läs taggarna i markerad fil
+_C_MNU_SB_FILE_REMOVE Ta bort taggarna i markerade filer
+_C_MNU_SB_FILE_REMOVEFILE Ta bort markerade filer
+_C_MNU_SB_FILE_RENAME Byt namn på markerad fil
+_C_MNU_SB_FILE_SAVE Spara alla taggar i markerade filer
+_C_MNU_SB_FILE_SAVECONFIG Spara de nuvarande inställningarna
+_C_MNU_SB_HELP_ABOUT Information om Mp3tag
+_C_MNU_SB_HELP_CONTEXT Visa popup-hjälp i programmet
+_C_MNU_SB_HELP_DONATE Överväg att donera till Mp3tag.
+_C_MNU_SB_HELP_FINDER Hjälpförteckning...
+_C_MNU_SB_HELP_FIRSTSTEPS Visa Mp3tags Nybörjarguide
+_C_MNU_SB_HELP_KEYBOARD Visa listan över kortkommandon
+_C_MNU_SB_HELP_SUPPORT Gå till Mp3tags diskussionsgrupper
+_C_MNU_SB_HELP_UPGRADE Check for updates of Mp3tag
+_C_MNU_SB_HELP_WWW Gå till Mp3tags hemsida
+_C_MNU_SB_UPDIR Gå till översta mappen
+_C_MNU_SB_VIEW_COLUMNS Välj vilka taggkolumner som skall visas
+_C_MNU_SB_VIEW_FILTER Filtrera filvyn
+_C_MNU_SB_VIEW_ID3 Visa/Dölj taggpanelen
+_C_MNU_SB_VIEW_REFRESH Uppdatera fillistan
+_C_MNU_SB_VIEW_TAGS Visa den utökade tagglistan
+_C_MNU_SB_VIEW_TOOLBAR Visa/dölj verktygsfältet
+_C_MNU_SB_WND_IDLE Färdig
+_C_MNU_SB_WND_MAXIMIZE Maximera fönstret till helskärm
+_C_MNU_SB_WND_MINIMIZE Minimera fönstret till aktivitetsfältet
+_C_MNU_SB_WND_MOVE Flytta fönstret
+_C_MNU_SB_WND_RESTORE Återställ fönstret till normalstorlek från helskärm eller minimerat läge
+_C_MNU_SB_WND_SIZE Ändra fönsterstorleken
+_C_MULTILINE Tillåt flerradig inmatning
+_C_OK &OK
+_C_OPT_ACTIONGROUPS Åtgärdsgrupper
+_C_OPT_ACTIONS Åtgärder
+_C_OPT_ACTIONS_TYPE Välj åtgärd
+_C_OPT_ADVANCED Avancerat
+_C_OPT_ADVANCED_ID3V2LANG Språkkod för ID3v2-kommentar (ISO 639-2)
+_C_OPT_ADVANCED_LISTCHAPTERS List chapters as separate files
+_C_OPT_CAPTION Filegenskaper
+_C_OPT_CDDB_CAPTION freeDB
+_C_OPT_CDDB_CHK_USEPROXY Använd en pr&oxy-server
+_C_OPT_CDDB_FRM_CDDB freeDB-server
+_C_OPT_CDDB_FRM_LOCALPATH &Lokal freeDB-sökväg:
+_C_OPT_CDDB_FRM_PROXY Proxy
+_C_OPT_CDDB_RD_FMT_UNIX i UNIX-format
+_C_OPT_CDDB_RD_FMT_WIN i Windows-format
+_C_OPT_CDDB_ST_ADDRESS &Adress:
+_C_OPT_CDDB_ST_EMAIL Din &e-postadress:
+_C_OPT_CDDB_ST_NAME &Namn:
+_C_OPT_CDDB_ST_PATH Sökväg:
+_C_OPT_CDDB_ST_PORT Port:
+_C_OPT_CDDB_ST_PROXYNAME &Proxy:
+_C_OPT_CDDB_ST_PROXYPORT Po&rt:
+_C_OPT_CDDB_ST_PWD &Lösenord:
+_C_OPT_CDDB_ST_TIMEOUT &Tid för timeout (sek):
+_C_OPT_CDDB_ST_USERNAME &Användarnamn:
+_C_OPT_CDDB3_CAPTION Lokal freedb
+_C_OPT_CON_FRM_FTT &Filnamn -> Tagg
+_C_OPT_CON_FRM_TFF Te&xtfil -> Tagg
+_C_OPT_CON_FRM_TTF &Tagg -> Filnamn
+_C_OPT_CON_ST_FNAME Filnamn
+_C_OPT_CON_ST_FS Definera mallen enligt följande mönster:
+_C_OPT_DIR Mappar
+_C_OPT_DIR_COVER Mapp för omslagsbild
+_C_OPT_EMPTY_HINT Välj ämne nedan
+_C_OPT_EXP_CAPTION Exportera tagginformation
+_C_OPT_EXP_CHK_APPEND Lägg till data i en befintlig exportfil
+_C_OPT_EXP_CHK_WRITEBOM Skriv en BOM
+_C_OPT_EXP_FRM_EXPORT Exportera tagginformation till:
+_C_OPT_EXP_RD_TRACK Spår
+_C_OPT_EXP_ST_FNAME Ange namn på exportfilen:
+_C_OPT_EXP_ST_NAME Namnge den nya konfigurationen
+_C_OPT_FMT_CASE Konvertering mellan gemener/VERSALER
+_C_OPT_FMT_FRM_FTF Filnamn -> Filnamn
+_C_OPT_FMT_ST_BEGIN Ord som börjar från/efter vilken som helst av:
+_C_OPT_FMT_ST_FNAME_NEW Nya formatmallen för filnamn:
+_C_OPT_FMT_ST_FNAME_OLD Gamla formatmallen för filnamn:
+_C_OPT_FMT2 Ersätt
+_C_OPT_FMT2_CASE Jämförelse (skiljer på STORA/små bokstäver)
+_C_OPT_FMT2_COL_ORIGINAL Original
+_C_OPT_FMT2_COL_REPLACE Byt ut mot
+_C_OPT_FMT2_ONLYWORDS Endast som helt ord
+_C_OPT_GEN_CAPTION Allmänt
+_C_OPT_GEN_CHK_AUTOSAVE Spara taggar med &piltangenterna/musklick
+_C_OPT_GEN_CHK_FOLDERSTART Starta alltid i denna mapp
+_C_OPT_GEN_CHK_GRID Visa grå bakgrund bakom varannan fil i fillistan
+_C_OPT_GEN_CHK_JUMPONEDIT Markera automatiskt nästa fil vid redigering i fillistan
+_C_OPT_GEN_CHK_KEEPFILETIME Bevara filens ändringsdatum vid redigering
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Keep moved files in file list
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS vid varningar efter körda åtgärder
+_C_OPT_GEN_CHK_MSG_CHANGE efter en ändring i filen
+_C_OPT_GEN_CHK_MSG_CUT efter urklipp av taggar
+_C_OPT_GEN_CHK_MSG_DEL efter borttagning i listan
+_C_OPT_GEN_CHK_MSG_DELETEFILE efter borttagning av filer
+_C_OPT_GEN_CHK_MSG_EXPORT efter export av taggar
+_C_OPT_GEN_CHK_MSG_PASTE efter inklistring av taggar
+_C_OPT_GEN_CHK_MSG_REMOVETAGS efter borttagning av taggar
+_C_OPT_GEN_CHK_MSG_SAVE efter spara
+_C_OPT_GEN_CHK_PL Skapa automatiskt en &spellista 
+_C_OPT_GEN_CHK_RELPL Skriv sökvägarna relativt från arbetsmappen
+_C_OPT_GEN_CHK_AUTOCOMPLETE Använd automatisk ifyllning i urvalsfälten
+_C_OPT_GEN_CHK_SELECTFILES Markera filer automatiskt
+_C_OPT_GEN_CHK_SORTNATURAL Använd naturlig sortering
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH Visa aktuell sökväg i fönstertiteln
+_C_OPT_GEN_FRM_GEN Allmänt
+_C_OPT_GEN_FRM_MSG Visa notifieringar
+_C_OPT_GEN_FRM_PL Ange spellistans &filnamn:
+_C_OPT_GEN_RD_PLALL med alla filer
+_C_OPT_GEN_RD_PLSEL med markerade filer
+_C_OPT_GEN_ST_FAVDIR Startmapp:
+_C_OPT_GEN2_CAPTION Notifieringar
+_C_OPT_GENRES Användardefinierade Genrer
+_C_OPT_GENRES_HIDESTANDARD Visa endast användardefinierade Genrer
+_C_OPT_ID3_CHK_ISO88591 Skriv alltid 'ISO-8859-1'-taggar istället för UTF-16
+_C_OPT_ID3_CHK_LEADINGZEROS Ange alltid en nolla först (01, 02, osv.)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND Skriv endast i ID3v2 standard om ID3v1 är för liten
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ Läs/visa taggar från följande standarder
+_C_OPT_ID3_FRM_REMOVE Ta bort taggar i följande standarder
+_C_OPT_ID3_FRM_WRITE Skriv taggar i följande standarder
+_C_OPT_LIB Library
+_C_OPT_LIB_CHK_ENABLE Enable Library
+_C_OPT_LIB_CHK_RESTRICT Only include these directories
+_C_OPT_LIB_CLEANUP Cleanup Library
+_C_OPT_MAPPING Taggmappning
+_C_OPT_MAPPING_FRM Användardefinerad taggmappning
+_C_OPT_MAPPING_SOURCE Källa
+_C_OPT_MAPPING_TARGET Mål
+_C_OPT_PLAYLIST_CAPTION Spellistor
+_C_OPT_PLAYLIST_EXTENDED Skriv spellistan med följande Taggar:
+_C_OPT_PLAYLIST_NOFOLDERS Skapa inte mappar
+_C_OPT_PLAYLIST_SHOWDLG Bekräfta filnamnet
+_C_OPT_TAG Taggvärden
+_C_OPT_TAGS_COVER Standardfilnamnet på albumens omslagsbild:
+_C_OPT_TAGS_EXT Spara vid navigering med '<<' och '>>' i tagginformation dialogen?
+_C_OPT_TAGS_FILEFILTER Läs endast in följande filtyper:
+_C_OPT_TAGS_NOIMG Visa &inte den första bilden i mappen som albumets omslag
+_C_OPT_TOOLS Verktyg
+_C_OPT_TOOLS_CHK_DEFAULT Använd detta program vid dubbelklick på en fil:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES För alla markerade filer
+_C_OPT_TOOLS_COL_PARAM Parameter
+_C_OPT_TOOLS_COL_PATH Sökväg
+_C_OPT_TOOLS_EDIT Anpassade Verktyg. Namn och sökväg är obligatoriska.
+_C_OPT_TOOLS_FRM_DEFAULT Standardprogram
+_C_OPT_TOOLS_FRM_TOOLS Verktyg
+_C_OVERWRITE Skriv &över
+_C_RENAME &Byt namn
+_C_TT_CDDB Gör en freeDB-sökning...
+_C_TT_CDDBLOCAL Gör en lokal freeDB-sökning...
+_C_TT_CLOSE Stäng
+_C_TT_DIR Byt mapp till...
+_C_TT_EDIT_UNDO Ångra
+_C_TT_EXPORT Exportera tagginformation
+_C_TT_FAVDIR Ange som Ssartmapp
+_C_TT_FILE_ADD Lägg till mapp...
+_C_TT_FILE_COPY Kopiera till...
+_C_TT_FILE_DELETE Ta bort...
+_C_TT_FILE_MOVE Flytta till...
+_C_TT_FILE_PLAY Spela upp
+_C_TT_FILE_PROPERTIES Egenskaper
+_C_TT_FILE_RENAME Byt namn
+_C_TT_FTF Filnamn -> Filnamn
+_C_TT_FTT Filnamn -> Tagg
+_C_TT_HELP Hjälp...
+_C_TT_OPT Programkonfiguration
+_C_TT_PLALL Skapa en Spellista med samtliga filer
+_C_TT_PLSEL Skapa en Spellista med markerade filer
+_C_TT_REFRESH Läs in filerna igen
+_C_TT_REMOVE Ta bort tagg
+_C_TT_SAVE Spara
+_C_TT_TFF Taggtextfil -> Tagg
+_C_TT_TTF Tagg -> Filnamn
+_C_TT_TTT Tagg - Tagg
+_C_TT_UPDIR Läs filer från en Mapp Uppåt
+_C_WIZARD_TRACKS Autonumreringsguiden
+_C_WIZARD_TRACKS_BEGIN Börja med Spårnummer:
+_C_WIZARD_TRACKS_DESC Assign track- and discnumbers
+_C_WIZARD_TRACKS_DISC_BEGIN Begin at discnumber
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Leading zeros for discnumbers (01, 02, ...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Save total count of discs
+_C_WIZARD_TRACKS_DISCNUMBER Discnumber
+_C_WIZARD_TRACKS_RESETFOLDERS Nollställ räknaren för varje mapp
+_C_WIZARD_TRACKS_SAVETOTAL Ange totalt antal spår som:
+_C_WIZARD_TRACKS_TRACKNUMBER Tracknumber
+_M_ERR_CANCEL Processen avbröts!
+_M_ERR_CDDB_CD Lyckades inte läsa ljud-CDn.\n\nKontrollera att den sitter i datorn och fungerar.
+_M_ERR_CDDB_CONNECT Kunde inte koppla upp till server: {1}
+_M_ERR_CDDB_NOENTRY Ingen data hittades för freeDB ID {1}
+_M_ERR_CDDB_NOENTRYINLOCALBD Ingen data hittades för freeDB ID {1} i det lokala freeDB-indexet '{2}'
+_M_ERR_CDDB_PARSER Sökningen gav inga träffar
+_M_ERR_CDDB_READ Lyckades inte läsa från freeDB-servern: {1}
+_M_ERR_CONFIGURATION Det gick inte att importera konfigurationen!
+_M_ERR_COPY Kopiering av markerade filer misslyckades!
+_M_ERR_DELETE Borttagning av markerade filer misslyckades!
+_M_ERR_FILECREATE Filen \"{1}\" kunde inte skapas!
+_M_ERR_FILEDELETE Filen \"{1}\" kunde inte tas bort!
+_M_ERR_FILENAMEALREADYEXISTS En fil med filnamnet \"{1}\" finns redan!
+_M_ERR_FILENAMEALREADYEXISTS2 Hoppar över filen \"{1}\"!
+_M_ERR_FILEOPABORTED Den valda mappens innehåll är ändrat.\n\nVill du ladda innehållet på nytt?
+_M_ERR_FILEOPEN Filen \"{1}\" kunde inte öppnas!
+_M_ERR_FILEREADONLY Filen \"{1}\" är skrivskyddad!\n\nVill du att Mp3tag tar bort skrivskyddet på denna fil och alla andra skrivskyddade filer?
+_M_ERR_FOLDERCANNOTBEACCESSED Mappen \"{1}\" är ej tillgänglig!
+_M_ERR_INVALID_FILENAME Ange ett giltigt filnamn!
+_M_ERR_INVALID_FTF_FS \"{1}\" är inte ett giltigt filnamn!
+_M_ERR_INVALID_TOKEN {1}:\nFöljande tecken är inte tillåtna i filnamnet:\n\\ / : * ? \" < > |\n\nVill du att filnamnet skall korrigeras automatiskt?
+_M_ERR_MOVE Markerade filer kunde inte flyttas!
+_M_ERR_ONLINE_NOTFOUND Tyvärr, inga poster matchade ditt sökval!
+_M_ERR_OPT_CDDB_NOADDRESS Ange URL adressen till en freeDB-server
+_M_ERR_OPT_CDDB_NOEMAIL Ange din e-postadress i 'Inställningar, freeDB, Server'. Den används för inloggning till freeDB-servern
+_M_ERR_OPT_CDDB_NONAME Ange ett giltigt namn för konfigurationen
+_M_ERR_OPT_CDDB_NOPORT Ange Portnummret till freeDB-servern
+_M_ERR_PARSELINE Förstår inte raden {1}!
+_M_ERR_PLAY Kan inte spela upp filen \"{1}\"!
+_M_ERR_READ_FILE Kan inte läsa filen \"{1}\"!
+_M_ERR_RENAME_FILE Kan inte byta namn på filen \"{1}\" till \"{2}\"!
+_M_ERR_RETRY Do you want to retry?
+_M_ERR_TL_NOTAGS Inget passande val fanns för filen \"{1}\"!
+_M_ERR_WRITE_FILE Kan inte skriva till filen \"{1}\"!
+_M_ERR_YN \n\nVill du fortsätta?
+_M_LOG_FMT_FNAME Filnamnet har ändrats på {1} av {2} filer\n
+_M_LOG_FMT_TAG Taggarna i {1} av {2} filer är nu uppdaterade\n\n
+_M_LOG_FTF Filnamnet ändrat på {1} av {2} filer
+_M_LOG_FTT Taggar skapade i {1} av {2} filer
+_M_LOG_PL_ALL Spellistan \"{1}\" skapad med alla ({2}) filer i den
+_M_LOG_PL_SEL Spellistan \"{1}\" skapad med markerade ({2}) filer i den
+_M_LOG_REMOVE Taggarna borttagna från filen \"{1}\"
+_M_LOG_REMOVED Taggarna borttagna från {1} av {2} filer
+_M_LOG_REMOVE_NOTAG Det finns inga taggar i filen \"{1}\"
+_M_LOG_SAVE Taggarna sparade i filen \"{1}\"
+_M_LOG_SAVED Taggarna sparade i {1} av {2} filer
+_M_LOG_TFF Importerade taggar från tagglistan \"{1}\" och sparad i {2} av {3} filer
+_M_LOG_TFF_S Importerade taggar från \"{1}\" till en fil
+_M_LOG_TTF Namnet ändrat på {1} av {2} filer
+_M_STAT_PLAY Spelar filen \"{1}\" ...
+_M_STR_ACTION_ADJUSTCOVER Adjust cover
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Format
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
+_M_STR_ACTION_CODEPAGE Konvertera kodsida
+_M_STR_ACTION_CODEPAGE_DESC Kodsida
+_M_STR_ACTION_EXPORTCOVER Exportera omslagsbilden
+_M_STR_ACTION_EXPORTCOVER_DUPES Exportera dubblettomslagsbiler
+_M_STR_ACTION_EXPORTCOVER_TYPES Exportera endast omslagsbilder av typen
+_M_STR_ACTION_FORMAT Formatmall
+_M_STR_ACTION_GUESS Gissa Värden
+_M_STR_ACTION_GUESSPATTERN Mönster för gissning
+_M_STR_ACTION_GUESSSOURCE Källformat
+_M_STR_ACTION_IMPORTCOVER Importera en omslagsbild
+_M_STR_ACTION_IMPORTCOVER_FS Formatmall för bildens filnamn:
+_M_STR_ACTION_IMPORTCOVER_DELETE &Ta bort existerande omslagsbilder
+_M_STR_ACTION_IMPORTCOVER_TYPE Importera omslagsbild som:
+_M_STR_ACTION_IMPORTTEXT Importera en textfil
+_M_STR_ACTION_MERGEDUPLICATEFIELDS Slå Ihop Taggar
+_M_STR_ACTION_REGEXP Ersätt med Reguljärt Uttryck
+_M_STR_ACTION_REGEXP_EXP Reguljärt uttryck
+_M_STR_ACTION_REGEXP_MATCH Ersätt träffar med
+_M_STR_ACTION_REMOVEDUPES Ta bort upprepade taggar
+_M_STR_ACTION_REM Ta bort tagg
+_M_STR_ACTION_REM_DESC Taggar att ta bort (semikolonseparerade):
+_M_STR_ACTION_REM_EX Ta bort alla taggar utom...
+_M_STR_ACTION_REM_EX_DESC Taggar att utesluta (semikolonseparerade):
+_M_STR_ACTION_SPLITFIELDS Dela upp en tagg vid en avgränsare
+_M_STR_ACTIONGROUP_NAME Namnet på åtgärdsgruppen
+_M_STR_ALBUM Album
+_M_STR_ALBUMARTIST Albumartist
+_M_STR_ALL_FILEDLGFILTER Alla filer  (*.*)|*.*||
+_M_STR_ARTIST Artist
+_M_STR_AUTHOR Upphovsman
+_M_STR_BACK << &Bakåt
+_M_STR_BROWSE_COPY Kopiera till:
+_M_STR_BROWSE_MOVE Flytta till:
+_M_STR_BROWSE_TEXT Välj en mapp med filer:
+_M_STR_BYTES byte
+_M_STR_CDDB_CD Spela ljud-CD
+_M_STR_CDDB_CONNECT Anslut till {1}...
+_M_STR_CDDB_CONNECTED Ansluten!
+_M_STR_CDDB_IDXDB_ENTRIES Post i databasen skapad
+_M_STR_CDDB_RETRIEVE Hämta titelinformation
+_M_STR_COLUMNFILENAME Filnamn
+_M_STR_COLUMNPATH Sökväg
+_M_STR_COLUMNUSEDCOLS visas
+_M_STR_COMBO_HOLD < behåll >
+_M_STR_COMBO_REMOVE < töm >
+_M_STR_COMBO_USER < skriv in >
+_M_STR_COMMENT Kommentar
+_M_STR_COMPOSER Kompositör
+_M_STR_COPYOF Kopia av {1}
+_M_STR_COVER Omslagsbild
+_M_STR_COVER_ADD Vill du behålla nuvarande omslagsbild(er)?
+_M_STR_COVER_CORRECTAR Visa bilderna med korrigerat bildformat
+_M_STR_COVER_SETDESC Ange omslagsbildens &beskrivning...
+_M_STR_COVER_SETTYPE Ange omslagsbildens &typ
+_M_STR_COVERVARIES Filerna har olika omslagsbilder!
+_M_STR_CUSTOMIZE Customize...
+_M_STR_DAY dag
+_M_STR_DAYS dagar
+_M_STR_DEFAULTVALUE Default value
+_M_STR_DISCID freeDB ID:
+_M_STR_DISCOGS_OAUTH_PIN Ange Discogs-autentiseringskod
+_M_STR_DISCNUMBER Skivnummer
+_M_STR_ERR_CDDB_NOENTRYSELECTED Välj ett objekt.
+_M_STR_EXPORT_DELETE Ta bort exportmallen \"{1}\"?
+_M_STR_EXPORT_FILEDLGTITLE Välj fil att exportera till...
+_M_STR_EXPORT_MULTIPLE En exportfil per mapp
+_M_STR_EXPORT_SHOWEXPORTFILE \n\nVill du öppna den filen nu?
+_M_STR_EXP_MSG Den exporterade tagginformationen\nifrån {2} makerade filer finns nu i filen\n'{1}'
+_M_STR_FIELD &Taggnamn:
+_M_STR_FIELDSIZE Size of field
+_M_STR_FIELDROWS Rows
+_M_STR_FILE Fil
+_M_STR_FILEDELETE Vill du verkligen ta bort markerade filer?
+_M_STR_FILEMODIFIED Ändrad
+_M_STR_FILESIZE Storlek
+_M_STR_FILTER &Filter:
+_M_STR_FMT_CAPITAL BlAndAde
+_M_STR_FMT_HIGH VERSALER
+_M_STR_FMT_LOW gemener
+_M_STR_FMT_SENTENCE Mening (stor bokstav i början av varje mening)
+_M_STR_FREEDBCREATEINDEX Skapa en lokal freeDB indexdatabas?\n\nDetta kan ta några minuter.
+_M_STR_FREEDB_SEARCH freeDB webbsökning
+_M_STR_GENRE Genre
+_M_STR_GENRES Genrer
+_M_STR_HIDE &Dölj
+_M_STR_ITEMALREADYEXISTS En post med detta namn finns redan, vill du skriv över den?
+_M_STR_LANGUAGE Programspråk
+_M_STR_M3U_FILEDLGFILTER Tillåtna filtyper (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_METADATA Filens alla taggnamn och dess &värden
+_M_STR_MOVEDOWN Flytta &ner
+_M_STR_MOVEUP &Flytta upp
+_M_STR_MPEGBITRATE Bithastighet
+_M_STR_MPEGFREQUENCY Frekvens
+_M_STR_MPEGLENGTH Längd
+_M_STR_MPEGMODE Typ
+_M_STR_MPEGVERSION Codec
+_M_STR_MSGCUT Vill du verkligen ta bort alla taggarna från markerade filer och flytta dem till urklipp?
+_M_STR_MSGPASTE Vill du verkligen klistra in innehållet i urklipp som ny tagg i den markerade filen?
+_M_STR_MSGREMOVE Vill du verkligen ta bort alla taggarna i de markerade filerna?
+_M_STR_NAME Tagg&rubrik
+_M_STR_NETWORKING Nätverksinställningar
+_M_STR_NEXT &Nästa >>
+_M_STR_NOACTION Gör ingenting
+_M_STR_NOACTIONENABLED Markera minst en kryssruta!
+_M_STR_NUMERIC Nu&meriskt värde
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH Välj arbetsmapp för den lokala freeDB-databasen.
+_M_STR_OPT_CDDB_PROCEED Detta tar bort alla servrar!\n\nVill du fortsätta?\n
+_M_STR_OPTIMIZEMP4 Optimera MP4
+_M_STR_OPTS_ALWAYS Alltid
+_M_STR_OPTS_ASK Fråga först
+_M_STR_OPTS_NEVER Aldrig
+_M_STR_PLNAME Spellista -> Filnamn
+_M_STR_PL_CONFIRM Ange namn på Spellistan:
+_M_STR_PL_SAVEFILTER Spellista (*.m3u)|*.m3u|Unicode-spellista (*.m3u8)|*.m3u8||
+_M_STR_PREVIEW Granska
+_M_STR_PROPERTIES {1} programkonfiguration
+_M_STR_QUICK Express
+_M_STR_RECURSE Inkludera undermappar vid inläsning av filer
+_M_STR_REST Resten
+_M_STR_SAVE_NOT < har ingen information >
+_M_STR_SAVECONFIG Din Programkonfiguration sparades i filen:\n'{1}'\n\nFör att importera den, packa upp den i mappen:\n\"{2}\"
+_M_STR_SAVECONFIG_FILEDLGFILTER Komprimerade mappar (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE Spara Programkonfigurationen i...
+_M_STR_SAVEIMAGE Spara Omslagsbilden till en Tagg
+_M_STR_SAVEIMAGEDIRECTORY Spara Omslagsbilden till Disk
+_M_STR_SAVESELECTION Spara valet...
+_M_STR_SB_ABORTED avbruten
+_M_STR_SB_ACTION Tillämpar ptgärder på fil {1} av {2}
+_M_STR_SB_CLEANUPDATABASE Processing files ... {1} of {2} ({3} cleaned)
+_M_STR_SB_CLEANUPDATABASE_BINARIES Cleanup orphaned binaries
+_M_STR_SB_CLEANUPDATABASE_COVERS Cleanup orphaned covers
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Cleanup non-library files
+_M_STR_SB_EXPORTTAGS Exporterar tagginformation från fil {1} av {2}
+_M_STR_SB_LOADTAGS Läser in tagginformationen från fil {1} av {2}
+_M_STR_SB_READDIRECTORY Läser in mapp
+_M_STR_SB_REMOVETAGS Tar bort tagginfo ... {1} av {2} filer bearbetade
+_M_STR_SB_RENAMEFILES Byter namn på fil {1} av {2}
+_M_STR_SB_WRITETAGS Skriver tagginfo ... {1} av {2} filer bearbetade
+_M_STR_SHOWCHOOSEDLG Visa dialogrutan med tillgängliga exportmallar
+_M_STR_SEARCHBY Sök med:
+_M_STR_SEARCHTEXT Text
+_M_STR_SEPARATOR Avgränsare:
+_M_STR_SHOW Vi&sa
+_M_STR_SIZE_LARGE Large
+_M_STR_SIZE_MEDIUM Medium
+_M_STR_SIZE_NORMAL Normal
+_M_STR_SIZE_SMALLER Smaller
+_M_STR_SIZE_SMALL Small
+_M_STR_SNA Meddelandefältet
+_M_STR_SNA_SHOW En Mp3tag-ikon i meddelandefältet när programmet körs
+_M_STR_SNA_SHOWMIN Minimera Mp3tag till meddelandefältet
+_M_STR_STRIPCHAPTERSMP4 Ta bort MP4-kapitel
+_M_STR_TAG_COPIED Kopierade Taggar från {1} filer till Urklipp.
+_M_STR_TAG2 Tagg
+_M_STR_TAGFIELDS_REMOVE Töm fält
+_M_STR_TAGFIELDS_REMOVEALL Töm alla fält...
+_M_STR_TAGFIELDS_REMOVEALLMSG Är du säker på att du vill ta bort alla fält i listan?
+_M_STR_TAGFIELDS_RESET Återställ fält...
+_M_STR_TAGFIELDS_RESETMSG Är du säker på att du vill återställa alla fält i listan till sina standardvärden?
+_M_STR_TAGPANEL Taggpanelen
+_M_STR_TAGPANEL_COVER Visa albumets omslagsbild
+_M_STR_TAGPANEL_DIRECTORY Visa fältet mapp i taggpanelen
+_M_STR_TAGLIST_FILEDLGFILTER Taggtextlistor ({1})
+_M_STR_TAGLIST_FILEDLGTITLE Välj yaggtextlista
+_M_STR_TAGSOURCES Taggkällor
+_M_STR_THISALBUMON Öppna utgåvan från {1} i din webbläsare
+_M_STR_TITLE Titel
+_M_STR_TRYAGAIN Vill du försöka igen?
+_M_STR_TTF Tagg -> Filnamn
+_M_STR_UPDATE_FRM Programuppdateringar
+_M_STR_UPDATE_OPT_CHECK Sök efter programuppdatering vid programstart
+_M_STR_UPDATE_OPT_CHECK_BETA Inkludera även Beta-versioner i sökningen
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Display release notes for new versions
+_M_STR_UPDATEAVAILABLE Det finns en ny version av Mp3tag {1} tillgänglig!\n\nVill du ladda ner den från {2} nu?
+_M_STR_UPDATENOTAVAILABLE Du använder den senaste versionen, {1}.\n\nDet finns för närvarande ingen nyare version tillgänglig.
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS Ver&ktyg
+_M_STR_VALUE &Taggvärde
+_M_STR_VERSION Version
+_M_STR_YEAR År
+_M_TP_CDDB_LOCALPATH Välj en lokal freeDB-mapp
+_M_TP_CDDB_SITES Hämta en ny lista över freeDB-servrar från Internet
+_M_TP_CVR_CLIPBOARD K&listra in omslagsbild
+_M_TP_CVR_CLIPBOARD_COPY K&opiera omslagsbild
+_M_TP_CVR_CLIPBOARD_CUT &Klipp ut omslagsbild
+_M_TP_CVR_DEL &Ta bort omslagsbild
+_M_TP_CVR_NEW &Lägg till omslagsbild...
+_M_TP_CVR_SAVE &Spara denna omslagsbild som...
+_M_TP_DUPLICATE Kopiera
+_M_TP_EXP_DEL &Ta bort
+_M_TP_EXP_EDIT Redigera
+_M_TP_EXP_FILE Välj exportfil
+_M_TP_EXP_HLP Visa snabbhjälpen
+_M_TP_EXP_LOAD Ladda konfiguration...
+_M_TP_EXP_NEW &Lägg till
+_M_TP_EXP_SAVE Spara konfiguration...
+_M_TP_GEN_DIR Välj mapp
+_M_TP_TAG_DEL Ta bort tagg
+_M_TP_TAG_EDIT Redigera tagg...
+_M_TP_TAG_NEW Lägg till tagg...
+_M_TS_ADDINFO &Utgåvans generella information
+_M_TS_MULTIPLEVALUES Flera värden
+_M_TS_RELEASE &Utgåva
+_M_TS_TRACKS Utgåvans &spårinformation
+_M_UNDO_CANNOTUNDO Det går inte att Ångra {1}
+_M_UNDO_CDDB Ångra freeDB
+_M_UNDO_DIRECTORYCREATE Ångra Skapa Mapp
+_M_UNDO_DIRECTORYMOVE Ångra Flytta Mapp
+_M_UNDO_FORMAT Ångra Åtgärd
+_M_UNDO_FTF Ångra Filnamn -> Filnamn
+_M_UNDO_FTT Ångra Filnamn -> Tagg
+_M_UNDO_REMOVEFILE Ångra ta bort filen från listan
+_M_UNDO_RENAME Ångra byt namn
+_M_UNDO_TAGCHANGE Ångra ändra tagg
+_M_UNDO_TAGREMOVE Ångra ta bort tagg
+_M_UNDO_TAGSAVE Ångra spara tagg
+_M_UNDO_TFF Ångra Taggtextfil -> Tagg
+_M_UNDO_TTF Ångra Tagg -> Filnamn

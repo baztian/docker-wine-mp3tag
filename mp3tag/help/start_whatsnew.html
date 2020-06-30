@@ -1,0 +1,1285 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<!-- Florian Heidenreich -->
+	<!-- http://www.mp3tag.de/en -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta name="Author" content="Florian Heidenreich" />
+	<meta name="Description" content="Mp3tag Help - Important changes" />
+	<meta name="Keywords" content="" />
+	<title>Mp3tag Help - Important changes</title>
+	<link rel="stylesheet" type="text/css" href="content.css" />
+</head>
+<body>
+<div id="left">
+		
+<ul>
+	<li><a href="index.html">Index</a></li>
+	<li><a href="main_commands.html">Menus</a></li>
+	<li><a href="main_converter.html">Convert</a></li>
+	<li><a href="options_format.html">Actions</a></li>
+	<li><a href="options_export.html">Export</a></li>
+	<li><a href="main_scripting.html">Scripting</a></li>
+	<li><a href="main_filter.html">Filter</a></li>
+	<li><a href="main_viewcolumns.html">Columns</a></li>
+	<li><a href="options.html">Options</a></li>
+	<li class="separator"></li>
+	<li><a href="misc_donate.html">Donate</a></li>
+</ul>
+
+</div>
+<div id="wrap2">
+	<div id="header"><a href="index.html" title="Back to main page"><img src="images/banner.gif" alt="Back to main page" title="Back to main page" /></a></div>
+
+	<div>
+		<h1>Release Notes</h1>
+
+		The release notes describe new features and notable changes. Please have a look at the
+		<a href="../Mp3tagVersion.txt">Changelog</a> for a complete list.
+	</div>
+
+	<div class="note">
+		<div class="noteh">Mp3tag is Freeware</div><div class="noteb">
+			<p>
+				If you like using Mp3tag and want to help keeping the project alive, please consider <a href="misc_donate.html">donating</a>
+				to support the development of Mp3tag.
+			</p>
+		</div>
+	</div>
+
+	<div>
+		<a id="v301"></a><h1>Mp3tag v3.01</h1>
+
+		<h2>Support for the WebM file format</h2>
+		<p>
+			This new version adds support for the WebM file format (file extension *.webm), a container
+			format that is mainly used for video in the context of the web.
+		</p>
+
+		<h2>Feature "Adjust cover" to resize cover art</h2>
+		<p>
+			I've added the feature "Adjust cover", which I've introduced as action with the previous release,
+			to the right-click context-menu of the cover art window.
+		</p>
+
+		<h2>Availability of freedb servers</h2>
+		<p>
+			The current operator of the public freedb servers announced to stop its services as of March 31, 2020.
+			I've decided to not remove the freedb feature from Mp3tag for now, because it could be that alternative
+			servers emerge from this situation.<br />
+			If not, I can only recommend to use MusicBrainz. It's a high-quality alternative to freedb and is officially
+			supported by Mp3tag.
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			For a complete overview of all changes, please see the <a href="../Mp3tagVersion.txt">Changelog</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v300"></a><h1>Mp3tag v3.00</h1>
+
+		<h2>Action "Adjust cover" to resize cover art</h2>
+		<p>
+			Many hardware players have certain limitations on the size of cover art and then it's
+			sometimes just nice to scale down this 10000x10000 cover to a reasonable size. You can
+			also use this action type to convert from JPEG to PNG or vice versa. It's quite handy
+			and I hope it improves your workflow.
+		</p>
+
+		<h2>MusicBrainz tag sources with multiple search criteria</h2>
+		<p>
+			The MusicBrainz tag source now also offers two distinct search fields for album and artist and
+			adds support for <code>MUSICBRAINZ_RELEASEGROUPID</code> along the way.
+		</p>
+
+		<h2>Accessibility related improvements</h2>
+		<p>
+			I've reworked most of the menu-drawing code in high-contrast modes so that it is now more in
+			line with the native menus that the various supported versions of Windows are providing. Also,
+			some buttons and menus were not accessible to screen readers &dash; if you're noticing something
+			like that, please let me know.
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			For a complete overview of all changes, please see the <a href="../Mp3tagVersion.txt">Changelog</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v299"></a><h1>Mp3tag v2.99</h1>
+
+		<h2>Updated MusicBrainz tag sources</h2>
+		<p>
+			MusicBrainz updated their server to a new search infrastructure and with that,
+			some minor changes to the MusicBrainz tag sources were necessary.
+		</p>
+
+		<h2>Autumn Maintenance</h2>
+		<p>
+			This version also fixes a variety of issues which were reported during the past weeks.
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			For a complete overview of all changes, please see the <a href="../Mp3tagVersion.txt">Changelog</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v298"></a><h1>Mp3tag v2.98</h1>
+
+		<h2>Discogs tag sources with multiple search criteria</h2>
+		<p>
+			The existing album-only search for Discogs often produced too many results or results that were not totally relevant for the
+			current search. This is why many users wished for multiple search criteria for metadata-lookup from Discogs. The current version adds
+			new tag sources for Discogs and Discogs Cover Art, namely:
+			<ul>
+				<li>Search by Artist + Album</li>
+				<li>Search by Artist + Title</li>
+				<li>Search by Artist + Year</li>
+			</ul>
+		</p>
+
+		<h2>Improvements for Web Sources Framework</h2>
+		<p>
+			The <a href="main_online.html">Web Sources Framework</a> now supports up to three different search criteria and
+			has support for reusing tag sources to reduce code duplication.
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			For a complete overview of all changes, please see the <a href="../Mp3tagVersion.txt">Changelog</a>.
+		</p>
+
+	</div>
+
+	<div>
+		<a id="v297"></a><h1>Mp3tag v2.97</h1>
+
+		<h2>Fixes regarding pasting cover art from clipboard</h2>
+		<p>
+			The previous version had an issue where pasting cover art was not possible anymore
+			and I got many emails regarding this regression. I've decided to pull a hotfix release
+			to make sure that as many people as possible are using the fixed version.
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			For a complete overview of all changes, please see the <a href="../Mp3tagVersion.txt">Changelog</a>.
+		</p>
+
+	</div>
+
+	<div>
+		<a id="v296"></a><h1>Mp3tag v2.96</h1>
+
+		<h2>Support for Opus with *.ogg file extension</h2>
+		<p>
+			So far, tagging <a href="https://opus-codec.org/">Opus</a> files required a *.opus file extension in Mp3tag. However,
+			many applications are simply using Opus with the *.ogg file extension, which is perfectly valid. With this release, Mp3tag
+			detects Opus for files with the *.ogg file extension &mdash; so no more renaming for you.
+		</p>
+
+		<h2>Improvements when copying cover art via clipboard</h2>
+		<p>
+			Mp3tag now also copies the original data next to an independent DIB format when copying cover art via the Windows clipboard.
+			Previously, the independent DIB was re-encoded to a maximum quality JPEG, which was not the best option when the image was
+			stored as, e.g., a PNG. Now, if you paste the cover to another file, the original format and data is used.
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			I've also fixed many issues and performed many changes here and there.
+			For a complete overview of all changes, please see the <a href="../Mp3tagVersion.txt">Changelog</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v295"></a><h1>Mp3tag v2.95</h1>
+
+		<h2>Toggling of file-list columns</h2>
+		<p>
+			You can now toggle file list columns via the context menu on the column header.
+			This way it's easy to enable and disable columns you only need in certain conditions.
+			It's a long-requested feature and I'm already using it quite often.
+		</p>
+
+		<h2>Nested action menus</h2>
+		<p>
+			If you're one of the aficionados of Mp3tag's action feature,
+			you can now create nested action menus by using the # character
+			in the action group name.
+		</p>
+
+		<h2>Support for subtracks at Discogs</h2>
+		<p>
+			The Discogs tag source now supports subtracks. I think it's great and it's
+			probably most welcomed by people who have lots of classical music to tag.
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			I've also fixed many issues and performed many changes here and there.
+			For a complete overview of all changes, please see the <a href="../Mp3tagVersion.txt">Changelog</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v294"></a><h1>Mp3tag v2.94</h1>
+
+		<h2>Support for discnumbers at auto-numbering wizard.</h2>
+		<p>
+			The auto-numbering wizard can now, optionally, also assign discnumbers to
+			the selected files. New discs start when the directory changes.
+		</p>
+
+		<h2>History for Replace and Regexp actions</h2>
+		<p>
+			The actions 'Replace' and 'Replace with regular expression' now
+			have a history drop-down that remember the previous inputs.
+		</p>
+
+		<h2>Remember inputs for last used Replace or Regexp quick actions</h2>
+		<p>
+			The quick actions 'Replace' and 'Replace with regular expression' now
+			remember the last used inputs.
+		</p>
+
+		<h2>UI improvements at Tag Sources dialog</h2>
+		<p>
+			The tag sources dialog now has a splitter between the lists for results and files, which allows for resizing the lists individually without resizing the whole dialog.
+			Also, the selection from the files list to results list is now synchronized.
+		</p>
+
+		<h2>Option to disable showing release notes on update</h2>
+		<p>
+			If you prefer to not have these notes shown when you update to a new version, you can
+			disable displaying release notes for new versions at "Options > Updates".
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			I've also fixed many issues and performed many changes here and there.
+			For a complete overview of all changes, please see the <a href="../Mp3tagVersion.txt">Changelog</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v293"></a><h1>Mp3tag v2.93</h1>
+
+		<h2>Hotfixes regarding MP4 tagging</h2>
+		<p>
+			That was quick! v2.92 had some issues wrt. MP4 tagging and I've decided to pull a hotfix release
+			to make sure that as many people as possible are using the fixed version.
+		</p>
+	</div>
+
+	<div>
+		<a id="v292"></a><h1>Mp3tag v2.92</h1>
+
+		<h2>Tag-Panel field size <em>Smaller</em></h2>
+		<p>
+			The Tag Panel continues to get love and it now has a new field size <em>Smaller</em> &mdash;
+			which is smaller than <em>Small</em>. It’s perfect for track- and disc numbers and can be nicely
+			combined with another <em>Smaller</em> and one <em>Medium</em>-sized field to fill up one row and
+			use the available space in the most efficient way.
+		</p>
+
+		<h2>Configurable height of multiline fields on Tag-Panel</h2>
+		<p>
+			Many users who are using multiline fields on the Tag Panel (e.g., for displaying UNSYNCEDLYRICS)
+			were asking for a way to configure the height of those fields. It's now possible to decide on
+			the number of rows that are occupied by a multiline field (one row is the combination of
+			label and input of a normal-sized field).
+		</p>
+
+		<h2>Advanced configuration option to toggle listing chapters as separate files</h2>
+		<p>
+			This new option gives the ability to decide of chapters are listed as separate files
+			or are simply not listed.
+			It's especially helpful if you're into editing video files (MP4 or Matroska) and
+			always wanted to edit the  global tags of a file instead of the titles of the
+			individual chapters.
+			The option is located at "Options > Tags > Advanced" and is disabled by default.
+		</p>
+
+		<h2>Information fields for subsongs</h2>
+		<p>
+			Especially if the option to list chapter as separate files is disabled, it can be
+			difficult to identify which files actually have chapters. I've added two new information
+			fields to identify those files, <code>%_subsong_count%</code> provides the number of
+			subsongs in a file and <code>%_subsong%</code> contains the subsong index.
+		</p>
+
+		<h2>Information fields for video dimensions</h2>
+		<p>
+			I have the impression that more and more users are also handling their video library
+			with Mp3tag. This new version also has two new information fields for video dimensions,
+			namely <code>%_video_width%</code> and <code>%_video_height%</code> for Matroska files
+			(and MP4 video as well).
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			I've also fixed many issues and performed many changes here and there.
+			For a complete overview of all changes, please see the <a href="../Mp3tagVersion.txt">Changelog</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v291"></a><h1>Mp3tag v2.91</h1>
+
+		<h2>Copying of individual tag fields</h2>
+		<p>
+			A long-awaited feature I've implemented is the ability to copy individual fields via the extended
+			tag dialog at Alt+T. Just select the relevant fields you want to copy, right-click and choose the
+			appropriate entry from the popup menu.
+		</p>
+
+		<h2>Default values for Tag-Panel fields</h2>
+		<p>
+			Tag-Panel fields have their default values back. Just better :)
+			You can now configure a default value that is set whenever you select multiple files directly via the field
+			configuration at <a href="options_tagpanel.html">Options &gt; Tag Panel</a>. Double-click on the desired field
+			and choose the default value.
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			I've also fixed many issues and performed many changes here and there.
+			For a complete overview of all changes, please see the <a href="../Mp3tagVersion.txt">Changelog</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v290a"></a><h1>Mp3tag v2.90a</h1>
+
+		<h2>Updated Code-Signing Certificate</h2>
+		<p>
+			I've updated the code-signing certificate that is used to digitally sign and verify the origin and integrity of
+			Mp3tag's installer and executable.
+		</p>
+
+		<h2>Microsoft Store version</h2>
+		<p>
+			I've released Mp3tag to the Microsoft Store. It's still available for free and if you prefer getting your software
+			from there you can give it a go.
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			I've also fixed many issues with this release.
+			For a complete overview of all changes, please see the <a href="../Mp3tagVersion.txt">Changelog</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v289"></a><h1>Mp3tag v2.89</h1>
+
+		<h2>Improved Tag Panel</h2>
+		<p>
+			I've made the following improvements to the Tag Panel:
+			<ul>
+				<li>many layout changes when displayed horizontally,</li>
+				<li>all fields are now configurable (including default fields),</li>
+				<li>added context menu to customize fields,</li>
+				<li>added option to specify size when adding fields (normal, smaller, small, multiline),</li>
+				<li>added dedicated separator field (_SEPARATOR) to allow for manual column breaks,</li>
+				<li>added option to enable/disable fields, and</li>
+				<li>added loading and saving of Tag Panel configurations.</li>
+			</ul>
+		</p>
+
+		<h2>Support for long file paths</h2>
+		<p>
+			Mp3tag now supports file paths longer than 260 characters, so also very wordy titles
+			can be renamed properly.
+		</p>
+
+		<h2>Updated Discogs and MusicBrainz tag sources</h2>
+		<p>
+			Discogs changed their servers to require connections via TLS 1.2 (something very secure, if this sounds cryptic to you).
+			I've added support for TLS 1.2 for Windows 7 and 8 (it's used by default starting from Windows 8.1). Unfortunately,
+			TLS 1.2 is not available on Windows XP and Vista, so Discogs stops working on these systems.
+		</p>
+		<p>
+			MusicBrainz updated their server to a new search infrastructure and with that,
+			some minor changes to the MusicBrainz tag sources were necessary.
+		</p>
+
+		<h2>Updated MusicBrainz identifier mapping</h2>
+		<p>
+			I've added various internal mappings so that fields for MusicBrainz identifiers are now mapped to the correct
+			fields (e.g., MUSICBRAINZ_ALBUMID is mapped to 'MusicBrainz Album Id').
+		</p>
+
+		<h2>Option to keep moved files in file list</h2>
+		<p>
+			With Mp3tag v2.87, I've implemented the unpopular change that moved files are always kept in the file list and can
+			be manually removed. I've now made this behavior optional so that you can decide depending on your preferences.
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			For a complete overview of all changes, please see the <a href="../Mp3tagVersion.txt">Changelog</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v288"></a><h1>Mp3tag v2.88</h1>
+
+		<h2>Going Deep</h2>
+		<p>
+			I've taken a deep dive in the bug reports section of the forums and fixed many, many long-lasting and not so old
+			issues with this release.
+		</p>
+
+		<h2>Layout and other UI changes</h2>
+		<p>
+			I've reworked the layout of the Tag Panel in horizontal mode and changed Mp3tag to use a modern, default font in the main
+			window. This one makes Mp3tag look more beautiful on modern Windows systems. This also implies, that any system-wide font
+			changes are also visible in Mp3tag now.
+		</p>
+
+		<h2>Addressing memory above 2GB on 64 bit systems</h2>
+		<p>
+			This one is huge for people with huge libraries. Mp3tag can now allocate up to 4GB of your RAM.
+			That's impressively much.
+		</p>
+
+		<h2>Displaying cover art dimensions in Mp3tag's file view</h2>
+		<p>
+			You can now use %_cover_width% and %_cover_height% for width and height of the first embedded cover art.
+			It's also available in the filter, in the converters and everywhere else in Mp3tag.
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			For a complete overview of all changes, please see the <a href="../Mp3tagVersion.txt">Changelog</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v287"></a><h1>Mp3tag v2.87</h1>
+
+		<h2>Spring Maintenance</h2>
+		<p>
+			I've spent the last two months hunting bugs and issues and fixed many of them
+			with the current release. Given the list of fixed issues, it feels like
+			this is the most stable release of Mp3tag ever :)
+		</p>
+
+		<h2>MusicBrainz v2</h2>
+		<p>
+			The MusicBrainz v1 web service will be closed in a few months, so I've added a new
+			official MusicBrainz Tag Source based on v2 of the MusicBrainz web service with this release.
+		</p>
+
+		<h2>Option to disable auto-filtering</h2>
+		<p>
+			The filter helper menu now has an option to enable/disable auto-applying the filter. This can be
+			helpful if you're working with large libraries and find the auto-filtering to disturb your workflow.
+		</p>
+
+		<h2>LAME MP3 encoder version</h2>
+		<p>
+			I've rewritten the code to analyze MP3s with this version (it was sooooo old) and added detection
+			of LAME encoder versions while I was at it. You can access it via the %_tool% information field, if
+			this is something of interest to you.
+		</p>
+
+		<h2>Mapping of Matroska tag fields</h2>
+		<p>
+			I've reworked the tag fields mapping for Matroska and documented the process at the overview page for
+			<a href="main_tags.html">Tag field mappings</a>. If you're tagging Matroska files, this is for you.
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			It's quite a list for this version.
+			You can get a complete overview via the
+			<a href="../Mp3tagVersion.txt">history of changes</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v286"></a><h1>Mp3tag v2.86</h1>
+
+		<h2>Library to permanently store metadata</h2>
+		<p>
+			Normally, Mp3tag reads metadata from files when loading files, directories or playlists and stores the data in memory. Then,
+			when you close Mp3tag, the data once read from the files is discarded and must be read again the next time you're working with
+			those files in Mp3tag.
+		</p>
+		<p>
+			This can become both time consuming and memory intensive, especially when dealing with large amounts of files. If you enable the
+			Library in Mp3tag (see <a href="options_library.html">Options &gt; Library</a>), metadata is first read from the files and then
+			stored in a database that resides in Mp3tag's configuration folder.
+			On subsequent reads of the file, the metadata is read directly from the database and updated iff the file's modification timestamp
+			has been changed. In addition to that, cover art or other binary data is not kept in memory but is stored in the database, which
+			can reduce the amount of memory that is consumed by Mp3tag significantly.
+		</p>
+		<p>
+			This is a quite extensive change and required to rewrite huge parts of Mp3tag base layers. It's my hope that it improves performance and
+			serves as a basis for interesting future improvements.
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			This version also fixes many issues — some reported recently, some were a little bit older.
+			You can get a complete overview via the
+			<a href="../Mp3tagVersion.txt">history of changes</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v285"></a><h1>Mp3tag v2.85</h1>
+
+		<h2>Support for Matroska (MKA/MKV)</h2>
+		<p>
+			With the recent support for multi-track files, it was about time to add support for
+			the Matroska container format. Similar to MP4, Matroska can contain both audio and
+			video tracks. This means, that you now have another option to tag your video collection
+			with Mp3tag. Mp3tag currently displays the default (or forced) audio track and all
+			included chapters. I'm curious about your experience, so if you're going to use Matroska
+			with Mp3tag please let me know what you think.
+		</p>
+
+		<h2>Extended list of default genres</h2>
+		<p>
+			I've extended the list of default genres to include all extensions made by Winamp (ID3v1
+			genres 148 to 191) which were included by several other programs. It now includes genres
+			like Audiobook and IDM which I find quite nice. If you're using only a small set of genres,
+			you can use 'Options &gt; Genres' to add your own.
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			This version also fixes many issues — some reported recently, some were a little bit older.
+			You can get a complete overview via the
+			<a href="../Mp3tagVersion.txt">history of changes</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v284"></a><h1>Mp3tag v2.84</h1>
+
+		<h2>Support for Nero-style MP4 chapters</h2>
+		<p>
+			MP4 is a container format — which basically means that you can put loads of stuff into it.
+			With Nero-style tags, it’s even possible to have one file consisting of multiple sub-tracks.
+			The Nero chapter tags describe the position and the sub-track specific tags. With this new
+			version, Mp3tag displays individual sub-tracks of such files and also allows for editing
+			of those individual chapter tags. Tags fields with the same contents across all sub-tracks
+			are used as global file tags when writing changes.
+		</p>
+
+		<h2>Cover-only Tag Sources to import album-art from Discogs</h2>
+		<p>
+			Many of you wrote me and wished for a cover-only alternative to the now discontinued Amazon
+			Tag Sources. Here you go :) With this new version, Mp3tag comes with two cover-only Tag Sources
+			to import cover art from Discogs.
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			This version fixes many, many issues — some reported recently, some were a little bit older.
+			You can get a complete overview of how busy I&#39;ve been via the
+			<a href="../Mp3tagVersion.txt">history of changes</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v283"></a><h1>Mp3tag v2.83</h1>
+
+		<h2>Support for querying Discogs via Release ID</h2>
+		Sometimes, searching by album or artist name simply doesn't give the correct results. This version
+		adds a new tag source to directly search by Discogs Release ID. This means, that you can directly
+		jump to the correct result when importing tags from Discogs.com.
+
+		<h2>Import from Amazon no longer available</h2>
+		Unfortunately, Amazon has closed my associate account so that importing tags via Amazon is no longer
+		possible. A highly recommended alternative tag source is Discogs, which offers high-quality metadata
+		and cover art.
+
+		<h2>Support for removing Nero-style tags from MP4 files</h2>
+		Nero-style tags are one possible reason why tags cannot be saved to MP4 files. This version
+		adds basic detection of those tags and reporting via %_tag% if present. Furthermore, you can now remove
+		Nero-style chapter information from MP4 files via context-menu in the file list.
+
+		<h2>Support for restricting cover export to certain cover types</h2>
+		The Mp3tag action to export cover-art to files now has a option to restrict the covers to be exported to
+		a certain cover type. This means, that you can now export, e.g., all the front covers of your files in one go.
+
+		<h2>Improvements at reading and writing cue sheets</h2>
+		It's now possible to read cue sheets that don't start with Track 1 and many other things. If you're into working
+		with cue sheets, you'll probably like the changes in this release.
+
+		<h2>Further changes</h2>
+		Furthermore, this version fixes some issues which were reported during the last months
+		as denoted in the <a href="../Mp3tagVersion.txt">history of changes</a>.
+
+	</div>
+
+	<div>
+		<a id="v282"></a><h1>Mp3tag v2.82</h1>
+
+		<h2>Spring Maintenance</h2>
+
+		<p>
+			This version is a spring-cleaning maintenance release and fixes issues which were reported during the past weeks.
+		</p>
+
+		<p>Please see the <a href="../Mp3tagVersion.txt">history of changes</a> for a complete list.</p>
+	</div>
+
+	<div>
+		<a id="v281"></a><h1>Mp3tag v2.81</h1>
+
+		<h2>Support for Portable Installation and Admin-Elevation</h2>
+		A long-requested feature of many users was a portable installation of Mp3tag, i.e., a installation
+		that installs in one directory and also stores its configuration settings in this directory. This
+		is now possible. And if you choose the standard installation, Mp3tag automatically elevates the
+		process to the necessary user rights (after asking you, of course).
+
+		<h2>Support for iTunes Grouping Field</h2>
+		As mentioned in the release notes of Mp3tag v2.80, iTunes was writing the grouping information
+		to its internal database only. With an updated version of iTunes, this information is now written
+		to a new iTunes-specific ID3v2 field which is available in Mp3tag via the field name GROUPING.
+
+		<h2>Further changes</h2>
+		Furthermore, this version fixes some issues which were reported during the last months
+		as denoted in the <a href="../Mp3tagVersion.txt">history of changes</a>.
+
+	</div>
+
+	<div>
+		<a id="v280"></a><h1>Mp3tag v2.80</h1>
+
+		<h2>Support for iTunes tag fields for classical music</h2>
+		In October, iTunes introduced new tag fields for better tagging of classical music. Those fields include
+		work name, movement name, number and total count and are mapped in Mp3tag to these new field names:
+		<br />
+		<ul>
+			<li>MOVEMENTNAME &mdash; Movement name</li>
+			<li>MOVEMENT &mdash; Movement number</li>
+			<li>MOVEMENTTOTAL &mdash; Movement count</li>
+			<li>WORK &mdash; Work name</li>
+			<li>SHOWMOVEMENT &mdash; Flag to trigger showing of classical fields instead of normal title in iTunes (1 = yes)</li>
+		</ul>
+		<br />
+		While the implementation of these fields in iTunes is not yet realized completely consistent, Mp3tag supports all
+		fields for MP4 tags. For MP3 files, iTunes currently writes the work name to the CONTENTGROUP field (while what's
+		added at "Grouping" is only stored in iTunes' internal database). The same applies to the flag SHOWMOVEMENT which
+		is also stored in iTunes' internal database and not in the file itself. There are already several bug reports for
+		that reported to Apple and I expect a consistent implementation with the next release of iTunes.
+
+		<h2>Further changes</h2>
+		Furthermore, this version fixes some issues which were reported during the last months
+		as denoted in the <a href="../Mp3tagVersion.txt">history of changes</a>.
+
+	</div>
+
+	<div>
+		<a id="v278"></a><h1>Mp3tag v2.78</h1>
+
+		<h2>Support for AIF / AIFF audio format (*.aif, *.aifc, *.aiff)</h2>
+		The main feature of v2.78 is full support for the AIF / AIFF audio format. This includes support for ID3v2 tags
+		(including user-defined fields and cover art) as dedicated RIFF chunks.
+		The new version reads, writes and removes those tags and – as usual – also reports meaningful technical
+		information about the file.
+
+		<h2>Support for iTunes MP4 owner information</h2>
+		This version adds support for the ITUNESOWNER field, which shows the owner of an MP4 file which has been bought via the iTunes Store. Besides
+		ITUNESACCOUNT, this enables you to make sure that all files are from your own music library. Please note that removing those fields doesn't remove
+		the (hidden) buyer information from the file.
+
+		<h2>Further changes</h2>
+		Furthermore, this version fixes some issues which were reported during the last months
+		as denoted in the <a href="../Mp3tagVersion.txt">history of changes</a>.
+
+	</div>
+
+	<div>
+		<a id="v276"></a><h1>Mp3tag v2.76</h1>
+
+		<h2>Support for WAV audio format (*.wav)</h2>
+		The main feature of v2.76 is full support for the WAV audio format. This includes support for RIFF INFO tags (which are
+		surprisingly limited) and writing ID3v2 tags (including user-defined fields and cover art) as dedicated RIFF chunks.
+		The new version reads, writes and removes those tags and – as usual – also reports meaningful technical
+		information about the file.
+
+		<h2>Further changes</h2>
+		Furthermore, this version fixes some issues which were reported during the last months
+		as denoted in the <a href="../Mp3tagVersion.txt">history of changes</a>.
+
+	</div>
+
+	<div>
+		<a id="v274"></a><h1>Mp3tag v2.74</h1>
+
+		<h2>Support for HTTPS in Web Sources Framework</h2>
+		Since more an more APIs are changing their access methods to require authentication or to be HTTPS-only, this version
+		adds support for secure connections to web sources via HTTPS. This is a rather huge change since the complete HTTP connection
+		part has been replaced in the course of this update.
+
+		<h2>Discogs access via HTTPS</h2>
+		As a prominent example of the changes described above, Discogs announced to be available via HTTPS only starting from March 14.
+		The official Discogs web source of Mp3tag has been updated to use HTTPS with this update. In the background, I've already changed
+		the Mp3tag Discogs image cache that is used to provide Discogs images to Mp3tag users to use HTTPS as well.
+
+		<h2>Support for Podcast Keywords</h2>
+		Mp3tag becomes more and more popular in the podcast community and already supports a variety of podcast-related tag fields
+		(e.g., podcast category, podcast description, podcast ID and podcast URL). This version adds support for podcast keywords via the
+		PODCASTKEYWORDS field for ID3v2 and MP4 tags.
+
+		<h2>Compatibility Improvements for ID3v2 Comments</h2>
+		When it comes to ID3v2 comments, iTunes and Windows Media Player seem not to like each other very much. While iTunes requires the
+		ID3v2 comment language to be set to 'eng' (English), Windows Media Player and Windows Explorer need the comment language set to
+		the language of the Windows version that is running. Otherwise, the comments are simply not shown in these applications. In the
+		past Mp3tag offered a quite tedious via editing the language file to circumvent these compatibility issue. With this version, the
+		ID3v2 comment language can be set via a configuration dialog which is available via 'Options &gt; Tags &gt; Advanced' and will
+		preserved also when installing new versions of Mp3tag. So no more fiddling in the language files for you.
+
+		<h2>Further changes</h2>
+		Furthermore, this version fixes some issues which were reported during the last months
+		as denoted in the <a href="../Mp3tagVersion.txt">history of changes</a>.
+	</div>
+
+	<div>
+		<a id="v273"></a><h1>Mp3tag v2.73</h1>
+
+		<h2>Automatically Select Files</h2>
+		In the past, many users have wished for an option to automatically select files that have been added to Mp3tag's file list.
+		With this version, I've added a new configuration option to 'Options > General' that allows for automatically selecting files.
+		When this option is enabled, files that are loaded when Mp3tag started or are added via drag'n'drop or are added via the right-click
+		option in Windows Explorer are selected automatically.
+
+		<h2>Selecting All Files via Toolbar</h2>
+		Some users prefer working via keyboard shortcuts, others are effectively using the mouse. To select all files, the most efficient way
+		was to use the Ctrl+A keyboard shortcut. This might change now, especially for the mouse users amongst you, because the current version
+		now features a new toolbar button for selecting all files in Mp3tag's file list.
+
+		<h2>File Selection when Filtering Files</h2>
+		Till now, the file selection was not preserved when switching from a filter result to the complete file list via F3
+		or 'View > Filter...'. This had the significant drawback, that files which were identified using the filter and selected
+		in the filtered file list, were not seen in context of the complete file list anymore once the filter has been reset. With
+		this version, the file selection is preserved when disabling the filter.
+
+		<h2>New Bit-Depth Information Field</h2>
+		Some audio formats offer encoding in different bit depths. This information is now available using the %_bitspersample% information
+		field for audio formats that support different bit depths.
+
+		<h2>Further changes</h2>
+		Furthermore, this version fixes some issues which were reported during the last months
+		as denoted in the <a href="../Mp3tagVersion.txt">history of changes</a>.
+
+	</div>
+
+	<div>
+		<a id="v272"></a><h1>Mp3tag v2.72</h1>
+
+		<h2>Support for Windows 10</h2>
+		Mp3tag now officially supports Windows 10. It worked quite smoothly already when Windows 10 was released, but I adjusted minor things here and there.
+		If you find any quirk or think you've found a bug please let me know.
+
+		<h2>Updated Code-Signing Certificate</h2>
+		To verify the integrity and the origin of the Mp3tag setup and Mp3tag program file, I've updated the code-signing certificate.
+	</div>
+
+	<div>
+		<a id="v271"></a><h1>Mp3tag v2.71</h1>
+
+		<h2>Summer Maintenance</h2>
+
+		<p>
+			This version is a summer maintenance release and fixes issues which were reported during the past weeks.
+		</p>
+
+		<p>Please see the <a href="../Mp3tagVersion.txt">history of changes</a> for a complete list.</p>
+	</div>
+
+	<div>
+		<a id="v270"></a><h1>Mp3tag v2.70</h1>
+
+		<h2>DPI Awareness and High DPI Support</h2>
+
+		<p>
+			To be honest, when I first saw a screenshot of Mp3tag on a high-resolution 4K screen I had to laugh: the toolbar
+			icons were ridiculously small and also other screen elements were drawn too small &mdash; while the app was
+			still usable in itself. At that point I didn't knew yet, what it takes to make an app fully DPI aware.
+		</p>
+
+		<p>
+			Over the last month I worked on making Mp3tag more DPI aware and touched all the different code parts of drawing
+			and moving user-interface elements. It was quite a ride and it took me to places in Mp3tag's code base which I
+			hadn't visited for a long time.
+		</p>
+
+		<p>
+			Furthermore, I've redrawn the toolbar icons in 32x32 and 24x24 sizes. I'm not
+			an icon designer so it took me some time to get it done. I did a lot of experiments (even with flat black and white
+			icons) but ended up with a set which sticks very much to the original icons which you (&mdash; and I) are already
+			familiar with. But some icons changed their face or got a new finishing and I hope you like it.
+		</p>
+
+
+		<h2>Further changes</h2>
+		Furthermore, this version fixes some issues which were reported during the last months
+		as denoted in the <a href="../Mp3tagVersion.txt">history of changes</a>.
+	</div>
+
+	<div>
+		<a id="v268"></a><h1>Mp3tag v2.68</h1>
+
+		<h2>Discogs Image Caching &mdash; Reloaded</h2>
+		Discogs made a breaking API change on 2015-02-20 so that we had to update our
+		Discogs image caching server and the way Mp3tag signs the image requests.
+
+		<h2>Further changes</h2>
+		Furthermore, this version fixes some issues which were reported during the last months
+		as denoted in the <a href="../Mp3tagVersion.txt">history of changes</a>.
+	</div>
+
+	<div>
+		<a id="v266"></a><h1>Mp3tag v2.66</h1>
+
+		<h2>Winter Maintenance</h2>
+		This version is mainly a maintenance release which comes with many improvements and fixes various issues that have been reported over the last couple of weeks.<br />
+		<br />
+		Please see the <a href="../Mp3tagVersion.txt">history of changes</a> for a complete list.
+	</div>
+
+	<div>
+		<a id="v265"></a><h1>Mp3tag v2.65</h1>
+
+		<h2>Discogs Image Caching</h2>
+		Since Discogs implemented rate-limiting on images requests through their API, users of
+		the Discogs Web Source experienced quite often, that no images were provided by the web
+		source&mdash;1000 request per day for all users of Mp3tag is simply not enough.
+		<p>
+			Over the last weeks, we've implemented a Discogs image cache on the Mp3tag servers which
+			is now asked for images before the actual Discogs servers. This first reduces load on the
+			Discogs servers, but also increases the chance that more and more images are served to you.
+		</p>
+
+		<h2>Further changes</h2>
+		Furthermore, this version fixes some issues which were reported during the last months
+		as denoted in the <a href="../Mp3tagVersion.txt">history of changes</a>.
+	</div>
+
+	<div>
+		<a id="v264"></a><h1>Mp3tag v2.64</h1>
+
+		<h2>Discogs API changed to JSON</h2>
+		Yet another Discogs-related change, you might be thinking&mdash;at least we did, when
+		we read the corresponding announcement on their API development forums :-)
+		This change removed the XML format from the API and changed the API format to JSON, which resulted in
+		the official Discogs Tag Source not working anymore for you.
+		<p>
+			With this release, we have developed a new official Discogs Tag Source based on the new JSON format.
+			This new format also is more robust w.r.t. changes in the API. If you notice any quirks, releases that
+			cannot be tagged or other things, please let us know.
+		</p>
+
+		<h2>JSON-related functions for Web Sources Framework</h2>
+		We've extended the <a href="main_online.html">Web Sources Framework</a> by JSON-related functions that enable the development of faster,
+		more reliable, and easier to maintain Tag Sources. We're looking forward to any community-based development
+		in this area!
+
+		<h2>Further changes</h2>
+		Furthermore, this version fixes some issues which were reported during the last months
+		as denoted in the <a href="../Mp3tagVersion.txt">history of changes</a>.
+	</div>
+
+	<div>
+		<a id="v262"></a><h1>Mp3tag v2.62</h1>
+
+		<h2>Discogs API access changed to OAuth</h2>
+		Starting at August 15, 2014 Discogs restricts access to their API to authentication
+		using OAuth. As a user of the Discogs Tag Source you need to have an account on the
+		Discogs web site. If you don't have a user account yet, you can create a free account
+		on the discogs web site via
+		<p>
+			<a href="https://www.discogs.com/users/create">https://www.discogs.com/users/create</a>
+		</p>
+
+		When you use any of the Discogs Tag Sources from Mp3tag, Mp3tag will ask you to
+		authorize access to your Discogs profile. You'll then have to authorize the Mp3tag application
+		on your Discogs profile and enter the authorization code when Mp3tag is asking you to do so.
+
+		<h2>Further changes</h2>
+		Furthermore, this version fixes some issues which were reported during the last months
+		as denoted in the <a href="../Mp3tagVersion.txt">history of changes</a>.
+	</div>
+
+	<div>
+		<a id="v261"></a><h1>Mp3tag v2.61</h1>
+
+		<h2>Summer Maintenance</h2>
+		With this version we're doing some summer maintenance and fix issues which were
+		reported during the past weeks.<br />
+		<br />
+		Please see the <a href="../Mp3tagVersion.txt">history of changes</a> for a complete list.
+	</div>
+
+	<div>
+		<a id="v260"></a><h1>Mp3tag v2.60</h1>
+
+		<h2>Update of Discogs Tag Source</h2>
+		Discogs updated their <a href="http://www.discogs.com/developers/">API</a> which resulted in release information
+		not being retrieved while using the discogs tag source. The access to the
+		Discogs API has been fixed with this release.
+
+		<h2>Internal Restructuring</h2>
+		While this is not a feature that is visible to the user, it's worth mentioning that
+		over the last weeks we did some major refactoring of Mp3tag's code base by changing
+		to use standard container libraries and algorithms.
+
+		<h2>Further changes</h2>
+		Furthermore, this version fixes some issues which were reported during the last months
+		as denoted in the <a href="../Mp3tagVersion.txt">history of changes</a>.
+	</div>
+
+	<div>
+		<a id="v259"></a><h1>Mp3tag v2.59</h1>
+
+		<h2>Support for Direct Stream Digital (DSF)</h2>
+		With this version Mp3tag supports
+		<a href="http://en.wikipedia.org/wiki/Direct_Stream_Digital">Direct Stream Digital (DSF)</a>
+		files with ID3v2 tags.
+
+		<h2>Further changes</h2>
+		Furthermore, this version fixes some issues which were reported during the last months,
+		improves some internal parts and makes use of the taskbar progress feature which was
+		introduced with Windows 7.
+	</div>
+
+	<div>
+		<a id="v258"></a><h1>Mp3tag v2.58</h1>
+
+		<h2>Improved performance when reading MP4 files</h2>
+		Mp3tag now reads MP4 files faster than before which should be significant
+		on large collections (many files) or collections including MP4 video (large files).
+
+		<h2>Improved compatibility of YEAR in ID3v2.3</h2>
+		With Mp3tag v2.53 released almost one year ago we decided to combine
+		the release year (ID3v2.3 frame TYER, displayed as YEAR) and release
+		date (ID3v2.3 frame TDAT, displayed as DATE) in YEAR and display it
+		as YYYY-MM-DD. The intention was to improve compatibility with other
+		applications and the ID3v2 standard.<br /><br />
+		Since then we've received numerous support requests both on the
+		<a href="http://forums.mp3tag.de">Mp3tag Forums</a> and via email from
+		users who are unsatisfied with that change. Either because they use a
+		different formatting of date values, use some value denoting a specific
+		time frame (e.g., the 80s) or simply wanted to preserve values that
+		were not fitting in the new date formatting scheme.<br /><br />
+		With Mp3tag v2.58 we revert this change to the previous behavior.
+	</div>
+
+	<div>
+		<a id="v255"></a><h1>Mp3tag v2.55</h1>
+
+		<h2>Support for IETF Opus</h2>
+		Mp3tag now supports the IETF Opus codec. More information can be found on the <a href="http://opus-codec.org/">official website</a>
+		and on <a href="http://en.wikipedia.org/wiki/Opus_(audio_format)">Wikipedia</a>.
+	</div>
+
+	<div>
+		<a id="v254"></a><h1>Mp3tag v2.54</h1>
+
+		<h2>Support for Windows 8</h2>
+		Mp3tag now officially supports Windows 8 operating system. If you find any quirk or
+		think you've found a bug please let us know at <a href="mailto:support@mp3tag.de">support@mp3tag.de</a>.
+	</div>
+
+	<div>
+		<a id="v253"></a><h1>Mp3tag v2.53</h1>
+
+		<h2>Improved support for Drag &amp; Drop of cover art</h2>
+		Mp3tag now uses a different method for drag &amp; drop of cover art
+		which does not require re-encoding the cover image again but instead
+		uses the original image whenever possible. In addition, support for
+		drag &amp; drop of cover art from Google Chrome has been added.
+
+		<h2>Improved compatibility of YEAR in ID3v2.3</h2>
+		The release year (ID3v2.3 frame TYER, displayed as YEAR) and release
+		date (ID3v2.3 frame TDAT, displayed as DATE) are now combined in YEAR
+		and displayed as YYYY-MM-DD. This improves compatibility with other
+		applications (e.g., foobar2000) and provides a consistent view with
+		all revisions of the ID3v2 specification.
+	</div>
+
+	<div>
+		<a id="v252"></a><h1>Mp3tag v2.52</h1>
+
+		<h2>Option to specify cover art directory</h2>
+		With this option located at 'Options &gt; Directories' you can specify a default directory
+		that is displayed when adding cover art. Besides fully-qualified path names, you
+		can provide relative path names and use placeholders. If no default directory is specified
+		or the directory cannot be opened, Mp3tag opens the directory of the first selected file
+		iff it contains cover art or the current working directory in all other cases.
+	</div>
+
+	<div>
+		<a id="v250"></a><h1>Mp3tag v2.50</h1>
+
+		<h2>Converter Tag &mdash; Tag</h2>
+		This converter formats tag fields by other fields content, which means that
+		you can use it to copy tags from one field to another or to combine contents
+		of multiple different tag fields in one tag field. As already known from the
+		other <a href="main_converter.html">converters</a>, you can use
+		<a href="main_converter.html#ttf">placeholders</a> for any tag field and
+		<a href="main_scripting.html">scripting functions</a> within the format string
+		to format the content of the specified tag field.<br />
+		Furthermore, the format string is evaluated while typing and you can verify the
+		results using the built-in preview.
+
+		<h2>Unicode Playlists in UTF-8 format</h2>
+		You can now save playlists in Unicode format encoded as UTF-8 if you use *.m3u8
+		as file extension. This can be useful if file names contain special characters.
+		Applications which support UTF-8 encoded playlists are, e.g., Apple iTunes and
+		foobar2000.
+
+		<h2>Discogs API 2.0</h2>
+		Discogs.com released a completely redesigned API for accessing data from their
+		website based on the popular JSON format. Mp3tag's web source framework and the
+		corresponding discogs web source have been updated to this new format.
+	</div>
+
+	<div>
+		<a id="v249"></a><h1>Mp3tag v2.49</h1>
+
+		<h2>Support for unknown MP4 tags</h2>
+		Previous to this version, MP4 tags that were unknown to Mp3tag were deleted
+		from the files, which was an issue for some users. With this version, Mp3tag
+		keeps those unknown MP4 tags (also called atoms).
+
+		<h2>Support for wildcards at cover import from file</h2>
+		The actions <strong>Import cover from file</strong> and <strong>Import text file</strong>
+		now support wildcards * (matches zero to many characters) and ? (matches exactly one character).
+		This should ease cover import from randomly named files significantly.
+
+		<h2>Updated Web Sources</h2>
+		The MusicBrainz and discogs Web Sources are now both based on the corresponding web service API
+		which makes them more robust to changes on the respective web sites.
+	</div>
+
+	<div>
+		<a id="v248"></a><h1>Mp3tag v2.48</h1>
+
+		This version is mainly a maintenance release which updates the Amazon Web Sources
+		and improves Amazon query handling to decrease the amount of needed requests per query.
+		As soon as enough users updated to this new release, the request limit enforced by Amazon
+		should not be an issue anymore.
+	</div>
+
+	<div>
+		<a id="v247"></a><h1>Mp3tag v2.47</h1>
+
+		<h2>Tag fields renamed</h2>
+		With this release some of the tag fields that are used for format strings, actions,
+		columns, exports, and filters are renamed to have more accessible and intuitive names.
+		This also means that all parts of Mp3tag where you have used the old names have to
+		be updated. We know that this is an invasive change but think that it was a step necessary to
+		keep it everything maintainable and understandable for new users of the program.<br />
+		Please see the list below for details on the renamed tag fields:
+		<ul>
+			<li>BAND to ALBUMARTIST</li>
+			<li>ALBUMSORTORDER to ALBUMSORT</li>
+			<li>ARTISTSORTORDER to ARTISTSORT</li>
+			<li>BANDSORTORDER to ALBUMARTISTSORT</li>
+			<li>COMPOSERSORTORDER to COMPOSERSORT</li>
+			<li>TITLESORTORDER to TITLESORT</li>
+			<li>TVSHOWSORTORDER to TVSHOWSORT</li>
+			<li>ITUNESCOMPILATION to COMPILATION</li>
+			<li>ITUNESPODCAST to PODCAST</li>
+			<li>ITUNESPODCASTCATEGORY to PODCASTCATEGORY</li>
+			<li>ITUNESPODCASTDESC to PODCASTDESC</li>
+			<li>ITUNESPODCASTID to PODCASTID</li>
+			<li>ITUNESPODCASTURL to PODCASTURL</li>
+		</ul>
+		Some of them might be familiar to you, others might be new. If you are wondering
+		which other fields are available, please see <a href="main_tags.html">Names of tag fields</a>
+		for a complete list.
+
+		<h2>Actions menu</h2>
+		The actions feature which was well hidden under the converter menu now has a
+		dedicated top-level menu where all action groups are accessible via menu items.
+		If you are not familiar with the actions in Mp3tag please have a look at the
+		<a href="options_format.html">Actions help page</a>. It is a powerful feature and
+		worth looking at.
+
+		<h2>Amazon</h2>
+		Amazon has limited access to their web service to 2000 requests per hour. That means
+		that you might get an occassional error 503 when using the Amazon tag source. However,
+		the limit is reset each hour so you can try again later if it is not working for you.
+	</div>
+
+	<div>
+		<a id="v246"></a><h1>Mp3tag v2.46</h1>
+
+		<h2>Explorer Shell Extension</h2>
+		The right-click menu extension is now realized by a dedicated Shell extension
+		which improves opening files and directories via the context menu also for large
+		amounts of files.
+
+		<h2>Improved user-defined field mappings</h2>
+		The user-defined mappings for field names introduced in Mp3tag v2.45 now have an
+		own <a href="main_mapping.html">help page</a> and were further improved with regard
+		to mapping multiple field names to one user-defined field name.
+
+		<h2>Improved Tag Sources dialog</h2>
+		The Tag Sources dialog now also supports reordering of files via drag and drop
+		allowing to quickly rearrange files according to the titles. Yes, we made it work
+		with multiple files too :-)
+		The sorting and selection state of the Tag Sources search results are now also
+		remembered if you decide to go back and pick another result.
+
+		<h2>Portable settings</h2>
+		Previous versions of Mp3tag stored toolbar and panel positions in the Windows Registry.
+		This changed with this release so that Mp3tag now stores all configuration data in its
+		own configuration files.
+	</div>
+
+	<div>
+		<a id="v245"></a><h1>Mp3tag v2.45</h1>
+
+		<h2>Improved Filter</h2>
+		The filter now supports <a href="main_filter.html">filter expressions</a> where it is now
+		possible to combine filter criteria and use format strings for filtering. The filter now
+		also comes with a history, providing easy access to your often-used filter expressions.
+
+		<h2>User-defined field mappings</h2>
+		Mp3tag now supports user-defined mappings for field names. This is particularly useful
+		in case you need to make field names consistent across different types of tags.
+		The feature is available via
+		'Options &gt; Tags &gt; Mapping' where you can create mappings for a specific tag type
+		(APEv2, ID3v2, MP4, VorbisComment or WMA), provide a Source name (Mp3tag's internal name)
+		and a target name (your preferred field name).
+
+		<h2>Multiline fields for Tag Panel</h2>
+		Are you adding lyrics, artist biographies or other text-intensive information to your songs?
+		If so, you can now add multiline custom fields to the Tag Panel via
+		<a href="options_tagpanel.html">Options &gt; Tag Panel</a>.
+	</div>
+
+	<div>
+		<a id="v243"></a><h1>Mp3tag v2.43</h1>
+
+		<h2>Automatic Updates</h2>
+		This version comes with support for automatic checking for updates on program startup. You
+		can decide whether you want to get notified on stable final releases only, or whether you
+		want the freshest stuff from our compilers (Beta versions). If you don't want Mp3tag to check
+		for updates you can disable it completely at 'Options > Updates'.
+
+		<h2>Horizontal Tag Panel</h2>
+		While it was always possible to drag the Tag Panel and dock it above or below
+		Mp3tag's file list, the input fields are now arranged more effectively. It's also
+		possible to disable the directory switcher from the Tag Panel.
+
+		<h2>New Translations</h2>
+		Mp3tag is now also translated to Danish, Hebrew, Vietnamese, and Ukranian language.
+	</div>
+
+	<div>
+		<a id="v234"></a><h1>Mp3tag v2.34 - Support for cover art / Import from Amazon.com</h1>
+
+		<h2>Support for cover art</h2>
+		With the new release Mp3tag supports embedded cover art for files with ID3v2 tags, TTA- and WMA files.
+		You can add cover art via the <img src="images/mt_tag.png" alt="extended tag dialog" /> extended tag dialog at <span class="menu">View &gt; Extended Tags...</span>
+		or <span class="hotkey">Alt</span> + <span class="hotkey">T</span>.
+
+		<h2>Import from Amazon.com</h2>
+		Besides the freedb support, Mp3tag now has the ability to get album information from Amazon.com. Just
+		choose the small arrow from the right of the Icon <img src="images/mt_freedb.png" alt="freedb" /> and
+		select <strong>Amazon.com</strong>. You'll get a list of matching items and can choose the
+		album to import the tags (and cover art).<br />
+		<br />
+		The Amazon.com import uses Mp3tag's incredible web source framework. There are even more web sources
+		available at the <a href="http://forums.mp3tag.de/index.php?showtopic=1794">Web Source Archive</a> on the
+		Mp3tag forums.
+		<p>
+			<strong>Please visit the <a href="http://forums.mp3tag.de">Mp3tag forums</a> if you have other questions regarding the new release.</strong>
+		</p>
+
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+
+	<div>
+		<a id="v233"></a><h1>Mp3tag v2.33 - Support for Unicode</h1>
+		Probably the most import change and new feature in this version is the support for Unicode through
+		the whole program. Mp3tag writes ID3v2 tags in Unicode format (UTF-16) by default now, but there are
+		still some programs, portables or car radios which have problems with ID3v2 tags stored in Unicode format
+		(though this is specified within the ID3v2 standard). To use Mp3tag with this programs or devices, simply
+		enable the option <strong>Always write ISO-8859-1 tags instead of UTF-16</strong> at
+		<strong>Options &gt; Tags &gt; Mpeg</strong>. After that, just save the tags again by clicking
+		<img src="images/mt_save.png" alt="File &gt; Save tag" /> or by using the
+		<span class="hotkey">Ctrl</span> + <span class="hotkey">S</span> hotkey.<br />
+		<br />
+		If you have problems displaying tags with characters from other charsets (like Cyrillic) in Mp3tag, the
+		tags are probably stored in a system codepage instead of Unicode or ISO-8859-1. To convert these tags
+		from a specific codepage to Unicode, simply create a new action <span style="color:green">Convert codepage</span>,
+		select the appropriate tag field(s) and choose the codepage from the drop-down list.
+		<p>
+			<strong>Please visit the <a href="http://forums.mp3tag.de">Mp3tag forums</a> if you have other questions regarding the new release.</strong>
+		</p>
+
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+
+	<div>
+		<a id="v227"></a><h1>Mp3tag v2.27 - New syntax for scripting functions</h1>
+
+		The last versions had major problems with the backslash and the double quotes characters
+		within scripting functions so we had to reimplement the part which is responsible for
+		evaluating the built in functions.<br />
+		The names of the functions did not change - you don't have to learn new function names
+		or placeholder names.
+
+		<h2>What has changed?</h2>
+		<ul>
+			<li>There is no need to put parameters of function in double quotes anymore.</li>
+			<li>There is no need to leave the $ character from nested function calls.</li>
+			<li>There are (hopefully) no problems with backslashes and double quotes anymore.</li>
+			<li>The scripting functions $meta and $join are obsolete now.</li>
+		</ul>
+
+		<h2>Are there any special characters with specific functionality/limitations?</h2>
+		<ul>
+			<li><code>[ ... ]</code> Displays contents of brackets only if at least one of fields referenced inside has been found.</li>
+			<li><code>'</code> Outputs raw text without parsing. This will output the contained string and ignore all reserved characters (%,$,[,]) in it.</li>
+			<li><code>$%[]</code>You have to put the single quote around these reserved characters if you want to use them unparsed.</li>
+			<li><code>'</code>You have to put the single quote before this reserved character if you want to output a singe quote.</li>
+		</ul>
+
+		<h2>Examples for conversion</h2>
+		<ul>
+			<li><code>$num(&quot;%track%&quot;, 2)</code> is now <br /><code>$num(%track%,2)</code></li>
+			<li><code>file://$replace(&quot;%_folderpath%&quot;,&quot;\&quot;,&quot;/&quot;)</code> is now<br /><code>file://$replace(%_folderpath%,\,/)</code></li>
+			<li><code>%_tag_read% [%_tag%]</code> is now<br /><code>%_tag_read% '['%_tag%']'</code></li>
+		</ul>
+
+		<p>
+			<strong>Please visit the <a href="http://forums.mp3tag.de">Mp3tag forums</a> if you have other questions regarding the new release.</strong>
+		</p>
+
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
+
+	<p class="copyright"><strong>Made with love in Dresden.</strong> Copyright &copy; 1999-2020 <a href="http://www.mp3tag.de/en/" class="external">Florian Heidenreich</a>. All rights reserved.</p>
+
+</div>
+</body>
+</html>

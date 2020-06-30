@@ -1,0 +1,622 @@
+﻿LANGAUTHOR meoconnhumi
+LANGCONTACT meoconnhumi@gmail.com
+LANGVERSION 2.47a
+LANGNAME Vietnamese
+LANGNAMELOC Tiếng Việt
+SLangCancel Huỷ bỏ
+SLangOk &Đồng ý
+SLangErrCatch Runtime Error\n\nFile:\t{1}\nLine:\t{2}\n\nỨng dụng gặp phải một ngoại lệ không ngờ đến và đang trong trạng thái không ổn định. Hãy đóng ứng dụng rồi gửi tập tin\n\n{3}\n\nvà một bản mô tả lỗi chi tiết cho đội ngũ hỗ trợ của chúng tôi.\n\nemail: support@mp3tag.de
+SLangErrCheck Runtime Error\n\nFile:\t{1}\nLine:\t{2}\nTerm:\t{3}\nCode:\t0x{4}\n\nỨng dụng gặp phải một ngoại lệ không ngờ đến và đang trong trạng thái không ổn định. Hãy đóng ứng dụng rồi gửi tập tin\n\n{5}\n\nvà một bản mô tả lỗi chi tiết cho đội ngũ hỗ trợ của chúng tôi.\n\nemail: support@mp3tag.de
+SLangErrDriveCannotBeAccessed Không vào được ổ đĩa {1}.
+SLangErrFileCannotBeAccessed Không truy cập được tập tin {1}.
+SLangErrFileCannotBeDeleted File Không xoá được tập tin {1}.\n\n» Hãy dừng hết các ứng dụng đang sử dụng tập tin này.
+SLangErrFolderCannotBeAccessed Không vào được thư mục {1}.
+SLangErrFolderCannotBeDeleted Không xoá được thư mục {1}.\n\n» Hãy dừng hết các quá trình đang sử dụng thư mục này.
+SLangErrHelpBrowserIsNotAvailable Mp3tag không hiển thị được tập tin giúp đỡ trong trình duyệt tiêu chuẩn của bạn.
+SLangErrHelpSystemIsNotAvailable Không có bộ Giúp đỡ.\n\n» Hãy cài lại phần mềm {1}.
+SLangErrHelpTopicIsNotAvailable Không có chủ đề giúp đỡ.\n\n» Hãy liên hệ với đội ngũ hỗ trợ của chúng tôi.\n\nemail: support@mp3tag.de
+SLangErrNotEnoughFreeDiskSpace Không đủ chỗ trống trên ổ đĩa {1}.\n\n» Hãy đảm bảo có ít nhất {2} là chỗ trống.
+SLangErrRegistryCannotBeAccessed Lỗi đọc dữ liệu\n\nKhông thể vào được Windows Registry.
+SLangMsgItemExistsAlready Đã có một mục cùng với mô tả như thế này.\n\n» Xin hãy dùng một mô tả khác.
+SLangMsgFirstSteps Xin bỏ một ít thời gian để làm quen với các bước đầu tiên.
+SLangMsgShutdownInfo Xin hãy đợi trong lúc {1} đang tắt.
+SLangWrnAppIsAlreadyRunning Ứng dụng hiện đang chạy.
+SLangWrnAppHasToBeRestarted Mp3tag cần được khởi động lại để áp dụng các thay đổi.\n\nBạn muốn khởi động lại Mp3tag không?
+SLangWrnNameContainsInvalidCharacters Bản mô tả này có những kí tự không hợp lệ.\n\n» Xin hãy sửa lại.
+SLangWrnStartLogging Bạn đã khởi động {1} với thông số dòng lệnh FLOG1. Thông số này được dùng cho các mục đích gỡ lỗi.\n\nBạn muốn khởi động tính năng ghi chép không?
+_C_ABORT Bỏ
+_C_ABORTING Aborting...
+_C_APP_ST_ALBUM &An-bum
+_C_APP_ST_ARTIST &Nghệ sĩ
+_C_APP_ST_COMMENT &Chú thích
+_C_APP_ST_FOLDER Thư &mục
+_C_APP_ST_GENRE Thể &loại
+_C_APP_ST_TITLE Tự&a đề
+_C_APP_ST_TRACK &Rãnh
+_C_APP_ST_YEAR Nă&m
+_C_CANCEL Huỷ bỏ
+_C_CANCELING Canceling...
+_C_CLOSE Đóng
+_C_DLG_CDDBCONFIRM_CAPTION Danh sách kết quả tìm kiếm...
+_C_DLG_CDDBCONFIRM_CHK_DISCID Sao chép ID của đĩa vào trường Chú thích
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 Sao chép ID của đĩa vào trường DISCID
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER Biên dịch...
+_C_DLG_CDDBCONFIRM_CHK_SORT Đề nghị cách sắp xếp
+_C_DLG_CDDBCONFIRM_ST_INFO Tìm thấy nhiều kết quả.\nHãy chọn một:
+_C_DLG_CDDBCONFIRM_ST_INFO2 Tìm thấy {2} kết quả từ cơ sở dữ liệu {1}.\nHãy chọn một:
+_C_DLG_CDDBCONFIRM_STC_TOP Hiệu chỉnh tag
+_C_DLG_CDDBINPUT_CAPTION Nhập ID freedb
+_C_DLG_CDDBINPUT_ST_CATEGORY Loại:
+_C_DLG_CDDBINPUT_ST_ID ID freedb:
+_C_DLG_CDDBSTYLE_CAPTION freedb
+_C_DLG_CDDBSTYLE_RD_CDROM quyết định dựa vào CD â&m thanh trong ổ đĩa
+_C_DLG_CDDBSTYLE_RD_ENTER nhập vào
+_C_DLG_CDDBSTYLE_RD_MP3 quyết định dựa vào các tập tin được chọn
+_C_DLG_CDDBSTYLE_RD_SEARCH quyết định thông qua tìm kiếm trên web
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL quyết định thông qua tìm kiếm văn bản
+_C_DLG_CDDBSTYLE_STC_TOP ID freedb...
+_C_DLG_COLUMNS_CAPTION Các cột
+_C_DLG_COLUMNS_TOP Điều chỉnh tình trạng của các cột.
+_C_DLG_TAGS Chỉnh sửa tag
+_C_DLG_TTF_TOP Chọn chuỗi định dạng
+_C_HELP &Giúp đỡ
+_C_MNU_ACTIONS Các &hành động\tALT+6
+_C_MNU_CON &Chuyển đổi
+_C_MNU_CON_FTF Tên tậ&p tin - Tên tập tin\tALT+3
+_C_MNU_CON_FTT Tê&n tập tin - Tag\tALT+2
+_C_MNU_CON_TFF Tập tin &văn bản - Tag\tALT+4
+_C_MNU_CON_TTF &Tag - Tên tập tin\tALT+1
+_C_MNU_CON_TTT T&ag - Tag\tALT+5
+_C_MNU_EDIT Chỉnh &sửa
+_C_MNU_EDIT_COPY -&Sao chép\tCtrl+C
+_C_MNU_EDIT_CUT -Cắ&t\tCtrl+X
+_C_MNU_EDIT_INVERTSELECTION Đả&o chọn tập tin\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT Chọn tập tin &kế tiếp\tCtrl+N
+_C_MNU_EDIT_PASTE -&Dán\tCtrl+V
+_C_MNU_EDIT_SELECT Chọn tất &cả tập tin\tCtrl+A
+_C_MNU_EDIT_UNDO &Huỷ thao tác\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL &Bỏ chọn tất cả\tCtrl+U
+_C_MNU_EXTRA Các côn&g cụ
+_C_MNU_EXTRA_OPTIONS &Tuỳ chọn...\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS &Khôi phục tất cả các trường nhập liệu\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS Các giá trị mặc định trong các trường nhập liệu\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD Thuật sĩ Đánh số tự động...\tCtrl+K
+_C_MNU_FILE &Tập tin
+_C_MNU_FILE_ADD Thêm thư mục...
+_C_MNU_FILE_CDDB freedb...\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL freedb (địa phương)...\tCtrl+L
+_C_MNU_FILE_COPY Sao chép...
+_C_MNU_FILE_DELETE Xoá...
+_C_MNU_FILE_DIR Đổi &thư mục...\tCtrl+D
+_C_MNU_FILE_EXIT T&hoát\tAlt+F4
+_C_MNU_FILE_EXPORT &Xuất ra...\tCtrl+E
+_C_MNU_FILE_FAVDIR Thư mục ư&a thích\tCtrl+F
+_C_MNU_FILE_MOVE Di chuyển...
+_C_MNU_FILE_PLALL Playlist (tất cả tập tin)\tCtrl+P
+_C_MNU_FILE_PLAY Phát
+_C_MNU_FILE_PLAYLIST Mở Playlist/Cuesheet...
+_C_MNU_FILE_PLSEL Playlist (các tập tin được chọn)
+_C_MNU_FILE_PROPERTIES Các thuộc tính...
+_C_MNU_FILE_READ Đọ&c tag\tCtrl+T
+_C_MNU_FILE_REMOVE &Xoá tag\tCtrl+R
+_C_MNU_FILE_REMOVEFILE &Bỏ khỏi danh sách\tDel
+_C_MNU_FILE_RENAME Đổi tên\tF2
+_C_MNU_FILE_SAVE &Lưu tag\tCtrl+S
+_C_MNU_FILE_SAVECONFIG Lưu cấ&u hình...
+_C_MNU_FREEDB f&reedb
+_C_MNU_FREEDB_INDEX Tạo danh mục
+_C_MNU_FS_EXT Các trường mở rộng
+_C_MNU_FS_FNCT Các chức năng
+_C_MNU_FS_INFO Các trường thông tin
+_C_MNU_FS_REM Xoá khỏi Lịch sử
+_C_MNU_FS_REMALL Remove all from history...
+_C_MNU_FS_REMALL_MSG Are you sure that you want to remove all items?
+_C_MNU_HELP &Giúp đỡ
+_C_MNU_HELP_ABOUT Giới thiệu Mp3tag...
+_C_MNU_HELP_DONATE Đóng góp tài chính
+_C_MNU_HELP_FINDER &Nội dung...\tF1
+_C_MNU_HELP_FIRSTSTEPS Các &bước đầu tiên
+_C_MNU_HELP_KEYBOARD Các &phím tắt
+_C_MNU_HELP_SUPPORT Hỗ trợ trực tuyến...
+_C_MNU_HELP_UPGRADE Kiểm tra phiên bản mới...
+_C_MNU_HELP_WWW Trang &web của Mp3tag...
+_C_MNU_TAGSOURCES Các &nguồn tag
+_C_MNU_TOOLS &Công cụ
+_C_MNU_VIEW &Xem
+_C_MNU_VIEW_COLUMNS &Tuỳ biến các cột...
+_C_MNU_VIEW_FILTER Bộ &lọc\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY Auto-apply filter
+_C_MNU_VIEW_ID3 Bảng tag\tCtrl+Q
+_C_MNU_VIEW_REFRESH Làm tươ&i\tF5
+_C_MNU_VIEW_SORTBY Sắp &xếp theo
+_C_MNU_VIEW_TAGS Các tag mở &rộng...\tALT+T
+_C_MNU_VIEW_TOOLBAR Thanh &công cụ
+_C_MNU_SB_ACTIONS Áp dụng các hành động do người dùng xác định (chuyển dạng chữ, thay thế,...) cho các tập tin được chọn.
+_C_MNU_SB_CON_FTF Đổi tên các tập tin mới dựa vào tên tập tin cũ.
+_C_MNU_SB_CON_FTT Lấy tag từ một khuôn mẫu tên tập tin được xác định sẵn.
+_C_MNU_SB_CON_TFF Lấy tag từ một mẫu được xác định sẵn trong một tập tin văn bản.
+_C_MNU_SB_CON_TTF Đổi tên các tập tin dựa trên các tag.
+_C_MNU_SB_CON_TTT Format tags based on tags.
+_C_MNU_SB_EDIT_COPY Sao chép phần văn bản đang được chọn hoặc tag của tập tin được chọn và chuyển vào Clipboard.
+_C_MNU_SB_EDIT_CUT Cắt phần văn bản đang được chọn hoặc tag của tập tin được chọn và chuyển vào Clipboard.
+_C_MNU_SB_EDIT_INVERTSELECTION Chọn các tập tin còn lại và bỏ chọn các tập tin đang chọn.
+_C_MNU_SB_EDIT_NEXT Đánh dấu tập tin tiếp theo trong vùng danh sách tập tin.
+_C_MNU_SB_EDIT_PASTE Dán nội dung của Clipboard tại dấu chèn hoặc trong tập tin được chọn.
+_C_MNU_SB_EDIT_SELECT Chọn các tập tin từ vùng danh sách tập tin.
+_C_MNU_SB_EDIT_UNDO Huỷ bỏ thao tác trước.
+_C_MNU_SB_EDIT_UNSELECTALL Bỏ chọn tất cả tập tin.
+_C_MNU_SB_EXTRA_OPTIONS Hiển thị hộp thoại Tuỳ chọn.
+_C_MNU_SB_EXTRA_RESET_EDITS Xoá dữ liệu khỏi các trường ở Bảng tag.
+_C_MNU_SB_EXTRA_SET_EDITS Chuyển tất cả các trường trong Bảng tag về giá trị mặc định.
+_C_MNU_SB_EXTRA_TRACKWIZARD Chạy thuật sĩ Đánh số tự động.
+_C_MNU_SB_FILE_ADD Thêm thư mục vào danh sách các tập tin.
+_C_MNU_SB_FILE_CDDB Lấy thông tin về đĩa trong ổ hoặc các tập tin được chọn thông qua kết nối Internet.
+_C_MNU_SB_FILE_CDDBLOCAL Lấy thông tin về đĩa trong ổ hoặc các tập tin được chọn thông qua cơ sở dữ liệu freedb địa phương.
+_C_MNU_SB_FILE_COPY Sao chép các tập tin được chọn vào thư mục trước.
+_C_MNU_SB_FILE_DELETE Xoá các tập tin được chọn.
+_C_MNU_SB_FILE_DIR Thay đổi thư mục làm việc hiện thời.
+_C_MNU_SB_FILE_EXIT Thoát khỏi ứng dụng.
+_C_MNU_SB_FILE_EXPORT Xuất ra tag và thông tin từ các tập tin được chọn.
+_C_MNU_SB_FILE_FAVDIR Đổi về thư mục mặc định.
+_C_MNU_SB_FILE_FREEDBINDEX Tạo cơ sở dữ liệu danh mục địa phương để tìm kiếm thông qua freedb địa phương.
+_C_MNU_SB_FILE_MOVE Di chuyển các tập tin được chọn đến thư mục khác.
+_C_MNU_SB_FILE_PLALL Tạo playlist từ tất cả tập tin.
+_C_MNU_SB_FILE_PLAY Phát các tập tin được chọn.
+_C_MNU_SB_FILE_PLAYLIST Mở nội dung của một playlist.
+_C_MNU_SB_FILE_PLSEL Tạo playlist từ các tập tin được chọn.
+_C_MNU_SB_FILE_PROPERTIES Hiện thuộc tính của tập tin được chọn.
+_C_MNU_SB_FILE_READ Đọc tag từ tập tin được chọn để điền vào các trường nhập liệu ở Bảng tag.
+_C_MNU_SB_FILE_REMOVE Xoá tag khỏi tập tin được chọn.
+_C_MNU_SB_FILE_REMOVEFILE Xoá các tập tin được chọn.
+_C_MNU_SB_FILE_RENAME Đổi tên tập tin được chọn.
+_C_MNU_SB_FILE_SAVE Lưu tag vào các tập tin được chọn.
+_C_MNU_SB_FILE_SAVECONFIG Lưu các thiết lập hiện tại vào tập tin cấu hình.
+_C_MNU_SB_HELP_ABOUT Thông tin về Mp3tag.
+_C_MNU_SB_HELP_CONTEXT Hiện phần giúp đỡ ngữ cảnh dành cho các trường được nhắp chuột, các menu và các cửa sổ.
+_C_MNU_SB_HELP_DONATE Please consider donating to support Mp3tag's development.
+_C_MNU_SB_HELP_FINDER Hiển thị nội dung giúp đỡ.
+_C_MNU_SB_HELP_FIRSTSTEPS Hiển thị một phần giới thiệu ngắn gọn về Mp3tag.
+_C_MNU_SB_HELP_KEYBOARD Hiển thị danh sách các phím tắt.
+_C_MNU_SB_HELP_SUPPORT Đến diễn đàn Mp3tag.
+_C_MNU_SB_HELP_UPGRADE Check for updates of Mp3tag
+_C_MNU_SB_HELP_WWW Đến trang web của Mp3tag.
+_C_MNU_SB_UPDIR Chuyển lên thư mục cấp cao hơn
+_C_MNU_SB_VIEW_COLUMNS Hiện hộp thoại để tuỳ biến các cột trong vùng danh sách tập tin.
+_C_MNU_SB_VIEW_FILTER Lọc vùng danh sách tập tin.
+_C_MNU_SB_VIEW_ID3 Hiện/giấu Bảng tag.
+_C_MNU_SB_VIEW_REFRESH Làm tươi vùng danh sách tập tin.
+_C_MNU_SB_VIEW_TAGS Hiển thị hộp thoại Tag mở rộng
+_C_MNU_SB_VIEW_TOOLBAR Hiện/giấu thanh công cụ.
+_C_MNU_SB_WND_IDLE Sẵn sàng
+_C_MNU_SB_WND_MAXIMIZE Mở rộng cửa sổ ra toàn màn hình
+_C_MNU_SB_WND_MINIMIZE Thu nhỏ cửa sổ vào Thanh tác vụ
+_C_MNU_SB_WND_MOVE Di chuyển vị trí cửa sổ
+_C_MNU_SB_WND_RESTORE Khôi phục lại kích thước cũ của cửa sổ từ kiểu Toàn màn hình hoặc Thu nhỏ
+_C_MNU_SB_WND_SIZE Thay đổi kích thước cửa sổ
+_C_MULTILINE Có nhiều dòng
+_C_OK Đồn&g ý
+_C_OPT_ACTIONGROUPS Các nhóm hành động
+_C_OPT_ACTIONS Các hành động
+_C_OPT_ACTIONS_TYPE Chọn kiểu hành động
+_C_OPT_ADVANCED Advanced
+_C_OPT_ADVANCED_ID3V2LANG ID3v2 comment language code (ISO-639-2)
+_C_OPT_ADVANCED_LISTCHAPTERS List chapters as separate files
+_C_OPT_CAPTION Tuỳ chọn
+_C_OPT_CDDB_CAPTION freedb
+_C_OPT_CDDB_CHK_USEPROXY Dùng pr&oxy
+_C_OPT_CDDB_FRM_CDDB Máy chủ freedb
+_C_OPT_CDDB_FRM_LOCALPATH &Đường dẫn đến freedb địa phương:
+_C_OPT_CDDB_FRM_PROXY Proxy
+_C_OPT_CDDB_RD_FMT_UNIX Định dạng UNIX
+_C_OPT_CDDB_RD_FMT_WIN Định dạng Windows
+_C_OPT_CDDB_ST_ADDRESS Đị&a chỉ:
+_C_OPT_CDDB_ST_EMAIL Địa chỉ t&hư điện tử:
+_C_OPT_CDDB_ST_NAME &Tên:
+_C_OPT_CDDB_ST_PATH Đường dẫn:
+_C_OPT_CDDB_ST_PORT Cổng:
+_C_OPT_CDDB_ST_PROXYNAME &Proxy:
+_C_OPT_CDDB_ST_PROXYPORT Cổn&g:
+_C_OPT_CDDB_ST_PWD Mật &khẩu:
+_C_OPT_CDDB_ST_TIMEOUT Thời &gian tạm ngưng:
+_C_OPT_CDDB_ST_USERNAME Tên người &dùng:
+_C_OPT_CDDB3_CAPTION Địa phương freedb
+_C_OPT_CON_FRM_FTT &Tên tập tin - Tag
+_C_OPT_CON_FRM_TFF Tập tin &văn bản - Tag
+_C_OPT_CON_FRM_TTF Ta&g - Tên tập tin
+_C_OPT_CON_ST_FNAME Tên tập tin:
+_C_OPT_CON_ST_FS Chuỗi định dạng:
+_C_OPT_DIR Directories
+_C_OPT_DIR_COVER Cover art directory
+_C_OPT_EMPTY_HINT Hãy chọn một chủ đề dưới
+_C_OPT_EXP_CAPTION Xuất ra
+_C_OPT_EXP_CHK_APPEND Gắn thêm dữ liệu vào tập tin có sẵn
+_C_OPT_EXP_CHK_WRITEBOM Ghi BOM (Byte Order Marker)
+_C_OPT_EXP_FRM_EXPORT Xuất cấu hình ra dưới dạng
+_C_OPT_EXP_RD_TRACK Rãnh
+_C_OPT_EXP_ST_FNAME Tên tập tin được xuất ra:
+_C_OPT_EXP_ST_NAME Tên của cấu hình mới được xuất
+_C_OPT_FMT_CASE Chuyển đổi dạng chữ (HOA-thường)
+_C_OPT_FMT_FRM_FTF Tên tập tin - Tên tập tin
+_C_OPT_FMT_ST_BEGIN Các từ bắt đầu từ/sau bất kì:
+_C_OPT_FMT_ST_FNAME_NEW Mẫu tên tập tin mới:
+_C_OPT_FMT_ST_FNAME_OLD Mẫu tên tập tin cũ:
+_C_OPT_FMT2 Thay thế
+_C_OPT_FMT2_CASE So sánh nhạy với dạng chữ (HOA-thường)
+_C_OPT_FMT2_COL_ORIGINAL Dữ liệu gốc
+_C_OPT_FMT2_COL_REPLACE Thay thế bằng
+_C_OPT_FMT2_ONLYWORDS chỉ cho cả từ
+_C_OPT_GEN_CAPTION Phần chung
+_C_OPT_GEN_CHK_AUTOSAVE Lưu tag khi dùng các p&hím mũi tên/nhắp chuột một cái
+_C_OPT_GEN_CHK_FOLDERSTART bắt đầu từ thư mục này
+_C_OPT_GEN_CHK_GRID Hiển thị đường lưới trong Vùng Danh sách tập tin (VDSTT)
+_C_OPT_GEN_CHK_JUMPONEDIT Tự động chọn tập tin kế tiếp khi chỉnh sửa trong VDSTT
+_C_OPT_GEN_CHK_KEEPFILETIME Bảo tồn thời điểm thay đổi tập tin khi lưu tag
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Keep moved files in file list
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS lúc có các cảnh báo từ Các hành động
+_C_OPT_GEN_CHK_MSG_CHANGE sau khi thay đổi
+_C_OPT_GEN_CHK_MSG_CUT lúc cắt các tag
+_C_OPT_GEN_CHK_MSG_DEL sau khi xoá
+_C_OPT_GEN_CHK_MSG_DELETEFILE lúc xoá các tập tin
+_C_OPT_GEN_CHK_MSG_EXPORT lúc xuất các tag ra
+_C_OPT_GEN_CHK_MSG_PASTE lúc dán các tag
+_C_OPT_GEN_CHK_MSG_REMOVETAGS lúc xoá các tag
+_C_OPT_GEN_CHK_MSG_SAVE sau khi lưu
+_C_OPT_GEN_CHK_PL Tự động tạo &playlist
+_C_OPT_GEN_CHK_RELPL Đừng hiện đầy đủ đường dẫn tập tin trong playlist
+_C_OPT_GEN_CHK_AUTOCOMPLETE Tự-hoàn-tất tại các hộp được chọn
+_C_OPT_GEN_CHK_SELECTFILES Select files automatically
+_C_OPT_GEN_CHK_SORTNATURAL Dùng cách sắp xếp thông thường
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH &Hiện thư mục hiện hành trong tiêu đề cửa sổ
+_C_OPT_GEN_FRM_GEN Phần chung
+_C_OPT_GEN_FRM_MSG Hiện thông điệp
+_C_OPT_GEN_FRM_PL Tên tập tin p&laylist
+_C_OPT_GEN_RD_PLALL từ tất cả tập tin
+_C_OPT_GEN_RD_PLSEL từ tất cả tập tin được chọn
+_C_OPT_GEN_ST_FAVDIR Thư mục ưa thích:
+_C_OPT_GEN2_CAPTION Các thông điệp
+_C_OPT_GENRES Các thể loại nhạc do người dùng xác định
+_C_OPT_GENRES_HIDESTANDARD Chỉ hiển thị các thể loại nhạc do người dùng xác định
+_C_OPT_ID3_CHK_ISO88591 Luôn viết tag dạng ISO-8859-1 thay vì UTF-16
+_C_OPT_ID3_CHK_LEADINGZEROS Thêm "0" vào trước các số thứ tự track (01, 02,...)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND Chỉ dùng ID3v2 nếu ID3v1 quá nhỏ
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ Đọc
+_C_OPT_ID3_FRM_REMOVE Xoá
+_C_OPT_ID3_FRM_WRITE Ghi
+_C_OPT_LIB Library
+_C_OPT_LIB_CHK_ENABLE Enable Library
+_C_OPT_LIB_CHK_RESTRICT Only include these directories
+_C_OPT_LIB_CLEANUP Cleanup Library
+_C_OPT_MAPPING Chuyển đổi t.đương
+_C_OPT_MAPPING_FRM Bảng chuyển đổi tương đương do người dùng thiết lập 
+_C_OPT_MAPPING_SOURCE Nguồn
+_C_OPT_MAPPING_TARGET Đích
+_C_OPT_PLAYLIST_CAPTION Playlist
+_C_OPT_PLAYLIST_EXTENDED Ghi các thông tin mở rộng
+_C_OPT_PLAYLIST_NOFOLDERS Đừng tự tạo ra thư mục
+_C_OPT_PLAYLIST_SHOWDLG Hiện hộp thoại xác nhận tên tập tin
+_C_OPT_TAG Các tag
+_C_OPT_TAGS_COVER Tên tập tin mặc định cho hình bìa nhạc:
+_C_OPT_TAGS_EXT Chế độ tự động lưu tại hộp thoại Tag mở rộng:
+_C_OPT_TAGS_FILEFILTER Chỉ mở các kiểu tập tin:
+_C_OPT_TAGS_NOIMG Đừng &hiển thị hình ảnh đầu tiên trong thư mục làm hình bìa nhạc
+_C_OPT_TOOLS Các công cụ
+_C_OPT_TOOLS_CHK_DEFAULT Dùng chương trình đặc biệt bằng việc nhắp đúp chuột:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES cho tất cả các tập tin được chọn
+_C_OPT_TOOLS_COL_PARAM Thông số
+_C_OPT_TOOLS_COL_PATH Đường dẫn
+_C_OPT_TOOLS_EDIT Công cụ tuỳ biến. Ghi chú: Tên và Đường dẫn là bắt buộc.
+_C_OPT_TOOLS_FRM_DEFAULT Công cụ mặc định
+_C_OPT_TOOLS_FRM_TOOLS Các công cụ
+_C_OVERWRITE G&hi đè
+_C_RENAME Đổ&i tên
+_C_TT_CDDB freedb...
+_C_TT_CDDBLOCAL freedb (địa phương)...
+_C_TT_CLOSE Đóng
+_C_TT_DIR Đổi thư mục...
+_C_TT_EDIT_UNDO Huỷ thao tác trước
+_C_TT_EXPORT Xuất ra
+_C_TT_FAVDIR Thư mục ưa thích
+_C_TT_FILE_ADD Thêm thư mục...
+_C_TT_FILE_COPY Sao chép vào...
+_C_TT_FILE_DELETE Xoá...
+_C_TT_FILE_MOVE Di chuyển tới...
+_C_TT_FILE_PLAY Phát
+_C_TT_FILE_PROPERTIES Các thuộc tính...
+_C_TT_FILE_RENAME Đổi tên
+_C_TT_FTF Tên tập tin - Tên tập tin
+_C_TT_FTT Tên tập tin - Tag
+_C_TT_HELP Nội dung giúp đỡ...
+_C_TT_OPT Hộp thoại Tuỳ chọn...
+_C_TT_PLALL Tạo playlist từ tất cả tập tin
+_C_TT_PLSEL Tạo playlist từ tất cả tập tin được chọn
+_C_TT_REFRESH Làm tươi Vùng Danh sách tập tin
+_C_TT_REMOVE Xoá tag
+_C_TT_SAVE Lưu
+_C_TT_TFF Tập tin văn bản - Tag
+_C_TT_TTF Tag - Tên tập tin
+_C_TT_TTT Tag - Tag
+_C_TT_UPDIR Lên
+_C_WIZARD_TRACKS Thuật sĩ Đánh số tự động
+_C_WIZARD_TRACKS_BEGIN Bắt đầu tại rãnh thứ:
+_C_WIZARD_TRACKS_DESC Assign track- and discnumbers
+_C_WIZARD_TRACKS_DISC_BEGIN Begin at discnumber
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Leading zeros for discnumbers (01, 02, ...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Save total count of discs
+_C_WIZARD_TRACKS_DISCNUMBER Discnumber
+_C_WIZARD_TRACKS_RESETFOLDERS Khởi động lại bộ đếm cho mỗi thư mục
+_C_WIZARD_TRACKS_SAVETOTAL Lưu lại tổng số rãnh
+_C_WIZARD_TRACKS_TRACKNUMBER Tracknumber
+_M_ERR_CANCEL Tiến trình bị huỷ bỏ.
+_M_ERR_CDDB_CD Có lỗi đọc CD âm thanh.
+_M_ERR_CDDB_CONNECT Có lỗi kết nối tới server: {1}
+_M_ERR_CDDB_NOENTRY Không tìm thấy thứ phù hợp với ID freedb {1}.
+_M_ERR_CDDB_NOENTRYINLOCALBD Không tìm thấy thứ phù hợp với ID freedb {1} trong cơ sở dữ liệu freedb địa phương '{2}'.
+_M_ERR_CDDB_PARSER Bản truy vấn trả về 0 kết quả.
+_M_ERR_CDDB_READ Có lỗi đọc dữ liệu từ {1}
+_M_ERR_CONFIGURATION Không thể nhập vào cấu hình.
+_M_ERR_COPY Không thể sao chép các tập tin được chọn!
+_M_ERR_DELETE Không thể xoá các tập tin được chọn!
+_M_ERR_FILECREATE Không tạo được tập tin \"{1}\".
+_M_ERR_FILEDELETE Không xoá được tập tin \"{1}\".
+_M_ERR_FILENAMEALREADYEXISTS Tập tin \"{1}\" đã tồn tại rồi.
+_M_ERR_FILENAMEALREADYEXISTS2 Không đổi được tên tập tin \"{1}\".
+_M_ERR_FILEOPABORTED Nội dung của thư mục hiện thời có lẽ đã bị thay đổi.\n\nBạn muốn đọc lại thư mục hiện thời không?
+_M_ERR_FILEOPEN Không mở được tập tin \"{1}\".
+_M_ERR_FILEREADONLY Tập tin \"{1}\" chỉ-được-đọc.\n\nMp3tag có nên tắt chức năng chống ghi của nó và các tập tin sau không?
+_M_ERR_FOLDERCANNOTBEACCESSED Lỗi truy cập\n\nKhông vào được thư mục \"{1}\".
+_M_ERR_INVALID_FILENAME Xin hãy định rõ một cái tên hợp lệ.
+_M_ERR_INVALID_FTF_FS Chuỗi \"{1}\" không hợp lệ để làm tên tập tin.
+_M_ERR_INVALID_TOKEN {1}:\nCác kí tự sau đây không được cho phép dùng trong tên tập tin:\n\\ / : * ? \" < > |\n\nBạn có muốn tự động sửa lại không?
+_M_ERR_MOVE Không thể di chuyển các tập tin được chọn!
+_M_ERR_ONLINE_NOTFOUND Xin lỗi, không có thứ gì khớp với tiêu chuẩn tìm kiếm của bạn.
+_M_ERR_OPT_CDDB_NOADDRESS Hãy nhập địa chỉ một máy chủ freedb.
+_M_ERR_OPT_CDDB_NOEMAIL Hãy nhập địa chỉ email dưới 'Tuỳ chọn, freedb, Máy chủ. Nó sẽ được dùng để đăng nhập vào máy chủ của freedb.
+_M_ERR_OPT_CDDB_NONAME Hãy nhập tên hợp lệ cho cấu hình.
+_M_ERR_OPT_CDDB_NOPORT Hãy nhập số cổng của máy chủ freedb.
+_M_ERR_PARSELINE Không thể phân tách dòng {1}.
+_M_ERR_PLAY Không thể phát tập tin \"{1}\"!
+_M_ERR_READ_FILE Không thể mở tập tin \"{1}\" để đọc.
+_M_ERR_RENAME_FILE Không đổi được tên tập tin \"{1}\" thành \"{2}\".
+_M_ERR_RETRY Do you want to retry?
+_M_ERR_TL_NOTAGS Có quá ít tag được định rõ trong tập tin văn bản \"{1}\".\n\n
+_M_ERR_WRITE_FILE Không mở được tập tin \"{1}\" để ghi.
+_M_ERR_YN \n\nBạn muốn tiếp tục không?
+_M_LOG_FMT_FNAME Đã đổi tên của {1} trong {2} tập tin.\n
+_M_LOG_FMT_TAG Đã định dạng tag của {1} trong {2} tập tin.\n
+_M_LOG_FTF Đã đổi tên {1} trong {2} tập tin.
+_M_LOG_FTT Đã lấy tag từ {1} trong {2} tập tin.
+_M_LOG_PL_ALL Đã tạo playlist \"{1}\" từ tất cả ({2}) tập tin.
+_M_LOG_PL_SEL Đã tạp playlist \"{1}\" từ ({2}) tập tin được chọn.
+_M_LOG_REMOVE Đã xoá tag khỏi tập tin \"{1}\".
+_M_LOG_REMOVED Đã xoá tag của {1} trong {2} tập tin.
+_M_LOG_REMOVE_NOTAG Không có tag trong tập tin \"{1}\".
+_M_LOG_SAVE Đã lưu tag vào tập tin \"{1}\".
+_M_LOG_SAVED Đã lưu tag vào {1} trong {2} tập tin.
+_M_LOG_TFF Đã trích xuất tag từ tập tin văn bản \"{1}\" và lưu vào {2} trong {3} tập tin.
+_M_LOG_TFF_S Đã nhập tag từ \"{1}\" vào 1 tập tin.
+_M_LOG_TTF Đã đổi tên của {1} trong {2} tập tin.
+_M_STAT_PLAY Đang phát tập tin \"{1}\"...
+_M_STR_ACTION_ADJUSTCOVER Adjust cover
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Format
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
+_M_STR_ACTION_CODEPAGE Chuyển đổi bảng mã
+_M_STR_ACTION_CODEPAGE_DESC Bảng mã
+_M_STR_ACTION_EXPORTCOVER Xuất hình bìa ra tập tin
+_M_STR_ACTION_EXPORTCOVER_DUPES Xuất ra các hình bìa bị trùng
+_M_STR_ACTION_EXPORTCOVER_TYPES Export only covers of type
+_M_STR_ACTION_FORMAT Định dạng giá trị
+_M_STR_ACTION_GUESS Phỏng đoán giá trị
+_M_STR_ACTION_GUESSPATTERN Mẫu phỏng đoán
+_M_STR_ACTION_GUESSSOURCE Nguồn định dạng
+_M_STR_ACTION_IMPORTCOVER Nhập hình bìa từ tập tin
+_M_STR_ACTION_IMPORTCOVER_FS Đường dẫn đến tập tin hình ảnh:
+_M_STR_ACTION_IMPORTCOVER_DELETE &Xoá hình bìa hiện thời
+_M_STR_ACTION_IMPORTCOVER_TYPE Import cover as:
+_M_STR_ACTION_IMPORTTEXT Nhập tập tin văn bản
+_M_STR_ACTION_MERGEDUPLICATEFIELDS Trộn các trường dữ liệu bị trùng
+_M_STR_ACTION_REGEXP Thay thế bằng regular expression
+_M_STR_ACTION_REGEXP_EXP Regular expression
+_M_STR_ACTION_REGEXP_MATCH Thay thế những dữ liệu thích hợp bằng
+_M_STR_ACTION_REMOVEDUPES Xoá các trường bị trùng
+_M_STR_ACTION_REM Xoá các trường dữ liệu
+_M_STR_ACTION_REM_DESC Các trường cần xoá (ngăn cách bằng ";"):
+_M_STR_ACTION_REM_EX Xoá các trường khác, trừ các trường...
+_M_STR_ACTION_REM_EX_DESC Các trường được giữ lại (ngăn cách bằng ";"):
+_M_STR_ACTION_SPLITFIELDS Chia nhỏ các trường bởi dấu ngăn cách
+_M_STR_ACTIONGROUP_NAME Tên của nhóm hành động
+_M_STR_ALBUM An-bum
+_M_STR_ALBUMARTIST Nghệ sĩ của an-bum
+_M_STR_ALL_FILEDLGFILTER Tất cả tập tin (*.*)|*.*||
+_M_STR_ARTIST Nghệ sĩ
+_M_STR_AUTHOR Tác giả
+_M_STR_BACK < &Quay lại
+_M_STR_BROWSE_COPY Sao chép vào:
+_M_STR_BROWSE_MOVE Di chuyển tới:
+_M_STR_BROWSE_TEXT Hãy chọn một thư mục chứa tập tin âm thanh.
+_M_STR_BYTES Bytes
+_M_STR_CDDB_CD Đọc CD âm thanh
+_M_STR_CDDB_CONNECT kết nối tới {1}...
+_M_STR_CDDB_CONNECTED  đã kết nối!
+_M_STR_CDDB_IDXDB_ENTRIES các mục nhập cơ sở dữ liệu đã được tạo
+_M_STR_CDDB_RETRIEVE Lấy về thông tin tựa đề
+_M_STR_COLUMNFILENAME Tên tập tin
+_M_STR_COLUMNPATH Đường dẫn
+_M_STR_COLUMNUSEDCOLS đã hiển thị
+_M_STR_COMBO_HOLD < giữ >
+_M_STR_COMBO_REMOVE < trống >
+_M_STR_COMBO_USER < nhập vào >
+_M_STR_COMMENT Chú thích
+_M_STR_COMPOSER Nhạc sĩ
+_M_STR_COPYOF Bản sao của {1}
+_M_STR_COVER Hình bìa
+_M_STR_COVER_ADD Bạn muốn giữ lại các hình bìa đang tồn tại không?
+_M_STR_COVER_CORRECTAR Theo hệ số co đúng
+_M_STR_COVER_SETDESC Mô tả hình bìa...
+_M_STR_COVER_SETTYPE Định kiểu hình bìa
+_M_STR_COVERVARIES Nhiều loại hình bìa
+_M_STR_CUSTOMIZE Customize...
+_M_STR_DAY ngày
+_M_STR_DAYS ngày
+_M_STR_DEFAULTVALUE Default value
+_M_STR_DISCID CDDB ID
+_M_STR_DISCOGS_OAUTH_PIN Enter Discogs authorization code
+_M_STR_DISCNUMBER Đĩa số
+_M_STR_ERR_CDDB_NOENTRYSELECTED Chọn một mục nhập.
+_M_STR_EXPORT_DELETE Xoá cấu hình xuất ra \"{1}\"?
+_M_STR_EXPORT_FILEDLGTITLE Chọn kiểu tập tin xuất ra
+_M_STR_EXPORT_MULTIPLE Một tập tin cho mỗi thư mục
+_M_STR_EXPORT_SHOWEXPORTFILE \n\nXem tập tin vừa xuất ra?
+_M_STR_EXP_MSG Đã tiến hành xuất {2} tập tin và ghi vào tập tin '{1}'.
+_M_STR_FIELD Trường &dữ liệu:
+_M_STR_FIELDSIZE Size of field
+_M_STR_FIELDROWS Rows
+_M_STR_FILE Tập tin
+_M_STR_FILEDELETE Bạn muốn xoá tất cả các tập tin không?
+_M_STR_FILEMODIFIED Thay đổi vào
+_M_STR_FILESIZE Kích cỡ
+_M_STR_FILTER Giá t&rị lọc:
+_M_STR_FMT_CAPITAL Hỗn hợp HOA-thường
+_M_STR_FMT_HIGH CHỮ HOA
+_M_STR_FMT_LOW chữ thường
+_M_STR_FMT_SENTENCE Viết Hoa Đầu Mỗi Tiếng
+_M_STR_FREEDBCREATEINDEX Tạo danh mục cơ sở dữ liệu freedb địa phương?\n\nViệc này sẽ tốn ít phút.
+_M_STR_FREEDB_SEARCH Tìm kiếm trên web freedb
+_M_STR_GENRE Thể loại nhạc
+_M_STR_GENRES Các thể loại nhạc
+_M_STR_HIDE G&iấu đi
+_M_STR_ITEMALREADYEXISTS Tên này đã tồn tại, ghi đè?
+_M_STR_LANGUAGE Ngôn ngữ
+_M_STR_M3U_FILEDLGFILTER Kiểu được hỗ trợ (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_METADATA &Siêu dữ liệu
+_M_STR_MOVEDOWN Đưa &xuống
+_M_STR_MOVEUP Đưa &lên
+_M_STR_MPEGBITRATE Tốc độ bit
+_M_STR_MPEGFREQUENCY Tần số
+_M_STR_MPEGLENGTH Thời lượng
+_M_STR_MPEGMODE Chế độ
+_M_STR_MPEGVERSION Codec
+_M_STR_MSGCUT Bạn muốn xoá tag của các tập tin được chọn và sao chép chúng vào Clipboard không?
+_M_STR_MSGPASTE Bạn muốn dán nội dung trong Clipboard vào làm tag mới cho các tập tin được chọn không?
+_M_STR_MSGREMOVE Bạn muốn xoá tag của các tập tin được chọn không?
+_M_STR_NAME Tê&n
+_M_STR_NETWORKING Mạng
+_M_STR_NEXT Tiế&p theo >
+_M_STR_NOACTION - Không có hành động -
+_M_STR_NOACTIONENABLED Xin hãy mở kích hoạt ít nhất một hành động bằng cách đánh dấu "v" khi dùng tính năng này.
+_M_STR_NUMERIC Canh &phải
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH Xin chọn một thư mục làm việc chứa cơ sở dữ liệu freedb địa phương.
+_M_STR_OPT_CDDB_PROCEED Việc này sẽ xoá tất cả Server\n\nBạn muốn tiếp tục không?\n
+_M_STR_OPTIMIZEMP4 Tối ưu hoá MP4
+_M_STR_OPTS_ALWAYS luôn luôn
+_M_STR_OPTS_ASK có hỏi trước
+_M_STR_OPTS_NEVER không bao giờ
+_M_STR_PLNAME Playlist - Tên tập tin
+_M_STR_PL_CONFIRM Tạo playlist với tên này
+_M_STR_PL_SAVEFILTER Playlist File (*.m3u)|*.m3u|Unicode Playlist File (*.m3u8)|*.m3u8||
+_M_STR_PREVIEW Xem trước
+_M_STR_PROPERTIES {1} Các thuộc tính
+_M_STR_QUICK Nhanh
+_M_STR_RECURSE Đọc dữ liệu trong các thư mục con
+_M_STR_REST Phần còn lại
+_M_STR_SAVE_NOT < không có kết hợp >
+_M_STR_SAVECONFIG Các thiết lập của bạn sẽ được lưu vào tập tin '{1}'.\n\nĐể tái thiết lập, hãy giải nén tập tin trên vào\n\"{2}\".
+_M_STR_SAVECONFIG_FILEDLGFILTER Tập tin chứa thiết lập (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE Lưu cấu hình vào...
+_M_STR_SAVEIMAGE Lưu hình ảnh vào tag
+_M_STR_SAVEIMAGEDIRECTORY Lưu hình ảnh vào đĩa
+_M_STR_SAVESELECTION Lưu sự lựa chọn...
+_M_STR_SB_ABORTED đã bỏ dở
+_M_STR_SB_ACTION Áp dụng các hành động vào tập tin ... {1} trong {2}
+_M_STR_SB_CLEANUPDATABASE Processing files ... {1} of {2} ({3} cleaned)
+_M_STR_SB_CLEANUPDATABASE_BINARIES Cleanup orphaned binaries
+_M_STR_SB_CLEANUPDATABASE_COVERS Cleanup orphaned covers
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Cleanup non-library files
+_M_STR_SB_EXPORTTAGS Đang xuất thông tin tag ... {1} trong {2} tập tin
+_M_STR_SB_LOADTAGS Đang đọc dữ liệu tag... {1} trong {2}
+_M_STR_SB_READDIRECTORY Đang đọc thư mục
+_M_STR_SB_REMOVETAGS Đang xoá dữ liệu tag ... {1} trong {2}
+_M_STR_SB_RENAMEFILES Đang đổi tên tập tin ... {1} trong {2}
+_M_STR_SB_WRITETAGS Đang ghi dữ liệu tag ... {1} trong {2}
+_M_STR_SHOWCHOOSEDLG Hiển thị hộp thoại được lựa chọn
+_M_STR_SEARCHBY Tìm kiếm với:
+_M_STR_SEARCHTEXT Văn bản:
+_M_STR_SEPARATOR Dấu ngăn cách
+_M_STR_SHOW &Hiển thị
+_M_STR_SIZE_LARGE Large
+_M_STR_SIZE_MEDIUM Medium
+_M_STR_SIZE_NORMAL Normal
+_M_STR_SIZE_SMALLER Smaller
+_M_STR_SIZE_SMALL Small
+_M_STR_SNA Vùng Thông báo
+_M_STR_SNA_SHOW Luôn hiện biểu tượng trong Vùng Thông báo
+_M_STR_SNA_SHOWMIN Thu nhỏ vào Vùng Thông báo
+_M_STR_STRIPCHAPTERSMP4 Strip MP4 chapters
+_M_STR_TAG_COPIED Đã sao chép các tag của {1} tập tin vào Clipboard.
+_M_STR_TAG2 Tag
+_M_STR_TAGFIELDS_REMOVE Remove field
+_M_STR_TAGFIELDS_REMOVEALL Remove all fields...
+_M_STR_TAGFIELDS_REMOVEALLMSG Are you sure that you want to remove all fields from the list?
+_M_STR_TAGFIELDS_RESET Reset fields...
+_M_STR_TAGFIELDS_RESETMSG Are you sure that you want to reset the fields list to its default?
+_M_STR_TAGPANEL Bảng tag
+_M_STR_TAGPANEL_COVER Hiển thị hình bìa nhạc
+_M_STR_TAGPANEL_DIRECTORY Hiển thị phần lựa chọn thư mục
+_M_STR_TAGLIST_FILEDLGFILTER Tập tin văn bản ({1})
+_M_STR_TAGLIST_FILEDLGTITLE Chọn tập tin văn bản
+_M_STR_TAGSOURCES Các nguồn tag
+_M_STR_THISALBUMON An-bum này trên {1}
+_M_STR_TITLE Tựa đề
+_M_STR_TRYAGAIN Bạn muốn thử lại không?
+_M_STR_TTF Tag - Tên tập tin
+_M_STR_UPDATE_FRM Các bản cập nhật
+_M_STR_UPDATE_OPT_CHECK Kiểm tra bản cập nhật khi khởi động
+_M_STR_UPDATE_OPT_CHECK_BETA Gồm cả bản Development Builds (Beta)
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Display release notes for new versions
+_M_STR_UPDATEAVAILABLE Mp3tag đã có phiên bản mới là {1}!\n\nBạn muốn tải xuống bản cập nhật này từ {2} không?
+_M_STR_UPDATENOTAVAILABLE Bạn đang dùng phiên bản mới nhất {1}.\n\nChưa có bản cập nhật mới.
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS T&iện ích
+_M_STR_VALUE &Giá trị
+_M_STR_VERSION Phiên bản
+_M_STR_YEAR Năm
+_M_TP_CDDB_LOCALPATH Chỉ định thư mục freedb địa phương
+_M_TP_CDDB_SITES Danh sách máy chủ freedb hiện thời qua Internet
+_M_TP_CVR_CLIPBOARD Dán hình bìa
+_M_TP_CVR_CLIPBOARD_COPY Sao chép hình bìa
+_M_TP_CVR_CLIPBOARD_CUT Cắt hình bìa
+_M_TP_CVR_DEL Xoá hình bìa
+_M_TP_CVR_NEW Thêm hình bìa...
+_M_TP_CVR_SAVE Trích xuất hình bìa...
+_M_TP_DUPLICATE Nhân bản
+_M_TP_EXP_DEL &Xoá
+_M_TP_EXP_EDIT Chỉnh sửa
+_M_TP_EXP_FILE Chọn tập tin xuất ra
+_M_TP_EXP_HLP Hiển thị giúp đỡ nhanh
+_M_TP_EXP_LOAD Tải ra cấu hình...
+_M_TP_EXP_NEW Tạo &mới
+_M_TP_EXP_SAVE Lưu cấu hình...
+_M_TP_GEN_DIR Chọn thư mục
+_M_TP_TAG_DEL Xoá trường dữ liệu
+_M_TP_TAG_EDIT Sửa trường dữ liệu...
+_M_TP_TAG_NEW Thêm trường dữ liệu...
+_M_TS_ADDINFO Thông tin &bổ sung
+_M_TS_MULTIPLEVALUES nhiều &giá trị
+_M_TS_RELEASE &Phát hành
+_M_TS_TRACKS Các &Rãnh
+_M_UNDO_CANNOTUNDO Không thể huỷ thao tác {1}
+_M_UNDO_CDDB freedb
+_M_UNDO_DIRECTORYCREATE Tạo thư mục
+_M_UNDO_DIRECTORYMOVE Di chuyển thư mục
+_M_UNDO_FORMAT Định dạng
+_M_UNDO_FTF Tên tập tin - Tên tập tin
+_M_UNDO_FTT Tên tập tin - Tag
+_M_UNDO_REMOVEFILE Xoá
+_M_UNDO_RENAME Đổi tên
+_M_UNDO_TAGCHANGE Thay đổi tag
+_M_UNDO_TAGREMOVE Xoá tag
+_M_UNDO_TAGSAVE Lưu tag
+_M_UNDO_TFF Tập tin văn bản - Tag
+_M_UNDO_TTF Tag - Tên tập tin

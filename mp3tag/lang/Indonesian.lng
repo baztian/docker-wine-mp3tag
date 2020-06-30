@@ -1,0 +1,622 @@
+﻿LANGAUTHOR Syahriel Ibnu Irfansyah, RielMajo@osu.ppy.sh
+LANGCONTACT ainaaikochumpa@gmail.com
+LANGVERSION 2.98
+LANGNAME Indonesian
+LANGNAMELOC Bahasa Indonesia
+SLangCancel Batal
+SLangOk &OK
+SLangErrCatch Galat penjalan\n\nBerkas:\t{1}\nBaris:\t{2}\n\nAplikasi mengalami galat pengecualian yang tidak diketahui sebabnya. Silahkan menutup dan mengirim berkas\n\n{3}\n\ndan deskripsi galat lengkap ke kontak kami.\n\nSurel: support@mp3tag.de
+SLangErrCheck Galat Penjalan\n\nBerkas:\t{1}\nBaris:\t{2}\nKalimat:\t{3}\nKode:\t0x{4}\n\nAplikasi mengalami galat pengecualian yang tidak diketahui sebab dan akibatnya. Dimohon untuk menutup dan mengirim berkas\n\n{5}\n\ndan deskripsi galat lengkap ke kontak kami.\n\nSurel: support@mp3tag.de
+SLangErrDriveCannotBeAccessed Kandar {1} tidak bisa diakses.
+SLangErrFileCannotBeAccessed Berkas {1} tidak bisa diakses.
+SLangErrFileCannotBeDeleted Berkas {1} tidak bisa dihapus.\n\n» Pastikan tidak ada proses lain yang menggunakan berkas ini.
+SLangErrFolderCannotBeAccessed Direktori {1} tidak bisa diakses.
+SLangErrFolderCannotBeDeleted Direktori {1} tidak bisa dihapus.\n\n» Pastikan tidak ada proses lain yang menggunakan direktori ini.
+SLangErrHelpBrowserIsNotAvailable Mp3tag tak bisa menampilkan halaman bantuan di peramban standar anda.
+SLangErrHelpSystemIsNotAvailable Sistem bantuan tidak ditemukan.\n\n» Silahkan install ulang {1}.
+SLangErrHelpTopicIsNotAvailable Topik bantuan tidak ditemukan.\n\n» Dimohon untuk memberi kontak ke staff kami.\n\nSurel: support@mp3tag.de
+SLangErrNotEnoughFreeDiskSpace Perangkat {1} sudah penuh.\n\n» Pastikan perangkat ini memiliki sisa penyimpanan bebas sebesar {2}.
+SLangErrRegistryCannotBeAccessed Galat pembacaan\n\nTidak bisa membuka Registry Windows.
+SLangMsgItemExistsAlready Entry dengan deskripsi ini sudah ada.\n\n» Silahkan gunakan deskripsi lain.
+SLangMsgFirstSteps Silahkan mengambil beberapa waktu dalam menjejakkan langkah pertama anda.
+SLangMsgShutdownInfo Tunggu sebentar sementara kami mematikan {1}.
+SLangWrnAppIsAlreadyRunning Instansi Aplikasi ini ada dan sedang berjalan.
+SLangWrnAppHasToBeRestarted Mp3tag harus dimulai ulang untuk menerapkan pengaturan.\n\nMulai ulang Mp3tag sekarang?
+SLangWrnNameContainsInvalidCharacters Deskripsi memiliki karakter yang tidak valid.\n\n» Silahkan menggunakan deskripsi lain.
+SLangWrnStartLogging Anda memulai {1} dengan komando tambahan FLOG1. Sedangkan komando ini dipakai untuk debugging.\n\nApakah anda mau memulai fitur pencatatan?
+_C_ABORT Batal
+_C_ABORTING Menggagalkan...
+_C_APP_ST_ALBUM Album
+_C_APP_ST_ARTIST Artis
+_C_APP_ST_COMMENT Komentar
+_C_APP_ST_FOLDER Direktori
+_C_APP_ST_GENRE Aliran
+_C_APP_ST_TITLE Judul
+_C_APP_ST_TRACK Trek
+_C_APP_ST_YEAR Tahun
+_C_CANCEL Batal (&C)
+_C_CANCELING Membatalkan...
+_C_CLOSE Tutup (&O)
+_C_DLG_CDDBCONFIRM_CAPTION Daftar hasil pencarian...
+_C_DLG_CDDBCONFIRM_CHK_DISCID Salin ID piringan ke kolom komentar
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 Salin ID piringan ke kolom DISCID
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER Kompilasi...
+_C_DLG_CDDBCONFIRM_CHK_SORT Sarankan Pengurutan
+_C_DLG_CDDBCONFIRM_ST_INFO Ditemukan hasil lebih dari satu.\nPilih salah satu:
+_C_DLG_CDDBCONFIRM_ST_INFO2 Ada {2} hasil pencarian dalam database {1}.\nPilih salah satu:
+_C_DLG_CDDBCONFIRM_STC_TOP Atur Informasi Tag
+_C_DLG_CDDBINPUT_CAPTION Masukkan freedb ID
+_C_DLG_CDDBINPUT_ST_CATEGORY Kategori:
+_C_DLG_CDDBINPUT_ST_ID freedb ID:
+_C_DLG_CDDBSTYLE_CAPTION freedb
+_C_DLG_CDDBSTYLE_RD_CDROM ambil dari CD &audio yang dimasukkan
+_C_DLG_CDDBSTYLE_RD_ENTER Masukkan
+_C_DLG_CDDBSTYLE_RD_MP3 ambil dari file yang dipilih
+_C_DLG_CDDBSTYLE_RD_SEARCH ambil dari pencarian web
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL ambil dari pencarian text
+_C_DLG_CDDBSTYLE_STC_TOP freedb ID...
+_C_DLG_COLUMNS_CAPTION Kolom
+_C_DLG_COLUMNS_TOP Atur kenampakan kolom
+_C_DLG_TAGS Ubah info Tag
+_C_DLG_TTF_TOP Pilih string format
+_C_HELP Bantuan (&H)
+_C_MNU_ACTIONS Aksi (&A)\tALT+6
+_C_MNU_CON Konversi (&C)
+_C_MNU_CON_FTF Namafile - Namafile (&I)\tALT+3
+_C_MNU_CON_FTT Namafile - Tag (&F)\tALT+2
+_C_MNU_CON_TFF File text - Tag (&X)\tALT+4
+_C_MNU_CON_TTF Tag - Namafile (&T)\tALT+1
+_C_MNU_CON_TTT Tag - Tag (&A)\tALT+5
+_C_MNU_EDIT Ubah (&E)
+_C_MNU_EDIT_COPY Salin (&C)\tCtrl+C
+_C_MNU_EDIT_CUT Potong (&X)\tCtrl+X
+_C_MNU_EDIT_INVERTSELECTION Balik pilihan (&I)\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT Pilih file selanjutnya (&N)\tCtrl+N
+_C_MNU_EDIT_PASTE Tempelkan (&P)\tCtrl+V
+_C_MNU_EDIT_SELECT Pilih semua (&F)\tCtrl+A
+_C_MNU_EDIT_UNDO Batalkan Aksi (&U)\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL Tidak pilih semua (&U)\tCtrl+U
+_C_MNU_EXTRA Peralatan (&O)
+_C_MNU_EXTRA_OPTIONS Opsi... (&O)\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS Kembalikan semua kolom isian (&I)\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS Defaultkan nilai dari kolom isian\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD Mulai Oto-nomerisasi...\tCtrl+K
+_C_MNU_FILE Berkas (&F)
+_C_MNU_FILE_ADD Tambah direktori...
+_C_MNU_FILE_CDDB freedb...\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL freedb (Lokal)...\tCtrl+L
+_C_MNU_FILE_COPY Salin...
+_C_MNU_FILE_DELETE Hapus...
+_C_MNU_FILE_DIR Ganti direktori... (&D)\tCtrl+D
+_C_MNU_FILE_EXIT Keluar (&X)\tAlt+F4
+_C_MNU_FILE_EXPORT Ekspor... (&E)\tCtrl+E
+_C_MNU_FILE_FAVDIR Direktori kesukaan(&F)\tCtrl+F
+_C_MNU_FILE_MOVE Pindah...
+_C_MNU_FILE_PLALL Daftar main (semua berkas)\tCtrl+P
+_C_MNU_FILE_PLAY Mainkan
+_C_MNU_FILE_PLAYLIST Muat daftar main/Cuesheet...
+_C_MNU_FILE_PLSEL Daftar main (yang dipilih)
+_C_MNU_FILE_PROPERTIES Rincian...
+_C_MNU_FILE_READ Baca tag (&T)\tCtrl+T
+_C_MNU_FILE_REMOVE Hilangkan tag (&R)\tCtrl+R
+_C_MNU_FILE_REMOVEFILE Hilangkan (&M)\tDel
+_C_MNU_FILE_RENAME Ganti nama\tF2
+_C_MNU_FILE_SAVE Simpan tag (&S)\tCtrl+S
+_C_MNU_FILE_SAVECONFIG Simpan pengaturan... (&C)
+_C_MNU_FREEDB f&reedb
+_C_MNU_FREEDB_INDEX Buat index lokal
+_C_MNU_FS_EXT Kolom tambahan
+_C_MNU_FS_FNCT Fungsi
+_C_MNU_FS_INFO Kolom informasi
+_C_MNU_FS_REM Hilangkan dari sejarah
+_C_MNU_FS_REMALL Hilangkan semua dari sejarah...
+_C_MNU_FS_REMALL_MSG Apakah anda yakin menghilangkan semua item dari sejarah?
+_C_MNU_HELP Bantuan (&H)
+_C_MNU_HELP_ABOUT Tentang Mp3tag...
+_C_MNU_HELP_DONATE Donasi
+_C_MNU_HELP_FINDER Isi... (&C)\tF1
+_C_MNU_HELP_FIRSTSTEPS Langkah Pertama (&F)
+_C_MNU_HELP_KEYBOARD Pintasan Papan tombol (&K)
+_C_MNU_HELP_SUPPORT Dukungan Daring...
+_C_MNU_HELP_UPGRADE Cek versi baru...
+_C_MNU_HELP_WWW &Website Mp3tag...
+_C_MNU_TAGSOURCES Asal Tag (&S)
+_C_MNU_TOOLS Peralatan (&T)
+_C_MNU_VIEW Kenampakan (&V)
+_C_MNU_VIEW_COLUMNS Sesuaikan Kolom... (&C)
+_C_MNU_VIEW_FILTER Saringan (&F)\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY Otomatis terapkan saringan
+_C_MNU_VIEW_ID3 Panel tag\tCtrl+Q
+_C_MNU_VIEW_REFRESH Segarkan (&E)\tF5
+_C_MNU_VIEW_SORTBY Urut berda&sarkan
+_C_MNU_VIEW_TAGS Tag Tambahan... (&X)\tALT+T
+_C_MNU_VIEW_TOOLBAR Bar A&lat
+_C_MNU_SB_ACTIONS Lakukan aksi pengguna (perubahan kas huruf, penggantian kata, ...) ke file terpilih.
+_C_MNU_SB_CON_FTF Ganti nama berdasarkan pola yang dibasiskan pada nama lama.
+_C_MNU_SB_CON_FTT Impor tag dari nama berkas.
+_C_MNU_SB_CON_TFF Impor tag dari file teks.
+_C_MNU_SB_CON_TTF Ganti nama berdasarkan pola dan tag.
+_C_MNU_SB_CON_TTT Format tag berbasis pada tag.
+_C_MNU_SB_EDIT_COPY Salin teks terpilih atau tag pada berkas ke papan klip.
+_C_MNU_SB_EDIT_CUT Potong teks terpilih atau tag pada berkas dan memindahkannya ke papan klip.
+_C_MNU_SB_EDIT_INVERTSELECTION Balik pilihan sekarang.
+_C_MNU_SB_EDIT_NEXT Tandai file selanjutnya di tampilan berkas.
+_C_MNU_SB_EDIT_PASTE Tempelkan isi papan klip ke tanda masukan di berkas.
+_C_MNU_SB_EDIT_SELECT Pilih berkas dari tampilan berkas.
+_C_MNU_SB_EDIT_UNDO Batalkan aksi yang dilakukan sebelumnya.
+_C_MNU_SB_EDIT_UNSELECTALL Hapus semua pilihan.
+_C_MNU_SB_EXTRA_OPTIONS Tampilkan dialog opsi.
+_C_MNU_SB_EXTRA_RESET_EDITS Hilangkan teks dari semua isian yang ada pada panel tag.
+_C_MNU_SB_EXTRA_SET_EDITS Isi semua isian dengan nilai standar yang telah ditentukan.
+_C_MNU_SB_EXTRA_TRACKWIZARD Jalankan operasi Penomoran otomatis.
+_C_MNU_SB_FILE_ADD Tambahkan direktori ke daftar file.
+_C_MNU_SB_FILE_CDDB Ambil informasi dari CD Audio yang dimasukkan atau file yang terpilih dari internet.
+_C_MNU_SB_FILE_CDDBLOCAL Ambil informasi dari CD Audio yang dimasukkan atau file yang terpilih dari database freedb lokal.
+_C_MNU_SB_FILE_COPY Salin berkas ke direktori lain.
+_C_MNU_SB_FILE_DELETE Hapus berkas terpilih.
+_C_MNU_SB_FILE_DIR Ganti direktori kerja sekarang.
+_C_MNU_SB_FILE_EXIT Tutup Aplikasi.
+_C_MNU_SB_FILE_EXPORT Ekspor tag dan informasi berkas dari berkas.
+_C_MNU_SB_FILE_FAVDIR Ganti direktori default.
+_C_MNU_SB_FILE_FREEDBINDEX Buat index database freedb lokal dari freedb lokal.
+_C_MNU_SB_FILE_MOVE Pindah berkas terpilih ke direktori lain.
+_C_MNU_SB_FILE_PLALL Buat daftar main dari semua berkas.
+_C_MNU_SB_FILE_PLAY Mainkan berkas terpilih.
+_C_MNU_SB_FILE_PLAYLIST Muat isi daftar main.
+_C_MNU_SB_FILE_PLSEL Buat daftar main dari berkas terpilih.
+_C_MNU_SB_FILE_PROPERTIES Tampilkan rincian dari berkas terpilih.
+_C_MNU_SB_FILE_READ Baca tag dari berkas terpilih ke tag panel.
+_C_MNU_SB_FILE_REMOVE Hilangkan tag dari berkas terpilih.
+_C_MNU_SB_FILE_REMOVEFILE Hilangkan berkas terpilih.
+_C_MNU_SB_FILE_RENAME Ganti nama berkas terpilih.
+_C_MNU_SB_FILE_SAVE Simpan tag pada berkas terpilih.
+_C_MNU_SB_FILE_SAVECONFIG Simpan pengaturan saat ini ke berkas konfigurasi.
+_C_MNU_SB_HELP_ABOUT Info tentang Mp3tag.
+_C_MNU_SB_HELP_CONTEXT Tampilkan bantuan konteks dari isian, menu, dan jendela terpilih.
+_C_MNU_SB_HELP_DONATE Silahkan memberi donasi untuk pengembangan Mp3tag agar lebih baik dimasa mendatang.
+_C_MNU_SB_HELP_FINDER Tampilkan isi bantuan.
+_C_MNU_SB_HELP_FIRSTSTEPS Tampilkan ringkasan penggunaan Mp3tag.
+_C_MNU_SB_HELP_KEYBOARD Tampilkan daftar pintasan papan tombol.
+_C_MNU_SB_HELP_SUPPORT Datangi forum Mp3Tag.
+_C_MNU_SB_HELP_UPGRADE Cek pembaruan versi Mp3tag.
+_C_MNU_SB_HELP_WWW Pergi ke situs web Mp3tag.
+_C_MNU_SB_UPDIR Pindah ke direktori sebelumnya
+_C_MNU_SB_VIEW_COLUMNS Tampilkan dialog dimana kolom tampilan file bisa diatur.
+_C_MNU_SB_VIEW_FILTER Saring tampilan berkas.
+_C_MNU_SB_VIEW_ID3 Tampil/Sembunyikan panel tag.
+_C_MNU_SB_VIEW_REFRESH Segarkan tampilan file jika ada perubahan diluar aplikasi.
+_C_MNU_SB_VIEW_TAGS Tampilkan dialog tag yang lebih banyak.
+_C_MNU_SB_VIEW_TOOLBAR Tampil/Sembunyikan bar alat.
+_C_MNU_SB_WND_IDLE Siap!
+_C_MNU_SB_WND_MAXIMIZE Perbesar jendela hingga layar penuh
+_C_MNU_SB_WND_MINIMIZE Perkecil ke bar tugas
+_C_MNU_SB_WND_MOVE Pindah lokasi jendela
+_C_MNU_SB_WND_RESTORE Kembalikan ukuran jendela apabila diperbesar atau diperkecil
+_C_MNU_SB_WND_SIZE Ubah ukuran jendela
+_C_MULTILINE Multigaris
+_C_OK &OK
+_C_OPT_ACTIONGROUPS Grup aksi
+_C_OPT_ACTIONS Aksi
+_C_OPT_ACTIONS_TYPE Pilih jenisa aksi
+_C_OPT_ADVANCED Lebih lanjut..
+_C_OPT_ADVANCED_ID3V2LANG kode bahasa komentar ID3v2 (ISO-639-2)
+_C_OPT_ADVANCED_LISTCHAPTERS Daftar bab sebagai berkas terpisah
+_C_OPT_CAPTION Opsi
+_C_OPT_CDDB_CAPTION freedb
+_C_OPT_CDDB_CHK_USEPROXY Pakai Proxy (&O)
+_C_OPT_CDDB_FRM_CDDB Server freedb
+_C_OPT_CDDB_FRM_LOCALPATH Jalan freedb &lokal:
+_C_OPT_CDDB_FRM_PROXY Proxy
+_C_OPT_CDDB_RD_FMT_UNIX Format UNIX
+_C_OPT_CDDB_RD_FMT_WIN Format Windows
+_C_OPT_CDDB_ST_ADDRESS &Alamat:
+_C_OPT_CDDB_ST_EMAIL Alamat sur&el:
+_C_OPT_CDDB_ST_NAME &Nama:
+_C_OPT_CDDB_ST_PATH Jalan:
+_C_OPT_CDDB_ST_PORT Port:
+_C_OPT_CDDB_ST_PROXYNAME &Proxy:
+_C_OPT_CDDB_ST_PROXYPORT Po&rt:
+_C_OPT_CDDB_ST_PWD Kata sandi (&W):
+_C_OPT_CDDB_ST_TIMEOUT Rentang waktu (&I):
+_C_OPT_CDDB_ST_USERNAME Nama pengg&una:
+_C_OPT_CDDB3_CAPTION Lokal freedb
+_C_OPT_CON_FRM_FTT Nama berkas - Tag (&F)
+_C_OPT_CON_FRM_TFF Berkas teks - Tag (&X)
+_C_OPT_CON_FRM_TTF Tag - Nama berkas (&T)
+_C_OPT_CON_ST_FNAME Nama berkas:
+_C_OPT_CON_ST_FS String format:
+_C_OPT_DIR Direktorat
+_C_OPT_DIR_COVER Direktori seni album
+_C_OPT_EMPTY_HINT Pilih topik dibawah
+_C_OPT_EXP_CAPTION Ekspor
+_C_OPT_EXP_CHK_APPEND Gabungkan data
+_C_OPT_EXP_CHK_WRITEBOM Tulis dan enkoda BOM
+_C_OPT_EXP_FRM_EXPORT Ekspor Pengaturan
+_C_OPT_EXP_RD_TRACK Trek
+_C_OPT_EXP_ST_FNAME Nama berkas Ekspor:
+_C_OPT_EXP_ST_NAME Nama dari berkas konfigurasi baru
+_C_OPT_FMT_CASE Pengubah kas huruf
+_C_OPT_FMT_FRM_FTF Nama Berkas - Nama Berkas
+_C_OPT_FMT_ST_BEGIN Kata dimulai dari/setelah semua yang:
+_C_OPT_FMT_ST_FNAME_NEW Pola nama berkas baru:
+_C_OPT_FMT_ST_FNAME_OLD Pola nama berkas lama:
+_C_OPT_FMT2 Ganti
+_C_OPT_FMT2_CASE pembandingan kas-sensitif
+_C_OPT_FMT2_COL_ORIGINAL Asli
+_C_OPT_FMT2_COL_REPLACE Ganti dengan
+_C_OPT_FMT2_ONLYWORDS hanya sebagai kata utuh
+_C_OPT_GEN_CAPTION Umum
+_C_OPT_GEN_CHK_AUTOSAVE Simpan tag hanya ketika memakai klik tetik&us atau tombol arah
+_C_OPT_GEN_CHK_FOLDERSTART mulai dari direktori ini
+_C_OPT_GEN_CHK_GRID Tampilkan tampilan kotak pada tampilan berkas
+_C_OPT_GEN_CHK_JUMPONEDIT Secara otomatis pindah ke berkas selanjutnya setelah selesai mengubah
+_C_OPT_GEN_CHK_KEEPFILETIME Simpan waktu modifikasi pada file setelah perubahan tag
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Berkas yang dipindahkan tetap di daftar berkas
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS pada peringatan dari Aksi
+_C_OPT_GEN_CHK_MSG_CHANGE setelah pergantian
+_C_OPT_GEN_CHK_MSG_CUT pada pemotongan tag
+_C_OPT_GEN_CHK_MSG_DEL setelah dihapus
+_C_OPT_GEN_CHK_MSG_DELETEFILE pada penghapusan berkas
+_C_OPT_GEN_CHK_MSG_EXPORT pada ekspor tag
+_C_OPT_GEN_CHK_MSG_PASTE pada penempelan tag
+_C_OPT_GEN_CHK_MSG_REMOVETAGS pada penghilangan tag
+_C_OPT_GEN_CHK_MSG_SAVE setelah menyimpan
+_C_OPT_GEN_CHK_PL Buat Daftar main otomatis (&P)
+_C_OPT_GEN_CHK_RELPL Entri relatif dari direktori kerja
+_C_OPT_GEN_CHK_AUTOCOMPLETE Auto-selesai pada kotak pilihan
+_C_OPT_GEN_CHK_SELECTFILES Pilih berkas secara otomatis
+_C_OPT_GEN_CHK_SORTNATURAL Pakai pengurutan alami
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH Tampakkan direktori &sekarang di bar judul
+_C_OPT_GEN_FRM_GEN Umum
+_C_OPT_GEN_FRM_MSG Tampilkan pesan
+_C_OPT_GEN_FRM_PL Nama berkas Da&ftar main
+_C_OPT_GEN_RD_PLALL dari semua berkas
+_C_OPT_GEN_RD_PLSEL dari berkas terpilih
+_C_OPT_GEN_ST_FAVDIR Direkori kesukaan:
+_C_OPT_GEN2_CAPTION Pesan
+_C_OPT_GENRES Aliran buatan-pengguna
+_C_OPT_GENRES_HIDESTANDARD Hanya Aliran buatan-pengguna
+_C_OPT_ID3_CHK_ISO88591 Selalu tulis tag pada standar ISO-8859-1 daripada standar UTF-16
+_C_OPT_ID3_CHK_LEADINGZEROS Tambahkan nol pada nomor file (01, 02, ...)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND ID3v2 saja jika ID3v1 terlalu kecil
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ Baca
+_C_OPT_ID3_FRM_REMOVE Hilangkan
+_C_OPT_ID3_FRM_WRITE Tulis
+_C_OPT_LIB Library
+_C_OPT_LIB_CHK_ENABLE Aktifkan Perpustakaan
+_C_OPT_LIB_CHK_RESTRICT Hanya masukkan direktori ini
+_C_OPT_LIB_CLEANUP Bersihkan Perpustakaan
+_C_OPT_MAPPING Pemetaan
+_C_OPT_MAPPING_FRM pemetaan isian oleh pengguna
+_C_OPT_MAPPING_SOURCE Asal
+_C_OPT_MAPPING_TARGET Sasaran
+_C_OPT_PLAYLIST_CAPTION Daftar main
+_C_OPT_PLAYLIST_EXTENDED Tulis informasi tambahan
+_C_OPT_PLAYLIST_NOFOLDERS Jangan buat direktori
+_C_OPT_PLAYLIST_SHOWDLG Tampilkan konfirmasi pada dialog berkas
+_C_OPT_TAG Tag
+_C_OPT_TAGS_COVER Nama berkas standar untuk seni album:
+_C_OPT_TAGS_EXT Mode penyimpanan untuk << dan >> pada dialog tag tambahan:
+_C_OPT_TAGS_FILEFILTER Batasi file masuk ke:
+_C_OPT_TAGS_NOIMG Jangan tampilkan gambar pertama pada &direkori sebagai seni album
+_C_OPT_TOOLS Peralatan
+_C_OPT_TOOLS_CHK_DEFAULT Gunakan program khusus untuk klik ganda:
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES untuk semua file terpilih
+_C_OPT_TOOLS_COL_PARAM Parameter
+_C_OPT_TOOLS_COL_PATH Jalan
+_C_OPT_TOOLS_EDIT Alat penyesuaian.  Nama dan Jalan ini wajib.
+_C_OPT_TOOLS_FRM_DEFAULT Alat Standar
+_C_OPT_TOOLS_FRM_TOOLS Peralatan
+_C_OVERWRITE Tindih(&W)
+_C_RENAME Ganti nama (&R)
+_C_TT_CDDB freedb...
+_C_TT_CDDBLOCAL freedb (lokal)...
+_C_TT_CLOSE Tutup
+_C_TT_DIR Ganti direktori...
+_C_TT_EDIT_UNDO Batalkan Aksi
+_C_TT_EXPORT Ekspor
+_C_TT_FAVDIR Direktori kesukaan
+_C_TT_FILE_ADD Tambah direktori...
+_C_TT_FILE_COPY Salin ke...
+_C_TT_FILE_DELETE Hapus...
+_C_TT_FILE_MOVE Pindah ke...
+_C_TT_FILE_PLAY Mainkan
+_C_TT_FILE_PROPERTIES Rincian...
+_C_TT_FILE_RENAME Ganti Nama
+_C_TT_FTF Nama berkas - Nama berkas
+_C_TT_FTT Nama berkas - Tag
+_C_TT_HELP Isi bantuan...
+_C_TT_OPT Dialog opsi...
+_C_TT_PLALL Buat daftar main dari semua berkas
+_C_TT_PLSEL Buat daftar main dari berkas terpilih
+_C_TT_REFRESH Segarkan tampilan berkas
+_C_TT_REMOVE Hilangkan tag
+_C_TT_SAVE Simpan
+_C_TT_TFF File teks - Tag
+_C_TT_TTF Tag - Nama berkas
+_C_TT_TTT Tag - Tag
+_C_TT_UPDIR Naik
+_C_WIZARD_TRACKS Jalanakn Oto-nomerisasi
+_C_WIZARD_TRACKS_BEGIN Mulai dari nomor:
+_C_WIZARD_TRACKS_DESC Tetapkan trek- dan nomor piringan
+_C_WIZARD_TRACKS_DISC_BEGIN Mulai pada nomor piringan
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Beri awalan nol pada nomor piringan (01, 02, 03...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Simpan jumlah seluruh piringan
+_C_WIZARD_TRACKS_DISCNUMBER Nomor piringan
+_C_WIZARD_TRACKS_RESETFOLDERS Reset penghitung di tiap direktori
+_C_WIZARD_TRACKS_SAVETOTAL Simpan total hitungan dari trek
+_C_WIZARD_TRACKS_TRACKNUMBER Nomor trek
+_M_ERR_CANCEL Proses dibatalkan.
+_M_ERR_CDDB_CD Galat membaca CD Audio
+_M_ERR_CDDB_CONNECT Galat menyambungkan ke server: {1}
+_M_ERR_CDDB_NOENTRY Tidak ada ID freedb yang cocok ditemukan untuk {1}.
+_M_ERR_CDDB_NOENTRYINLOCALBD Tidak ada ID freedb yang cocok ditemukan untuk {1} di database freedb lokal '{2}'.
+_M_ERR_CDDB_PARSER Pencarian tidak menghasilkan apapun.
+_M_ERR_CDDB_READ Galat membaca data dari {1}
+_M_ERR_CONFIGURATION Tidak bisa mengimpor konfigurasi.
+_M_ERR_COPY Tidak bisa menyalin file terpilih!
+_M_ERR_DELETE Tidak bisa menghapus file terpilih!
+_M_ERR_FILECREATE Berkas \"{1}\" tidak bisa dibuat.
+_M_ERR_FILEDELETE Berkas \"{1}\" tidak bisa dihapus.
+_M_ERR_FILENAMEALREADYEXISTS Berkas \"{1}\" sudah ada.
+_M_ERR_FILENAMEALREADYEXISTS2 Berkas \"{1}\" tidak berhasil diganti nama.
+_M_ERR_FILEOPABORTED Isi direktori mungkin sudah berubah.\n\nApakah anda mau mengulangi pembacaan pada direktori ini?
+_M_ERR_FILEOPEN Berkas \"{1}\" tidak bisa dibuka.
+_M_ERR_FILEREADONLY Berkas \"{1}\" memiliki atribut Baca-Saja.\n\nHaruskah Mp3tag mematikan proteksi penulisan pada berkas ini untuk seterusnya?
+_M_ERR_FOLDERCANNOTBEACCESSED Akses galat\n\nDirektori \"{1}\" tidak bisa diakses.
+_M_ERR_INVALID_FILENAME Silahkan isi nama dengan benar.
+_M_ERR_INVALID_FTF_FS String \"{1}\" bukanlah format string yang valid untuk nama berkas.
+_M_ERR_INVALID_TOKEN {1}:\nBerikut ini karakter yang tidak diperbolehkan untuk nama berkas:\n\\ / : * ? \" < > |\n\nAnda ingin memperbaikinya secara otomatis?
+_M_ERR_MOVE Tidak bisa memindah berkas!
+_M_ERR_ONLINE_NOTFOUND Maaf, entri anda tidak ditemukan.
+_M_ERR_OPT_CDDB_NOADDRESS silahkan menentukan alamat Server freedb yang valid.
+_M_ERR_OPT_CDDB_NOEMAIL Silahkan masukkan surel yang valid di 'Options, freedb, Server'. Yang akan digunakan untuk masuk ke Server freedb.
+_M_ERR_OPT_CDDB_NONAME Silahkan masukkan berkas yang valid untuk konfigurasi.
+_M_ERR_OPT_CDDB_NOPORT Silahkan memilih port yang valid untuk Server freedb.
+_M_ERR_PARSELINE Tidak bisa mem-parse baris {1}.
+_M_ERR_PLAY Tidak bisa membuka berkas \"{1}\" untuk dimainkan!
+_M_ERR_READ_FILE Berkas \"{1}\" tidak bisa dibuka untuk dibaca.
+_M_ERR_RENAME_FILE Berkas \"{1}\" tidak bisa diganti nama ke \"{2}\".
+_M_ERR_RETRY Do you want to retry?
+_M_ERR_TL_NOTAGS Tidak ada entri yang cocok dengan \"{1}\".
+_M_ERR_WRITE_FILE Berkas \"{1}\" tidak bisa dibuka untuk ditulis.
+_M_ERR_YN \n\nAnda yakin mau melanjutkan?
+_M_LOG_FMT_FNAME {1} dari {2} berkas diganti nama.\n
+_M_LOG_FMT_TAG Memformat tag di {1} dari {2} berkas.\n
+_M_LOG_FTF Mengganti nama {1} dari {2} berkas.
+_M_LOG_FTT Tag diambil dari {1} dari {2} berkas.
+_M_LOG_PL_ALL Daftar main \"{1}\" dibuat dari semua ({2}) berkas.
+_M_LOG_PL_SEL Daftar main \"{1}\" dibuat dari ({2}) berkas terpilih.
+_M_LOG_REMOVE Tag dihilangkan dari berkas \"{1}\".
+_M_LOG_REMOVED Tag dihilangkan dari {1} dari {2} berkas.
+_M_LOG_REMOVE_NOTAG Berkas \"{1}\" tidak memiliki tag.
+_M_LOG_SAVE Menyimpan tag di berkas \"{1}\".
+_M_LOG_SAVED Menyimpan tag di {1} dari {2} berkas.
+_M_LOG_TFF Mengimpor tag dari \"{1}\" ke {2} dari {3} berkas.
+_M_LOG_TFF_S Mengimpor tag dari \"{1}\" ke satu berkas.
+_M_LOG_TTF {1} dari {2} berkas diganti nama.
+_M_STAT_PLAY Memainkan lagu : \"{1}\"...
+_M_STR_ACTION_ADJUSTCOVER Adjust cover
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Format
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
+_M_STR_ACTION_CODEPAGE Konversi codepage
+_M_STR_ACTION_CODEPAGE_DESC Codepage
+_M_STR_ACTION_EXPORTCOVER Ekspor sampul ke berkas
+_M_STR_ACTION_EXPORTCOVER_DUPES Ekspor sampul yang terduplikasi
+_M_STR_ACTION_EXPORTCOVER_TYPES Hanya ekspor sampul dalam jenis
+_M_STR_ACTION_FORMAT Nilai format
+_M_STR_ACTION_GUESS Nilai yang diperkirakan
+_M_STR_ACTION_GUESSPATTERN Pola perkiraan
+_M_STR_ACTION_GUESSSOURCE Format asal
+_M_STR_ACTION_IMPORTCOVER Masukkan kover dari berkas
+_M_STR_ACTION_IMPORTCOVER_FS String format untuk nama berkas gambar:
+_M_STR_ACTION_IMPORTCOVER_DELETE Hapus gambar sampul yang ada (&D)
+_M_STR_ACTION_IMPORTCOVER_TYPE Impor sampul sebagai:
+_M_STR_ACTION_IMPORTTEXT Impor berkas teks
+_M_STR_ACTION_MERGEDUPLICATEFIELDS Gabung isian yang terduplikasi
+_M_STR_ACTION_REGEXP Ganti dengan Ekspresi Reguler
+_M_STR_ACTION_REGEXP_EXP Ekspresi Reguler
+_M_STR_ACTION_REGEXP_MATCH Ganti kesamaan dengan
+_M_STR_ACTION_REMOVEDUPES Ganti isian terduplikasi
+_M_STR_ACTION_REM Hilangkan isian
+_M_STR_ACTION_REM_DESC Isian untuk dihilangkan (dipisah-oleh-semicolon):
+_M_STR_ACTION_REM_EX Hilangkan isian kecuali
+_M_STR_ACTION_REM_EX_DESC Isian untuk dilewati (dipisah-oleh-semicolon):
+_M_STR_ACTION_SPLITFIELDS Pisah isian dengan pemisah
+_M_STR_ACTIONGROUP_NAME Nama untuk aksi grup
+_M_STR_ALBUM Album
+_M_STR_ALBUMARTIST Artis Album
+_M_STR_ALL_FILEDLGFILTER Semua berkas (*.*)|*.*||
+_M_STR_ARTIST Artis
+_M_STR_AUTHOR Penulis
+_M_STR_BACK < Kembali (&B)
+_M_STR_BROWSE_COPY Salin ke:
+_M_STR_BROWSE_MOVE Pindah ke:
+_M_STR_BROWSE_TEXT Silahkan pilih direktori yang memiliki berkas suara.
+_M_STR_BYTES Byte
+_M_STR_CDDB_CD Baca CD audio
+_M_STR_CDDB_CONNECT sambungkan ke {1}...
+_M_STR_CDDB_CONNECTED  tersambung!
+_M_STR_CDDB_IDXDB_ENTRIES entri database dibuat
+_M_STR_CDDB_RETRIEVE Ambil Informasi judu;
+_M_STR_COLUMNFILENAME Nama Berkas
+_M_STR_COLUMNPATH Jalur
+_M_STR_COLUMNUSEDCOLS tunjukkan
+_M_STR_COMBO_HOLD < tetap >
+_M_STR_COMBO_REMOVE < kosongkan >
+_M_STR_COMBO_USER < masukkan >
+_M_STR_COMMENT Komentar
+_M_STR_COMPOSER Komposer
+_M_STR_COPYOF Salinan ke {1}
+_M_STR_COVER Sampul
+_M_STR_COVER_ADD Anda ingin menjaga sampul yang sudah ada?
+_M_STR_COVER_CORRECTAR Perbaiki Rasio aspek
+_M_STR_COVER_SETDESC Atur &deskripsi sampul...
+_M_STR_COVER_SETTYPE Atur &tipe sampul
+_M_STR_COVERVARIES Variasi sampul
+_M_STR_CUSTOMIZE Ubah...
+_M_STR_DAY hari
+_M_STR_DAYS hari
+_M_STR_DEFAULTVALUE Nilai asal
+_M_STR_DISCID CDDB ID
+_M_STR_DISCOGS_OAUTH_PIN Masukkan Discogs authorization code
+_M_STR_DISCNUMBER Nomor Disk
+_M_STR_ERR_CDDB_NOENTRYSELECTED Silahkan pilih entri.
+_M_STR_EXPORT_DELETE Hapus konfigurasi ekspor \"{1}\"?
+_M_STR_EXPORT_FILEDLGTITLE Pilih berkas ekspor
+_M_STR_EXPORT_MULTIPLE Satu berkas per direktori
+_M_STR_EXPORT_SHOWEXPORTFILE \n\nLihat berkas hasil ekspor?
+_M_STR_EXP_MSG Ekspor berkas terproses {2} dan menulis ke berkas '{1}'.
+_M_STR_FIELD &Isian:
+_M_STR_FIELDSIZE Ukuran kolom
+_M_STR_FIELDROWS Baris
+_M_STR_FILE Berkas
+_M_STR_FILEDELETE Anda ingin menghapus seluruh file?
+_M_STR_FILEMODIFIED Dimodifikasi
+_M_STR_FILESIZE Ukuram
+_M_STR_FILTER Sa&ringan:
+_M_STR_FMT_CAPITAL Kapitalisasi campuran
+_M_STR_FMT_HIGH Kapitalisasi BESAR
+_M_STR_FMT_LOW Kapitalisasi kecil
+_M_STR_FMT_SENTENCE Kalimat
+_M_STR_FREEDBCREATEINDEX Buat index database freedb lokal?\n\nMungkin akan memakan waktu beberapa menit.
+_M_STR_FREEDB_SEARCH freedb web search
+_M_STR_GENRE Aliran
+_M_STR_GENRES Aliran
+_M_STR_HIDE Sembuny&ikan
+_M_STR_ITEMALREADYEXISTS terdapat item dengan nama yang sama, tindih?
+_M_STR_LANGUAGE Bahasa
+_M_STR_M3U_FILEDLGFILTER Berkas didukung (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_METADATA &Metadata
+_M_STR_MOVEDOWN Pindah turun (&V)
+_M_STR_MOVEUP Pindah Naik (&P)
+_M_STR_MPEGBITRATE Bitrate
+_M_STR_MPEGFREQUENCY Frekuensi
+_M_STR_MPEGLENGTH Panjang
+_M_STR_MPEGMODE Mode
+_M_STR_MPEGVERSION Kodek
+_M_STR_MSGCUT Apakah anda yakin memindahkan tag dari berkas ini ke papan klip?
+_M_STR_MSGPASTE Apakah anda yakin menempelkan tag di papan klip sebagai tag baru di berkas ini?
+_M_STR_MSGREMOVE Apakah anda yakin menghilangkan tag dari berkas ini?
+_M_STR_NAME N&ama
+_M_STR_NETWORKING Jaringan
+_M_STR_NEXT Selanjutnya (&N) >
+_M_STR_NOACTION - Tidak ada Aksi -
+_M_STR_NOACTIONENABLED Silahkan menghidupkan salah satu aksi dengan ceklis untuk menggunakan fitur ini.
+_M_STR_NUMERIC Nu&merik
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH Silahkan memilih jalan untuk Server freedb lokal.
+_M_STR_OPT_CDDB_PROCEED Ini akan menghapus semua Server!\n\nYakin mau lanjut?\n
+_M_STR_OPTIMIZEMP4 Optimisasi MP4
+_M_STR_OPTS_ALWAYS selalu
+_M_STR_OPTS_ASK tanyakan
+_M_STR_OPTS_NEVER tak pernah
+_M_STR_PLNAME Daftar main - Nama berkas
+_M_STR_PL_CONFIRM Buat daftar main dengan nama ini
+_M_STR_PL_SAVEFILTER Berkas daftar main (*.m3u)|*.m3u|Berkas daftar main Unicode (*.m3u8)|*.m3u8||
+_M_STR_PREVIEW Pratayang
+_M_STR_PROPERTIES Rincian {1}
+_M_STR_QUICK Cepat
+_M_STR_RECURSE Subdirektori
+_M_STR_REST Yang lain
+_M_STR_SAVE_NOT < tidak diasosiasikan >
+_M_STR_SAVECONFIG Pengaturan anda disimpan di '{1}'.\n\nUntuk menggunakan ulang silahkan ekstrak arsip ke\n\"{2}\".
+_M_STR_SAVECONFIG_FILEDLGFILTER Berkas konfigurasi (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE Simpan konfigurasi di...
+_M_STR_SAVEIMAGE Simpan gambar ke tag
+_M_STR_SAVEIMAGEDIRECTORY Simpan gambar ke disk
+_M_STR_SAVESELECTION Simpan pilihan...
+_M_STR_SB_ABORTED dibatalkan
+_M_STR_SB_ACTION Menerapkan Aksi ke berkas ... {1} dari {2}
+_M_STR_SB_CLEANUPDATABASE Memproses berkas ... {1} dari {2} ({3} dibersihkan)
+_M_STR_SB_CLEANUPDATABASE_BINARIES Bersihkan biner tak bertuan
+_M_STR_SB_CLEANUPDATABASE_COVERS Bersihkan sampul tak bertuan
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Bersihkan berkas non-Pustaka
+_M_STR_SB_EXPORTTAGS Mengekspor tag ke berkas ... {1} catatan dari {2} berkas
+_M_STR_SB_LOADTAGS Membaca data tag ... {1} dari {2}
+_M_STR_SB_READDIRECTORY Membaca direktori
+_M_STR_SB_REMOVETAGS Menghilangkan data tag ... {1} dari {2}
+_M_STR_SB_RENAMEFILES Mengganti nama berkas ... {1} dari {2}
+_M_STR_SB_WRITETAGS Menulis data tag ... {1} dari {2}
+_M_STR_SHOWCHOOSEDLG Tampilkan dialog pilihan
+_M_STR_SEARCHBY Cari dengan:
+_M_STR_SEARCHTEXT Teks:
+_M_STR_SEPARATOR Pemisah
+_M_STR_SHOW Tunjukkan (&W)
+_M_STR_SIZE_LARGE Besar
+_M_STR_SIZE_MEDIUM Menengah
+_M_STR_SIZE_NORMAL Sedang
+_M_STR_SIZE_SMALLER Lebih kecil
+_M_STR_SIZE_SMALL Kecil
+_M_STR_SNA Area Pemberitahuan
+_M_STR_SNA_SHOW Selalu tampilkan ikon di area pemberitahuan
+_M_STR_SNA_SHOWMIN Perkecil ke area pemberitahuan
+_M_STR_STRIPCHAPTERSMP4 Potong bagian MP4
+_M_STR_TAG_COPIED Menyalin tag dari {1} berkas ke papan klip.
+_M_STR_TAG2 Tag
+_M_STR_TAGFIELDS_REMOVE Hilangkan isian
+_M_STR_TAGFIELDS_REMOVEALL Hilangkan semua isian...
+_M_STR_TAGFIELDS_REMOVEALLMSG Anda yakin menghilangkan semua isian?
+_M_STR_TAGFIELDS_RESET Kembalikan isian...
+_M_STR_TAGFIELDS_RESETMSG Anda yakin mengembalikan isian ke isi default?
+_M_STR_TAGPANEL Panel Tag
+_M_STR_TAGPANEL_COVER Tampilkan seni kover
+_M_STR_TAGPANEL_DIRECTORY Tampilkan pengganti direktori
+_M_STR_TAGLIST_FILEDLGFILTER Berkas teks ({1})
+_M_STR_TAGLIST_FILEDLGTITLE Pilih berkas teks
+_M_STR_TAGSOURCES Asal Tag
+_M_STR_THISALBUMON Album ini di {1}
+_M_STR_TITLE Judul
+_M_STR_TRYAGAIN Anda mau mencoba lagi?
+_M_STR_TTF Tag - Nama Berkas
+_M_STR_UPDATE_FRM Perbarui
+_M_STR_UPDATE_OPT_CHECK Cek pembaruan pada pemulaian
+_M_STR_UPDATE_OPT_CHECK_BETA Termasuk pembaruan dalam pengembangan (Beta)
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Tampilkan catatan rilis untuk versi baru
+_M_STR_UPDATEAVAILABLE Versi baru {1} sudah tersedia!\n\nAnda ingin mengunduh pembaruan dari {2} sekarang?
+_M_STR_UPDATENOTAVAILABLE Anda memiliki versi terbaru {1}.\n\nPembaruan tidak tersedia.
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS Peralatan (&S)
+_M_STR_VALUE Ni&lai
+_M_STR_VERSION Versi
+_M_STR_YEAR Tahun
+_M_TP_CDDB_LOCALPATH Masukan direktori lokal freedb
+_M_TP_CDDB_SITES Daftar freedb servers saat ini dari Internet
+_M_TP_CVR_CLIPBOARD Tem&pel kover
+_M_TP_CVR_CLIPBOARD_COPY Salin kover
+_M_TP_CVR_CLIPBOARD_CUT Potong kover (&C)
+_M_TP_CVR_DEL Hilangkan Kove&r
+_M_TP_CVR_NEW T&ambah Kover...
+_M_TP_CVR_SAVE &Ekstrak kover...
+_M_TP_DUPLICATE Duplikat
+_M_TP_EXP_DEL Hapus (&D)
+_M_TP_EXP_EDIT Ubah
+_M_TP_EXP_FILE Pilih file ekspor
+_M_TP_EXP_HLP Tampilkan bantuan cepat
+_M_TP_EXP_LOAD Muat konfigurasi...
+_M_TP_EXP_NEW Baru (&N)
+_M_TP_EXP_SAVE Simpan konfigurasi...
+_M_TP_GEN_DIR Pilih direktori
+_M_TP_TAG_DEL Hilangkan isian
+_M_TP_TAG_EDIT Ubah isian...
+_M_TP_TAG_NEW Tambah isian...
+_M_TS_ADDINFO Informasi tambahan (&D)
+_M_TS_MULTIPLEVALUES multi nilai
+_M_TS_RELEASE &Rilis
+_M_TS_TRACKS &Trek
+_M_UNDO_CANNOTUNDO Tidak bisa membatalkan {1}
+_M_UNDO_CDDB freedb
+_M_UNDO_DIRECTORYCREATE Buat direktori
+_M_UNDO_DIRECTORYMOVE Pindah direktori
+_M_UNDO_FORMAT Format
+_M_UNDO_FTF Nama berkas - Nama berkas
+_M_UNDO_FTT Nama berkas - Tag
+_M_UNDO_REMOVEFILE Hilangkan
+_M_UNDO_RENAME Ganti Nama
+_M_UNDO_TAGCHANGE Ubah tag
+_M_UNDO_TAGREMOVE Hilangkan tag
+_M_UNDO_TAGSAVE Simpan tag
+_M_UNDO_TFF Berkas teks - Tag
+_M_UNDO_TTF Tag - Nama berkas
