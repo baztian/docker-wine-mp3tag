@@ -1,0 +1,12 @@
+version: '2'
+services:
+  openfire:
+    image: miguelwill/debian-wine-vnc:latest
+    ports:
+      - "5900:5900/tcp"
+    environment:
+      TZ: America/Santiago
+      VNC_PASSWORD: test
+    # volumes:
+    #   - /srv/docker/openfire/data:/var/lib/openfire
+    #   - /srv/docker/openfire/logs:/var/log/openfire
