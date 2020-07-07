@@ -9,6 +9,8 @@ This is a dockerized version of the Windows software
 
 ## Usage
 
-    connect with VNC client to IP of base host
-    Fluxbox run from main.sh and Mp3Tag run from app.sh on boot
-    open Bash and run "mp3tag.sh" script 
+deploy using docker-compose with the sample file provided in https://github.com/miguelwill/debian-wine-mp3tag, or activate a container with port -p 5900 and a volume -v /my/files:/data
+
+remember to mount a volume in "/data" on the container so that it can access your files
+
+then you only need to login with a VNC client to gain access to the application by connecting to the ip of the equipment, to port 5900
