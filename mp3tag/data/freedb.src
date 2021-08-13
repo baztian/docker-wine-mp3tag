@@ -1,15 +1,15 @@
-findline "\"fdbsr\""
+findline "<h2>Search Results"
 do
-  findinline "title=\""
-	sayuntil "\""
+	findline "<a href=\"http://www.gnudb.org/cd/"
+	findinline "<b>"
+	sayuntil "</b>"
 	say "|"
-	findinline "Disc-ID"
-	findinline " "
+	findline "<a href=\"http://www.gnudb.org/gnudb/"
+	findinline "Discid: "
 	sayuntil " / "
 	say "|"
-	findinline ">"
+	movechar 3
 	sayuntil "<"
 	saynewline
-	findinline "class=searchResult" 2 1
-	movechar -6
-while "Result" 250
+	moveline 2
+while "<a href=\"http://www.gnudb.org/cd/" 250

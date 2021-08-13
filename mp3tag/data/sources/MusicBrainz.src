@@ -6,6 +6,7 @@
 # This file needs to be stored in Mp3tag's tag sources directory. 
 # %APPDATA%\Mp3tag\data\sources
 #
+# [2020-11-11] v1.09 NEW: added fields ALBUMARTIST, ALBUMARTISTSORT, and MUSICBRAINZ_ALBUMARTISTID.
 # [2020-01-12] v1.08 NEW: added MusicBrainz field MUSICBRAINZ_RELEASEGROUPID.
 # [2019-12-04] v1.07 CHG: changed to use multi-field search option in SearchBy
 #                    FIX: release type was not parsed anymore
@@ -113,6 +114,63 @@ sayregexp "(?<= id=\")[-0-9a-y]{34,40}(?=\")" ", " "<title>"
 outputto "Album"
 findinline "<title>"
 sayuntil "</title>"
+
+# AlbumArtist
+outputto "Albumartist"
+findinline "<artist-credit><name-credit"
+if " joinphrase"
+	regexpreplace "<name-credit joinphrase=\"(.+?)\">(<artist id=\".+?\">)(<name>)(.+?)(</name>)" "<name-credit$2$3$4$1$5"
+	regexpreplace "<name-credit joinphrase=\"(.+?)\">(<name>)(.+?)(</name>)" "<name-credit$2$3$1$4"
+	findinline "<artist-credit>"
+
+	do
+		findinline "<name-credit"
+		if ">"
+			findinline "<name>"
+			sayregexp "[^<]+(?=<)" "" "/name>"
+		else
+			findinline "<name>"
+			sayregexp "[^<]+(?=<)" "" "/name>"
+			say " "
+		endif
+		
+		findinline "</name-credit>"
+	while "<name-credit" 99
+else
+	findinline "<name>"
+	sayuntil "</name>"
+endif
+
+# AlbumArtistSort
+outputto "Albumartistsort"
+gotoline 1
+findinline "<artist-credit><name-credit"
+if " joinphrase"
+	findinline "<artist-credit>"
+
+	do
+		findinline "<name-credit"
+		if ">"
+			findinline "<sort-name>"
+			sayregexp "[^<]+(?=<)" "" "/sort-name>"
+		else
+			findinline "<sort-name>"
+			sayregexp "[^<]+(?=<)" "" "/sort-name>"
+			say "; "
+		endif
+		
+		findinline "</name-credit>"
+	while "<name-credit" 99
+else
+	findinline "<sort-name>"
+	sayuntil "</sort-name>"
+endif
+
+# MusicBrainz Album Artist ID
+outputto "MUSICBRAINZ_ALBUMARTISTID"
+gotoline 1
+findinline "<artist-credit><name-credit"
+sayregexp "(?<=artist id=\")[-0-9a-y]{34,40}(?=\")" " " "</artist-credit>"
 
 # MusicBrainz Release Group ID
 outputto "MUSICBRAINZ_RELEASEGROUPID"

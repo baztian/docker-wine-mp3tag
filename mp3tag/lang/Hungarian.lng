@@ -1,6 +1,6 @@
 ﻿LANGAUTHOR Kiss Viktor
 LANGCONTACT www.naptargyar.hu
-LANGVERSION 3.01
+LANGVERSION 3.08
 LANGNAME Hungarian
 LANGNAMELOC Magyar
 SLangCancel &Mégse
@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD Gyors&billentyűk
 _C_MNU_HELP_SUPPORT Online támogatás...
 _C_MNU_HELP_UPGRADE Új verzió keresése...
 _C_MNU_HELP_WWW Mp3tag &weblap...
+_C_MNU_TAG_EDIT Szerkesztés...\tF2
+_C_MNU_TAG_NEW Hozzáadás...\tIns
+_C_MNU_TAG_REMOVE Eltávolítás\tDel
 _C_MNU_TAGSOURCES Címke &források
 _C_MNU_TOOLS &Eszközök
 _C_MNU_VIEW &Nézet
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY Szűrő automatikus alkalmazása
 _C_MNU_VIEW_ID3 Címke beviteli maszk\tCtrl+Q
 _C_MNU_VIEW_REFRESH &Frissítés\tF5
 _C_MNU_VIEW_SORTBY &Rendezés
+_C_MNU_VIEW_SORTBYRANDOM &Véletlenszerű
 _C_MNU_VIEW_TAGS &Címkék...\tALT+T
 _C_MNU_VIEW_TOOLBAR Es&zközsor
 _C_MNU_SB_ACTIONS Felhasználó által definiált akciók (betű konverzió, csere, ...) alkalmazása a kijelölt fájlokra.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE Ablak méret megváltoztatása
 _C_MULTILINE Többsoros
 _C_OK &Ok
 _C_OPT_ACTIONGROUPS Csoport akciók
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Alkalmaz
+_C_OPT_ACTIONGROUPS_SEL_EMPTY Nincs csoport akció engedélyezve
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} csoport akció engedélyezve
+_C_OPT_ACTIONGROUPS_SEL_SINGLE Egy csoport akció engedélyezve
+_C_OPT_ACTIONGROUPS_SORTBYNAME Rendezés név szerint
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Rendezés állapot szerint
 _C_OPT_ACTIONS Akciók
 _C_OPT_ACTIONS_TYPE Akció típus kiválasztása
 _C_OPT_ADVANCED Haladó
 _C_OPT_ADVANCED_ID3V2LANG ID3v2 megjegyzés nyelvi kód (ISO-639-2)
 _C_OPT_ADVANCED_LISTCHAPTERS Fejezetek listázása külön fájlként
+_C_OPT_ADVANCED_POPULARIMETER POPULARIMETER értékek megjelenítése az ID3v2 besoroláshoz
 _C_OPT_CAPTION Beállítások
 _C_OPT_CDDB_CAPTION freedb
 _C_OPT_CDDB_CHK_USEPROXY Pr&oxy használat
@@ -401,6 +412,11 @@ _M_STAT_PLAY A \"{1}\" fájl lejátszása...
 _M_STR_ACTION_ADJUSTCOVER Borító beállítása
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Formátum
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Eredeti
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Minőség
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Legjobb
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH Magas
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Alacsony
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Közepes
 _M_STR_ACTION_ADJUSTCOVER_SIZE Max. méret
 _M_STR_ACTION_CODEPAGE Kódlap konvertálás
 _M_STR_ACTION_CODEPAGE_DESC Kódlap
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Mezők eltávolítása
 _M_STR_ACTION_REM_DESC Eltávolítandó mezők (pontosvesszővel elválasztva):
 _M_STR_ACTION_REM_EX Kivétel mezők
 _M_STR_ACTION_REM_EX_DESC Meghagyandó mezők (pontosvesszővel elválasztva):
+_M_STR_ACTION_SETCOVERPROPERTIES Borító tulajdonságainak beállítása
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Cover Leírás:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Beállítva:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL Minden borító
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Borító típus:
 _M_STR_ACTION_SPLITFIELDS Mezők darabolása szeparátor alapján
+_M_STR_ACTIONGROUP_CHANGED Az csoport akció beállításai megváltoztak.\r\n\r\nElmenti a módosításokat?
 _M_STR_ACTIONGROUP_NAME Akció csoport neve
 _M_STR_ALBUM Album
 _M_STR_ALBUMARTIST Album előadó
 _M_STR_ALL_FILEDLGFILTER Minden fájl(*.*)|*.*||
 _M_STR_ARTIST Előadó
 _M_STR_AUTHOR Szerző
+_M_STR_AUTOSIZECOLUMNS Automatikus méretű oszlopk
 _M_STR_BACK < &Vissza
 _M_STR_BROWSE_COPY Másolás ide:
 _M_STR_BROWSE_MOVE Mozgatás ide:
@@ -516,6 +539,8 @@ _M_STR_OPTS_NEVER soha
 _M_STR_PLNAME Lejátszási lista - Fájlnév
 _M_STR_PL_CONFIRM Lejátszási lista készítése az alábbi néven
 _M_STR_PL_SAVEFILTER Listafájl (*.m3u)|*.m3u|Unicode listafájl (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Előre beállított kijelölés létrehozása...
+_M_STR_PRESETS Beállítások
 _M_STR_PREVIEW Előnézet
 _M_STR_PROPERTIES {1} Tulajdonságok
 _M_STR_QUICK Gyors
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES Árva bináris fájlok eltávolítása
 _M_STR_SB_CLEANUPDATABASE_COVERS Árva borítók eltávolítása
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES Nem könyvtárfájlok eltávolítása
 _M_STR_SB_EXPORTTAGS Címke információ exportálása... {1} a(z) {2}-ből
+_M_STR_SB_FILTER Szűrő ...
 _M_STR_SB_LOADTAGS Címke-adat olvasása... {1} a(z) {2}-ből
 _M_STR_SB_READDIRECTORY Mappa olvasása
 _M_STR_SB_REMOVETAGS Címke-adat eltávolítása... {1} a(z) {2}-ből
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON Ez az album a(z) {1} -on
 _M_STR_TITLE Cím
 _M_STR_TRYAGAIN Megpróbálja mégegyszer?
 _M_STR_TTF Címke - Fájlnév
+_M_STR_UNSAVED Menti a módosításokat?
 _M_STR_UPDATE_FRM Frissítések
 _M_STR_UPDATE_OPT_CHECK Frissítések ellenőrzése indításkor
 _M_STR_UPDATE_OPT_CHECK_BETA beleértve a béta verziókat is

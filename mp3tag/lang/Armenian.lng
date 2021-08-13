@@ -1,0 +1,649 @@
+﻿LANGAUTHOR Աշոտ Դանիելյան
+LANGCONTACT info@mp3tag.de
+LANGVERSION 3.07
+LANGNAME Armenian
+LANGNAMELOC Հայերեն
+SLangCancel Չեղարկել
+SLangOk &Լավ
+SLangErrCatch Runtime Error\n\nFile:\t{1}\nLine:\t{2}\n\nԾրագիրը անսպասելի բացառության է հանդիպել և գտնվում է անորոշ վիճակում: Խնդրում ենք փակել ծրագիրը և ուղարկել ֆայլը\n\n{3}\n\nև սխալի մանրամասն նկարագրությունը մեր աջակցության աշխատակազմին:\n\nԷլ-փոստ՝ support@mp3tag.de
+SLangErrCheck Runtime Error\n\nFile:\t{1}\nLine:\t{2}\nTerm:\t{3}\nCode:\t0x{4}\n\nԾրագիրը անսպասելի բացառության է հանդիպել և գտնվում է անորոշ վիճակում: Խնդրում ենք փակել ծրագիրը և ուղարկել ֆայլը\n\n{5}\n\nև սխալի մանրամասն նկարագրությունը մեր աջակցության աշխատակազմին:\n\nԷլ-փոստ՝ support@mp3tag.de
+SLangErrDriveCannotBeAccessed Drive {1} հնարավոր չի դիպչել:
+SLangErrFileCannotBeAccessed File {1} հնարավոր չի դիպչել:
+SLangErrFileCannotBeDeleted File {1} չի կարող ջնջվի\n\n» Համոզվեք, որ որևէ այլ գործընթաց չի օգտագործում ֆայլը:
+SLangErrFolderCannotBeAccessed Directory {1} հնարավոր չի դիպչել:
+SLangErrFolderCannotBeDeleted Directory {1} չի կարող ջնջվի\n\n» Համոզվեք, որ թղթապանակն այլ գործընթացներ չեն օգտագործում:
+SLangErrHelpBrowserIsNotAvailable Mp3tag-ը չկարողացավ ցուցադրել օգնության ֆայլը ձեր ստանդարտ վեբ զննարկչում:
+SLangErrHelpSystemIsNotAvailable Օգնության համակարգը հասանելի չէ:\n\n» Խնդրում ենք նորից տեղադրել {1}.
+SLangErrHelpTopicIsNotAvailable Օգնության թեման հասանելի չէ:\n\n» Խնդրում ենք կապվել մեր աջակցության անձնակազմի հետ:\n\nԷլ-փոստ՝ support@mp3tag.de
+SLangErrNotEnoughFreeDiskSpace Սարքի վրա բավարար տեղ չի մնացել {1}.\n\n» Խնդրվում է ապահովել գոնե {2} տեղ սկավառակում:
+SLangErrRegistryCannotBeAccessed Տվյալները կարդալու սխալ\n\nՀնարավոր չի մուտք գործել Windows-ի Ռեեստր:
+SLangMsgItemExistsAlready Այս նկարագրությամբ գրառում արդեն գոյություն ունի:\n\n» Խնդրում ենք օգտագործել մեկ այլ նկարագրություն:
+SLangMsgFirstSteps Խնդրում ենք որոշ ժամանակ հատկացնել առաջին քայլերին ընտելանալու համար:
+SLangMsgShutdownInfo Խնդրվում է մի քիչ սպասել մինչ {1}-ը անջատվում է:
+SLangWrnAppIsAlreadyRunning Այս ծրագրի մի օրինակ արդեն աշխատում է:
+SLangWrnAppHasToBeRestarted Mp3tag-ը պիտի վերագործարկվի փոփոխությունները կիրառելու համար:\n\nՈւզու՞մ եք Mp3tag-ը վերսկսել հիմա:
+SLangWrnNameContainsInvalidCharacters Նկարագրությունը պարունակում է անվավեր տառեր:\n\n» Խնդրում ենք օգտագործել մեկ այլ նկարագրություն:
+SLangWrnStartLogging Դուք սկսել եք {1}-ը հրամանի տողի պարամետրով: Այս պարամետրն օգտագործվում է սխալների կարգաբերման  համար:\n\nՈւզո՞ւմ եք սկսել գրանցման գործառույթը:
+_C_ABORT Վիժեցնել
+_C_ABORTING Վիժեցնել...
+_C_APP_ST_ALBUM &Ալբոմ
+_C_APP_ST_ARTIST Ե&րգիչ
+_C_APP_ST_COMMENT &Մեկնություն
+_C_APP_ST_FOLDER &Թղթապանակ
+_C_APP_ST_GENRE &Ժանր
+_C_APP_ST_TITLE &Վերնագիր
+_C_APP_ST_TRACK &Արահետ
+_C_APP_ST_YEAR &Տարի
+_C_CANCEL &Չեղարկել
+_C_CANCELING Չեղարկել...
+_C_CLOSE &Փակել
+_C_DLG_CDDBCONFIRM_CAPTION Որոնման արդյունքի ցուցակ...
+_C_DLG_CDDBCONFIRM_CHK_DISCID Պատճենել սկավառակի ID-ն դեպի մեկնության դաշտը
+_C_DLG_CDDBCONFIRM_CHK_DISCID2 Պատճենել սկավառակի ID-ն դեպի DISCID դաշտը
+_C_DLG_CDDBCONFIRM_CHK_SAMPLER Կազմում...
+_C_DLG_CDDBCONFIRM_CHK_SORT Առաջարկեք տեսակավորում
+_C_DLG_CDDBCONFIRM_ST_INFO Գտնվել է մեկից ավելի արդյունք:\nԽնդրում ենք ընտրել մեկը.
+_C_DLG_CDDBCONFIRM_ST_INFO2 Տվյալների շտեմարանից կա {2} որոնման արդյունք {1}.\nԽնդրում ենք ընտրել մեկը.
+_C_DLG_CDDBCONFIRM_STC_TOP Կարգավորել պիտակի տեղեկությունները
+_C_DLG_CDDBINPUT_CAPTION Մուտքագրեք freedb ID-ն
+_C_DLG_CDDBINPUT_ST_CATEGORY Կատեգորիա՝
+_C_DLG_CDDBINPUT_ST_ID freedb ID:
+_C_DLG_CDDBSTYLE_CAPTION freedb
+_C_DLG_CDDBSTYLE_RD_CDROM որոշել տեղադրված &աուդիո ձայնասկավառակից
+_C_DLG_CDDBSTYLE_RD_ENTER մուտքագրեք
+_C_DLG_CDDBSTYLE_RD_MP3 որոշել ընտրված ֆայլերից
+_C_DLG_CDDBSTYLE_RD_SEARCH որոշել վեբ որոնման միջոցով
+_C_DLG_CDDBSTYLE_RD_SEARCHLOCAL որոշել տեքստի որոնման միջոցով
+_C_DLG_CDDBSTYLE_STC_TOP freedb ID...
+_C_DLG_COLUMNS_CAPTION Սյունակներ
+_C_DLG_COLUMNS_TOP Հարմարեցնել սյունակների տեսանելիությունը
+_C_DLG_TAGS Edit պիտակի տվյալ
+_C_DLG_TTF_TOP Ընտրել ձևաչափի տող
+_C_HELP &Օգնություն
+_C_MNU_ACTIONS &Գործողություններ\tAlt+6
+_C_MNU_CON Փ&ոխակերպել
+_C_MNU_CON_FTF &Ֆայլանունից - Ֆայլանուն\tAlt+3
+_C_MNU_CON_FTT &Ֆայլանունից - Պիտակ\tAlt+2
+_C_MNU_CON_TFF &Տեքստ ֆայլից - Պիտակ\tAlt+4
+_C_MNU_CON_TTF &Պիտակից - Ֆայլանուն\tAlt+1
+_C_MNU_CON_TTT &Պիտակից - Պիտակ\tAlt+5
+_C_MNU_EDIT &Խմբագրել
+_C_MNU_EDIT_COPY Պատճ&ենել\tCtrl+C
+_C_MNU_EDIT_CUT &Կտրել\tCtrl+X
+_C_MNU_EDIT_INVERTSELECTION &Շրջել ընտրածը\tCtrl+Shift+A
+_C_MNU_EDIT_NEXT Ընտրել &հաջորդ ֆայլը\tCtrl+N
+_C_MNU_EDIT_PASTE Կպ&ցնել\tCtrl+V
+_C_MNU_EDIT_SELECT Ընտրել բոլոր &ֆայլերը\tCtrl+A
+_C_MNU_EDIT_UNDO &Չանել\tCtrl+Z
+_C_MNU_EDIT_UNSELECTALL &Չընտրել բոլորը\tCtrl+U
+_C_MNU_EXTRA Գոր&ծիքներ
+_C_MNU_EXTRA_OPTIONS &Ընտրանքներ...\tCtrl+O
+_C_MNU_EXTRA_RESET_EDITS Վերականգնել բոլոր &Ներմուծման դաշտերը\tCtrl+B
+_C_MNU_EXTRA_SET_EDITS Հիմնական արժեքներ ներմուծման դաշտերում\tCtrl+W
+_C_MNU_EXTRA_TRACKWIZARD Ինքնահամարակալման վարպետ...\tCtrl+K
+_C_MNU_FILE &Ֆայլ
+_C_MNU_FILE_ADD Ավելացնել պանակ...
+_C_MNU_FILE_CDDB freedb...\tCtrl+I
+_C_MNU_FILE_CDDBLOCAL freedb (Տեղական)...\tCtrl+L
+_C_MNU_FILE_COPY Պատճենել...
+_C_MNU_FILE_DELETE Ջնջել...
+_C_MNU_FILE_DIR Փոխել &Թղթապանակը...\tCtrl+D
+_C_MNU_FILE_EXIT Ե&լք\tAlt+F4
+_C_MNU_FILE_EXPORT &Արտահանել...\tCtrl+E
+_C_MNU_FILE_FAVDIR &Նախընտրելի պանակ\tCtrl+F
+_C_MNU_FILE_MOVE Տեղափոխել...
+_C_MNU_FILE_PLALL Նվագացանկ (բոլոր ֆայլերը)\tCtrl+P
+_C_MNU_FILE_PLAY Նվագել
+_C_MNU_FILE_PLAYLIST Ներբեռնել նվագացանկ...
+_C_MNU_FILE_PLSEL Նվագացանկ (Ընտրված ֆայլեր)
+_C_MNU_FILE_PROPERTIES Հատկություններ...
+_C_MNU_FILE_READ Կարդալ &պիտակը\tCtrl+T
+_C_MNU_FILE_REMOVE &Հեռացնել պիտակը\tCtrl+R
+_C_MNU_FILE_REMOVEFILE &Հեռացնել ֆայլը\tDel
+_C_MNU_FILE_RENAME Վերանվանել\tF2
+_C_MNU_FILE_SAVE &Պահպանել Պիտակը\tCtrl+S
+_C_MNU_FILE_SAVECONFIG Պահպանել &դասավորությունը...
+_C_MNU_FREEDB f&reedb
+_C_MNU_FREEDB_INDEX Նոր տեղական ցուցիչ
+_C_MNU_FS_EXT Ընդլայնված դաշտեր
+_C_MNU_FS_FNCT Գործույթներ
+_C_MNU_FS_INFO Տվյալների դաշտեր
+_C_MNU_FS_REM Հեռացնել պատմությունից
+_C_MNU_FS_REMALL Հեռացնել բոլորը պատմությունից...
+_C_MNU_FS_REMALL_MSG Վստահ ե՞ք, որ ուզում եք ամեն ինչ հեռացնեք:
+_C_MNU_HELP &Օգնություն
+_C_MNU_HELP_ABOUT Mp3tag-ի Մասին...
+_C_MNU_HELP_DONATE Նվիրատվություն
+_C_MNU_HELP_FINDER &Պարունակություն...\tF1
+_C_MNU_HELP_FIRSTSTEPS &Առաջին քայլեր
+_C_MNU_HELP_KEYBOARD &Ստեղնաշարի դյուրանցումներ
+_C_MNU_HELP_SUPPORT Առգիծ աջակցություն...
+_C_MNU_HELP_UPGRADE Ստուգել նոր տարբերակ...
+_C_MNU_HELP_WWW Mp3tag &Վեբ-կայքը...
+_C_MNU_TAG_EDIT Խմբագրել...\tF2
+_C_MNU_TAG_NEW Ավելացնել...\tIns
+_C_MNU_TAG_REMOVE Հեռացնել\tDel
+_C_MNU_TAGSOURCES Պիտակի &Աղբյուրներ
+_C_MNU_TOOLS &Գործիքներ
+_C_MNU_VIEW &Տեսք
+_C_MNU_VIEW_COLUMNS &Փոփոխել սյունակները...
+_C_MNU_VIEW_FILTER &Զտիչ\tF3
+_C_MNU_VIEW_FILTER_AUTOAPPLY Ինքնակիրառել զտիչը
+_C_MNU_VIEW_ID3 Պիտակի պանել\tCtrl+Q
+_C_MNU_VIEW_REFRESH &Թարմացնել\tF5
+_C_MNU_VIEW_SORTBY &Տեսակավորել ըստ
+_C_MNU_VIEW_SORTBYRANDOM &Խառնակել
+_C_MNU_VIEW_TAGS Ը&նդլայնված պիտակներ...\tAlt+T
+_C_MNU_VIEW_TOOLBAR Գ&ործիքագոտի
+_C_MNU_SB_ACTIONS Կիրառում է օգտագործողի կողմից սահմանված գործողությունները (տառաչափի փոխակերպում, փոխարինում, ...) ընտրված ֆայլերին:
+_C_MNU_SB_CON_FTF Վերանվանել ֆայլերը հին ֆայլերի հիման վրա սահմանված նախշից հետո:
+_C_MNU_SB_CON_FTT Ներմուծել պիտակները ֆայլերի անուններից:
+_C_MNU_SB_CON_TFF Ներմուծել պիտակները տեքստային ֆայլերից:
+_C_MNU_SB_CON_TTF Վերանվանել ֆայլերը պիտակների հիման վրա սահմանված նախշից հետո:
+_C_MNU_SB_CON_TTT Ձևաչափել պիտակները՝ հիմնվելով պիտակների վրա:
+_C_MNU_SB_EDIT_COPY Պատճենեք ընտրված տեքստը կամ ընտրված ֆայլի պիտակը պատճենման բուֆերում:
+_C_MNU_SB_EDIT_CUT Կտրեք ընտրված տեքստը կամ ընտրված ֆայլի պիտակը և տեղափոխեք այն՝ պատճենման բուֆեր:
+_C_MNU_SB_EDIT_INVERTSELECTION Շրջել ընթացիկ ընտրությունը:
+_C_MNU_SB_EDIT_NEXT Նշեք հաջորդ ֆայլը ֆայլի տեսքում:
+_C_MNU_SB_EDIT_PASTE Տեղադրեք պատճենման բուֆերի պարունակությունը տեղադրման նշանի կամ ընտրված ֆայլի մեջ:
+_C_MNU_SB_EDIT_SELECT Ընտրեք ֆայլեր ֆայլի տեսքից:
+_C_MNU_SB_EDIT_UNDO Չանել վերջին գործողությունը:
+_C_MNU_SB_EDIT_UNSELECTALL Չընտրել բոլոր ֆայլերը:
+_C_MNU_SB_EXTRA_OPTIONS Ցուցադրել ընտրանքների պատուհանիկը
+_C_MNU_SB_EXTRA_RESET_EDITS Հեռացրեք տեքստը պիտակի վահանակի բոլոր մուտքային դաշտերից:
+_C_MNU_SB_EXTRA_SET_EDITS Պիտակի վահանակի բոլոր մուտքային դաշտերը սահմանեք հիմնական ստանդարտ արժեքներով:
+_C_MNU_SB_EXTRA_TRACKWIZARD Գործարկում է արահետի և սկավառակի համարակալման ավտոմատ վարպետին:
+_C_MNU_SB_FILE_ADD Ավելացրեք պանակի ուղին Ֆայլերի ցանկում:
+_C_MNU_SB_FILE_CDDB Տեղեկատվություն ստացեք տեղադրված աուդիո CD-ի կամ ընտրված աուդիո ֆայլերի մասին համացանցային կապի միջոցով:
+_C_MNU_SB_FILE_CDDBLOCAL Տեղեկատվություն ստացեք մտցված աուդիո CD-ի կամ ընտրված ֆայլերի մասին տեղական freedb տվյալների բազայի միջոցով:
+_C_MNU_SB_FILE_COPY Պատճենել ընտրված ֆայլերը մեկ այլ թղթապանակ:
+_C_MNU_SB_FILE_DELETE Ջնջել նշված ֆայլերը
+_C_MNU_SB_FILE_DIR Փոխել ընթացիք աշխատանքային պանակը
+_C_MNU_SB_FILE_EXIT Ելնել ծրագրից
+_C_MNU_SB_FILE_EXPORT Արտահանեք պիտակի և ֆայլի տեղեկատվությունը ընտրված ֆայլերից:
+_C_MNU_SB_FILE_FAVDIR Փոխել դեպի հիմնական թղթապանակ:
+_C_MNU_SB_FILE_FREEDBINDEX Ստեղծեք տեղական Freedb ինդեքսի տվյալների շտեմարան՝ տեղական Freedb- ի միջոցով որոնելու համար:
+_C_MNU_SB_FILE_MOVE Ընտրված ֆայլերը տեղափոխեք մեկ այլ թղթապանակ:
+_C_MNU_SB_FILE_PLALL Նոր նվագացանկ բոլոր ֆայլերից
+_C_MNU_SB_FILE_PLAY Նվագել ընտրված ֆայլերը:
+_C_MNU_SB_FILE_PLAYLIST Բեռնում է երգացանկի բովանդակությունը:
+_C_MNU_SB_FILE_PLSEL Նոր նվագացանկ ընտրված ֆայլերից
+_C_MNU_SB_FILE_PROPERTIES Ցուցադրել ընտրված ֆայլի հատկությունները:
+_C_MNU_SB_FILE_READ Կարդացեք ընտրված ֆայլից պիտակը պիտակի վահանակում մուտքագրման դաշտերից:
+_C_MNU_SB_FILE_REMOVE Հեռացնել պիտակը ընտրված ֆայլից:
+_C_MNU_SB_FILE_REMOVEFILE Հեռացնել ընտրված ֆայլերը:
+_C_MNU_SB_FILE_RENAME Վերանվանել ընտրված ֆայլը:
+_C_MNU_SB_FILE_SAVE Պահել պիտակը ընտրված ֆայլերում:
+_C_MNU_SB_FILE_SAVECONFIG Պահել ընթացիկ կայանքները կարգավորման ֆայլում:
+_C_MNU_SB_HELP_ABOUT Տեղեկություն Mp3tag-ի մասին:
+_C_MNU_SB_HELP_CONTEXT Ցույց տալ համատեքստի օգնությունը կտտացրած դաշտերի, ընտրացանկերի և պատուհանների համար:
+_C_MNU_SB_HELP_DONATE Խնդրում ենք հաշվի առնել նվիրատվություն Mp3tag-ի զարգացմանն աջակցելու համար:
+_C_MNU_SB_HELP_FINDER Ցուցադրել օգնության բովանդակությունը:
+_C_MNU_SB_HELP_FIRSTSTEPS Ցուցադրել Mp3tag- ի կարճ ներածությունը:
+_C_MNU_SB_HELP_KEYBOARD Ցուցադրել ստեղնաշարի դյուրանցումների ցուցակ:
+_C_MNU_SB_HELP_SUPPORT Անցեք Mp3tag Համայնքի ֆորումներ:
+_C_MNU_SB_HELP_UPGRADE Ստուգեք Mp3tag-ի նորացումները:
+_C_MNU_SB_HELP_WWW Գնացեք Mp3tag կայք:
+_C_MNU_SB_UPDIR Տեղափոխվել դեպի վերին թղթապանակ
+_C_MNU_SB_VIEW_COLUMNS Ցուցադրել երկխոսություն, որտեղ ֆայլերի դիտման սյունակները կարող են հարմարեցվել:
+_C_MNU_SB_VIEW_FILTER Զտել ֆայլի տեսքը:
+_C_MNU_SB_VIEW_ID3 Ցուցադրել-թաքցնել պիտակի վահանակը:
+_C_MNU_SB_VIEW_REFRESH Թարմացնել ֆայլի տեսքը:
+_C_MNU_SB_VIEW_TAGS Ցուցադրել ընդլայնված պիտակի երկխոսությունը:
+_C_MNU_SB_VIEW_TOOLBAR Ցուցադրել-թաքցնել գործիքագոտին
+_C_MNU_SB_WND_IDLE Պատրաստ
+_C_MNU_SB_WND_MAXIMIZE Ընդլայնել պատուհանը ամբողջ էկրանի չափով
+_C_MNU_SB_WND_MINIMIZE Նվազագույնի հասցնել պատուհանը առաջադրանքների գոտիում
+_C_MNU_SB_WND_MOVE Տեղափոխել պատուհանի տեղը
+_C_MNU_SB_WND_RESTORE Վերականգնել ամբողջ էկրանի կամ նվազագույնի հասցված պատուհանը՝ նորմալ չափի
+_C_MNU_SB_WND_SIZE Փոխել պատուհանի չափը
+_C_MULTILINE Բազմատող
+_C_OK &Լավ
+_C_OPT_ACTIONGROUPS Գործողության խմբեր
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Կիրառել
+_C_OPT_ACTIONGROUPS_SEL_EMPTY Գործողության խումբ չկա
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} գործողության խմբեր կան
+_C_OPT_ACTIONGROUPS_SEL_SINGLE 1 գործողության խումբ կա
+_C_OPT_ACTIONGROUPS_SORTBYNAME Տեսակավորել ըստ անունի
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Տեսակավորել ըստ վիճակի
+_C_OPT_ACTIONS Գործողություններ
+_C_OPT_ACTIONS_TYPE Ընտրել գործողության տեսակը
+_C_OPT_ADVANCED Առաջավոր
+_C_OPT_ADVANCED_ID3V2LANG ID3v2 մեկնության լեզվի կոդ (ISO-639-2)
+_C_OPT_ADVANCED_LISTCHAPTERS Ցուցակագրել գլուխները որպես առանձին ֆայլեր
+_C_OPT_ADVANCED_POPULARIMETER Միշտ ցուցադրել POPULARIMETER արժեքը ID3v2-ի դրույթում
+_C_OPT_CAPTION Ընտրանքներ
+_C_OPT_CDDB_CAPTION Freedb
+_C_OPT_CDDB_CHK_USEPROXY Գործածել &Պրոքսի
+_C_OPT_CDDB_FRM_CDDB Freedb Սերվեր
+_C_OPT_CDDB_FRM_LOCALPATH &Տեղական Freedb արահետ՝
+_C_OPT_CDDB_FRM_PROXY Պրոքսի
+_C_OPT_CDDB_RD_FMT_UNIX UNIX-ի ձևաչափ
+_C_OPT_CDDB_RD_FMT_WIN Windows-ի ձևաչափ
+_C_OPT_CDDB_ST_ADDRESS &Հասցե՝
+_C_OPT_CDDB_ST_EMAIL &Էլ-Փոստի հասցե՝
+_C_OPT_CDDB_ST_NAME &Անուն՝
+_C_OPT_CDDB_ST_PATH Արահետ՝
+_C_OPT_CDDB_ST_PORT Պորտ՝
+_C_OPT_CDDB_ST_PROXYNAME &Պրոքսի՝
+_C_OPT_CDDB_ST_PROXYPORT &Պորտ՝
+_C_OPT_CDDB_ST_PWD Գա&ղտնաբառ՝
+_C_OPT_CDDB_ST_TIMEOUT &Ընդմիջում՝
+_C_OPT_CDDB_ST_USERNAME &Օգտանուն՝
+_C_OPT_CDDB3_CAPTION Տեղական Freedb
+_C_OPT_CON_FRM_FTT &Ֆայլանուն - Պիտակ
+_C_OPT_CON_FRM_TFF &Տեքստ Ֆայլ - Պիտակ
+_C_OPT_CON_FRM_TTF &Պիտակ - Ֆայլանուն
+_C_OPT_CON_ST_FNAME Ֆայլանուն՝
+_C_OPT_CON_ST_FS Ձևաչափի տող՝
+_C_OPT_DIR Թղթապանակներ
+_C_OPT_DIR_COVER Նկարի արվեստի պանակ
+_C_OPT_EMPTY_HINT Ընտրել թեման ներքևում
+_C_OPT_EXP_CAPTION Արտահանել
+_C_OPT_EXP_CHK_APPEND Կցել տվյալ
+_C_OPT_EXP_CHK_WRITEBOM Գրել BOM
+_C_OPT_EXP_FRM_EXPORT Արտահանել դասավորությունը
+_C_OPT_EXP_RD_TRACK Արահետ
+_C_OPT_EXP_ST_FNAME Արտահանվող ֆայլի անունը
+_C_OPT_EXP_ST_NAME Նոր ատահանվող դասավորության անունը
+_C_OPT_FMT_CASE տառաչափի փոխակերպում
+_C_OPT_FMT_FRM_FTF Ֆայլանունից - Ֆայլանուն
+_C_OPT_FMT_ST_BEGIN Բառերը սկսվում են որևէ՝
+_C_OPT_FMT_ST_FNAME_NEW Նոր ֆայլանունի նշանը՝
+_C_OPT_FMT_ST_FNAME_OLD Հին ֆայլանունի նշանը՝
+_C_OPT_FMT2 Փոխարինել
+_C_OPT_FMT2_CASE տառաչափի զգայական համեմատություն
+_C_OPT_FMT2_COL_ORIGINAL Սկզբնական
+_C_OPT_FMT2_COL_REPLACE Փոխարինել -ով
+_C_OPT_FMT2_ONLYWORDS միայն որպես ամբողջական բառ
+_C_OPT_GEN_CAPTION Ընդհանուր
+_C_OPT_GEN_CHK_AUTOSAVE Պահել պիտակը &սլաքի ստեղնով,մկնիկի կտտոցով
+_C_OPT_GEN_CHK_FOLDERSTART սկսել այս պանակից
+_C_OPT_GEN_CHK_GRID Ցուցադրել ցանցի գծեր ֆայլի տեսքում
+_C_OPT_GEN_CHK_JUMPONEDIT Խմբագրելիս ինքնաբերաբար ընտրել հաջորդ ֆայլը
+_C_OPT_GEN_CHK_KEEPFILETIME Պահպանել ֆայլի փոփոխության ժամանակը
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Պահել տեղափոխված ֆայլերը ցուցակում
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS Գործողությունների համար զգուշացնելիս
+_C_OPT_GEN_CHK_MSG_CHANGE փոխելուց հետո
+_C_OPT_GEN_CHK_MSG_CUT պիտակ կտրելիս
+_C_OPT_GEN_CHK_MSG_DEL ջնջելուց հետո
+_C_OPT_GEN_CHK_MSG_DELETEFILE ֆայլ ջնջելիս
+_C_OPT_GEN_CHK_MSG_EXPORT պիտակն արտահանելիս
+_C_OPT_GEN_CHK_MSG_PASTE պիտակը կպցնելիս
+_C_OPT_GEN_CHK_MSG_REMOVETAGS պիտակը հեռացնելիս
+_C_OPT_GEN_CHK_MSG_SAVE պահպանելուց հետո
+_C_OPT_GEN_CHK_PL Նոր &Նվագացանկ ինքնաբերաբար
+_C_OPT_GEN_CHK_RELPL Հարաբերական մուտքագրում գործի պանակից
+_C_OPT_GEN_CHK_AUTOCOMPLETE Ինքնալրացում ընտրարկղիկներում
+_C_OPT_GEN_CHK_SELECTFILES Ընտրել ֆայլերը ինքնաբերաբար
+_C_OPT_GEN_CHK_SORTNATURAL Գործածել բնական տեսակավորում
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH &Ցուցադրել ընթացիկ ուղին պատուհանի վերնագրում
+_C_OPT_GEN_FRM_GEN Ընդհանուր
+_C_OPT_GEN_FRM_MSG Ցույց տալ ուղերձը
+_C_OPT_GEN_FRM_PL &Նվագացանկի անունը
+_C_OPT_GEN_RD_PLALL բոլոր ֆայլերից
+_C_OPT_GEN_RD_PLSEL ընտրված ֆայլերից
+_C_OPT_GEN_ST_FAVDIR Նախընտրելի պանակ՝
+_C_OPT_GEN2_CAPTION Ուղերձներ
+_C_OPT_GENRES Օգտվողի որոշած ժանրեր
+_C_OPT_GENRES_HIDESTANDARD Ցուցադրել միայն օգտվողի որոշած ժանրերը
+_C_OPT_ID3_CHK_ISO88591 Միշտ գրել ISO-8859-1 պիտակներ UTF-16-ի փոխարեն
+_C_OPT_ID3_CHK_LEADINGZEROS Արահետահամարի նախորդող զրո (01, 02)
+_C_OPT_ID3_CHK_LENGTHDEPENDEND ID3v2 միայն եթե ID3v1-ը չափազանց փոքր է
+_C_OPT_ID3_CHK_V1 ID3v1
+_C_OPT_ID3_CHK_V2 ID3v2
+_C_OPT_ID3_FRM_READ Կարդալ
+_C_OPT_ID3_FRM_REMOVE Հեռացնել
+_C_OPT_ID3_FRM_WRITE Գրել
+_C_OPT_LIB Գրադարան
+_C_OPT_LIB_CHK_ENABLE Միացնել գրադարանը
+_C_OPT_LIB_CHK_RESTRICT Ներառել միայն այս պանակները
+_C_OPT_LIB_CLEANUP Մաքրել գրադարանը
+_C_OPT_MAPPING Կցում
+_C_OPT_MAPPING_FRM Օգտվողի որոշած դաշտային կցումներ
+_C_OPT_MAPPING_SOURCE Աղբյուր
+_C_OPT_MAPPING_TARGET Նպատակ
+_C_OPT_PLAYLIST_CAPTION Նվագացանկ
+_C_OPT_PLAYLIST_EXTENDED Գրել ընդլայնված տվյալ
+_C_OPT_PLAYLIST_NOFOLDERS Չստեղծել պանակներ
+_C_OPT_PLAYLIST_SHOWDLG Ցուցադրել ֆայլանունի հաստատման պատուհանիկ
+_C_OPT_TAG Պիտակներ
+_C_OPT_TAGS_COVER Նկարի հիմանական ֆայլանունը
+_C_OPT_TAGS_EXT Պահպանման ռեժիմ << and >>-ի համար ընդլայնված պիտակի պատուհանիկում
+_C_OPT_TAGS_FILEFILTER Սահմանափակել ընդունելի ֆայլերը՝
+_C_OPT_TAGS_NOIMG &Պանակի առաջին նկարը ցույց չտալ որպես ֆայլի նկար
+_C_OPT_TOOLS Գործիքներ
+_C_OPT_TOOLS_CHK_DEFAULT Հատուկ ծրագիր գործածել կրկնակի կտտացնելիս՝
+_C_OPT_TOOLS_CHK_MULTIPLEINSTANCES բոլոր ընտրված ֆայլերի համար
+_C_OPT_TOOLS_COL_PARAM Պարամետր
+_C_OPT_TOOLS_COL_PATH Արահետ
+_C_OPT_TOOLS_EDIT Ձևափոխել գործիքր: Անունը և ուղին պարտադիր են:
+_C_OPT_TOOLS_FRM_DEFAULT Հիմնական գործիք
+_C_OPT_TOOLS_FRM_TOOLS Գործիքներ
+_C_OVERWRITE Վե&րագրել
+_C_RENAME &Վերանվանել
+_C_TT_CDDB Freedb...
+_C_TT_CDDBLOCAL Freedb (տեղական)...
+_C_TT_CLOSE Փակել
+_C_TT_DIR Փոխել պանակը...
+_C_TT_EDIT_UNDO Չանել
+_C_TT_EXPORT Արտահանել
+_C_TT_FAVDIR Նախընտրելի պանակ
+_C_TT_FILE_ADD Ավելացնել թղթապանակ...
+_C_TT_FILE_COPY Պատճենել դեպի...
+_C_TT_FILE_DELETE Ջնջել...
+_C_TT_FILE_MOVE Տեղափոխել դեպի...
+_C_TT_FILE_PLAY Նվագել
+_C_TT_FILE_PROPERTIES Հատկություններ...
+_C_TT_FILE_RENAME Վերանվանել
+_C_TT_FTF Ֆայլանունից - Ֆայլանուն
+_C_TT_FTT Ֆայլանունից - Պիտակ
+_C_TT_HELP Օգնության պարունակություն...
+_C_TT_OPT Ընտրանքների պատուհանիկ...
+_C_TT_PLALL Նվագացանկ բոլոր ֆայլերից
+_C_TT_PLSEL Նվագացանկ ընտրված ֆայլերից
+_C_TT_REFRESH Թարմացնել ֆայլի տեսքը
+_C_TT_REMOVE Հեռացնել պիտակը
+_C_TT_SAVE Պահպանել
+_C_TT_TFF Տեքստ ֆայլից - Պիտակ
+_C_TT_TTF Պիտակից - Ֆայլանուն
+_C_TT_TTT Պիտակից - Պիտակ
+_C_TT_UPDIR Վեր
+_C_WIZARD_TRACKS Ինքնահամարակալման վարպետ
+_C_WIZARD_TRACKS_BEGIN Սկսել արահետահամարից՝
+_C_WIZARD_TRACKS_DESC Նշանակել արահետ և սկավառակահամար
+_C_WIZARD_TRACKS_DISC_BEGIN Սկսել սկավառակահամարից
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Սկավառակահամարի նախորդող զրո (01, 02)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Պահպանել սկավառակի հաշիվը
+_C_WIZARD_TRACKS_DISCNUMBER Սկավառակահամար
+_C_WIZARD_TRACKS_RESETFOLDERS Վերականգնել պանակի հաշվիչը
+_C_WIZARD_TRACKS_SAVETOTAL Պահպանել արահետի հաշիվը
+_C_WIZARD_TRACKS_TRACKNUMBER Արահետահամար
+_M_ERR_CANCEL Գործընթացը չեղյալ է հայտարարվել:
+_M_ERR_CDDB_CD Աուդիո CD-ն ընթերցելու սխալ
+_M_ERR_CDDB_CONNECT Սերվերին միանալու սխալ. {1}
+_M_ERR_CDDB_NOENTRY Freeb ID-ի համար համապատասխան գրառում չի գտնվել {1}.
+_M_ERR_CDDB_NOENTRYINLOCALBD Freeb ID-ի համար համապատասխան գրառում չի գտնվել {1} տեղական Freedb տվյալների բազայում '{2}'.
+_M_ERR_CDDB_PARSER Հարցումն արդյունք չի տվել:
+_M_ERR_CDDB_READ Սխալ՝ {1}-ից տվյալները կարդալու
+_M_ERR_CONFIGURATION Չի կարող ներմուծվի կարգավորումը:
+_M_ERR_COPY Հնարավոր չէ պատճենել ընտրված ֆայլերը:
+_M_ERR_DELETE Հնարավոր չէ ջնջել ընտրված ֆայլերը:
+_M_ERR_FILECREATE Ֆայլը \"{1}\" չի կարող ստեղծվել:
+_M_ERR_FILEDELETE Ֆայլը \"{1}\" չի կարող ջնջվել:
+_M_ERR_FILENAMEALREADYEXISTS Ֆայլը \"{1}\" արդեն գոյություն ունի:
+_M_ERR_FILENAMEALREADYEXISTS2 Ֆայլը \"{1}\" չի վերանվանվել:
+_M_ERR_FILEOPABORTED Ընթացիկ թղթապանակի բովանդակությունը գուցե փոխվել է:\n\nՈւզո՞ւմ եք վերընթերցել ընթացիկ թղթապանակը:
+_M_ERR_FILEOPEN Ֆայլը \"{1}\" չի կարող բացվել:
+_M_ERR_FILEREADONLY Ֆայլը \"{1}\" միայն ընթերցանության համար է:\n\nԱրդյո՞ք Mp3tag-ը պիտի անջատի այս և հետագա ֆայլերի միայն կարդալու պաշտպանությունը:
+_M_ERR_FOLDERCANNOTBEACCESSED Մատչելիության սխալ\n\nԹղթապանակը \"{1}\" մատչելի չէ
+_M_ERR_INVALID_FILENAME Խնդրվում է նշել ֆայլի վավերական  անուն:
+_M_ERR_INVALID_FTF_FS Տողը \"{1}\" ֆայլի անունների համար ձևաչափի վավերական տող չէ:
+_M_ERR_INVALID_TOKEN {1}:\nՀետևյալ նիշերը ֆայլերի անվանումներում չեն թույլատրվում՝:\n\\ / : * ? \" < > |\n\nՑանկանո՞ւմ եք, որ այն ավտոմատ կերպով շտկվի:
+_M_ERR_MOVE Հնարավոր չէ տեղափոխել ընտրված ֆայլերը:
+_M_ERR_ONLINE_NOTFOUND Ներեցեք, ոչ մի գրառում չի համապատասխանում ձեր որոնման չափանիշներին:
+_M_ERR_OPT_CDDB_NOADDRESS Խնդրում ենք մուտքագրել freedb սերվերի հասցեն:
+_M_ERR_OPT_CDDB_NOEMAIL Խնդրում ենք մուտքագրել ձեր էլ-փոստի հասցեն «Ընտրանքներ, freedb, Սերվեր» բաժնում: Այն կօգտագործվի freedb Սերվեր մուտք գործելու համար:
+_M_ERR_OPT_CDDB_NONAME Խնդրում ենք մուտքագրել կարգավորման համար վավերական անուն:
+_M_ERR_OPT_CDDB_NOPORT Խնդրում ենք մուտքագրել freedb Սերվերի պորտի(դռան) համարը:
+_M_ERR_PARSELINE Հնարավոր չէ վերլուծել տողը {1}.
+_M_ERR_PLAY Հնարավոր չէ բացել ֆայլը \"{1}\" Նվագելու համար:
+_M_ERR_READ_FILE Ֆայլը \"{1}\" չի կարող բացվել ընթերցանության համար:
+_M_ERR_RENAME_FILE Ֆայլը \"{1}\" չի կարող վերանվանվել \"{2}\".
+_M_ERR_RETRY Ցանկանո՞ւմ եք կրկին փորձել:
+_M_ERR_TL_NOTAGS Ֆայլի համապատասխան գրառում չկա \"{1}\".
+_M_ERR_WRITE_FILE Ֆայլը \"{1}\" չի կարող բացվել գրելու համար:
+_M_ERR_YN \n\nՑանկանո՞ւմ եք շարունակել:
+_M_LOG_FMT_FNAME  {2} ֆայլերից {1}-ը վերանվանվեց:\n
+_M_LOG_FMT_TAG Ձևաչափված պիտակները {2} ֆայլերից {1}-ում:\n
+_M_LOG_FTF {2} ֆայլերից {1}-ը վերանվանվեց:.
+_M_LOG_FTT {2} ֆայլերից {1}-ից առաջացած պիտակ:
+_M_LOG_PL_ALL Նվագացանկը \"{1}\" ստեղծվել է բոլոր ({2}) ֆայլերից:
+_M_LOG_PL_SEL Նվագացանկը \"{1}\" ստեղծվել է ընտրված ({2}) ֆայլերից:
+_M_LOG_REMOVE Պիտակը հեռացվեց ֆայլից \"{1}\".
+_M_LOG_REMOVED Պիտակը հեռացվեց {2} ֆայլերից {1}-ից:
+_M_LOG_REMOVE_NOTAG Պիտակ չկա ֆայլում \"{1}\".
+_M_LOG_SAVE Պիտակը պահպանվեց ֆայլում \"{1}\".
+_M_LOG_SAVED Պիտակը պահպանվեց {2} ֆայլերից {1}-ում:
+_M_LOG_TFF Պիտակները ներմուծվեցին {3} ֆայլերի \"{1}\"-ից {2}-ում
+_M_LOG_TFF_S Պիտակները ներմուծվեցին \"{1}\"-ից մեկ ֆայլում:
+_M_LOG_TTF  {2} ֆայլերից {1}-ը վերանվանվեց:
+_M_STAT_PLAY Playing file \"{1}\"...
+_M_STR_ACTION_ADJUSTCOVER Հարմարեցնել նկարը
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Ձևաչափ
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Սկզբնօրինակ
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Որակ
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Լավագույն
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH Բարձր
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Ցածր
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Միջին
+_M_STR_ACTION_ADJUSTCOVER_SIZE Առավելագույն Չափս
+_M_STR_ACTION_CODEPAGE Փոխակերպես կոդի էջը
+_M_STR_ACTION_CODEPAGE_DESC Կոդի էջ
+_M_STR_ACTION_EXPORTCOVER Արտահանել նկարը որպես ֆայլ
+_M_STR_ACTION_EXPORTCOVER_DUPES Արտահանել կրկնակի նկարները
+_M_STR_ACTION_EXPORTCOVER_TYPES Արտահանել միայն այս տեսակի նկարները
+_M_STR_ACTION_FORMAT Ձևաչափի արժեք
+_M_STR_ACTION_GUESS Կռահել արժեքները
+_M_STR_ACTION_GUESSPATTERN Կռահողական նշան
+_M_STR_ACTION_GUESSSOURCE Աղբյուրի ձևաչափ
+_M_STR_ACTION_IMPORTCOVER Ներմուծել նկարը ֆայլից
+_M_STR_ACTION_IMPORTCOVER_FS Նկարի անվանման ձևաչափի տողը՝
+_M_STR_ACTION_IMPORTCOVER_DELETE &Ջնջել առկա նկարը
+_M_STR_ACTION_IMPORTCOVER_TYPE Ներմուծել նկարը որպես 
+_M_STR_ACTION_IMPORTTEXT Ներմուծել տեքստ ֆայլ
+_M_STR_ACTION_MERGEDUPLICATEFIELDS Ձուլել կրկնակի դաշտերը
+_M_STR_ACTION_REGEXP Փոխարինել կանոնավոր արտահայտությամբ
+_M_STR_ACTION_REGEXP_EXP Կանոնավոր արտահայտություն
+_M_STR_ACTION_REGEXP_MATCH Փոխարինել համընկնումները -ով
+_M_STR_ACTION_REMOVEDUPES Հեռացնել կրկնակի դաշտերը
+_M_STR_ACTION_REM Հեռացնել դաշտերը
+_M_STR_ACTION_REM_DESC Հեռացնելու դաշտերը (կետ-ստորակետով անջատված):
+_M_STR_ACTION_REM_EX Հեռացնել դաշտերը բացի
+_M_STR_ACTION_REM_EX_DESC Թողնելու դաշտերը (կետ-ստորակետով անջատված):
+_M_STR_ACTION_SETCOVERPROPERTIES Սահմանել նկարի հատկությունները
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Նկարի նկարագրությունը՝
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Սահմանել՝
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL Բոլոր նկարները
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Նկարի տեսակը՝
+_M_STR_ACTION_SPLITFIELDS Տրոհել դաշտը անջատիչով
+_M_STR_ACTIONGROUP_CHANGED Գործողությունների խմբերի կազմաձևը փոխվել է:\r\n\r\nՑանկանո՞ւմ եք պահպանել փոփոխությունները:
+_M_STR_ACTIONGROUP_NAME Գործողության խմբի անվանումը
+_M_STR_ALBUM Ալբոմ
+_M_STR_ALBUMARTIST Ալբոմի Երգիչ
+_M_STR_ALL_FILEDLGFILTER Բոլոր ֆայլերը (*.*)|*.*||
+_M_STR_ARTIST Երգիչ
+_M_STR_AUTHOR Հեղինակ
+_M_STR_AUTOSIZECOLUMNS Ինքնաչափավորել սյունակները
+_M_STR_BACK < &Ետ
+_M_STR_BROWSE_COPY Պատճենել դեպի՝
+_M_STR_BROWSE_MOVE Տեղափոխել դեպի՝
+_M_STR_BROWSE_TEXT Ընտրել թղթապանակ, որտեղ աուդիո ֆայլեր կան
+_M_STR_BYTES Բայթեր
+_M_STR_CDDB_CD Կարդալ աուդիո CD
+_M_STR_CDDB_CONNECT միանալ {1}...
+_M_STR_CDDB_CONNECTED  միացված է
+_M_STR_CDDB_IDXDB_ENTRIES ստեղծվել են տվյալների բազայի գրառումներ
+_M_STR_CDDB_RETRIEVE Վերստանալ վերնագրի տվյալը
+_M_STR_COLUMNFILENAME Ֆայլանուն
+_M_STR_COLUMNPATH Արահետ
+_M_STR_COLUMNUSEDCOLS ցույց է տրված
+_M_STR_COMBO_HOLD < Պահել >
+_M_STR_COMBO_REMOVE < Դատարկ >
+_M_STR_COMBO_USER < ներմուծել >
+_M_STR_COMMENT Մեկնութ.
+_M_STR_COMPOSER Երգահան
+_M_STR_COPYOF {1} օրինակ
+_M_STR_COVER Նկար
+_M_STR_COVER_ADD Ուզում եք պահե՞լ առկա նկարները
+_M_STR_COVER_CORRECTAR Ուղղել տեսական համաչափությունը
+_M_STR_COVER_SETDESC Սահմանել &նկարագրություն...
+_M_STR_COVER_SETTYPE Սահմանել նկարի &տեսակը
+_M_STR_COVERVARIES Նկարը տարբերվում է
+_M_STR_CUSTOMIZE Ձևափոխել...
+_M_STR_DAY օր
+_M_STR_DAYS օրեր
+_M_STR_DEFAULTVALUE Հիմնական արժեք
+_M_STR_DISCID CDDB ID
+_M_STR_DISCOGS_OAUTH_PIN Մուտքագրել Discogs թույլտվության կոդը
+_M_STR_DISCNUMBER Սկավառակահամար
+_M_STR_ERR_CDDB_NOENTRYSELECTED Խնդրում ենք ընտրել գրառում:
+_M_STR_EXPORT_DELETE Ջնջե՞լ արտահանված կարգավորումը \"{1}\"
+_M_STR_EXPORT_FILEDLGTITLE Ընտրել արտահանման ֆայլը
+_M_STR_EXPORT_MULTIPLE Մեկ ֆայլ ըստ պանակի
+_M_STR_EXPORT_SHOWEXPORTFILE \n\nՑուցադրե՞լ արտահանման ֆայլը
+_M_STR_EXP_MSG Արտահանումը մշակեց {2} ֆայլեր և գրեց մեկ ֆայլում '{1}'.
+_M_STR_FIELD &Դաշտ՝
+_M_STR_FIELDSIZE Դաշտի չափս՝
+_M_STR_FIELDROWS Շարք
+_M_STR_FILE Ֆայլ
+_M_STR_FILEDELETE Ուզում եք ջնջե՞ք բոլոր ընտրված ֆայլերը
+_M_STR_FILEMODIFIED Փոխված
+_M_STR_FILESIZE Չափս
+_M_STR_FILTER &Զտիչ՝
+_M_STR_FMT_CAPITAL Խառը տառաչափ
+_M_STR_FMT_HIGH բարձր տառաչափ
+_M_STR_FMT_LOW ցածր տառաչափ
+_M_STR_FMT_SENTENCE Նախադասություն
+_M_STR_FREEDBCREATEINDEX Ստեղծե՞լ տեղական Freedb ինդեքսի տվյալների բազա:\n\nՍա կարող է տևել մի քանի րոպե:
+_M_STR_FREEDB_SEARCH freedb վեբի որոնում
+_M_STR_GENRE Ժանր
+_M_STR_GENRES Ժանրեր
+_M_STR_HIDE &Թաքցնել
+_M_STR_ITEMALREADYEXISTS Անունն արդեն կա, վերագրե՞լ
+_M_STR_LANGUAGE Լեզու
+_M_STR_M3U_FILEDLGFILTER Ընդունելի ֆայլեր (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
+_M_STR_METADATA &Մետատվյալ
+_M_STR_MOVEDOWN Շարժել &ցած
+_M_STR_MOVEUP Շարժել &վեր
+_M_STR_MPEGBITRATE Բիթադրույք
+_M_STR_MPEGFREQUENCY Հաճախութ.
+_M_STR_MPEGLENGTH Երկարութ.
+_M_STR_MPEGMODE Ռեժիմ
+_M_STR_MPEGVERSION Կոդեկ
+_M_STR_MSGCUT Ցանկանո՞ւմ եք հեռացնել ընտրված ֆայլերի պիտակները և պիտակները պատճենել պատճենաբուֆերում:
+_M_STR_MSGPASTE Ցանկանո՞ւմ եք տեղադրել պատճենաբուֆերի բովանդակությունը որպես ընտրված ֆայլերի նոր պիտակներ:
+_M_STR_MSGREMOVE Ցանկանո՞ւմ եք հեռացնել ընտրված ֆայլերի պիտակները:
+_M_STR_NAME &Անուն
+_M_STR_NETWORKING Ցանց
+_M_STR_NEXT &Հաջորդ >
+_M_STR_NOACTION - Անգործություն -
+_M_STR_NOACTIONENABLED Խնդրվում է միացնել առնվազն  մեկ գործողություն սահմանված նշանների միջոցով այս հատկությունն օգտագործելու համար:
+_M_STR_NUMERIC &Թվային
+_M_STR_OPT_CDDB_BROWSE_LOCALPATH Խնդրվում է ընտրել աշխատանքային թղթապանակ տեղական Freedb տվյալների բազայի համար:
+_M_STR_OPT_CDDB_PROCEED Սա կվերացնի բոլոր սերվերները:\n\nՑանկանո՞ւմ եք շարունակել:\n
+_M_STR_OPTIMIZEMP4 Բարելավել MP4
+_M_STR_OPTS_ALWAYS միշտ
+_M_STR_OPTS_ASK հարցնել
+_M_STR_OPTS_NEVER երբեք
+_M_STR_PLNAME Նվագացանկ - Ֆայլանուն
+_M_STR_PL_CONFIRM Նոր Նվագացանկ այս անունով
+_M_STR_PL_SAVEFILTER Նվագացանկի ֆայլ (*.m3u)|*.m3u|Յունիկոդ Նվագացանկի ֆայլ (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Նոր ընտրության &նախադրույք...
+_M_STR_PRESETS &Նախադրույք
+_M_STR_PREVIEW Նախադիտում
+_M_STR_PROPERTIES {1} Հատկություններ
+_M_STR_QUICK &Արագ
+_M_STR_RECURSE Ենթապանակներ
+_M_STR_REST Մնացած
+_M_STR_SAVE_NOT < առանց զուգորդման >
+_M_STR_SAVECONFIG Ձեր կարգավորումները պահվում են '{1}'-ում:\n\nՁեր կայանքները վերականգնելու համար արխիվը հանեք դեպի\n\"{2}\".
+_M_STR_SAVECONFIG_FILEDLGFILTER Կարգավորման ֆայլեր (*.zip)|*.zip||
+_M_STR_SAVECONFIG_FILEDLGTITLE Պահպանել կարգավորումը ...
+_M_STR_SAVEIMAGE Պահպանել նկարը պիտակում
+_M_STR_SAVEIMAGEDIRECTORY Պահպանել նկարը սկավառակում
+_M_STR_SAVESELECTION Պահել ընտրությունը...
+_M_STR_SB_ABORTED չեղարկված
+_M_STR_SB_ACTION Կիրառվում են գործողությունները ֆայլում ...  {2}-ից {1}-ը
+_M_STR_SB_CLEANUPDATABASE Մշակվում են ֆայլերը ...  {2}-ից {1}-ը ({3} մաքրվել է)
+_M_STR_SB_CLEANUPDATABASE_BINARIES Մաքրել բինարային որբացած ֆայլերը 
+_M_STR_SB_CLEANUPDATABASE_COVERS Մաքրել որբացած նկարները
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Մաքրել ոչ գրադարանային ֆայլերը
+_M_STR_SB_EXPORTTAGS Արտահանվում է պիտակի տեղեկությունը ...  {2} ֆայլերից {1} գրառում
+_M_STR_SB_FILTER Filtering ...
+_M_STR_SB_LOADTAGS Ընթերցվում է պիտակի տվյալները ...  {2}-ից {1}-ը
+_M_STR_SB_READDIRECTORY Ընթերցվում է թղթապանակը
+_M_STR_SB_REMOVETAGS Հեռացվում են պիտակի տվյալները ... {2}-ից {1}-ը
+_M_STR_SB_RENAMEFILES Վերանվանվում է ֆայլը ... {2}-ից {1}-ը
+_M_STR_SB_WRITETAGS Գրվում են պիտակի տվյալները ... {2}-ից {1}-ը
+_M_STR_SHOWCHOOSEDLG Ցուցադրել ընտրության պատուհանիկ
+_M_STR_SEARCHBY Փնտրել ըստ՝
+_M_STR_SEARCHTEXT Տեքստ՝
+_M_STR_SEPARATOR Անջատիչ
+_M_STR_SHOW &Ցույց տալ
+_M_STR_SIZE_LARGE Մեծ
+_M_STR_SIZE_MEDIUM Միջին
+_M_STR_SIZE_NORMAL Նորմալ
+_M_STR_SIZE_SMALLER Նվազ
+_M_STR_SIZE_SMALL Փոքր
+_M_STR_SNA Զգուշացման գոտի
+_M_STR_SNA_SHOW Միշտ ցուցադրել պատկերակ տեղեկացման գոտում
+_M_STR_SNA_SHOWMIN Իջեցնել դեպի տեղեկացման գոտի
+_M_STR_STRIPCHAPTERSMP4 Մասնատվում են MP4 գլուխները
+_M_STR_TAG_COPIED {1} ֆայլի պիտակ պատճեննվեց պատճենաբուֆեր:
+_M_STR_TAG2 Պիտակ
+_M_STR_TAGFIELDS_REMOVE Հեռացնել դաշտը
+_M_STR_TAGFIELDS_REMOVEALL Հեռացնել բոլոր դաշտերը...
+_M_STR_TAGFIELDS_REMOVEALLMSG Վստա՞հ եք, որ ցանկանում եք ցուցակից հանել բոլոր դաշտերը:
+_M_STR_TAGFIELDS_RESET Վերականգնել դաշտերը...
+_M_STR_TAGFIELDS_RESETMSG Վստա՞հ եք, որ ցանկանում եք վերականգնել դաշտերի հիմնական ցուցակը:
+_M_STR_TAGPANEL Պիտակի պանել
+_M_STR_TAGPANEL_COVER Ցուցադրել նկարի արվեստը
+_M_STR_TAGPANEL_DIRECTORY Ցուցադրել թղթապանակի անջատիչը
+_M_STR_TAGLIST_FILEDLGFILTER Տեքստ ֆայլեր ({1})
+_M_STR_TAGLIST_FILEDLGTITLE Ընտրել տեքստ ֆայլ
+_M_STR_TAGSOURCES Պիտակի Աղբյուր
+_M_STR_THISALBUMON Այս ալբոմը՝ {1}
+_M_STR_TITLE Վերնագիր
+_M_STR_TRYAGAIN Ուզո՞ւմ եք դարձյալ փորձել
+_M_STR_TTF Tag - Ֆայլանուն
+_M_STR_UNSAVED Do you want to save the changes?
+_M_STR_UPDATE_FRM Նորացումներ
+_M_STR_UPDATE_OPT_CHECK Ընտրել նորացումներ Windows-ը գործարկվելիս
+_M_STR_UPDATE_OPT_CHECK_BETA Ներառել փորձնական (բետա) տարբերակներ
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES ցուցադրել թողարկման նշում նոր տարբերակի համար
+_M_STR_UPDATEAVAILABLE Նոր տարբերակ {1} կա:\n\nՑանկանո՞ւմ եք այժմ ներբեռնել այս նորացումը {2}-ից:
+_M_STR_UPDATENOTAVAILABLE Դուք գործածում եք վերջին տարբերակը {1}.\n\nՆորացում չկա:
+_M_STR_URL https://www.mp3tag.de/en/download.html
+_M_STR_UTILS &Պարագաներ
+_M_STR_VALUE &Արժեք
+_M_STR_VERSION Տարբերակ
+_M_STR_YEAR Տարի
+_M_TP_CDDB_LOCALPATH Նշել տեղական freedb պանակ
+_M_TP_CDDB_SITES freedb սերվերների առկա ցուցակը համացանցում
+_M_TP_CVR_CLIPBOARD &Կպցնել նկարը
+_M_TP_CVR_CLIPBOARD_COPY Պատճենել նկարը
+_M_TP_CVR_CLIPBOARD_CUT &Կտրել նկարը
+_M_TP_CVR_DEL &Հեռացնել նկարը
+_M_TP_CVR_NEW &Ավելացնել նկար...
+_M_TP_CVR_SAVE &Արտահանել նկար...
+_M_TP_DUPLICATE Կրկնապատկել
+_M_TP_EXP_DEL &Ջնջել
+_M_TP_EXP_EDIT Խմբագրել
+_M_TP_EXP_FILE Ընտրել արտահանման ֆայլ
+_M_TP_EXP_HLP Ցուցադրել արագ օգնություն
+_M_TP_EXP_LOAD Վերբեռնել դասավորություն...
+_M_TP_EXP_NEW &Նոր
+_M_TP_EXP_SAVE Պահպանել դասավորությունը...
+_M_TP_GEN_DIR Ընտրել պանակը
+_M_TP_TAG_DEL Հեռացնել դաշտը
+_M_TP_TAG_EDIT Խմբագրել դաշտը...
+_M_TP_TAG_NEW Ավելացնել դաշտը...
+_M_TS_ADDINFO &Լրացուցիչ տեղեկություն
+_M_TS_MULTIPLEVALUES բազմաթիվ արժեքներ
+_M_TS_RELEASE &Թողարկում
+_M_TS_TRACKS &Հետքեր
+_M_UNDO_CANNOTUNDO Չի կարող չեղարկվի {1}
+_M_UNDO_CDDB freedb
+_M_UNDO_DIRECTORYCREATE Նոր պանակ
+_M_UNDO_DIRECTORYMOVE Տեղափոխել պանակը
+_M_UNDO_FORMAT Ձևաչափ
+_M_UNDO_FTF Ֆայլանունից - Ֆայլանուն
+_M_UNDO_FTT Ֆայլանունից - Պիտակ
+_M_UNDO_REMOVEFILE Հեռացնել
+_M_UNDO_RENAME Վերանվանել
+_M_UNDO_TAGCHANGE Փոխել պիտակը
+_M_UNDO_TAGREMOVE Հեռացնել պիտակը
+_M_UNDO_TAGSAVE Պահպանել պիտակը
+_M_UNDO_TFF Տեքստ ֆայլից - Պիտակ
+_M_UNDO_TTF Պիտակից - Ֆայլանուն

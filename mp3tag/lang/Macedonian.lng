@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD Кратенки на тастатура
 _C_MNU_HELP_SUPPORT Мрежна поддршка...
 _C_MNU_HELP_UPGRADE Проверете за нова верзија...
 _C_MNU_HELP_WWW Mp3tag Веб страница...
+_C_MNU_TAG_EDIT Edit...\tF2
+_C_MNU_TAG_NEW Add...\tIns
+_C_MNU_TAG_REMOVE Remove\tDel
 _C_MNU_TAGSOURCES Извори за етикета
 _C_MNU_TOOLS Алатки
 _C_MNU_VIEW Преглед
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY Auto-apply filter
 _C_MNU_VIEW_ID3 Окно за етикета
 _C_MNU_VIEW_REFRESH Освежи
 _C_MNU_VIEW_SORTBY Подреди по
+_C_MNU_VIEW_SORTBYRANDOM &Randomize
 _C_MNU_VIEW_TAGS Проширена етикета...
 _C_MNU_VIEW_TOOLBAR Лента со алатки
 _C_MNU_SB_ACTIONS Применува зададени кориснички дејствија на избрани датотеки.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE Промена на големина на прозорец.
 _C_MULTILINE Повеќелиниски
 _C_OK Во ред
 _C_OPT_ACTIONGROUPS Групи на дејствија
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Apply
+_C_OPT_ACTIONGROUPS_SEL_EMPTY No action group enabled
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} action groups enabled
+_C_OPT_ACTIONGROUPS_SEL_SINGLE One action group enabled
+_C_OPT_ACTIONGROUPS_SORTBYNAME Sort by name
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Sort by state
 _C_OPT_ACTIONS Дејствија
 _C_OPT_ACTIONS_TYPE Избери вид на дејствие
 _C_OPT_ADVANCED Advanced
 _C_OPT_ADVANCED_ID3V2LANG ID3v2 comment language code (ISO-639-2)
 _C_OPT_ADVANCED_LISTCHAPTERS List chapters as separate files
+_C_OPT_ADVANCED_POPULARIMETER Always display POPULARIMETER values for ID3v2 ratings
 _C_OPT_CAPTION Опции
 _C_OPT_CDDB_CAPTION База на податоци
 _C_OPT_CDDB_CHK_USEPROXY Користи прокси
@@ -401,6 +412,11 @@ _M_STAT_PLAY Пуштање датотеки \"{1}\"...
 _M_STR_ACTION_ADJUSTCOVER Adjust cover
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Format
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Quality
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Best
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH High
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Low
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Medium
 _M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
 _M_STR_ACTION_CODEPAGE КЈонвертирај код на страница
 _M_STR_ACTION_CODEPAGE_DESC Код на страница
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Отстрани полиња
 _M_STR_ACTION_REM_DESC Полиња за отстранување (одвоени со запирка):
 _M_STR_ACTION_REM_EX Отстрани полиња освен
 _M_STR_ACTION_REM_EX_DESC Полиња за напуштање (одвоени со запирка):
+_M_STR_ACTION_SETCOVERPROPERTIES Set cover properties
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Cover Description:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Set for:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL All covers
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Cover Type:
 _M_STR_ACTION_SPLITFIELDS Раздели полиња со одделувач
+_M_STR_ACTIONGROUP_CHANGED Configuration of action groups has changed.\r\n\r\nDo you want to save the changes?
 _M_STR_ACTIONGROUP_NAME Име на група за дејствување
 _M_STR_ALBUM Албум
 _M_STR_ALBUMARTIST Албум на изведувач
 _M_STR_ALL_FILEDLGFILTER Сите датотеки (*.*)|*.*||
 _M_STR_ARTIST Изведувач
 _M_STR_AUTHOR Автор
+_M_STR_AUTOSIZECOLUMNS Auto-size columns
 _M_STR_BACK < Назад
 _M_STR_BROWSE_COPY Копирај во:
 _M_STR_BROWSE_MOVE Премести во:
@@ -516,6 +539,8 @@ _M_STR_OPTS_NEVER никогаш
 _M_STR_PLNAME Листа за пуштање - Име на датотека
 _M_STR_PL_CONFIRM Создај листа за пуштање со оваа име
 _M_STR_PL_SAVEFILTER Playlist File (*.m3u)|*.m3u|Unicode Playlist File (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Create selection preset...
+_M_STR_PRESETS Presets
 _M_STR_PREVIEW Преглед
 _M_STR_PROPERTIES {1} Својства
 _M_STR_QUICK Брзо
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES Cleanup orphaned binaries
 _M_STR_SB_CLEANUPDATABASE_COVERS Cleanup orphaned covers
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES Cleanup non-library files
 _M_STR_SB_EXPORTTAGS Извезување информации за етикета... {1} од {2} датотеки
+_M_STR_SB_FILTER Filtering ...
 _M_STR_SB_LOADTAGS Читање податоци од етикета... {1} од {2}
 _M_STR_SB_READDIRECTORY Читање папка
 _M_STR_SB_REMOVETAGS Отстранување податоци од етикета... {1} од {2}
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON Овој албум на {1}
 _M_STR_TITLE Наслов
 _M_STR_TRYAGAIN Дали сакате да се обидете повторно?
 _M_STR_TTF Етикета - Име на датотека
+_M_STR_UNSAVED Do you want to save the changes?
 _M_STR_UPDATE_FRM Ажурирања
 _M_STR_UPDATE_OPT_CHECK Провери за ажурирања при стартувањето
 _M_STR_UPDATE_OPT_CHECK_BETA Исто така вклучи бета изданија

@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD キーボードショートカットヘルプ（英語）�
 _C_MNU_HELP_SUPPORT オンラインサポート（英語）をブラウザで開く
 _C_MNU_HELP_UPGRADE 新しいバージョンを確認
 _C_MNU_HELP_WWW Mp3tag ウェブサイト（英語）をブラウザで開く(&W)
+_C_MNU_TAG_EDIT Edit...\tF2
+_C_MNU_TAG_NEW Add...\tIns
+_C_MNU_TAG_REMOVE Remove\tDel
 _C_MNU_TAGSOURCES タグを取得(&S)
 _C_MNU_TOOLS ツール(&T)
 _C_MNU_VIEW 表示(&V)
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY フィルタを自動適用
 _C_MNU_VIEW_ID3 タグパネル\tCtrl+Q
 _C_MNU_VIEW_REFRESH 更新(&E)\tF5
 _C_MNU_VIEW_SORTBY 並替(&S)
+_C_MNU_VIEW_SORTBYRANDOM &Randomize
 _C_MNU_VIEW_TAGS タグを編集(&X)\tALT+T
 _C_MNU_VIEW_TOOLBAR ツールバー(&L)
 _C_MNU_SB_ACTIONS 選択されたファイルにユーザー定義のアクションを適用(語形変化、置換など)します
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE ウィンドウのサイズを変更します
 _C_MULTILINE 複数行フィールド
 _C_OK &OK
 _C_OPT_ACTIONGROUPS アクショングループ
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Apply
+_C_OPT_ACTIONGROUPS_SEL_EMPTY No action group enabled
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} action groups enabled
+_C_OPT_ACTIONGROUPS_SEL_SINGLE One action group enabled
+_C_OPT_ACTIONGROUPS_SORTBYNAME Sort by name
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Sort by state
 _C_OPT_ACTIONS アクション
 _C_OPT_ACTIONS_TYPE アクションタイプの選択
 _C_OPT_ADVANCED 高度な設定
 _C_OPT_ADVANCED_ID3V2LANG ID3v2 コメントに利用する言語コード (ISO-639-2フォーマット)
 _C_OPT_ADVANCED_LISTCHAPTERS 埋込チャプタ情報を複数ファイルとしてリスト表示
+_C_OPT_ADVANCED_POPULARIMETER Always display POPULARIMETER values for ID3v2 ratings
 _C_OPT_CAPTION オプション
 _C_OPT_CDDB_CAPTION freedb
 _C_OPT_CDDB_CHK_USEPROXY プロクシを使用(&O)
@@ -401,6 +412,11 @@ _M_STAT_PLAY ファイル \"{1}\" を再生中
 _M_STR_ACTION_ADJUSTCOVER Adjust cover
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Format
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Quality
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Best
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH High
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Low
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Medium
 _M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
 _M_STR_ACTION_CODEPAGE 値のコードページを変換
 _M_STR_ACTION_CODEPAGE_DESC コードページ
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM 指定したフィールドを削除
 _M_STR_ACTION_REM_DESC 削除するフィールド (;で複数指定、カバーはPICTURE):
 _M_STR_ACTION_REM_EX 指定したフィールド以外のすべてのフィールドを削除
 _M_STR_ACTION_REM_EX_DESC 維持するフィールド (;で複数指定、カバーはPICTURE):
+_M_STR_ACTION_SETCOVERPROPERTIES Set cover properties
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Cover Description:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Set for:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL All covers
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Cover Type:
 _M_STR_ACTION_SPLITFIELDS 指定したフィールドを区切文字列で複数分割
+_M_STR_ACTIONGROUP_CHANGED Configuration of action groups has changed.\r\n\r\nDo you want to save the changes?
 _M_STR_ACTIONGROUP_NAME アクショングループの名前
 _M_STR_ALBUM アルバム
 _M_STR_ALBUMARTIST アルバムアーティスト
 _M_STR_ALL_FILEDLGFILTER すべてのファイル (*.*)|*.*||
 _M_STR_ARTIST アーティスト
 _M_STR_AUTHOR 作者
+_M_STR_AUTOSIZECOLUMNS Auto-size columns
 _M_STR_BACK < 戻る(&B)
 _M_STR_BROWSE_COPY コピー:
 _M_STR_BROWSE_MOVE 移動:
@@ -516,6 +539,8 @@ _M_STR_OPTS_NEVER 確認せず常に自動保存しない（編集は反映さ�
 _M_STR_PLNAME プレイリスト - ファイル名
 _M_STR_PL_CONFIRM この名前でプレイリストを作成
 _M_STR_PL_SAVEFILTER プレイリストファイル (*.m3u)|*.m3u|Unicodeプレイリストファイル (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Create selection preset...
+_M_STR_PRESETS Presets
 _M_STR_PREVIEW プレビュー
 _M_STR_PROPERTIES {1} プロパティ
 _M_STR_QUICK クイック
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES 不要なバイナリデータを消去
 _M_STR_SB_CLEANUPDATABASE_COVERS 不要なカバーデータを消去
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES 不要な非ライブラリデータを消去
 _M_STR_SB_EXPORTTAGS タグデータを出力中 {1} / {2}
+_M_STR_SB_FILTER Filtering ...
 _M_STR_SB_LOADTAGS タグ情報を読込中 {1} / {2}
 _M_STR_SB_READDIRECTORY ディレクトリを読込中
 _M_STR_SB_REMOVETAGS タグ情報を削除中 {1} / {2}
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON {1} にあるアルバム
 _M_STR_TITLE タイトル
 _M_STR_TRYAGAIN もう一度試しますか?
 _M_STR_TTF タグ - ファイル名
+_M_STR_UNSAVED Do you want to save the changes?
 _M_STR_UPDATE_FRM アップデート
 _M_STR_UPDATE_OPT_CHECK 起動時にアップデートを確認
 _M_STR_UPDATE_OPT_CHECK_BETA 開発版（ベータ版）を含める

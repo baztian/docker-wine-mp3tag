@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD Accurtatoghji di &tastera
 _C_MNU_HELP_SUPPORT Assistenza &inlinea…
 _C_MNU_HELP_UPGRADE Ricercà e nove &versioni…
 _C_MNU_HELP_WWW Situ &web di Mp3tag…
+_C_MNU_TAG_EDIT Edit...\tF2
+_C_MNU_TAG_NEW Add...\tIns
+_C_MNU_TAG_REMOVE Remove\tDel
 _C_MNU_TAGSOURCES Urigine di l’&etichetta
 _C_MNU_TOOLS A&ttrezzi
 _C_MNU_VIEW &Leghje
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY Appiecazione autumatica di filtru
 _C_MNU_VIEW_ID3 Finestra di campi d’&etichetta\tCtrl+Q
 _C_MNU_VIEW_REFRESH &Attualizà\tF5
 _C_MNU_VIEW_SORTBY &Classificà da
+_C_MNU_VIEW_SORTBYRANDOM &Randomize
 _C_MNU_VIEW_TAGS Etichette A&llungate…\tALT+T
 _C_MNU_VIEW_TOOLBAR &Barra d’attrezzi
 _C_MNU_SB_ACTIONS Appiecheghja l’azzioni definite da l’utilizatore (minuscule/maiuscule, rimpiazamentu, …) à i schedarii selezziunati.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE Cambià a dimensione di a finestra
 _C_MULTILINE Multilinea
 _C_OK &Vai
 _C_OPT_ACTIONGROUPS Gruppi d’azzione
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Apply
+_C_OPT_ACTIONGROUPS_SEL_EMPTY No action group enabled
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} action groups enabled
+_C_OPT_ACTIONGROUPS_SEL_SINGLE One action group enabled
+_C_OPT_ACTIONGROUPS_SORTBYNAME Sort by name
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Sort by state
 _C_OPT_ACTIONS Azzioni
 _C_OPT_ACTIONS_TYPE Selezziunà un tipu d’azzione
 _C_OPT_ADVANCED Espertu
 _C_OPT_ADVANCED_ID3V2LANG Codice lingua di cummentu ID3v2 (ISO-639-2)
 _C_OPT_ADVANCED_LISTCHAPTERS Listeghja i capituli cum’è schedarii spartuti
+_C_OPT_ADVANCED_POPULARIMETER Always display POPULARIMETER values for ID3v2 ratings
 _C_OPT_CAPTION Ozzioni
 _C_OPT_CDDB_CAPTION freedb
 _C_OPT_CDDB_CHK_USEPROXY Impiegà un &proxy
@@ -401,6 +412,11 @@ _M_STAT_PLAY Sunata di u schedariu \"{1}\" in corsu…
 _M_STR_ACTION_ADJUSTCOVER Adjust cover
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Format
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Quality
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Best
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH High
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Low
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Medium
 _M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
 _M_STR_ACTION_CODEPAGE Cunvertisce a pagina di codice
 _M_STR_ACTION_CODEPAGE_DESC Pagina di codice
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Caccià i campi
 _M_STR_ACTION_REM_DESC Campi à caccià (staccati cù puntu-virgula) :
 _M_STR_ACTION_REM_EX Caccià i campi for di
 _M_STR_ACTION_REM_EX_DESC Campi à lascià (staccati cù puntu-virgula) :
+_M_STR_ACTION_SETCOVERPROPERTIES Set cover properties
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Cover Description:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Set for:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL All covers
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Cover Type:
 _M_STR_ACTION_SPLITFIELDS Sparte i campi da un separadore
+_M_STR_ACTIONGROUP_CHANGED Configuration of action groups has changed.\r\n\r\nDo you want to save the changes?
 _M_STR_ACTIONGROUP_NAME Nome di u gruppu d’azzione
 _M_STR_ALBUM Albumu
 _M_STR_ALBUMARTIST Artista di l’albumu
 _M_STR_ALL_FILEDLGFILTER Tutti i schedarii (*.*)|*.*||
 _M_STR_ARTIST Artista
 _M_STR_AUTHOR Autore
+_M_STR_AUTOSIZECOLUMNS Auto-size columns
 _M_STR_BACK < &Precedente
 _M_STR_BROWSE_COPY Cupià ver di :
 _M_STR_BROWSE_MOVE Dispiazzà ver di :
@@ -516,6 +539,8 @@ _M_STR_OPTS_NEVER mai
 _M_STR_PLNAME Lista di lettura - Nomi di schedariu
 _M_STR_PL_CONFIRM Creà a lista di lettura cù stu nome
 _M_STR_PL_SAVEFILTER Lista di lettura (*.m3u)|*.m3u|Lista di lettura in Unicode (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Create selection preset...
+_M_STR_PRESETS Presets
 _M_STR_PREVIEW Avvistu
 _M_STR_PROPERTIES Pruprietà di {1}
 _M_STR_QUICK &Prontu
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES Nettata di i binarii urfanelli
 _M_STR_SB_CLEANUPDATABASE_COVERS Nettata di e cuprendule urfanelle
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES Nettà i schedarii chì ùn sò bibliuteca
 _M_STR_SB_EXPORTTAGS Espurtazione d’infurmazione d’etichetta … {1} arregistramenti di {2} schedariu(i)
+_M_STR_SB_FILTER Filtering ...
 _M_STR_SB_LOADTAGS Lettura di dati d’etichetta … {1} di {2}
 _M_STR_SB_READDIRECTORY Lettura di u cartulare
 _M_STR_SB_REMOVETAGS Cacciatura di dati d’etichetta … {1} di {2}
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON St’albumu nant’à {1}
 _M_STR_TITLE Titulu
 _M_STR_TRYAGAIN Vulete pruvà torna ?
 _M_STR_TTF Etichetta - Nome di schedariu
+_M_STR_UNSAVED Do you want to save the changes?
 _M_STR_UPDATE_FRM Rinnovi
 _M_STR_UPDATE_OPT_CHECK Cuntrollu di e nove versioni à u principiu
 _M_STR_UPDATE_OPT_CHECK_BETA Include dinù e versioni in corsu di sviluppu (Beta)

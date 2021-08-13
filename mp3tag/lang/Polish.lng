@@ -1,6 +1,6 @@
 ﻿LANGAUTHOR Michał Gerke, Paweł Nowak, Mateusz Bogusz, Bartosz Dotryw
 LANGCONTACT burtekdotryw@gmail.com
-LANGVERSION 2.84
+LANGVERSION 3.05b
 LANGNAME Polish
 LANGNAMELOC Polski
 SLangCancel &Anuluj
@@ -25,7 +25,7 @@ SLangWrnAppHasToBeRestarted Mp3tag musi zostać zrestartowany, aby zmiany zadzia
 SLangWrnNameContainsInvalidCharacters Opis zawiera niedozwolone znaki.\n\n» Proszę wpisać jakiś inny opis.
 SLangWrnStartLogging Uruchomiono {1} z parametrem FLOG1 w wierszu poleceń. Ten parametr jest używany dla celów „odpluskwiania” (debugging).\n\nCzy chcesz uruchomić zapisywanie dziennika zdarzeń (logging)?
 _C_ABORT Przerwij
-_C_ABORTING Aborting...
+_C_ABORTING Przerywanie...
 _C_APP_ST_ALBUM &Album
 _C_APP_ST_ARTIST &Wykonawca (Artysta)
 _C_APP_ST_COMMENT &Komentarz
@@ -35,7 +35,7 @@ _C_APP_ST_TITLE &Tytuł
 _C_APP_ST_TRACK Ści&eżka
 _C_APP_ST_YEAR R&ok
 _C_CANCEL &Anuluj
-_C_CANCELING Canceling...
+_C_CANCELING Anulowanie...
 _C_CLOSE Zam&knij
 _C_DLG_CDDBCONFIRM_CAPTION Lista wyników freedb
 _C_DLG_CDDBCONFIRM_CHK_DISCID Skopiuj ID dysku do pola „Komentarz”
@@ -120,15 +120,19 @@ _C_MNU_HELP_KEYBOARD &Skróty klawiszowe
 _C_MNU_HELP_SUPPORT Pomoc techniczna online
 _C_MNU_HELP_UPGRADE Sprawdź, czy jest już nowsza wersja
 _C_MNU_HELP_WWW Strona WWW programu „Mp3tag”
+_C_MNU_TAG_EDIT Edytuj...\tF2
+_C_MNU_TAG_NEW Dodaj...\tIns
+_C_MNU_TAG_REMOVE Usuń\tDel
 _C_MNU_TAGSOURCES Źródła &znaczników
 _C_MNU_TOOLS &Narzędzia
 _C_MNU_VIEW &Widok
 _C_MNU_VIEW_COLUMNS &Dostosuj kolumny
 _C_MNU_VIEW_FILTER &Filtr\tF3
-_C_MNU_VIEW_FILTER_AUTOAPPLY Auto-apply filter
+_C_MNU_VIEW_FILTER_AUTOAPPLY Automatycznie stosuj filtr
 _C_MNU_VIEW_ID3 Maska/panel wprowadzeń znacznika\tCtrl+Q
 _C_MNU_VIEW_REFRESH &Odśwież\tF5
 _C_MNU_VIEW_SORTBY &Sortuj według
+_C_MNU_VIEW_SORTBYRANDOM &Losuj
 _C_MNU_VIEW_TAGS Znaczniki (&…)\tALT+T
 _C_MNU_VIEW_TOOLBAR Pasek &narzędzi
 _C_MNU_SB_ACTIONS Stosuje akcje zdefiniowane przez użytkownika (zamianę LiTeR, zastępowanie, …) do wybranych plików.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE Zmienia rozmiar okna
 _C_MULTILINE Multilinia
 _C_OK &OK
 _C_OPT_ACTIONGROUPS Grupy akcji
+_C_OPT_ACTIONGROUPS_BTN_APPLY Z&astosuj
+_C_OPT_ACTIONGROUPS_SEL_EMPTY Żadna grupa akcji nie jest włączona
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} grup akcji jest włączone
+_C_OPT_ACTIONGROUPS_SEL_SINGLE Jedna grupa akcji jest włączona
+_C_OPT_ACTIONGROUPS_SORTBYNAME Sortuj według nazwy
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Sortuj według stanu
 _C_OPT_ACTIONS Akcje
 _C_OPT_ACTIONS_TYPE Wybierz rodzaj akcji
 _C_OPT_ADVANCED Zaawansowane
 _C_OPT_ADVANCED_ID3V2LANG Kod języka (ISO-639-2) komentarza ID3v2
-_C_OPT_ADVANCED_LISTCHAPTERS List chapters as separate files
+_C_OPT_ADVANCED_LISTCHAPTERS Wyświetl rozdziały jako osobne pliki
+_C_OPT_ADVANCED_POPULARIMETER Always display POPULARIMETER values for ID3v2 ratings
 _C_OPT_CAPTION Opcje
 _C_OPT_CDDB_CAPTION freedb
 _C_OPT_CDDB_CHK_USEPROXY Użyj pr&oxy
@@ -251,7 +262,7 @@ _C_OPT_GEN_CHK_FOLDERSTART Rozpocznij w tym katalogu
 _C_OPT_GEN_CHK_GRID Wyświetl linie siatki w widoku plików
 _C_OPT_GEN_CHK_JUMPONEDIT Podczas edycji auto. zaznacz kolejny plik w widoku plików
 _C_OPT_GEN_CHK_KEEPFILETIME Nie zmieniaj daty/czasu modyfikowanych plików
-_C_OPT_GEN_CHK_KEEPMOVEDFILES Keep moved files in file list
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Zachowaj przeniesione pliki na liście plików
 _C_OPT_GEN_CHK_MSG_ACTIONWARNINGS przy ostrzeżeniach z Akcji
 _C_OPT_GEN_CHK_MSG_CHANGE po zmianie
 _C_OPT_GEN_CHK_MSG_CUT przy wycinaniu znaczników
@@ -284,10 +295,10 @@ _C_OPT_ID3_CHK_V2 ID3v2
 _C_OPT_ID3_FRM_READ Odczytaj
 _C_OPT_ID3_FRM_REMOVE Usuń
 _C_OPT_ID3_FRM_WRITE Zapisz
-_C_OPT_LIB Library
-_C_OPT_LIB_CHK_ENABLE Enable Library
-_C_OPT_LIB_CHK_RESTRICT Only include these directories
-_C_OPT_LIB_CLEANUP Cleanup Library
+_C_OPT_LIB Biblioteka
+_C_OPT_LIB_CHK_ENABLE Włącz Bibliotekę
+_C_OPT_LIB_CHK_RESTRICT Uwzględnij tylko te katalogi
+_C_OPT_LIB_CLEANUP Uprzątnij Bibliotekę
 _C_OPT_MAPPING Mapowanie
 _C_OPT_MAPPING_FRM Zdefiniowane przez użytkownika mapowanie pól
 _C_OPT_MAPPING_SOURCE Źródło
@@ -340,14 +351,14 @@ _C_TT_TTT Znacznik - Znacznik
 _C_TT_UPDIR W górę
 _C_WIZARD_TRACKS Kreator automatycznej numeracji
 _C_WIZARD_TRACKS_BEGIN Rozpocznij od numeru ścieżki:
-_C_WIZARD_TRACKS_DESC Assign track- and discnumbers
-_C_WIZARD_TRACKS_DISC_BEGIN Begin at discnumber
-_C_WIZARD_TRACKS_DISC_LEADINGZEROS Leading zeros for discnumbers (01, 02, ...)
-_C_WIZARD_TRACKS_DISC_SAVETOTAL Save total count of discs
-_C_WIZARD_TRACKS_DISCNUMBER Discnumber
+_C_WIZARD_TRACKS_DESC Przypisz numery ścieżek i płyt
+_C_WIZARD_TRACKS_DISC_BEGIN Rozpocznij od numeru płyty
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Wiodące zera w numerach płyt (01, 02, ...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Zapisz łączną liczbę płyt
+_C_WIZARD_TRACKS_DISCNUMBER Numer płyty
 _C_WIZARD_TRACKS_RESETFOLDERS Resetuj licznik dla każdego katalogu
 _C_WIZARD_TRACKS_SAVETOTAL Zapisz całk. liczbę ścieżek
-_C_WIZARD_TRACKS_TRACKNUMBER Tracknumber
+_C_WIZARD_TRACKS_TRACKNUMBER Numer ścieżki
 _M_ERR_CANCEL Anulowano proces.
 _M_ERR_CDDB_CD Wystąpił błąd podczas odczytu płyty Audio
 _M_ERR_CDDB_CONNECT Wystąpił błąd podczas połączenia z serwerem: {1}
@@ -379,7 +390,7 @@ _M_ERR_PARSELINE Nie można sparsować lini {1}.
 _M_ERR_PLAY Plik „{1}” nie może zostać odtworzony.
 _M_ERR_READ_FILE Nie można odczytać pliku „{1}”.
 _M_ERR_RENAME_FILE Nie można zmienić nazwy pliku z „{1}” na „{2}”.
-_M_ERR_RETRY Do you want to retry?
+_M_ERR_RETRY Czy chcesz spróbować ponownie?
 _M_ERR_TL_NOTAGS Brak pasujących wystąpień dla pliku \"{1}\".
 _M_ERR_WRITE_FILE Nie można zapisać pliku „{1}”.
 _M_ERR_YN \n\nCzy chcesz kontynuować?
@@ -398,10 +409,15 @@ _M_LOG_TFF Znacznik został pobrany z listy znaczników „{1}” i zapisany w {
 _M_LOG_TFF_S Zaimportowano znaczniki z \"{1}\" do jednego pliku.
 _M_LOG_TTF Zmieniono nazwę {1} z {2} plików.
 _M_STAT_PLAY Plik „{1}” został otworzony w Twoim odtwarzaczu.
-_M_STR_ACTION_ADJUSTCOVER Adjust cover
+_M_STR_ACTION_ADJUSTCOVER Dopasuj okładkę
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Format
-_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
-_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Oryginał
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Quality
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Best
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH High
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Low
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Medium
+_M_STR_ACTION_ADJUSTCOVER_SIZE Maksymalny rozmiar
 _M_STR_ACTION_CODEPAGE Zmień stronę kodową
 _M_STR_ACTION_CODEPAGE_DESC Strona kodowa
 _M_STR_ACTION_EXPORTCOVER Eksportuj okładkę do pliku
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Usuń pola
 _M_STR_ACTION_REM_DESC Pola do usunięcia (oddzielone średnikiem):
 _M_STR_ACTION_REM_EX Wyjątki usuwania pól
 _M_STR_ACTION_REM_EX_DESC Pola do pozostawienia (oddzielone średnikiem):
+_M_STR_ACTION_SETCOVERPROPERTIES Ustaw właściwości okładki
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Opis okładki:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Ustaw dla:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL Wszystkie okładki
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Rodzaj okładki:
 _M_STR_ACTION_SPLITFIELDS Rozdziel pola separatorem
+_M_STR_ACTIONGROUP_CHANGED Została zmieniona konfiguracja grup akcji.\r\n\r\nCzy chcesz zachować te zmiany?
 _M_STR_ACTIONGROUP_NAME Nazwa grupy akcji
 _M_STR_ALBUM Album
 _M_STR_ALBUMARTIST Album Artysta
 _M_STR_ALL_FILEDLGFILTER Wszystkie pliki (*.*)|*.*||
 _M_STR_ARTIST Wykonawca
 _M_STR_AUTHOR Autor
+_M_STR_AUTOSIZECOLUMNS Auto-size columns
 _M_STR_BACK < &Wstecz
 _M_STR_BROWSE_COPY Kopiuj do:
 _M_STR_BROWSE_MOVE Przenieś do:
@@ -457,10 +480,10 @@ _M_STR_COVER_CORRECTAR Popraw współczynnik proporcji
 _M_STR_COVER_SETDESC Ustaw opis okładki
 _M_STR_COVER_SETTYPE Ustaw typ okładki
 _M_STR_COVERVARIES Ustawienia okładki
-_M_STR_CUSTOMIZE Customize...
+_M_STR_CUSTOMIZE Dostosuj...
 _M_STR_DAY dni
 _M_STR_DAYS dni
-_M_STR_DEFAULTVALUE Default value
+_M_STR_DEFAULTVALUE Wartość domyślna
 _M_STR_DISCID CDDB ID
 _M_STR_DISCOGS_OAUTH_PIN Wprowadź kod autoryzacji Discogs
 _M_STR_DISCNUMBER Numer dysku
@@ -471,8 +494,8 @@ _M_STR_EXPORT_MULTIPLE Jeden plik na katalog
 _M_STR_EXPORT_SHOWEXPORTFILE \n\nCzy wyświetlić teraz utworzony plik Eksportu?
 _M_STR_EXP_MSG Informacje o {2} plikach MP3 zostaną wyeksportowane do pliku „{1}”.
 _M_STR_FIELD Pole:
-_M_STR_FIELDSIZE Size of field
-_M_STR_FIELDROWS Rows
+_M_STR_FIELDSIZE Rozmiar pola
+_M_STR_FIELDROWS Wiersze
 _M_STR_FILE Plik
 _M_STR_FILEDELETE Czy na pewno chcesz usunąć wszystkie zaznaczone pliki?
 _M_STR_FILEMODIFIED Zmieniony
@@ -516,6 +539,8 @@ _M_STR_OPTS_NEVER nigdy
 _M_STR_PLNAME Lista odtwarzania - Nazwa pliku
 _M_STR_PL_CONFIRM Utwórz listę odtwarzania o tej nazwie
 _M_STR_PL_SAVEFILTER Plik playlisty (*.m3u)|*.m3u|Plik playlisty Unicode (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Create selection preset...
+_M_STR_PRESETS Presets
 _M_STR_PREVIEW Podgląd
 _M_STR_PROPERTIES Właściwości {1}
 _M_STR_QUICK Szybko
@@ -530,11 +555,12 @@ _M_STR_SAVEIMAGEDIRECTORY Zapisz obrazek na dysk
 _M_STR_SAVESELECTION Zapisz wybrane
 _M_STR_SB_ABORTED Przerwano
 _M_STR_SB_ACTION Stosowanie akcji do pliku: {1} z {2}
-_M_STR_SB_CLEANUPDATABASE Processing files ... {1} of {2} ({3} cleaned)
-_M_STR_SB_CLEANUPDATABASE_BINARIES Cleanup orphaned binaries
-_M_STR_SB_CLEANUPDATABASE_COVERS Cleanup orphaned covers
-_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Cleanup non-library files
+_M_STR_SB_CLEANUPDATABASE Przetwarzanie plików ... {1} of {2} ({3} wyczyszczono)
+_M_STR_SB_CLEANUPDATABASE_BINARIES Uprzątanie osieroconych plików binarnych
+_M_STR_SB_CLEANUPDATABASE_COVERS Uprzątanie osieroconych okładek
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Uprzątanie plików niebędących bibliotekami
 _M_STR_SB_EXPORTTAGS Eksportowanie informacji dot. znacznika: {1} z {2}
+_M_STR_SB_FILTER Filtering ...
 _M_STR_SB_LOADTAGS Odczytywanie danych znacznika: {1} z {2}
 _M_STR_SB_READDIRECTORY Odczytywanie zawartości katalogu
 _M_STR_SB_REMOVETAGS Usuwanie danych znacznika: {1} z {2}
@@ -545,11 +571,11 @@ _M_STR_SEARCHBY Szukaj wg:
 _M_STR_SEARCHTEXT Tekst:
 _M_STR_SEPARATOR Seperator
 _M_STR_SHOW &Pokaż
-_M_STR_SIZE_LARGE Large
-_M_STR_SIZE_MEDIUM Medium
-_M_STR_SIZE_NORMAL Normal
-_M_STR_SIZE_SMALLER Smaller
-_M_STR_SIZE_SMALL Small
+_M_STR_SIZE_LARGE Wielkie
+_M_STR_SIZE_MEDIUM Średnie
+_M_STR_SIZE_NORMAL Zwykłe
+_M_STR_SIZE_SMALLER Mniejsze
+_M_STR_SIZE_SMALL Małe
 _M_STR_SNA Strefa powiadomień
 _M_STR_SNA_SHOW Zawsze pokazuj ikonę w strefie powiadomień
 _M_STR_SNA_SHOWMIN Minimalizuj do strefy powiadomień
@@ -571,10 +597,11 @@ _M_STR_THISALBUMON Ten album na {1}
 _M_STR_TITLE Tytuł
 _M_STR_TRYAGAIN Czy chcesz spróbować ponownie?
 _M_STR_TTF Znacznik - Nazwa pliku
+_M_STR_UNSAVED Do you want to save the changes?
 _M_STR_UPDATE_FRM Uaktualnienia
 _M_STR_UPDATE_OPT_CHECK Sprawdzaj przy starcie, czy jest nowa wersja
 _M_STR_UPDATE_OPT_CHECK_BETA Sprawdzaj także dostępność wersji rozwojowych (Beta)
-_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Display release notes for new versions
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Wyświetl informacje o wydaniu dla nowych wersji
 _M_STR_UPDATEAVAILABLE Jest już dostępna nowa wersja Mp3tag - {1} !\n\nCzy chcesz teraz pobrać uaktualnienie z {2}?
 _M_STR_UPDATENOTAVAILABLE Korzystasz z ostatniej, najnowszej wersji {1}.\n\nUaktualnienie NIE jest teraz dostępne.
 _M_STR_URL https://www.mp3tag.de/en/download.html

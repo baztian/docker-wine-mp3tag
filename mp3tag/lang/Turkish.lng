@@ -1,6 +1,6 @@
 ﻿LANGAUTHOR ADM, Maynak00, Kemal Unal
 LANGCONTACT adem-adm@yandex.com
-LANGVERSION 3.01
+LANGVERSION 3.08
 LANGNAME Turkish
 LANGNAMELOC Türkçe
 SLangCancel İ&ptal
@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD &Klavye Kısayolları
 _C_MNU_HELP_SUPPORT Çevrimiçi Destek...
 _C_MNU_HELP_UPGRADE Yeni Sürümü Denetle...
 _C_MNU_HELP_WWW Mp3tag &Sitesi...
+_C_MNU_TAG_EDIT Düzenle...\tF2
+_C_MNU_TAG_NEW Ekle...\tIns
+_C_MNU_TAG_REMOVE Sil\tDel
 _C_MNU_TAGSOURCES &Etiket Kaynağı
 _C_MNU_TOOLS A&raçlar
 _C_MNU_VIEW &Görünüm
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY Filtreyi otomatik uygula
 _C_MNU_VIEW_ID3 E&tiket Paneli\tCtrl+Q
 _C_MNU_VIEW_REFRESH &Yenile\tF5
 _C_MNU_VIEW_SORTBY &Sıralama
+_C_MNU_VIEW_SORTBYRANDOM Rastgele
 _C_MNU_VIEW_TAGS &Etiketler...\tALT+T
 _C_MNU_VIEW_TOOLBAR &Araç Çubuğu
 _C_MNU_SB_ACTIONS Seçili dosyalara kullanıcı-tanımlı eylemleri (büyük-küçük harf çevirme, yerine koyma) uygular.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE Pencere büyüklüğünü değiştir
 _C_MULTILINE Çok satırlı
 _C_OK &Tamam
 _C_OPT_ACTIONGROUPS Eylem grupları
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Uygula
+_C_OPT_ACTIONGROUPS_SEL_EMPTY Etkin eylem grubu yok
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} eylem grubu seçili
+_C_OPT_ACTIONGROUPS_SEL_SINGLE Bir eylem grubu seçili
+_C_OPT_ACTIONGROUPS_SORTBYNAME İsme göre sırala
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Duruma göre sırala
 _C_OPT_ACTIONS Eylemler
 _C_OPT_ACTIONS_TYPE Eylemi seçin
 _C_OPT_ADVANCED Gelişmiş
 _C_OPT_ADVANCED_ID3V2LANG ID3v2 yorumu dil kodu (ISO-639-2)
 _C_OPT_ADVANCED_LISTCHAPTERS Bölümleri ayrı dosya olarak listele
+_C_OPT_ADVANCED_POPULARIMETER ID3v2 derecelendirme için POPULARIMETER değerlerini göster
 _C_OPT_CAPTION Seçenekleri
 _C_OPT_CDDB_CAPTION freedb
 _C_OPT_CDDB_CHK_USEPROXY pr&oksi kullan
@@ -401,6 +412,11 @@ _M_STAT_PLAY Dosya oynatılıyor: \"{1}\"...
 _M_STR_ACTION_ADJUSTCOVER Kapak ayarla
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Format
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Orijinal
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Kalite
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST En iyi
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH Yüksel
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Düşük
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Orta
 _M_STR_ACTION_ADJUSTCOVER_SIZE En Büyük Boyut
 _M_STR_ACTION_CODEPAGE Sayfa kodlamasını dönüştür
 _M_STR_ACTION_CODEPAGE_DESC Sayfa kodlaması
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Alanları kaldır
 _M_STR_ACTION_REM_DESC Kaldırılacak alanlar (sütunla-ayrılmış):
 _M_STR_ACTION_REM_EX Bu alanlar hariç kaldır
 _M_STR_ACTION_REM_EX_DESC Kalacak alanlar (sütunla-ayrılmış):
+_M_STR_ACTION_SETCOVERPROPERTIES Kapak özelliklerini ayarla
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Kapak Açıklaması:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Ayarlanacak Kapak:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL Tüm Kapaklar
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Kapak Türü:
 _M_STR_ACTION_SPLITFIELDS Ayırıcıyla alanları ayır
+_M_STR_ACTIONGROUP_CHANGED Eylem gruplarının yapılandırması değişti.\r\n\r\nDeğişiklikleri kaydetmek istiyor musunuz?
 _M_STR_ACTIONGROUP_NAME Eylem grup ismi
 _M_STR_ALBUM Albüm
 _M_STR_ALBUMARTIST Albüm Sanatçısı
 _M_STR_ALL_FILEDLGFILTER Tüm dosyalar (*.*)|*.*||
 _M_STR_ARTIST Sanatçı
 _M_STR_AUTHOR Yazar
+_M_STR_AUTOSIZECOLUMNS Sütunları otomatik boyutlandır
 _M_STR_BACK < &Geri
 _M_STR_BROWSE_COPY Kopyala:
 _M_STR_BROWSE_MOVE Taşı:
@@ -516,6 +539,8 @@ _M_STR_OPTS_NEVER asla
 _M_STR_PLNAME Çalma listesi - Dosya adı
 _M_STR_PL_CONFIRM Bu isimle çalma listesi oluştur
 _M_STR_PL_SAVEFILTER Çalma Listesi (*.m3u)|*.m3u|Unicode Çalma Listesi (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Seçimden hazır ayar oluştur... 
+_M_STR_PRESETS Hazır ayarlar
 _M_STR_PREVIEW Önizleme
 _M_STR_PROPERTIES {1} Özellikler
 _M_STR_QUICK Hızlı
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES Bağımsız veriler temizleniyor
 _M_STR_SB_CLEANUPDATABASE_COVERS Bağımsız kapaklar temizleniyor
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES Kitaplık dışı dosyalar temizleniyor
 _M_STR_SB_EXPORTTAGS Etiket bilgisi gönderiliyor... {1}/{2} tamamlandı
+_M_STR_SB_FILTER Filtreleme ...
 _M_STR_SB_LOADTAGS Etiket okunuyor... {1}/{2} tamamlandı
 _M_STR_SB_READDIRECTORY Klasör okunuyor
 _M_STR_SB_REMOVETAGS Etiket bilgisi kaldırılıyor... {1}/{2} tamamlandı
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON Bu albüm {1} üzerinde
 _M_STR_TITLE Başlık
 _M_STR_TRYAGAIN Tekrar denemek ister misiniz?
 _M_STR_TTF Etiket - Dosya adı
+_M_STR_UNSAVED Değişiklikleri kaydetmek istiyor musunuz? 
 _M_STR_UPDATE_FRM Güncelleme
 _M_STR_UPDATE_OPT_CHECK &Başlangıçta güncelleme kontrolü yap
 _M_STR_UPDATE_OPT_CHECK_BETA &Geliştirme derlemeleri (Beta)

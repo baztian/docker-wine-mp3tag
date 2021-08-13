@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD &Tastatursnarveier
 _C_MNU_HELP_SUPPORT Støtte på nettet...
 _C_MNU_HELP_UPGRADE Mp3tag-oppdatering...
 _C_MNU_HELP_WWW Mp3tag-&nettsted...
+_C_MNU_TAG_EDIT Edit...\tF2
+_C_MNU_TAG_NEW Add...\tIns
+_C_MNU_TAG_REMOVE Remove\tDel
 _C_MNU_TAGSOURCES Merke&kilder
 _C_MNU_TOOLS &Verktøy
 _C_MNU_VIEW &Vis
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY Filtrer automatisk
 _C_MNU_VIEW_ID3 Merkepanel\tCtrl+Q
 _C_MNU_VIEW_REFRESH O&ppfrisk\tF5
 _C_MNU_VIEW_SORTBY &Sorter etter
+_C_MNU_VIEW_SORTBYRANDOM &Randomize
 _C_MNU_VIEW_TAGS U&tvidede merker...\tALT+T
 _C_MNU_VIEW_TOOLBAR Ver&ktøylinje
 _C_MNU_SB_ACTIONS Benytter brukerdefinerte handlinger (konverter stor bokstav, erstatt tekst, o.a) på de valgte filene.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE Endre vindusstørrelsen
 _C_MULTILINE Flerlinje
 _C_OK &OK
 _C_OPT_ACTIONGROUPS Handlingsgrupper
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Apply
+_C_OPT_ACTIONGROUPS_SEL_EMPTY No action group enabled
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} action groups enabled
+_C_OPT_ACTIONGROUPS_SEL_SINGLE One action group enabled
+_C_OPT_ACTIONGROUPS_SORTBYNAME Sort by name
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Sort by state
 _C_OPT_ACTIONS Handlinger
 _C_OPT_ACTIONS_TYPE Velg handlingstype
 _C_OPT_ADVANCED Avansert
 _C_OPT_ADVANCED_ID3V2LANG ID3v2-kommentarspråkkode (ISO-639-2)
 _C_OPT_ADVANCED_LISTCHAPTERS Vis kapitler som separate filer
+_C_OPT_ADVANCED_POPULARIMETER Always display POPULARIMETER values for ID3v2 ratings
 _C_OPT_CAPTION Innstillinger
 _C_OPT_CDDB_CAPTION freedb
 _C_OPT_CDDB_CHK_USEPROXY Bruk me&llomtjener
@@ -401,6 +412,11 @@ _M_STAT_PLAY Spiller av filen \"{1}\"...
 _M_STR_ACTION_ADJUSTCOVER Adjust cover
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Format
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Quality
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Best
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH High
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Low
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Medium
 _M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
 _M_STR_ACTION_CODEPAGE Konverter kodesett
 _M_STR_ACTION_CODEPAGE_DESC Kodesett
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Fjern felter
 _M_STR_ACTION_REM_DESC Felt som skal fjernes (Adskilt med semikolon):
 _M_STR_ACTION_REM_EX Fjern feltene bortsett fra
 _M_STR_ACTION_REM_EX_DESC Felt som skal bli der (Adskilt med semikolon):
+_M_STR_ACTION_SETCOVERPROPERTIES Set cover properties
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Cover Description:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Set for:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL All covers
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Cover Type:
 _M_STR_ACTION_SPLITFIELDS Del opp felt etter skilletegn
+_M_STR_ACTIONGROUP_CHANGED Configuration of action groups has changed.\r\n\r\nDo you want to save the changes?
 _M_STR_ACTIONGROUP_NAME Navnet til handlingsgruppen
 _M_STR_ALBUM Album
 _M_STR_ALBUMARTIST Albumartist
 _M_STR_ALL_FILEDLGFILTER Alle filer (*.*)|*.*||
 _M_STR_ARTIST Artist
 _M_STR_AUTHOR Forfatter
+_M_STR_AUTOSIZECOLUMNS Auto-size columns
 _M_STR_BACK < &Tilbake
 _M_STR_BROWSE_COPY Kopier til:
 _M_STR_BROWSE_MOVE Flytt til:
@@ -516,6 +539,8 @@ _M_STR_OPTS_NEVER Aldri
 _M_STR_PLNAME Spilleliste - Filnavn
 _M_STR_PL_CONFIRM Opprett spilleliste med dette navnet
 _M_STR_PL_SAVEFILTER Spillelistefil (*.m3u)|*.m3u|Unicode-spillelistefil (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Create selection preset...
+_M_STR_PRESETS Presets
 _M_STR_PREVIEW Forhåndsvisning
 _M_STR_PROPERTIES {1} egenskaper
 _M_STR_QUICK Hurtig
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES Rydder foreldreløse binærfiler
 _M_STR_SB_CLEANUPDATABASE_COVERS Rydder foreldreløse omslag
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES Rydder filer som ikke er tilknyttet biblioteket
 _M_STR_SB_EXPORTTAGS Eksporterer merkeinformasjon ... {1} loggbøker av {2} filer
+_M_STR_SB_FILTER Filtering ...
 _M_STR_SB_LOADTAGS Leser merkedata ... {1} av {2}
 _M_STR_SB_READDIRECTORY Leser mappe
 _M_STR_SB_REMOVETAGS Fjerner merkedata ... {1} of {2}
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON Dette albumet på {1}
 _M_STR_TITLE Tittel
 _M_STR_TRYAGAIN Vil du prøve igjen?
 _M_STR_TTF Merke - Filnavn
+_M_STR_UNSAVED Do you want to save the changes?
 _M_STR_UPDATE_FRM Oppdateringer
 _M_STR_UPDATE_OPT_CHECK Let etter oppdateringer ved oppstart
 _M_STR_UPDATE_OPT_CHECK_BETA Inkluder også utviklingsversjonene (Beta)

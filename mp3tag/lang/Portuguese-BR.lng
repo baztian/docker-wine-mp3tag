@@ -1,6 +1,6 @@
 ﻿LANGAUTHOR Maurício Meneghini Fauth, Daniel Biazoto
 LANGCONTACT mauriciofauth@gmail.com
-LANGVERSION 3.00
+LANGVERSION 3.08
 LANGNAME Brazilian Portuguese
 LANGNAMELOC Português Brasileiro
 SLangCancel Cancelar
@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD Atalhos do &Teclado
 _C_MNU_HELP_SUPPORT Suporte Online...
 _C_MNU_HELP_UPGRADE Verificar atualizações...
 _C_MNU_HELP_WWW &Website do Mp3tag...
+_C_MNU_TAG_EDIT Editar...\tF2
+_C_MNU_TAG_NEW Adicionar...\tIns
+_C_MNU_TAG_REMOVE Remover\tDel
 _C_MNU_TAGSOURCES Fo&ntes
 _C_MNU_TOOLS &Ferramentas
 _C_MNU_VIEW E&xibir
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY Autoaplicar filtro
 _C_MNU_VIEW_ID3 Painel de Tags\tCtrl+Q
 _C_MNU_VIEW_REFRESH &Atualizar\tF5
 _C_MNU_VIEW_SORTBY Clas&sificar por
+_C_MNU_VIEW_SORTBYRANDOM Aleató&rop
 _C_MNU_VIEW_TAGS &Tags...\tALT+T
 _C_MNU_VIEW_TOOLBAR &Barra de ferramentas
 _C_MNU_SB_ACTIONS Aplica ações definidas pelo usuário (conversão maiúscula/minúscula, substituição, ...) aos arquivos selecionados.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE Mudar o tamanho da janela
 _C_MULTILINE Multilinha
 _C_OK &OK
 _C_OPT_ACTIONGROUPS Grupos de ação
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Aplicar
+_C_OPT_ACTIONGROUPS_SEL_EMPTY Nenhum grupo de ação habilitado
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} grupos de ação habilitados
+_C_OPT_ACTIONGROUPS_SEL_SINGLE Um grupo de ação habilitado
+_C_OPT_ACTIONGROUPS_SORTBYNAME Classificar por nome
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Classificar por estado
 _C_OPT_ACTIONS Ações
 _C_OPT_ACTIONS_TYPE Selecione o tipo de ação
 _C_OPT_ADVANCED Avançado
 _C_OPT_ADVANCED_ID3V2LANG Código do idioma do comentário ID3v2(ISO-639-2)
 _C_OPT_ADVANCED_LISTCHAPTERS Listar capítulos como arquivos separados
+_C_OPT_ADVANCED_POPULARIMETER Sempre mostrar valores POPULARIMETER para classificações ID3v2
 _C_OPT_CAPTION Opções
 _C_OPT_CDDB_CAPTION freedb
 _C_OPT_CDDB_CHK_USEPROXY Usar pr&oxy
@@ -379,7 +390,7 @@ _M_ERR_PARSELINE Não foi possível analisar a linha {1}.
 _M_ERR_PLAY Não foi possível abrir o arquivo \"{1}\"!
 _M_ERR_READ_FILE Impossível abrir o arquivo \"{1}\" para leitura.
 _M_ERR_RENAME_FILE Não foi possível renomear o arquivo \"{1}\" para \"{2}\".
-_M_ERR_RETRY Do you want to retry?
+_M_ERR_RETRY Você deseja tentar novamente?
 _M_ERR_TL_NOTAGS Nenhuma entrada correspondente ao arquivo \"{1}\".
 _M_ERR_WRITE_FILE O arquivo \"{1}\" não pode ser aberto para gravação.
 _M_ERR_YN \n\nVocê deseja continuar?
@@ -401,6 +412,11 @@ _M_STAT_PLAY Reproduzindo o arquivo \"{1}\"...
 _M_STR_ACTION_ADJUSTCOVER Ajustar capa
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Formato
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Qualidade
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Melhor
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH Alta
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Baixa
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Média
 _M_STR_ACTION_ADJUSTCOVER_SIZE Tamanho máximo
 _M_STR_ACTION_CODEPAGE Converter página de código
 _M_STR_ACTION_CODEPAGE_DESC Página de código
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Excluir campos
 _M_STR_ACTION_REM_DESC Campos a excluir (separados por ponto-e-vírgula):
 _M_STR_ACTION_REM_EX Remover campos exceto
 _M_STR_ACTION_REM_EX_DESC Campos a manter (separados por ponto-e-vírgula):
+_M_STR_ACTION_SETCOVERPROPERTIES Definir propriedades da capa
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Descrição da capa
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Definir para:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL Todas as capas
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Tipo de capa:
 _M_STR_ACTION_SPLITFIELDS Dividir campos com o separador
+_M_STR_ACTIONGROUP_CHANGED A configuração dos grupos de ação foi alterada.\r\n\r\nVocê goataria de salvar as alterações?
 _M_STR_ACTIONGROUP_NAME Nome do grupo de ação
 _M_STR_ALBUM Álbum
 _M_STR_ALBUMARTIST Artista do álbum
 _M_STR_ALL_FILEDLGFILTER Todos os arquivos (*.*)|*.*||
 _M_STR_ARTIST Artista
 _M_STR_AUTHOR Autor
+_M_STR_AUTOSIZECOLUMNS Ajuste automático de colunas
 _M_STR_BACK < &Voltar
 _M_STR_BROWSE_COPY Copiar para:
 _M_STR_BROWSE_MOVE Mover para:
@@ -516,6 +539,8 @@ _M_STR_OPTS_NEVER nunca
 _M_STR_PLNAME Lista de reprodução - Nome do arquivo
 _M_STR_PL_CONFIRM Criar lista de reprodução com este nome
 _M_STR_PL_SAVEFILTER Arquivo de Playlist (*.m3u)|*.m3u|Arquivo de Playlist Unicode (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Criar predefinição de seleção...
+_M_STR_PRESETS Predefinições
 _M_STR_PREVIEW Visualizar
 _M_STR_PROPERTIES Propriedades de {1}
 _M_STR_QUICK Rápido
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES Limpar binários órfãos
 _M_STR_SB_CLEANUPDATABASE_COVERS Limpar capas órfãs
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES Limpar arquivos não pertencentes à biblioteca
 _M_STR_SB_EXPORTTAGS Exportando informações da tag ... {1} gravados de {2} arquivos
+_M_STR_SB_FILTER Filtrando ...
 _M_STR_SB_LOADTAGS Lendo dados da tag ... {1} de {2}
 _M_STR_SB_READDIRECTORY Lendo pasta
 _M_STR_SB_REMOVETAGS Removendo dados da tag ... {1} de {2}
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON Este álbum no {1}
 _M_STR_TITLE Título
 _M_STR_TRYAGAIN Deseja tentar novamente?
 _M_STR_TTF Tag - Nome do arquivo
+_M_STR_UNSAVED Você gostaria de salvar as alterações?
 _M_STR_UPDATE_FRM Atualizações
 _M_STR_UPDATE_OPT_CHECK Procurar por atualizações ao iniciar
 _M_STR_UPDATE_OPT_CHECK_BETA Também incluir versões em desenvolvimento (Beta)

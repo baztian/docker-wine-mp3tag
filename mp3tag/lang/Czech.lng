@@ -1,6 +1,6 @@
 ﻿LANGAUTHOR Václav Pavlíček, earlier Milan Hrubý
 LANGCONTACT v.pavlicek@centrum.cz
-LANGVERSION 3.01
+LANGVERSION 3.08
 LANGNAME Czech
 LANGNAMELOC Čeština
 SLangCancel Storno
@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD Klávesové &zkratky...
 _C_MNU_HELP_SUPPORT O&nline podpora...
 _C_MNU_HELP_UPGRADE Zkontrolovat &aktualizace...
 _C_MNU_HELP_WWW &Webová stránka programu Mp3tag...
+_C_MNU_TAG_EDIT Upravit...\tF2
+_C_MNU_TAG_NEW Přidat...\tIns
+_C_MNU_TAG_REMOVE Odebrat\tDel
 _C_MNU_TAGSOURCES Z&droje tagů
 _C_MNU_TOOLS &Nástroje
 _C_MNU_VIEW &Zobrazit
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY Automatické použití filtru
 _C_MNU_VIEW_ID3 Panel &tagů\tCtrl+Q
 _C_MNU_VIEW_REFRESH &Aktualizovat\tF5
 _C_MNU_VIEW_SORTBY &Seřadit podle
+_C_MNU_VIEW_SORTBYRANDOM &Náhodně
 _C_MNU_VIEW_TAGS &Další tagy...\tAlt+T
 _C_MNU_VIEW_TOOLBAR &Panel nástrojů
 _C_MNU_SB_ACTIONS Provede uživatelem definované akce (pravopis, nahrazení, ...) pro vybrané soubory.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE Změní velikost okna
 _C_MULTILINE Víceřádek
 _C_OK &OK
 _C_OPT_ACTIONGROUPS Skupiny akcí
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Použít
+_C_OPT_ACTIONGROUPS_SEL_EMPTY Nepovolena žádná skupina akcí
+_C_OPT_ACTIONGROUPS_SEL_MULTI Povoleny {1} skupiny akcí
+_C_OPT_ACTIONGROUPS_SEL_SINGLE Povolena jedna skupina akcí
+_C_OPT_ACTIONGROUPS_SORTBYNAME Seřadit podle názvu
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Seřadit podle stavu
 _C_OPT_ACTIONS Akce
 _C_OPT_ACTIONS_TYPE Typ akce
 _C_OPT_ADVANCED Upřesnit
 _C_OPT_ADVANCED_ID3V2LANG Kód jazyka (dle ISO-639-2) tagu ID3v2 u komentářů
 _C_OPT_ADVANCED_LISTCHAPTERS Vypsat hlavičky do samostatných souborů
+_C_OPT_ADVANCED_POPULARIMETER Zobrazovat hodnotu POPULARIMETER pro hodnotící tagy ID3v2
 _C_OPT_CAPTION Možnosti
 _C_OPT_CDDB_CAPTION datab. freedb
 _C_OPT_CDDB_CHK_USEPROXY P&oužívat proxy
@@ -401,6 +412,11 @@ _M_STAT_PLAY Soubor {1} je přehráván.
 _M_STR_ACTION_ADJUSTCOVER Upravit obal
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Formát
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Původní
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Kvalita
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Nejlepší
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH Vysoká
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Nízká
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Střední
 _M_STR_ACTION_ADJUSTCOVER_SIZE Max. velikost
 _M_STR_ACTION_CODEPAGE Převedení znakové stránky
 _M_STR_ACTION_CODEPAGE_DESC Znaková stránka
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Odebrat tagová pole
 _M_STR_ACTION_REM_DESC Tagová pole k odebrání (oddělena středníkem ;):
 _M_STR_ACTION_REM_EX Odebrat tagová pole kromě
 _M_STR_ACTION_REM_EX_DESC Ponechat následující tagová pole (oddělena středníkem ;):
+_M_STR_ACTION_SETCOVERPROPERTIES Změnit vlastnosti obalu
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Popis obalu:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Změnit pro:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL Všechny obaly
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Typ obalu:
 _M_STR_ACTION_SPLITFIELDS Rozdělit tagové pole podle oddělovače
+_M_STR_ACTIONGROUP_CHANGED Byla změněna konfigurace skupiny akcí.\r\n\r\nChcete změny uložit?
 _M_STR_ACTIONGROUP_NAME Název skupiny akcí
 _M_STR_ALBUM Album
 _M_STR_ALBUMARTIST Interpret alba:
 _M_STR_ALL_FILEDLGFILTER Všechny soubory (*.*)|*.*||
 _M_STR_ARTIST Interpret
 _M_STR_AUTHOR Autor
+_M_STR_AUTOSIZECOLUMNS Automatická velikost sloupců
 _M_STR_BACK < &Zpět
 _M_STR_BROWSE_COPY Kopírovat do složky
 _M_STR_BROWSE_MOVE Přesunout do složky
@@ -516,9 +539,11 @@ _M_STR_OPTS_NEVER Nikdy
 _M_STR_PLNAME Název souboru seznamu stop
 _M_STR_PL_CONFIRM Vytvořit seznam stop s názvem
 _M_STR_PL_SAVEFILTER Soubor seznamu stop (*.m3u)|*.m3u|Soubor Unicode seznamu stop (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION &Vytvořit předvolby výběru...
+_M_STR_PRESETS Př&edvolby
 _M_STR_PREVIEW &Náhled
 _M_STR_PROPERTIES Vlastnosti {1}
-_M_STR_QUICK rychle
+_M_STR_QUICK &rychle
 _M_STR_RECURSE Načítat podsložky
 _M_STR_REST Zbytek
 _M_STR_SAVE_NOT < žádné přidružení >
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES Čištění osamocených binárních souborů
 _M_STR_SB_CLEANUPDATABASE_COVERS Čištění osamocených obalů
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES Čištění dočasných souborů
 _M_STR_SB_EXPORTTAGS Export údajů tagů... {1} záznamů z {2} souborů
+_M_STR_SB_FILTER Filtrování...
 _M_STR_SB_LOADTAGS Čtení údajů tagů... {1} z {2}
 _M_STR_SB_READDIRECTORY Načítání složky
 _M_STR_SB_REMOVETAGS Odebírání údajů tagů... {1} z {2}
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON Toto album na webové stránce {1}.
 _M_STR_TITLE Skladba
 _M_STR_TRYAGAIN Chcete akci opakovat?
 _M_STR_TTF Tag - Název souboru
+_M_STR_UNSAVED Chcete změny uložit?
 _M_STR_UPDATE_FRM Aktualizace
 _M_STR_UPDATE_OPT_CHECK Po spuštění programu vyhledat aktualizace
 _M_STR_UPDATE_OPT_CHECK_BETA Zahrnout také beta verze programu

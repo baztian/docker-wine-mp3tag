@@ -1,6 +1,6 @@
-﻿LANGAUTHOR Rui Aguiar, Pedro Vieira
+﻿LANGAUTHOR Romano, Rui Aguiar, Pedro Vieira
 LANGCONTACT rui_a_aguiar@hotmail.com
-LANGVERSION 2.75
+LANGVERSION 3.06
 LANGNAME Portuguese
 LANGNAMELOC Português
 SLangCancel &Cancelar
@@ -60,7 +60,7 @@ _C_DLG_COLUMNS_TOP Ajustar visualização das colunas
 _C_DLG_TAGS Editar as informações da tag
 _C_DLG_TTF_TOP Seleccione o formato do texto
 _C_HELP &Ajuda
-_C_MNU_ACTIONS &Acções\tALT+6
+_C_MNU_ACTIONS &Ações\tALT+6
 _C_MNU_CON &Converter
 _C_MNU_CON_FTF Nome de &ficheiro --> Nome de ficheiro\tALT+3
 _C_MNU_CON_FTT &Nome de ficheiro --> Tag\tALT+2
@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD &Atalhos de Teclado
 _C_MNU_HELP_SUPPORT Suporte Online...
 _C_MNU_HELP_UPGRADE Procurar a actualização...
 _C_MNU_HELP_WWW &Site do Mp3tag...
+_C_MNU_TAG_EDIT Editar...\tF2
+_C_MNU_TAG_NEW Adicionar...\tIns
+_C_MNU_TAG_REMOVE Remover\tDel
 _C_MNU_TAGSOURCES &Fonte das Tags
 _C_MNU_TOOLS &Ferramentas
 _C_MNU_VIEW E&xibir
@@ -129,9 +132,10 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY Aplicação automática do filtro
 _C_MNU_VIEW_ID3 Painel da Tag\tCtrl+Q
 _C_MNU_VIEW_REFRESH &Actualizar\tF5
 _C_MNU_VIEW_SORTBY &Ordenar por
+_C_MNU_VIEW_SORTBYRANDOM &Aleatório
 _C_MNU_VIEW_TAGS &Tags...\tALT+T
 _C_MNU_VIEW_TOOLBAR Barra de &ferramentas
-_C_MNU_SB_ACTIONS Aplicar acções definidas pelo utilizador (conversão maiúscula/minúscula, substituição, ...) aos ficheiros seleccionados.
+_C_MNU_SB_ACTIONS Aplicar ações definidas pelo utilizador (conversão maiúscula/minúscula, substituição, ...) aos ficheiros seleccionados.
 _C_MNU_SB_CON_FTF Renomear ficheiros a partir de um padrão baseado no nome anterior.
 _C_MNU_SB_CON_FTT Obter tag a partir dos nomes do ficheiro.
 _C_MNU_SB_CON_TFF Obter tag a partir de uma lista definida num ficheiro.
@@ -195,12 +199,19 @@ _C_MNU_SB_WND_RESTORE Restaurar a janela para o tamanho normal.
 _C_MNU_SB_WND_SIZE Mudar o tamanho da janela.
 _C_MULTILINE Multilinha
 _C_OK &OK
-_C_OPT_ACTIONGROUPS Grupos de acção
-_C_OPT_ACTIONS Acções
-_C_OPT_ACTIONS_TYPE Seleccione o tipo de acção
+_C_OPT_ACTIONGROUPS Grupos de ação
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Aplicar
+_C_OPT_ACTIONGROUPS_SEL_EMPTY Nenhum grupo de ação habilitado
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} Grupo de ação habilitado 
+_C_OPT_ACTIONGROUPS_SEL_SINGLE One action group enabled
+_C_OPT_ACTIONGROUPS_SORTBYNAME Classificar por nome
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Classificar por estado
+_C_OPT_ACTIONS Ações
+_C_OPT_ACTIONS_TYPE Seleccione o tipo de ação
 _C_OPT_ADVANCED Avançado
 _C_OPT_ADVANCED_ID3V2LANG Código de linguagem (ISO-639-2) no Comentário ID3v2 
 _C_OPT_ADVANCED_LISTCHAPTERS Listar capítulos como ficheiros separados
+_C_OPT_ADVANCED_POPULARIMETER Always display POPULARIMETER values for ID3v2 ratings
 _C_OPT_CAPTION Opções
 _C_OPT_CDDB_CAPTION freedb
 _C_OPT_CDDB_CHK_USEPROXY &Usar servidor proxy
@@ -252,7 +263,7 @@ _C_OPT_GEN_CHK_GRID Mostrar as linhas da grelha na janela
 _C_OPT_GEN_CHK_JUMPONEDIT Seleccionar o próximo ficheiro automaticamente ao editar
 _C_OPT_GEN_CHK_KEEPFILETIME Preservar a data e hora dos ficheiros modificados
 _C_OPT_GEN_CHK_KEEPMOVEDFILES Manter ficheiros movidos na lista de ficheiros
-_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS em avisos de Acções
+_C_OPT_GEN_CHK_MSG_ACTIONWARNINGS em avisos de Ações
 _C_OPT_GEN_CHK_MSG_CHANGE Após alterar
 _C_OPT_GEN_CHK_MSG_CUT Ao recortar tags
 _C_OPT_GEN_CHK_MSG_DEL Após excluir
@@ -340,14 +351,14 @@ _C_TT_TTT Tag - Tag
 _C_TT_UPDIR Acima
 _C_WIZARD_TRACKS Assistente para auto-numeração
 _C_WIZARD_TRACKS_BEGIN Começar na faixa número:
-_C_WIZARD_TRACKS_DESC Assign track- and discnumbers
-_C_WIZARD_TRACKS_DISC_BEGIN Begin at discnumber
-_C_WIZARD_TRACKS_DISC_LEADINGZEROS Leading zeros for discnumbers (01, 02, ...)
-_C_WIZARD_TRACKS_DISC_SAVETOTAL Save total count of discs
-_C_WIZARD_TRACKS_DISCNUMBER Discnumber
+_C_WIZARD_TRACKS_DESC Atribuir faixas e números de disco
+_C_WIZARD_TRACKS_DISC_BEGIN Começar pelo número do disco
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Zeros iniciais para número de discos (01, 02, ...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Gravar número total de discos
+_C_WIZARD_TRACKS_DISCNUMBER Disco número
 _C_WIZARD_TRACKS_RESETFOLDERS Reiniciar contador para cada directório
 _C_WIZARD_TRACKS_SAVETOTAL Guardar o número total de faixas
-_C_WIZARD_TRACKS_TRACKNUMBER Tracknumber
+_C_WIZARD_TRACKS_TRACKNUMBER Número de faixa
 _M_ERR_CANCEL Processo cancelado.
 _M_ERR_CDDB_CD Erro ao ler CD de Áudio
 _M_ERR_CDDB_CONNECT Erro na ligação ao Servidor do freedb: {1}
@@ -379,7 +390,7 @@ _M_ERR_PARSELINE Não é possível analisar linha {1}.
 _M_ERR_PLAY Não foi possível reproduzir o ficheiro \"{1}\"!
 _M_ERR_READ_FILE O ficheiro \"{1}\" não pôde ser aberto para leitura.
 _M_ERR_RENAME_FILE O ficheiro \"{1}\" não pôde ser renomeado para \"{2}\".
-_M_ERR_RETRY Do you want to retry?
+_M_ERR_RETRY Quer recomeçar?
 _M_ERR_TL_NOTAGS Nenhuma entrada correspondente para o ficheiro \"{1}\".
 _M_ERR_WRITE_FILE O ficheiro \"{1}\" não pôde ser aberto para escrita.
 _M_ERR_YN \n\nDeseja continuar?
@@ -398,10 +409,15 @@ _M_LOG_TFF Tags extraídas da lista de tags \"{1}\" e guardada em {2} de {3} fic
 _M_LOG_TFF_S Importar tags de \"{1}\" para um ficheiro.
 _M_LOG_TTF {1} de {2} ficheiros renomeados.
 _M_STAT_PLAY Reproduzindo o ficheiro \"{1}\"...
-_M_STR_ACTION_ADJUSTCOVER Adjust cover
-_M_STR_ACTION_ADJUSTCOVER_FORMAT Format
+_M_STR_ACTION_ADJUSTCOVER Ajustar capa
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Formato
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
-_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Quality
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Best
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH High
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Low
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Medium
+_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Tamanho
 _M_STR_ACTION_CODEPAGE Converter página de código
 _M_STR_ACTION_CODEPAGE_DESC Página de código
 _M_STR_ACTION_EXPORTCOVER Exportar a capa de CD para ficheiro
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Remover campos
 _M_STR_ACTION_REM_DESC Campos a remover (separados por ;):
 _M_STR_ACTION_REM_EX Remover campos excepto
 _M_STR_ACTION_REM_EX_DESC Campos a guardar (separados por ;):
+_M_STR_ACTION_SETCOVERPROPERTIES Definir propriedades da capa
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Descrição da capa:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Definido para :
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL Todas as capas
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Tipo de capa:
 _M_STR_ACTION_SPLITFIELDS Dividir campos por separador
-_M_STR_ACTIONGROUP_NAME Nome do grupo de acção
+_M_STR_ACTIONGROUP_CHANGED A configuração dos grupos de ação mudou.\r\n\r\nQuer guardar as mudanças?
+_M_STR_ACTIONGROUP_NAME Nome do grupo de ação
 _M_STR_ALBUM Álbum
 _M_STR_ALBUMARTIST Artista do Álbum
 _M_STR_ALL_FILEDLGFILTER Todos os ficheiros (*.*)|*.*||
 _M_STR_ARTIST Artista
 _M_STR_AUTHOR Autor
+_M_STR_AUTOSIZECOLUMNS Colunas de dimensionamento automático
 _M_STR_BACK < &Voltar
 _M_STR_BROWSE_COPY Copiar para:
 _M_STR_BROWSE_MOVE Mover para:
@@ -503,9 +526,9 @@ _M_STR_MSGPASTE Deseja colar o conteúdo da área de transferência como uma nov
 _M_STR_MSGREMOVE Tem a certeza que quer remover as tags dos ficheiros seleccionados?
 _M_STR_NAME &Nome
 _M_STR_NETWORKING Rede
-_M_STR_NEXT &Next >
-_M_STR_NOACTION - Nenhuma acção -
-_M_STR_NOACTIONENABLED Por favor, habilite ao menos uma acção através das caixas de selecção, para poder usar esse recurso.
+_M_STR_NEXT &Próximo >
+_M_STR_NOACTION - Nenhuma ação -
+_M_STR_NOACTIONENABLED Por favor, habilite ao menos uma ação através das caixas de selecção, para poder usar esse recurso.
 _M_STR_NUMERIC Nu&mérico
 _M_STR_OPT_CDDB_BROWSE_LOCALPATH Por favor seleccione uma pasta para a base de dados do freedb.
 _M_STR_OPT_CDDB_PROCEED Isto vai remover todos os servidores!\n\nDeseja continuar?\n
@@ -515,7 +538,9 @@ _M_STR_OPTS_ASK Perguntar
 _M_STR_OPTS_NEVER Nunca
 _M_STR_PLNAME Lista de execução - Nome do ficheiro
 _M_STR_PL_CONFIRM Criar lista de execução com este nome
-_M_STR_PL_SAVEFILTER Playlist File (*.m3u)|*.m3u|Unicode Playlist File (*.m3u8)|*.m3u8||
+_M_STR_PL_SAVEFILTER Arquivo de lista de reprodução (*.m3u)|*.m3u|Arquivo de lista de reprodução Unicode (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Create selection preset...
+_M_STR_PRESETS Presets
 _M_STR_PREVIEW Pré-visualização
 _M_STR_PROPERTIES Propriedades de {1}
 _M_STR_QUICK Rápido
@@ -529,12 +554,13 @@ _M_STR_SAVEIMAGE Gravar imagem na tag
 _M_STR_SAVEIMAGEDIRECTORY Salvar imagem para disco
 _M_STR_SAVESELECTION Guardar selecção...
 _M_STR_SB_ABORTED interrompido
-_M_STR_SB_ACTION Aplicando acções no ficheiro... {1} of {2}
+_M_STR_SB_ACTION Aplicando ações no ficheiro... {1} of {2}
 _M_STR_SB_CLEANUPDATABASE A processar ficheiros ... {1} of {2} ({3} limpos)
 _M_STR_SB_CLEANUPDATABASE_BINARIES Limpar binários obsoletos
 _M_STR_SB_CLEANUPDATABASE_COVERS Limpar capas obsoletas
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES Limpar ficheiros de não-livraria
 _M_STR_SB_EXPORTTAGS Exportando informações da tag... {1} of {2}
+_M_STR_SB_FILTER Filtering ...
 _M_STR_SB_LOADTAGS Lendo dados da tag... {1} of {2}
 _M_STR_SB_READDIRECTORY Lendo pasta
 _M_STR_SB_REMOVETAGS A remover os dados da tag... {1} of {2}
@@ -571,10 +597,11 @@ _M_STR_THISALBUMON Este álbum no {1}
 _M_STR_TITLE Título
 _M_STR_TRYAGAIN Deseja tentar novamente?
 _M_STR_TTF Tag --> Nome do ficheiro
+_M_STR_UNSAVED Do you want to save the changes?
 _M_STR_UPDATE_FRM Actualizações
 _M_STR_UPDATE_OPT_CHECK Procurar actualizações no arranque
 _M_STR_UPDATE_OPT_CHECK_BETA Incluir versões Beta (Development Builds)
-_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Display release notes for new versions
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Exibir notas de lançamento para novas versões
 _M_STR_UPDATEAVAILABLE Uma nova versão do Mp3tag {1} está disponível!\n\nDeseja fazer o download desta actualização do {2} agora?
 _M_STR_UPDATENOTAVAILABLE Já está a usar a versão mais recente {1}.\n\nNão há actualização disponível.
 _M_STR_URL https://www.mp3tag.de/en/download.html

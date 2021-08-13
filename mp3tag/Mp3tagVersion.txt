@@ -1,4 +1,147 @@
 ------------  -------------------------------------------------------------------------------------
+[2021-07-23]  REL: VERSION 3.08 (for Windows 10/8.1/8/7)
+------------  -------------------------------------------------------------------------------------
+[2021-07-22]  FIX: cuesheet entries were not listed as separate files if audio information of referenced file cannot be read (since v3.03d). (#53743)
+[2021-07-20]  LNG: added Armenian translation.
+[2021-07-20]  CHG: installer is now Unicode-enabled.
+[2021-06-30]  CHG: VorbisComment block is now always written before Picture block for FLAC as a workaround for an issue in Windows. (#53554)
+[2021-06-25]  FIX: added special handling for ID3v2 comment descriptions `Songs-DB_Custom6` to `Songs-DB_Custom10`.
+[2021-06-21]  NEW: added status bar indicator for long-running filtering operations. (#52917)
+[2021-06-18]  NEW: added confirmation question if the Tag Panel contains unsaved changes and auto-saving is not enabled. (#53202)
+[2021-06-17]  CHG: Tag Panel fields are only enabled if at least one file is selected. (#14229)
+[2021-06-04]  CHG: remember previous image quality when adjusting cover art. (#53375)
+[2021-06-01]  NEW: added support for FLAC in MP4.
+[2021-05-22]  LNG: updated Brazilian Portuguese, Catalan, Czech, Hungarian, Italian, Slovak, Spanish, Turkish, and Ukrainian translation.
+------------  -------------------------------------------------------------------------------------
+[2021-05-21]  REL: VERSION 3.07 (for Windows 10/8.1/8/7)
+------------  -------------------------------------------------------------------------------------
+[2021-04-29]  FIX: regression to a possible runtime error when running actions that result in empty fields (since v3.05f).
+[2021-04-23]  FIX: drawing artifacts when resizing columns and splitter at tag-sources results. (#52479)
+[2021-04-23]  FIX: suggest sorting of tag-sources result by length was still flaky. (#52928)
+[2021-04-22]  FIX: sorting tag-sources result by length did not work correctly if length column exceeded the one hour mark. (#52928)
+[2021-04-22]  CHG: using special filenames `cover` and `back` for front and back covers at Matroska attachments. (#19599)
+[2021-04-21]  NEW: added option to configure the image quality when resizing cover art via 'Adjust cover'. (#50623)
+[2021-04-21]  NEW: added advanced tagging option to always display POPULARIMETER field for ID3v2 rating instead of app-specific convenience fields. (#11847)
+[2021-04-21]  CHG: added POPULARIMETER and RATING to list of standard fields. (#14581)
+[2021-04-20]  CHG: creating multiple fields using the multiple fields delimiter `\\` via replace or other actions was not possible. (#52862)
+[2021-04-16]  NEW: added support for editing cover art for Matroska MKA/MKV tags. (#12641, #18518, #19588, #19599, #40845, #40859, #40883, #41895, #46630, #50619)
+[2021-04-16]  CHG: removing Matroska segment title if it differs from global tag title.
+[2021-04-10]  FIX: occasional crash after using the extended tag dialog due to heap corruption. (#52713)
+[2021-04-08]  CHG: not using ID3v2 unsynchronization scheme anymore when writing ID3v2.4 due to compatibility reasons with apps that don't implement the standard.
+[2021-04-08]  FIX: occasional cannot write to file error when editing tags via navigation in the file list (since v3.05a).
+[2021-04-08]  FIX: layout problem where dropdown fields on Tag Panel were sometimes partially hidden behind vertical scrollbar. (#44693, #48749, #52556, #52601)
+[2021-04-04]  NEW: added support for WebP images for cover art. (#51592)
+[2021-04-02]  NEW: added support for MP4 fields ITUNESALBUMID, ITUNESARTISTID, ITUNESCOMPOSERID, ITUNESCOUNTRYID, ITUNESGENREID, and XID. (#43189, #48614, #51715, #52610)
+[2021-04-01]  CHG: re-added ACOUSTID_FINGERPRINT to list of standard fields on new installations or field-list reset. (#52570)
+[2021-03-28]  LNG: updated Brazilian Portuguese, Czech, Finnish, Italian, Portuguese, Swedish, and Turkish translation.
+------------  -------------------------------------------------------------------------------------
+[2021-03-26]  REL: VERSION 3.06a (for Windows 10/8.1/8/7)
+------------  -------------------------------------------------------------------------------------
+[2021-03-26]  FIX: regression where lookup via freedb freezes application state (since v3.05a).
+------------  -------------------------------------------------------------------------------------
+[2021-03-25]  REL: VERSION 3.06 (for Windows 10/8.1/8/7)
+------------  -------------------------------------------------------------------------------------
+[2021-03-24]  FIX: querying data from tag sources did not send default user agent string if UserAgent was not enabled in tag source. (#8995)
+[2021-03-15]  FIX: changes that only affected upper / lower case in Tag Panel fields were ignored (since v3.05d). (#52376)
+[2021-03-15]  NEW: CDG files are now also moved and copied with corresponding MP3, WMA, and FLAC files. (#51944)
+[2021-03-15]  CHG: minor restructuring of file list context menu to separate Remove and Delete from each other. (#16741)
+[2021-03-14]  FIX: undo did not undo last edit operation if text field had focus. (#15438)
+[2021-03-14]  NEW: added option to disable auto-sizing of columns in search results list of tag sources and to preserve manually adjusted column widths. (#17966, #51840)
+[2021-03-14]  CHG: confirmation dialogs at pasting, cutting, and removing tags now use OK and Cancel buttons to allow for dismissal via Esc key. (#41495)
+[2021-03-13]  CHG: search query fields are now pre-filled with previous input when going back or retrying from tag sources. (#51845)
+[2021-03-13]  NEW: added Retry button to tag sources if no results were found for search criteria. (#51845)
+[2021-03-13]  NEW: added Retry button for error message when retrieving album metadata from tag sources (2nd step). (#17918)
+[2021-03-12]  CHG: action groups dialog keyboard shortcut to disable all action groups is now Ctrl+D.
+[2021-03-11]  FIX: applying presets at action groups dialog enabled all currently selected action groups.
+[2021-03-11]  CHG: renamed Utils to Presets at action groups dialog and restructured the menu.
+[2021-03-06]  CHG: added means to prevent duplicate keyboard mnemonics in file list context menu. (#51896)
+[2021-03-03]  NEW: added actions and tag sources to file list context menu. (#51896)
+[2021-03-02]  FIX: suggest sorting of tag-sources result by length did only work if tag source provided lengths in seconds. (#48420)
+[2021-02-22]  NEW: added `IfGreater` and `IfLess` to web sources framework. (#52080)
+[2021-02-13]  FIX: regression where converter 'Text file - Tag' freezes application state (since v3.05a). (#51964)
+[2021-02-05]  FIX: file list scrolls back to leftmost position after saving or undoing changes. (#17428)
+[2021-02-05]  FIX: file list scrolls back to leftmost position when selecting multiple files in some cases. (#48411, #51675)
+[2021-02-05]  CHG: minimum system requirements are now Windows 7 and a processor with SSE2 instruction set.
+[2021-01-29]  LNG: updated Catalan, Czech, French, Hebrew, Italian, Polish, Portuguese-BR, Slovak, Spanish, and Turkish translation.
+------------  -------------------------------------------------------------------------------------
+[2021-01-28]  REL: VERSION 3.05 (for Windows 10/8.1/8/7/2008/Vista/2003/XP SP3)
+------------  -------------------------------------------------------------------------------------
+[2020-12-17]  NEW: action type 'Set cover properties' to set cover type and/or cover description via actions. (#19092)
+[2020-12-17]  NEW: added entries for adding, editing, and removing fields to context menu of extended tag dialog field list. (#47996)
+[2020-12-17]  FIX: context menu entries of extended tag dialog field list were always active independent of selection and clipboard state.
+[2020-12-17]  FIX: regression when reading information fields from AAC and TTA files. (#51075)
+[2020-12-16]  CHG: added option to adjust cover for multiple files with different covers from Tag Panel cover context menu. (#51196)
+[2020-12-16]  NEW: added displaying image in Tag Panel and reading of dimensions and mimetype when listing image files.
+[2020-12-16]  FIX: regression where unsupported files are not listed despite file extensions are added to files to read. (#51187)
+[2020-12-16]  FIX: editing value of a field with multiple values via extended tag dialog moved edited value to end of value list. (#49101, #51213)
+[2020-12-16]  CHG: web sources framework `JoinLines` now uses all available lines if parameter is `-1` or exceeds input range. (#18544)
+[2020-11-28]  LNG: updated Catalan, Czech, Dutch, German, Slovak, Slovenian, Spanish, and Turkish translation.
+------------  -------------------------------------------------------------------------------------
+[2020-11-27]  REL: VERSION 3.04a (for Windows 10/8.1/8/7/2008/Vista/2003/XP SP3)
+------------  -------------------------------------------------------------------------------------
+[2020-11-27]  FIX: memory leak when selecting files, most noticeble on Windows 7 and below (since v3.03e). (#50944)
+[2020-11-27]  FIX: memory leak when reading MP4 files (since v3.03e).
+[2020-11-27]  FIX: tag size information fields were not filled initially (since v3.03e).
+------------  -------------------------------------------------------------------------------------
+[2020-11-27]  REL: VERSION 3.04 (for Windows 10/8.1/8/7/2008/Vista/2003/XP SP3)
+------------  -------------------------------------------------------------------------------------
+[2020-11-26]  CHG: added special handling for iTunEXTC field name for MP4. (#50857)
+[2020-11-25]  CHG: web sources framework debug output now doesn't contain dump of input data anymore (use `debugwriteinput` for that).
+[2020-11-22]  NEW: CDG files are now renamed with corresponding FLAC files. (#18245, #50830)
+[2020-11-15]  CHG: improved performance when reading MP3 and MP4 files.
+[2020-11-12]  CHG: improved performance when selecting large amounts of files. (#50632)
+[2020-11-11]  NEW: added support for ALBUMARTIST, ALBUMARTISTSORT, and MUSICBRAINZ_ALBUMARTISTID to MusicBrainz tag source.
+[2020-11-08]  FIX: documentation of action 'Remove duplicate fields' did not mention that the first value is retained. (#50727)
+[2020-11-07]  FIX: runtime error when attempting to display tag source toolbar tooltip for tag sources with very long names. (#50704)
+[2020-10-30]  NEW: added support for MP4 movie tag field DIRECTOR. (#50610)
+[2020-10-30]  CHG: changed Discogs tag sources to remove apostrophe from title. (#50382)
+[2020-10-30]  FIX: web sources framework json_select_many always assumed type string for selected elements. (#50625)
+[2020-10-22]  FIX: web sources framework json_select_array always assumed index parameter. (#50494)
+[2020-10-20]  CHG: pressing ESC while moving action groups via drag'n'drop in action groups dialog does not close dialog anymore.
+[2020-10-20]  FIX: moving action groups via drag'n'drop in action groups dialog did not remove drag image on drag end via ESC. (#50477)
+[2020-10-20]  NEW: added option to randomize sorting via menu "View > Sort by". (#11763, #50519)
+[2020-10-20]  FIX: reading of MP4 QuickTime chapters was not working anymore (since 3.03a).
+[2020-10-17]  CHG: improved reading performance for large MP4 files. (#50419)
+[2020-10-03]  LNG: updated Bulgarian, Catalan, Czech, French, Hebrew, Hungarian, Italian, Korean, Slovak, Spanish, and Turkish translation.
+------------  -------------------------------------------------------------------------------------
+[2020-10-02]  REL: VERSION 3.03 (for Windows 10/8.1/8/7/2008/Vista/2003/XP SP3)
+------------  -------------------------------------------------------------------------------------
+[2020-09-27]  CHG: deleting files now always uses the setting at 'Options > Messages' for confirmation messages and if disabled the global system setting. (#50161)
+[2020-09-25]  CHG: sorting action groups by name now uses natural sorting. (#50202)
+[2020-09-23]  CHG: removed warning message that appears when saving configuration of action groups without any enabled action groups.
+[2020-09-23]  NEW: added confirmation message to save configuration changes when closing action groups dialog. (#17000)
+[2020-09-23]  CHG: renamed OK button to Apply at action groups dialog.
+[2020-09-23]  NEW: added option to sort list of action groups from right-click menu at action groups dialog. (#50202)
+[2020-09-22]  CHG: right-click menu at action groups dialog is now also shown if no action group is selected.
+[2020-09-14]  FIX: trailing pipe symbol `|` was removed from ID3v2 `UNSYNCEDLYRICS` field when saving tags. (#50163)
+[2020-09-13]  FIX: moving action groups via Alt keys or buttons did not keep moved action group visible.
+[2020-09-13]  FIX: moving to beginning of lists during drag'n'drop did not trigger item scrolling if possible.
+[2020-09-10]  NEW: added state-changed indicator to action groups dialog window caption.
+[2020-09-10]  NEW: added action groups dialog keyboard shortcuts Alt+Up, Alt+Down, Alt+Page Up, and Alt+Page Down for moving action groups in the list.
+[2020-09-10]  NEW: added support for moving action groups via drag'n'drop in action groups dialog.
+[2020-09-10]  NEW: added support for moving multiple selected action groups in action groups dialog.
+[2020-09-10]  NEW: added support for selecting multiple action groups and changing their enabled state by clicking the checkmark of one item in the group.
+[2020-09-10]  NEW: added action groups dialog keyboard shortcuts Ctrl+E to enable all action groups and Ctrl+U to disable all action groups. (#49589)
+[2020-09-10]  NEW: added action groups dialog keyboard shortcut Ctrl+Shift+A to invert current selection of action groups.
+[2020-09-10]  NEW: added action groups dialog keyboard shortcut Ctrl+A to select all action groups.
+[2020-09-10]  NEW: added action groups dialog keyboard shortcut Ctrl+S to save current state.
+[2020-09-09]  NEW: added indicator on how many action groups are selected to action groups dialog. (#49589)
+[2020-09-09]  CHG: option to move action groups to top/bottom when Alt key is pressed. (#49589)
+[2020-09-07]  FIX: added missing support for cover art for raw AAC files. (#49784)
+[2020-09-07]  FIX: added missing support for `*.jfif` image file extension when dropping cover art. (#49655)
+[2020-08-29]  LNG: updated Catalan, Hebrew, Spanish and Russian translation files.
+------------  -------------------------------------------------------------------------------------
+[2020-07-11]  REL: VERSION 3.02 (for Windows 10/8.1/8/7/2008/Vista/2003/XP SP3)
+------------  -------------------------------------------------------------------------------------
+[2020-07-10]  CHG: improved visual appearance of disabled menu item selection background to conform with system defaults.
+[2020-07-10]  FIX: text of selected disabled menu items were not visible anymore under Windows 7 (since v3.00). (#48265)
+[2020-07-09]  LNG: updated Italian language file.
+[2020-07-08]  CHG: re-added option to query data from freedb via web-based search from gnudb.org.
+[2020-07-06]  FIX: not responding in some cases when canceling reading files while Library feature was enabled. (#48983, #49032)
+[2020-06-24]  CHG: updated list of default freedb servers to include dbPowerAmp and gnudb.org servers.
+[2020-06-24]  CHG: removed option to query data from freedb via web-based search due to freedb.org shutdown.
+[2020-06-03]  LNG: updated Finnish language file.
+------------  -------------------------------------------------------------------------------------
 [2020-03-27]  REL: VERSION 3.01 (for Windows 10/8.1/8/7/2008/Vista/2003/XP SP3)
 ------------  -------------------------------------------------------------------------------------
 [2020-03-23]  CHG: replace action now uses more characters to detect word boundaries if match as whole word is enabled. (#48186)

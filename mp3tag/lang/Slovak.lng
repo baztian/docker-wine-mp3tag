@@ -1,6 +1,6 @@
 ﻿LANGAUTHOR Artam & kubalav
 LANGCONTACT peterki@hotmail.com - kubala.v@gmail.com
-LANGVERSION 3.00
+LANGVERSION 3.08
 LANGNAME Slovak
 LANGNAMELOC Slovenský
 SLangCancel &Zrušiť
@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD &Klávesové skratky
 _C_MNU_HELP_SUPPORT O&nline podpora...
 _C_MNU_HELP_UPGRADE &Vyhľadať novú verziu...
 _C_MNU_HELP_WWW Mp3tag &webová stránka...
+_C_MNU_TAG_EDIT Upraviť...\tF2
+_C_MNU_TAG_NEW Pridať...\tIns
+_C_MNU_TAG_REMOVE Odstrániť\tDel
 _C_MNU_TAGSOURCES Zdroje &tagov
 _C_MNU_TOOLS &Nástroje
 _C_MNU_VIEW &Zobraziť
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY Filter s automatickým použitím
 _C_MNU_VIEW_ID3 &Panel tagov\tCtrl+Q
 _C_MNU_VIEW_REFRESH &Obnoviť\tF5
 _C_MNU_VIEW_SORTBY &Zoradiť podľa
+_C_MNU_VIEW_SORTBYRANDOM Náhodne
 _C_MNU_VIEW_TAGS &Rozšírené tagy...\tALT+T
 _C_MNU_VIEW_TOOLBAR Panel &nástrojov
 _C_MNU_SB_ACTIONS Aplikuje používateľom definované akcie (konverzia veľkých písmen, nahradenie, ...) na vybrané súbory.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE Zmeniť veľkosť okna
 _C_MULTILINE Viacriadkové
 _C_OK &OK
 _C_OPT_ACTIONGROUPS Skupiny akcií
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Aplikovať
+_C_OPT_ACTIONGROUPS_SEL_EMPTY Nie je povolená žiadna skupina akcií
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} povolené skupiny akcií
+_C_OPT_ACTIONGROUPS_SEL_SINGLE 1 povolená skupina akcií
+_C_OPT_ACTIONGROUPS_SORTBYNAME Zoradiť podľa názvu
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Zoradiť podľa stavu
 _C_OPT_ACTIONS Akcie
 _C_OPT_ACTIONS_TYPE Vybrať typ akcie
 _C_OPT_ADVANCED Rozšírené
 _C_OPT_ADVANCED_ID3V2LANG jazykový kód pre ID3v2 poznámku (podľa ISO-639-2)
 _C_OPT_ADVANCED_LISTCHAPTERS Zoznam kapitol ako samostatný súbor
+_C_OPT_ADVANCED_POPULARIMETER Vždy zobrazovať hodnoty POPULARIMETER pre hodnotenia ID3v2
 _C_OPT_CAPTION Možnosti
 _C_OPT_CDDB_CAPTION freedb
 _C_OPT_CDDB_CHK_USEPROXY Použiť pr&oxy
@@ -379,7 +390,7 @@ _M_ERR_PARSELINE Nedá sa parsovať riadok {1}.
 _M_ERR_PLAY Súbor \"{1}\" sa nedá otvoriť na prehrávanie!
 _M_ERR_READ_FILE Súbor \"{1}\" sa nedá otvoriť na čítanie.
 _M_ERR_RENAME_FILE Súbor \"{1}\" sa nedá premenovať na \"{2}\".
-_M_ERR_RETRY Do you want to retry?
+_M_ERR_RETRY Chcete to skúsiť znova?
 _M_ERR_TL_NOTAGS Žiadna položka sa nezhoduje so súborom \"{1}\".
 _M_ERR_WRITE_FILE Súbor \"{1}\" sa nedá otvoriť na zápis.
 _M_ERR_YN \n\nChcete pokračovať?
@@ -401,6 +412,11 @@ _M_STAT_PLAY Prehráva sa súbor \"{1}\"...
 _M_STR_ACTION_ADJUSTCOVER Upraviť obal
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Formát
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Originál
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Kvalita
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Najlepšia
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH Vysoká
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Nízka
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Stredná
 _M_STR_ACTION_ADJUSTCOVER_SIZE Max. veľkosť
 _M_STR_ACTION_CODEPAGE Konvertovať kódovú stránku
 _M_STR_ACTION_CODEPAGE_DESC Kódová stránka
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Odstrániť polia
 _M_STR_ACTION_REM_DESC Odstrániť polia (oddelené bodkočiarkou):
 _M_STR_ACTION_REM_EX Odstrániť polia okrem
 _M_STR_ACTION_REM_EX_DESC Ponechať polia (oddelené bodkočiarkou):
+_M_STR_ACTION_SETCOVERPROPERTIES Nastaviť vlastnosti obalu
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Popis obalu:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Nastaviť pre:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL Všetky obaly
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Typ obalu:
 _M_STR_ACTION_SPLITFIELDS Rozdeliť polia podľa oddeľovača
+_M_STR_ACTIONGROUP_CHANGED Nastavenie skupiny akcií sa zmenilo.\r\n\r\nChcete tieto zmeny uložiť?
 _M_STR_ACTIONGROUP_NAME Názov skupiny akcií
 _M_STR_ALBUM Album
 _M_STR_ALBUMARTIST &Interpret pre album
 _M_STR_ALL_FILEDLGFILTER Všetky súbory (*.*)|*.*||
 _M_STR_ARTIST Interpret
 _M_STR_AUTHOR Autor
+_M_STR_AUTOSIZECOLUMNS Automatická šírka stĺpcov
 _M_STR_BACK < &Späť
 _M_STR_BROWSE_COPY Kopírovať do:
 _M_STR_BROWSE_MOVE Presunúť do:
@@ -474,7 +497,7 @@ _M_STR_FIELD Pole:
 _M_STR_FIELDSIZE Veľkosť poľa
 _M_STR_FIELDROWS Riadky
 _M_STR_FILE Súbor
-_M_STR_FILEDELETE Naozaj chcete odstrániť všetky vybrané súbory?
+_M_STR_FILEDELETE Chcete odstrániť všetky vybrané súbory?
 _M_STR_FILEMODIFIED Modifikovaný
 _M_STR_FILESIZE Veľkosť
 _M_STR_FILTER &Filter:
@@ -498,9 +521,9 @@ _M_STR_MPEGFREQUENCY Frekvencia
 _M_STR_MPEGLENGTH Dĺžka
 _M_STR_MPEGMODE Režim
 _M_STR_MPEGVERSION Kodek
-_M_STR_MSGCUT Naozaj chcete odstrániť tagy z vybraného súboru a skopírovať ich do schránky?
-_M_STR_MSGPASTE Naozaj chcete vložiť obsah schránky ako nový tag pre vybraný súbor?
-_M_STR_MSGREMOVE Naozaj chcete odstrániť tagy z označených súborov?
+_M_STR_MSGCUT Chcete odstrániť tagy z vybraného súboru a skopírovať ich do schránky?
+_M_STR_MSGPASTE Chcete vložiť obsah schránky ako nový tag pre vybraný súbor?
+_M_STR_MSGREMOVE Chcete odstrániť tagy z označených súborov?
 _M_STR_NAME Názov
 _M_STR_NETWORKING Sieť
 _M_STR_NEXT Ďa&lší >
@@ -516,9 +539,11 @@ _M_STR_OPTS_NEVER nikdy
 _M_STR_PLNAME Playlist - Názov súboru
 _M_STR_PL_CONFIRM Vytvoriť playlist s týmto názvom
 _M_STR_PL_SAVEFILTER Súbor playlistu (*.m3u)|*.m3u|Unicode Playlist (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Vytvoriť predvoľbu výberu...
+_M_STR_PRESETS Predvoľby
 _M_STR_PREVIEW Náhľad
 _M_STR_PROPERTIES {1} Vlastnosti
-_M_STR_QUICK rýchlo
+_M_STR_QUICK &Rýchlo
 _M_STR_RECURSE Prehľadať rekurzívne
 _M_STR_REST Zvyšok
 _M_STR_SAVE_NOT < bez priradenia >
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES Čistenie osamotených bináriek
 _M_STR_SB_CLEANUPDATABASE_COVERS Čistenie osamotených obalov
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES Čistenie súborov nezaradených do knižnice
 _M_STR_SB_EXPORTTAGS Export informácií z tagu ... {1} of {2}
+_M_STR_SB_FILTER Filtruje sa ...
 _M_STR_SB_LOADTAGS Čítajú sa údaje tagu ... {1} of {2}
 _M_STR_SB_READDIRECTORY Číta sa priečinok
 _M_STR_SB_REMOVETAGS Odstraňujú sa údaje tagu ... {1} of {2}
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON Tento album na {1}
 _M_STR_TITLE Názov
 _M_STR_TRYAGAIN Chcete to skúsiť znova?
 _M_STR_TTF Tag - Názov súboru
+_M_STR_UNSAVED Chcete zmeny uložiť?
 _M_STR_UPDATE_FRM Aktualizácie
 _M_STR_UPDATE_OPT_CHECK Skontrolovať aktualizácie po štarte
 _M_STR_UPDATE_OPT_CHECK_BETA Hľadať tiež vývojové verzie (Beta)

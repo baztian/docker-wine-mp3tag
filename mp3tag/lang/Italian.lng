@@ -1,6 +1,6 @@
 ﻿LANGAUTHOR Luca Snoriguzzi
 LANGCONTACT luca@lucaweb.eu
-LANGVERSION 3.00
+LANGVERSION 3.08
 LANGNAME Italian
 LANGNAMELOC Italiano
 SLangCancel &Annulla
@@ -28,15 +28,15 @@ _C_ABORT Interrompi
 _C_ABORTING Interruzione...
 _C_APP_ST_ALBUM &Album
 _C_APP_ST_ARTIST Arti&sta
-_C_APP_ST_COMMENT &Commento
+_C_APP_ST_COMMENT Co&mmento
 _C_APP_ST_FOLDER &Cartella
 _C_APP_ST_GENRE &Genere
-_C_APP_ST_TITLE &Titolo
+_C_APP_ST_TITLE Tit&olo
 _C_APP_ST_TRACK T&raccia:
 _C_APP_ST_YEAR An&no
-_C_CANCEL &Annulla
+_C_CANCEL Ann&ulla
 _C_CANCELING Annullamento...
-_C_CLOSE &Chiudi
+_C_CLOSE C&hiudi
 _C_DLG_CDDBCONFIRM_CAPTION Lista dei risultati Freedb ...
 _C_DLG_CDDBCONFIRM_CHK_DISCID Copia l'ID Disco nel campo commento
 _C_DLG_CDDBCONFIRM_CHK_DISCID2 Copia l'ID Disco nel campo ID Disco
@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD &Collegamenti tastiera (HotKey)
 _C_MNU_HELP_SUPPORT Supporto Online ...
 _C_MNU_HELP_UPGRADE Cerca nuova versione ...
 _C_MNU_HELP_WWW &Sito Web di Mp3tag...
+_C_MNU_TAG_EDIT Modifica...\tF2
+_C_MNU_TAG_NEW Aggiungi...\tIns
+_C_MNU_TAG_REMOVE Rimuovi\tDel
 _C_MNU_TAGSOURCES &Fonti Tag
 _C_MNU_TOOLS &Strumenti
 _C_MNU_VIEW &Visualizza
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY Auto-applica il filtro
 _C_MNU_VIEW_ID3 &Finestra di modifica ID3\tCtrl+Q
 _C_MNU_VIEW_REFRESH A&ggiorna\tF5
 _C_MNU_VIEW_SORTBY &Ordina per
+_C_MNU_VIEW_SORTBYRANDOM Casuale
 _C_MNU_VIEW_TAGS &Tag...\tAlt+T
 _C_MNU_VIEW_TOOLBAR &Barra Principale
 _C_MNU_SB_ACTIONS Applica azioni predefinite dall'utente (maiuscole/minuscole, sostituzione, ...) ai file selezionati.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE Modifica le dimensioni della finestra.
 _C_MULTILINE Multilinea
 _C_OK &OK
 _C_OPT_ACTIONGROUPS Gruppi di azioni
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Applica
+_C_OPT_ACTIONGROUPS_SEL_EMPTY Nessun gruppo di azioni abilitato
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} gruppi di azioni abilitati
+_C_OPT_ACTIONGROUPS_SEL_SINGLE Un gruppo di azioni abilitato
+_C_OPT_ACTIONGROUPS_SORTBYNAME Ordina per nome
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Ordina per stato
 _C_OPT_ACTIONS Azioni
 _C_OPT_ACTIONS_TYPE Seleziona un'azione
 _C_OPT_ADVANCED Avanzate
-_C_OPT_ADVANCED_ID3V2LANG Codice linguaggio commento ID3v2 (ISO-639-2)
+_C_OPT_ADVANCED_ID3V2LANG Codice lingua commento ID3v2 (ISO-639-2)
 _C_OPT_ADVANCED_LISTCHAPTERS Elenca i capitoli come file separati
+_C_OPT_ADVANCED_POPULARIMETER Visualizza i valori POPULARIMETER nelle classificazioni ID3v2
 _C_OPT_CAPTION Opzioni
 _C_OPT_CDDB_CAPTION Freedb
 _C_OPT_CDDB_CHK_USEPROXY Utilizza Server Pro&xy
@@ -249,7 +260,7 @@ _C_OPT_GEN_CAPTION Generali
 _C_OPT_GEN_CHK_AUTOSAVE Salva Tag ID3 quando vengono utilizzati i tasti direzionali
 _C_OPT_GEN_CHK_FOLDERSTART Avvia sempre in questa cartella
 _C_OPT_GEN_CHK_GRID Visualizza linee di griglia nella lista file
-_C_OPT_GEN_CHK_JUMPONEDIT Seleziona automat. il file successivo durante la modifica
+_C_OPT_GEN_CHK_JUMPONEDIT Selezione automatica del file successivo durante la modifica
 _C_OPT_GEN_CHK_KEEPFILETIME Mantieni la data originale del file
 _C_OPT_GEN_CHK_KEEPMOVEDFILES Mantieni i file spostati nella lista file
 _C_OPT_GEN_CHK_MSG_ACTIONWARNINGS Durante l'utilizzo di Azioni Utente
@@ -266,7 +277,7 @@ _C_OPT_GEN_CHK_RELPL &Inserisci riferimento al percorso di lavoro
 _C_OPT_GEN_CHK_AUTOCOMPLETE Completamento automatico nelle caselle di selezione
 _C_OPT_GEN_CHK_SELECTFILES Seleziona file automaticamente
 _C_OPT_GEN_CHK_SORTNATURAL Utilizza ordinamento originale
-_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH &Visualizza il percorso corrente nel titolo della finestra
+_C_OPT_GEN_CHK_TITLESHOWFOLDERPATH &Visualizza il percorso attuale nel titolo della finestra
 _C_OPT_GEN_FRM_GEN Opzioni Generali
 _C_OPT_GEN_FRM_MSG Visualizza messaggio
 _C_OPT_GEN_FRM_PL &Nome file della lista di esecuzione
@@ -379,7 +390,7 @@ _M_ERR_PARSELINE Impossibile analizzare la linea {1}.
 _M_ERR_PLAY Non è stato possibile aprire il file \"{1}\" per la riproduzione!
 _M_ERR_READ_FILE Non è stato possibile aprire il file \"{1}\" per la lettura.
 _M_ERR_RENAME_FILE Il file \"{1}\" non può venire rinominato in \"{2}\".
-_M_ERR_RETRY Do you want to retry?
+_M_ERR_RETRY Desideri riprovare?
 _M_ERR_TL_NOTAGS Nessuna voce trovata per il file \"{1}\".
 _M_ERR_WRITE_FILE Non è stato possibile aprire il file \"{1}\" per la scrittura.
 _M_ERR_YN \n\nDesideri proseguire?
@@ -401,6 +412,11 @@ _M_STAT_PLAY Il file \"{1}\" viene aperto per la riproduzione.
 _M_STR_ACTION_ADJUSTCOVER Regola copertina
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Formato
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Originale
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Qualità
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Migliore
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH Alta
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Bassa
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Media
 _M_STR_ACTION_ADJUSTCOVER_SIZE Dim. Max.
 _M_STR_ACTION_CODEPAGE Converti codepage
 _M_STR_ACTION_CODEPAGE_DESC Codepage
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Rimuovi campi
 _M_STR_ACTION_REM_DESC Campi da rimuovere (semicolonne-separate):
 _M_STR_ACTION_REM_EX Eccezioni rimozione campi
 _M_STR_ACTION_REM_EX_DESC Campi da mantenere (semicolonne-separate):
+_M_STR_ACTION_SETCOVERPROPERTIES Imposta proprietà copertina
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Descrizione copertina:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Imposta per:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL Tutte le copertine
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Tipo copertina:
 _M_STR_ACTION_SPLITFIELDS Separa campi con un separatore
+_M_STR_ACTIONGROUP_CHANGED La configurazione dei gruppi di azioni è cambiata.\r\n\r\nVuoi salvare le modifiche?
 _M_STR_ACTIONGROUP_NAME Nome del gruppo di azioni
 _M_STR_ALBUM Album
 _M_STR_ALBUMARTIST Artista Album
 _M_STR_ALL_FILEDLGFILTER Tutti i file (*.*)|*.*||
 _M_STR_ARTIST Artista
 _M_STR_AUTHOR Autore
+_M_STR_AUTOSIZECOLUMNS Adatta dimensioni colonne
 _M_STR_BACK < &Precedente
 _M_STR_BROWSE_COPY Copia in:
 _M_STR_BROWSE_MOVE Sposta in:
@@ -488,7 +511,7 @@ _M_STR_GENRE Genere
 _M_STR_GENRES Generi
 _M_STR_HIDE &Nascondi
 _M_STR_ITEMALREADYEXISTS Esiste già una voce con questo nome, sovrascrivo?
-_M_STR_LANGUAGE Linguaggio
+_M_STR_LANGUAGE Lingua
 _M_STR_M3U_FILEDLGFILTER File supportati (*.m3u; *.m3u8; *.cue)|*.m3u; *.m3u8; *.cue||
 _M_STR_METADATA &Metadati
 _M_STR_MOVEDOWN Sposta &giù
@@ -516,6 +539,8 @@ _M_STR_OPTS_NEVER mai
 _M_STR_PLNAME Lista di esecuzione - Nome file
 _M_STR_PL_CONFIRM Crea lista di esecuzione con questo nome
 _M_STR_PL_SAVEFILTER Playlist File (*.m3u)|*.m3u|Unicode Playlist File (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Crea preimpostazioni...
+_M_STR_PRESETS Preimpostazioni
 _M_STR_PREVIEW Anteprima
 _M_STR_PROPERTIES Proprietà di {1}
 _M_STR_QUICK Rapido
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES Pulizia binari orfani
 _M_STR_SB_CLEANUPDATABASE_COVERS Pulizia copertine orfane
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES Pulizia file non di libreria
 _M_STR_SB_EXPORTTAGS Esporto informazioni Tag ... {1} di {2}
+_M_STR_SB_FILTER Filtraggio ...
 _M_STR_SB_LOADTAGS Leggo informazioni ID3 ... {1} di {2}
 _M_STR_SB_READDIRECTORY Percorso di lettura
 _M_STR_SB_REMOVETAGS Rimuovo informazioni ID3 ... {1} di {2}
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON Questo album in {1}
 _M_STR_TITLE Titolo
 _M_STR_TRYAGAIN Vuoi riprovare ancora?
 _M_STR_TTF Tag - Nome file
+_M_STR_UNSAVED Vuoi salvare le modifiche?
 _M_STR_UPDATE_FRM Aggiornamenti
 _M_STR_UPDATE_OPT_CHECK Ricerca aggiornamenti all'avvio del programma
 _M_STR_UPDATE_OPT_CHECK_BETA Includi versioni in fase di sviluppo (Beta)

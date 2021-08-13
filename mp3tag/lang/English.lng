@@ -60,7 +60,7 @@ _C_DLG_COLUMNS_TOP Adjust visibility of the columns
 _C_DLG_TAGS Edit tag info
 _C_DLG_TTF_TOP Select format string
 _C_HELP &Help
-_C_MNU_ACTIONS Actions\tAlt+6
+_C_MNU_ACTIONS &Actions\tAlt+6
 _C_MNU_CON &Convert
 _C_MNU_CON_FTF F&ilename - Filename\tAlt+3
 _C_MNU_CON_FTT &Filename - Tag\tAlt+2
@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD &Keyboard Shortcuts
 _C_MNU_HELP_SUPPORT Online Support...
 _C_MNU_HELP_UPGRADE Check for new version...
 _C_MNU_HELP_WWW Mp3tag &Website...
+_C_MNU_TAG_EDIT Edit...\tF2
+_C_MNU_TAG_NEW Add...\tIns
+_C_MNU_TAG_REMOVE Remove\tDel
 _C_MNU_TAGSOURCES Tag &Sources
 _C_MNU_TOOLS &Tools
 _C_MNU_VIEW &View
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY Auto-apply filter
 _C_MNU_VIEW_ID3 Tag panel\tCtrl+Q
 _C_MNU_VIEW_REFRESH R&efresh\tF5
 _C_MNU_VIEW_SORTBY &Sort by
+_C_MNU_VIEW_SORTBYRANDOM &Randomize
 _C_MNU_VIEW_TAGS E&xtended Tags...\tAlt+T
 _C_MNU_VIEW_TOOLBAR Too&lbar
 _C_MNU_SB_ACTIONS Applies user-defined actions (case conversion, replacing, ...) to selected files.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE Change window size
 _C_MULTILINE Multiline
 _C_OK &OK
 _C_OPT_ACTIONGROUPS Action groups
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Apply
+_C_OPT_ACTIONGROUPS_SEL_EMPTY No action group enabled
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} action groups enabled
+_C_OPT_ACTIONGROUPS_SEL_SINGLE 1 action group enabled
+_C_OPT_ACTIONGROUPS_SORTBYNAME Sort by name
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Sort by state
 _C_OPT_ACTIONS Actions
 _C_OPT_ACTIONS_TYPE Select action type
 _C_OPT_ADVANCED Advanced
 _C_OPT_ADVANCED_ID3V2LANG ID3v2 comment language code (ISO-639-2)
 _C_OPT_ADVANCED_LISTCHAPTERS List chapters as separate files
+_C_OPT_ADVANCED_POPULARIMETER Always display POPULARIMETER values for ID3v2 ratings
 _C_OPT_CAPTION Options
 _C_OPT_CDDB_CAPTION freedb
 _C_OPT_CDDB_CHK_USEPROXY Use pr&oxy
@@ -401,6 +412,11 @@ _M_STAT_PLAY Playing file \"{1}\"...
 _M_STR_ACTION_ADJUSTCOVER Adjust cover
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Format
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Quality
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Best
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH High
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Low
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Medium
 _M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
 _M_STR_ACTION_CODEPAGE Convert codepage
 _M_STR_ACTION_CODEPAGE_DESC Codepage
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Remove fields
 _M_STR_ACTION_REM_DESC Fields to remove (semicolon-separated):
 _M_STR_ACTION_REM_EX Remove fields except
 _M_STR_ACTION_REM_EX_DESC Fields to leave (semicolon-separated):
+_M_STR_ACTION_SETCOVERPROPERTIES Set cover properties
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Cover Description:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Set for:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL All covers
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Cover Type:
 _M_STR_ACTION_SPLITFIELDS Split field by separator
+_M_STR_ACTIONGROUP_CHANGED Configuration of action groups has changed.\r\n\r\nDo you want to save the changes?
 _M_STR_ACTIONGROUP_NAME Name of action group
 _M_STR_ALBUM Album
 _M_STR_ALBUMARTIST Album Artist
 _M_STR_ALL_FILEDLGFILTER All files (*.*)|*.*||
 _M_STR_ARTIST Artist
 _M_STR_AUTHOR Author
+_M_STR_AUTOSIZECOLUMNS Auto-size columns
 _M_STR_BACK < &Back
 _M_STR_BROWSE_COPY Copy to:
 _M_STR_BROWSE_MOVE Move to:
@@ -474,7 +497,7 @@ _M_STR_FIELD F&ield:
 _M_STR_FIELDSIZE Size of field
 _M_STR_FIELDROWS Rows
 _M_STR_FILE File
-_M_STR_FILEDELETE Do you really want to delete all selected files?
+_M_STR_FILEDELETE Do you want to delete all selected files?
 _M_STR_FILEMODIFIED Modified
 _M_STR_FILESIZE Size
 _M_STR_FILTER Filte&r:
@@ -498,9 +521,9 @@ _M_STR_MPEGFREQUENCY Frequency
 _M_STR_MPEGLENGTH Length
 _M_STR_MPEGMODE Mode
 _M_STR_MPEGVERSION Codec
-_M_STR_MSGCUT Do you really want to remove the tags of the selected files and copy the tags onto the clipboard?
-_M_STR_MSGPASTE Do you really want to paste the content of the clipboard as the new tags of the selected files?
-_M_STR_MSGREMOVE Do you really want to remove the tags of the selected files?
+_M_STR_MSGCUT Do you want to remove the tags of the selected files and copy the tags onto the clipboard?
+_M_STR_MSGPASTE Do you want to paste the content of the clipboard as the new tags of the selected files?
+_M_STR_MSGREMOVE Do you want to remove the tags of the selected files?
 _M_STR_NAME N&ame
 _M_STR_NETWORKING Networking
 _M_STR_NEXT &Next >
@@ -516,9 +539,11 @@ _M_STR_OPTS_NEVER never
 _M_STR_PLNAME Playlist - Filename
 _M_STR_PL_CONFIRM Create playlist with this name
 _M_STR_PL_SAVEFILTER Playlist File (*.m3u)|*.m3u|Unicode Playlist File (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Create selection &preset...
+_M_STR_PRESETS &Presets
 _M_STR_PREVIEW Preview
 _M_STR_PROPERTIES {1} Properties
-_M_STR_QUICK Quick
+_M_STR_QUICK &Quick
 _M_STR_RECURSE Subdirectories
 _M_STR_REST Rest
 _M_STR_SAVE_NOT < no association >
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES Cleanup orphaned binaries
 _M_STR_SB_CLEANUPDATABASE_COVERS Cleanup orphaned covers
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES Cleanup non-library files
 _M_STR_SB_EXPORTTAGS Exporting tag information ... {1} records of {2} files
+_M_STR_SB_FILTER Filtering ...
 _M_STR_SB_LOADTAGS Reading tag data ... {1} of {2}
 _M_STR_SB_READDIRECTORY Reading directory
 _M_STR_SB_REMOVETAGS Removing tag data ... {1} of {2}
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON This album on {1}
 _M_STR_TITLE Title
 _M_STR_TRYAGAIN Do you want to try again?
 _M_STR_TTF Tag - Filename
+_M_STR_UNSAVED Do you want to save the changes?
 _M_STR_UPDATE_FRM Updates
 _M_STR_UPDATE_OPT_CHECK Check for updates on startup
 _M_STR_UPDATE_OPT_CHECK_BETA Also include Development Builds (Beta)

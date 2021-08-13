@@ -1,6 +1,6 @@
-﻿LANGAUTHOR Matthias Stasiak, Dennis Fluttershy
-LANGCONTACT  matthias.stasiak@gmail.com, dennis.fluttershy@gmail.com
-LANGVERSION 2.84
+﻿LANGAUTHOR Jackie Forsberg, Matthias Stasiak, Dennis Fluttershy
+LANGCONTACT 
+LANGVERSION 3.06a
 LANGNAME Swedish
 LANGNAMELOC Svenska
 SLangCancel Avbryt
@@ -25,7 +25,7 @@ SLangWrnAppHasToBeRestarted Mp3tag måste startas om för att kunna genomföra �
 SLangWrnNameContainsInvalidCharacters Beskrivningen innehåller icke tillåtna tecken.\n\n» Vänligen använd endast tillåtna tecken i beskrivningen.
 SLangWrnStartLogging Du har startat {1} med kommandoparametern FLOG1. Denna parameter används vid felsökning.\n\nVill du starta loggfunktionen för felsökning?
 _C_ABORT Avbryt
-_C_ABORTING Aborting...
+_C_ABORTING Abortera...
 _C_APP_ST_ALBUM &Album
 _C_APP_ST_ARTIST Art&ist
 _C_APP_ST_COMMENT &Kommentar
@@ -35,7 +35,7 @@ _C_APP_ST_TITLE &Titel
 _C_APP_ST_TRACK &Spår
 _C_APP_ST_YEAR &År
 _C_CANCEL &Avbryt
-_C_CANCELING Canceling...
+_C_CANCELING Avbryt...
 _C_CLOSE St&äng
 _C_DLG_CDDBCONFIRM_CAPTION Söklista från databasen...
 _C_DLG_CDDBCONFIRM_CHK_DISCID Kopiera freeDB DiscID till 'Kommentar'-taggen
@@ -120,15 +120,19 @@ _C_MNU_HELP_KEYBOARD Lista alla &kortkommandon
 _C_MNU_HELP_SUPPORT Gå till &onlinesupportforumet...
 _C_MNU_HELP_UPGRADE Sök efter en nyare &version...
 _C_MNU_HELP_WWW Gå till Mp3tags &hemsida...
+_C_MNU_TAG_EDIT Redigera...\tF2
+_C_MNU_TAG_NEW Lägg till...\tIns
+_C_MNU_TAG_REMOVE Ta bort
 _C_MNU_TAGSOURCES &Taggkällor
 _C_MNU_TOOLS &Verktyg
 _C_MNU_VIEW Vi&sa
 _C_MNU_VIEW_COLUMNS &Välj kolumner...
 _C_MNU_VIEW_FILTER V&isningfilter\tF3
-_C_MNU_VIEW_FILTER_AUTOAPPLY Auto-apply filter
+_C_MNU_VIEW_FILTER_AUTOAPPLY Tillämpa filter automatiskt
 _C_MNU_VIEW_ID3 &Taggpanelen\tCtrl+Q
 _C_MNU_VIEW_REFRESH &Läs in fillistan igen\tF5
 _C_MNU_VIEW_SORTBY &Sortera efter...
+_C_MNU_VIEW_SORTBYRANDOM &Slumpmässig
 _C_MNU_VIEW_TAGS T&agginformation...\tALT+T
 _C_MNU_VIEW_TOOLBAR &Verktygsfält
 _C_MNU_SB_ACTIONS Applicera åtgärder på markerade filer
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE Ändra fönsterstorleken
 _C_MULTILINE Tillåt flerradig inmatning
 _C_OK &OK
 _C_OPT_ACTIONGROUPS Åtgärdsgrupper
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Tillämpa
+_C_OPT_ACTIONGROUPS_SEL_EMPTY Ingen åtgärdsgrupp aktiverad 
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} Åtgärdsgrupper aktiverade 
+_C_OPT_ACTIONGROUPS_SEL_SINGLE En åtgärdsgrupp aktiverad 
+_C_OPT_ACTIONGROUPS_SORTBYNAME Sortera efter namn
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Sortera efter tillstånd
 _C_OPT_ACTIONS Åtgärder
 _C_OPT_ACTIONS_TYPE Välj åtgärd
 _C_OPT_ADVANCED Avancerat
 _C_OPT_ADVANCED_ID3V2LANG Språkkod för ID3v2-kommentar (ISO 639-2)
-_C_OPT_ADVANCED_LISTCHAPTERS List chapters as separate files
+_C_OPT_ADVANCED_LISTCHAPTERS Lista kapitel som separata filer 
+_C_OPT_ADVANCED_POPULARIMETER Always display POPULARIMETER values for ID3v2 ratings
 _C_OPT_CAPTION Filegenskaper
 _C_OPT_CDDB_CAPTION freeDB
 _C_OPT_CDDB_CHK_USEPROXY Använd en pr&oxy-server
@@ -251,7 +262,7 @@ _C_OPT_GEN_CHK_FOLDERSTART Starta alltid i denna mapp
 _C_OPT_GEN_CHK_GRID Visa grå bakgrund bakom varannan fil i fillistan
 _C_OPT_GEN_CHK_JUMPONEDIT Markera automatiskt nästa fil vid redigering i fillistan
 _C_OPT_GEN_CHK_KEEPFILETIME Bevara filens ändringsdatum vid redigering
-_C_OPT_GEN_CHK_KEEPMOVEDFILES Keep moved files in file list
+_C_OPT_GEN_CHK_KEEPMOVEDFILES Behåll flyttade filer i fillistan
 _C_OPT_GEN_CHK_MSG_ACTIONWARNINGS vid varningar efter körda åtgärder
 _C_OPT_GEN_CHK_MSG_CHANGE efter en ändring i filen
 _C_OPT_GEN_CHK_MSG_CUT efter urklipp av taggar
@@ -284,10 +295,10 @@ _C_OPT_ID3_CHK_V2 ID3v2
 _C_OPT_ID3_FRM_READ Läs/visa taggar från följande standarder
 _C_OPT_ID3_FRM_REMOVE Ta bort taggar i följande standarder
 _C_OPT_ID3_FRM_WRITE Skriv taggar i följande standarder
-_C_OPT_LIB Library
-_C_OPT_LIB_CHK_ENABLE Enable Library
-_C_OPT_LIB_CHK_RESTRICT Only include these directories
-_C_OPT_LIB_CLEANUP Cleanup Library
+_C_OPT_LIB Bibliotek
+_C_OPT_LIB_CHK_ENABLE Aktivera bibliotek
+_C_OPT_LIB_CHK_RESTRICT Inkludera endast dessa kataloger
+_C_OPT_LIB_CLEANUP Rensa bibliotek
 _C_OPT_MAPPING Taggmappning
 _C_OPT_MAPPING_FRM Användardefinerad taggmappning
 _C_OPT_MAPPING_SOURCE Källa
@@ -340,14 +351,14 @@ _C_TT_TTT Tagg - Tagg
 _C_TT_UPDIR Läs filer från en Mapp Uppåt
 _C_WIZARD_TRACKS Autonumreringsguiden
 _C_WIZARD_TRACKS_BEGIN Börja med Spårnummer:
-_C_WIZARD_TRACKS_DESC Assign track- and discnumbers
-_C_WIZARD_TRACKS_DISC_BEGIN Begin at discnumber
-_C_WIZARD_TRACKS_DISC_LEADINGZEROS Leading zeros for discnumbers (01, 02, ...)
-_C_WIZARD_TRACKS_DISC_SAVETOTAL Save total count of discs
-_C_WIZARD_TRACKS_DISCNUMBER Discnumber
+_C_WIZARD_TRACKS_DESC Tilldela spår- och disknummer
+_C_WIZARD_TRACKS_DISC_BEGIN Starta vid disknummer
+_C_WIZARD_TRACKS_DISC_LEADINGZEROS Ledande nollor för disknummer (01, 02, ...)
+_C_WIZARD_TRACKS_DISC_SAVETOTAL Spara totalt antal skivor
+_C_WIZARD_TRACKS_DISCNUMBER Disknummer
 _C_WIZARD_TRACKS_RESETFOLDERS Nollställ räknaren för varje mapp
 _C_WIZARD_TRACKS_SAVETOTAL Ange totalt antal spår som:
-_C_WIZARD_TRACKS_TRACKNUMBER Tracknumber
+_C_WIZARD_TRACKS_TRACKNUMBER Spårnummer
 _M_ERR_CANCEL Processen avbröts!
 _M_ERR_CDDB_CD Lyckades inte läsa ljud-CDn.\n\nKontrollera att den sitter i datorn och fungerar.
 _M_ERR_CDDB_CONNECT Kunde inte koppla upp till server: {1}
@@ -379,7 +390,7 @@ _M_ERR_PARSELINE Förstår inte raden {1}!
 _M_ERR_PLAY Kan inte spela upp filen \"{1}\"!
 _M_ERR_READ_FILE Kan inte läsa filen \"{1}\"!
 _M_ERR_RENAME_FILE Kan inte byta namn på filen \"{1}\" till \"{2}\"!
-_M_ERR_RETRY Do you want to retry?
+_M_ERR_RETRY Vill du försöka igen?
 _M_ERR_TL_NOTAGS Inget passande val fanns för filen \"{1}\"!
 _M_ERR_WRITE_FILE Kan inte skriva till filen \"{1}\"!
 _M_ERR_YN \n\nVill du fortsätta?
@@ -398,10 +409,15 @@ _M_LOG_TFF Importerade taggar från tagglistan \"{1}\" och sparad i {2} av {3} f
 _M_LOG_TFF_S Importerade taggar från \"{1}\" till en fil
 _M_LOG_TTF Namnet ändrat på {1} av {2} filer
 _M_STAT_PLAY Spelar filen \"{1}\" ...
-_M_STR_ACTION_ADJUSTCOVER Adjust cover
+_M_STR_ACTION_ADJUSTCOVER Justera omslag
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Format
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
-_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Quality
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Best
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH High
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Low
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Medium
+_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Storlek
 _M_STR_ACTION_CODEPAGE Konvertera kodsida
 _M_STR_ACTION_CODEPAGE_DESC Kodsida
 _M_STR_ACTION_EXPORTCOVER Exportera omslagsbilden
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Ta bort tagg
 _M_STR_ACTION_REM_DESC Taggar att ta bort (semikolonseparerade):
 _M_STR_ACTION_REM_EX Ta bort alla taggar utom...
 _M_STR_ACTION_REM_EX_DESC Taggar att utesluta (semikolonseparerade):
+_M_STR_ACTION_SETCOVERPROPERTIES Ställ in egenskaper för omslag
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Omslagsbeskrivning
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Inställd för:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL Alla omslag
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Omslagstyp:
 _M_STR_ACTION_SPLITFIELDS Dela upp en tagg vid en avgränsare
+_M_STR_ACTIONGROUP_CHANGED Konfigurationen av åtgärdsgrupper har ändrats. \r\n\r\nVill du spara ändringarna?
 _M_STR_ACTIONGROUP_NAME Namnet på åtgärdsgruppen
 _M_STR_ALBUM Album
 _M_STR_ALBUMARTIST Albumartist
 _M_STR_ALL_FILEDLGFILTER Alla filer  (*.*)|*.*||
 _M_STR_ARTIST Artist
 _M_STR_AUTHOR Upphovsman
+_M_STR_AUTOSIZECOLUMNS Automatisk justering av kolumnbredd
 _M_STR_BACK << &Bakåt
 _M_STR_BROWSE_COPY Kopiera till:
 _M_STR_BROWSE_MOVE Flytta till:
@@ -457,10 +480,10 @@ _M_STR_COVER_CORRECTAR Visa bilderna med korrigerat bildformat
 _M_STR_COVER_SETDESC Ange omslagsbildens &beskrivning...
 _M_STR_COVER_SETTYPE Ange omslagsbildens &typ
 _M_STR_COVERVARIES Filerna har olika omslagsbilder!
-_M_STR_CUSTOMIZE Customize...
+_M_STR_CUSTOMIZE Anpassa...
 _M_STR_DAY dag
 _M_STR_DAYS dagar
-_M_STR_DEFAULTVALUE Default value
+_M_STR_DEFAULTVALUE Standardvärde
 _M_STR_DISCID freeDB ID:
 _M_STR_DISCOGS_OAUTH_PIN Ange Discogs-autentiseringskod
 _M_STR_DISCNUMBER Skivnummer
@@ -471,8 +494,8 @@ _M_STR_EXPORT_MULTIPLE En exportfil per mapp
 _M_STR_EXPORT_SHOWEXPORTFILE \n\nVill du öppna den filen nu?
 _M_STR_EXP_MSG Den exporterade tagginformationen\nifrån {2} makerade filer finns nu i filen\n'{1}'
 _M_STR_FIELD &Taggnamn:
-_M_STR_FIELDSIZE Size of field
-_M_STR_FIELDROWS Rows
+_M_STR_FIELDSIZE Fältets storlek
+_M_STR_FIELDROWS Rader
 _M_STR_FILE Fil
 _M_STR_FILEDELETE Vill du verkligen ta bort markerade filer?
 _M_STR_FILEMODIFIED Ändrad
@@ -516,6 +539,8 @@ _M_STR_OPTS_NEVER Aldrig
 _M_STR_PLNAME Spellista -> Filnamn
 _M_STR_PL_CONFIRM Ange namn på Spellistan:
 _M_STR_PL_SAVEFILTER Spellista (*.m3u)|*.m3u|Unicode-spellista (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Create selection preset...
+_M_STR_PRESETS Presets
 _M_STR_PREVIEW Granska
 _M_STR_PROPERTIES {1} programkonfiguration
 _M_STR_QUICK Express
@@ -530,11 +555,12 @@ _M_STR_SAVEIMAGEDIRECTORY Spara Omslagsbilden till Disk
 _M_STR_SAVESELECTION Spara valet...
 _M_STR_SB_ABORTED avbruten
 _M_STR_SB_ACTION Tillämpar ptgärder på fil {1} av {2}
-_M_STR_SB_CLEANUPDATABASE Processing files ... {1} of {2} ({3} cleaned)
-_M_STR_SB_CLEANUPDATABASE_BINARIES Cleanup orphaned binaries
-_M_STR_SB_CLEANUPDATABASE_COVERS Cleanup orphaned covers
-_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Cleanup non-library files
+_M_STR_SB_CLEANUPDATABASE Bearbetar filer ... {1} av {2} ({3} rensade)
+_M_STR_SB_CLEANUPDATABASE_BINARIES Rensa överbliven binärer
+_M_STR_SB_CLEANUPDATABASE_COVERS Rensa överblivna omslag
+_M_STR_SB_CLEANUPDATABASE_NONLIBFILES Rensa filer som ej ingår i biblioteket
 _M_STR_SB_EXPORTTAGS Exporterar tagginformation från fil {1} av {2}
+_M_STR_SB_FILTER Filtering ...
 _M_STR_SB_LOADTAGS Läser in tagginformationen från fil {1} av {2}
 _M_STR_SB_READDIRECTORY Läser in mapp
 _M_STR_SB_REMOVETAGS Tar bort tagginfo ... {1} av {2} filer bearbetade
@@ -545,11 +571,11 @@ _M_STR_SEARCHBY Sök med:
 _M_STR_SEARCHTEXT Text
 _M_STR_SEPARATOR Avgränsare:
 _M_STR_SHOW Vi&sa
-_M_STR_SIZE_LARGE Large
+_M_STR_SIZE_LARGE Stor
 _M_STR_SIZE_MEDIUM Medium
 _M_STR_SIZE_NORMAL Normal
-_M_STR_SIZE_SMALLER Smaller
-_M_STR_SIZE_SMALL Small
+_M_STR_SIZE_SMALLER Mindre
+_M_STR_SIZE_SMALL Små
 _M_STR_SNA Meddelandefältet
 _M_STR_SNA_SHOW En Mp3tag-ikon i meddelandefältet när programmet körs
 _M_STR_SNA_SHOWMIN Minimera Mp3tag till meddelandefältet
@@ -571,10 +597,11 @@ _M_STR_THISALBUMON Öppna utgåvan från {1} i din webbläsare
 _M_STR_TITLE Titel
 _M_STR_TRYAGAIN Vill du försöka igen?
 _M_STR_TTF Tagg -> Filnamn
+_M_STR_UNSAVED Do you want to save the changes?
 _M_STR_UPDATE_FRM Programuppdateringar
 _M_STR_UPDATE_OPT_CHECK Sök efter programuppdatering vid programstart
 _M_STR_UPDATE_OPT_CHECK_BETA Inkludera även Beta-versioner i sökningen
-_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Display release notes for new versions
+_M_STR_UPDATE_OPT_CHECK_RELEASENOTES Visa anteckningar för nya versioner
 _M_STR_UPDATEAVAILABLE Det finns en ny version av Mp3tag {1} tillgänglig!\n\nVill du ladda ner den från {2} nu?
 _M_STR_UPDATENOTAVAILABLE Du använder den senaste versionen, {1}.\n\nDet finns för närvarande ingen nyare version tillgänglig.
 _M_STR_URL https://www.mp3tag.de/en/download.html

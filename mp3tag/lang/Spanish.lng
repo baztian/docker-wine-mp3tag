@@ -1,6 +1,6 @@
-﻿LANGAUTHOR Sergi Medina, Fernando Gregoire, abm
+﻿LANGAUTHOR Abm, Sergi Medina, Fernando Gregoire
 LANGCONTACT fergregoire94@gmail.com
-LANGVERSION 2.98
+LANGVERSION 3.07
 LANGNAME Spanish
 LANGNAMELOC Español
 SLangCancel Cancelar
@@ -60,17 +60,17 @@ _C_DLG_COLUMNS_TOP Ajustar visibilidad de las columnas
 _C_DLG_TAGS Editar información de etiquetas
 _C_DLG_TTF_TOP Seleccionar cadena de formato
 _C_HELP A&yuda
-_C_MNU_ACTIONS Acciones\tALT+6
+_C_MNU_ACTIONS &Acciones\tAlt+6
 _C_MNU_CON &Convertir
-_C_MNU_CON_FTF Nombre de &archivo - Nombre de archivo\tALT+3
-_C_MNU_CON_FTT &Nombre de archivo - Etiqueta\tALT+2
-_C_MNU_CON_TFF Archivo de te&xto - Etiqueta\tALT+4
-_C_MNU_CON_TTF E&tiqueta - Nombre de archivo\tALT+1
-_C_MNU_CON_TTT &Etiqueta - Etiqueta\tALT+5
-_C_MNU_EDIT &Edición
+_C_MNU_CON_FTF Nombre de &archivo - Nombre de archivo\tAlt+3
+_C_MNU_CON_FTT &Nombre de archivo - Etiqueta\tAlt+2
+_C_MNU_CON_TFF Archivo de te&xto - Etiqueta\tAlt+4
+_C_MNU_CON_TTF E&tiqueta - Nombre de archivo\tAlt+1
+_C_MNU_CON_TTT &Etiqueta - Etiqueta\tAlt+5
+_C_MNU_EDIT &Editar
 _C_MNU_EDIT_COPY &Copiar\tCtrl+C
 _C_MNU_EDIT_CUT C&ortar\tCtrl+X
-_C_MNU_EDIT_INVERTSELECTION &Invertir selección\tCtrl+SHIFT+A
+_C_MNU_EDIT_INVERTSELECTION &Invertir selección\tCtrl+Mayúsc+A
 _C_MNU_EDIT_NEXT &Seleccionar siguiente archivo\tCtrl+N
 _C_MNU_EDIT_PASTE &Pegar\tCtrl+V
 _C_MNU_EDIT_SELECT Seleccionar &todos los archivos\tCtrl+A
@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD A&tajos de teclado
 _C_MNU_HELP_SUPPORT Soporte en línea...
 _C_MNU_HELP_UPGRADE Buscar versión nueva...
 _C_MNU_HELP_WWW Sitio &web de Mp3tag...
+_C_MNU_TAG_EDIT Editar...\tF2
+_C_MNU_TAG_NEW Añadir...\tIns
+_C_MNU_TAG_REMOVE Borrar\tSupr
 _C_MNU_TAGSOURCES &Fuentes de etiquetas
 _C_MNU_TOOLS &Herramientas
 _C_MNU_VIEW &Ver
@@ -129,7 +132,8 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY Aplicar automáticamente el filtro
 _C_MNU_VIEW_ID3 Panel de etiquetas\tCtrl+Q
 _C_MNU_VIEW_REFRESH A&ctualizar\tF5
 _C_MNU_VIEW_SORTBY O&rdenar por
-_C_MNU_VIEW_TAGS Etiquetas e&xtendidas...\tALT+T
+_C_MNU_VIEW_SORTBYRANDOM &Aleatorio
+_C_MNU_VIEW_TAGS Etiquetas e&xtendidas...\tAlt+T
 _C_MNU_VIEW_TOOLBAR Barra de herramientas
 _C_MNU_SB_ACTIONS Ejecuta acciones definidas por el usuario (conversión mayúsculas/minúsculas, reemplazar...) a los archivos seleccionados.
 _C_MNU_SB_CON_FTF Cambia los nombres de los archivos según un patrón definido basado en el nombre antiguo del archivo.
@@ -148,7 +152,7 @@ _C_MNU_SB_EDIT_UNSELECTALL Anula la selección de todos los archivos.
 _C_MNU_SB_EXTRA_OPTIONS Muestra el diálogo Opciones.
 _C_MNU_SB_EXTRA_RESET_EDITS Borra el texto de todos los campos en el panel de etiquetas.
 _C_MNU_SB_EXTRA_SET_EDITS Establece para los campos en el panel de etiquetas los valores estándar definidos.
-_C_MNU_SB_EXTRA_TRACKWIZARD Ejecuta el asistente de autonumeración de pistas.
+_C_MNU_SB_EXTRA_TRACKWIZARD Ejecuta el asistente de autonumeración de pistas y discos.
 _C_MNU_SB_FILE_ADD Añade un directorio a la lista de archivos.
 _C_MNU_SB_FILE_CDDB Obtiene información acerca del CD de audio insertado o los archivos de audio seleccionados mediante una conexión a internet.
 _C_MNU_SB_FILE_CDDBLOCAL Obtiene información acerca del CD de audio insertado o los archivos de audio seleccionados mediante la base de datos freedb local.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE Cambiar tamaño de ventana
 _C_MULTILINE Multilínea
 _C_OK &Aceptar
 _C_OPT_ACTIONGROUPS Grupos de acciones
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Aplicar
+_C_OPT_ACTIONGROUPS_SEL_EMPTY No hay ningun grupo de acciones activado
+_C_OPT_ACTIONGROUPS_SEL_MULTI Hay {1} grupos de acciones activados
+_C_OPT_ACTIONGROUPS_SEL_SINGLE Hay 1 grupo de acciones activado
+_C_OPT_ACTIONGROUPS_SORTBYNAME Ordenar por nombre
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Ordenar por estado
 _C_OPT_ACTIONS Acciones
 _C_OPT_ACTIONS_TYPE Seleccionar el tipo de acción
 _C_OPT_ADVANCED Avanzadas
 _C_OPT_ADVANCED_ID3V2LANG Código de idioma en comentarios ID3v2 (ISO-639-2)
 _C_OPT_ADVANCED_LISTCHAPTERS Enumerar capítulos como archivos separados
+_C_OPT_ADVANCED_POPULARIMETER Mostrar siempre POPULARIMETER para las calificaciones ID3v2
 _C_OPT_CAPTION Opciones
 _C_OPT_CDDB_CAPTION freedb
 _C_OPT_CDDB_CHK_USEPROXY Usar pr&oxy
@@ -219,7 +230,7 @@ _C_OPT_CDDB_ST_PROXYPORT Pue&rto:
 _C_OPT_CDDB_ST_PWD Con&traseña:
 _C_OPT_CDDB_ST_TIMEOUT T&iempo de eEspera:
 _C_OPT_CDDB_ST_USERNAME Nombre de &usuario:
-_C_OPT_CDDB3_CAPTION Local freedb
+_C_OPT_CDDB3_CAPTION freedb local
 _C_OPT_CON_FRM_FTT &Nombre de archivo - Etiqueta
 _C_OPT_CON_FRM_TFF Archivo de te&xto - Etiqueta
 _C_OPT_CON_FRM_TTF E&tiqueta - Nombre de archivo
@@ -379,7 +390,7 @@ _M_ERR_PARSELINE  No se puede analizar la línea {1}.
 _M_ERR_PLAY ¡¡No se puede abrir el archivo \"{1}\" para reproducirlo!
 _M_ERR_READ_FILE No se puede abrir el archivo \"{1}\" para leerlo.
 _M_ERR_RENAME_FILE no se puede cambiar el nombre del archivo \"{1}\" a \"{2}\".
-_M_ERR_RETRY Do you want to retry?
+_M_ERR_RETRY ¿Desea volver a intentarlo?
 _M_ERR_TL_NOTAGS No hay entradas que coincidan con el archivo \"{1}\".
 _M_ERR_WRITE_FILE No se puede escribir en el archivo \"{1}\".
 _M_ERR_YN \n\n¿Desea continuar?
@@ -398,10 +409,15 @@ _M_LOG_TFF Etiquetas importadas de \"{1}\" a {2} de {3} archivos.
 _M_LOG_TFF_S Etiquetas importadas de \"{1}\" a un archivo.
 _M_LOG_TTF {1} de {2} nombres de archivo cambiados.
 _M_STAT_PLAY Reproduciendo archivo \"{1}\".
-_M_STR_ACTION_ADJUSTCOVER Adjust cover
-_M_STR_ACTION_ADJUSTCOVER_FORMAT Format
+_M_STR_ACTION_ADJUSTCOVER Ajusta carátula
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Formato
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
-_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Calidad
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST La mejor
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH Alta
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Baja
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Media
+_M_STR_ACTION_ADJUSTCOVER_SIZE Tamaño máximo
 _M_STR_ACTION_CODEPAGE Convertir página de códigos
 _M_STR_ACTION_CODEPAGE_DESC Página de códigos
 _M_STR_ACTION_EXPORTCOVER Exportar carátula a archivo
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Borrar campos
 _M_STR_ACTION_REM_DESC Campos a borrar (separados por punto y coma):
 _M_STR_ACTION_REM_EX Borrar campos excepto
 _M_STR_ACTION_REM_EX_DESC Campos a dejar (separados por punto y coma):
+_M_STR_ACTION_SETCOVERPROPERTIES Establecer propiedades de la carátula...
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Descripción de la carátula:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Establecer para:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL Todas las carátulas
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Tipo de carátula:
 _M_STR_ACTION_SPLITFIELDS Dividir campos por separador
+_M_STR_ACTIONGROUP_CHANGED Ha cambiado la configuración de los grupos de acciones.\r\n\r\n¿Desea guardar los cambios?
 _M_STR_ACTIONGROUP_NAME Nombre de grupo de acciones
 _M_STR_ALBUM Álbum
 _M_STR_ALBUMARTIST Intérprete del álbum
 _M_STR_ALL_FILEDLGFILTER Todos los archivos (*.*)|*.*||
 _M_STR_ARTIST Intérprete
 _M_STR_AUTHOR Autor
+_M_STR_AUTOSIZECOLUMNS Columnas de tamaño automático
 _M_STR_BACK < &Atrás
 _M_STR_BROWSE_COPY Copiar a:
 _M_STR_BROWSE_MOVE Mover a:
@@ -474,7 +497,7 @@ _M_STR_FIELD &Campo:
 _M_STR_FIELDSIZE Tamaño del campo
 _M_STR_FIELDROWS Filas
 _M_STR_FILE Archivo
-_M_STR_FILEDELETE ¿Realmente desea eliminar todos los archivos seleccionados?
+_M_STR_FILEDELETE ¿Desea eliminar todos los archivos seleccionados?
 _M_STR_FILEMODIFIED Modificado
 _M_STR_FILESIZE Tamaño
 _M_STR_FILTER &Filtro:
@@ -498,9 +521,9 @@ _M_STR_MPEGFREQUENCY Frecuencia
 _M_STR_MPEGLENGTH Duración
 _M_STR_MPEGMODE Modo
 _M_STR_MPEGVERSION Códec
-_M_STR_MSGCUT ¿Realmente desea borrar las etiquetas de los archivos seleccionados y copiarlas al portapapeles?
-_M_STR_MSGPASTE ¿Realmente desea pegar los contenidos del portapapeles como etiquetas nuevas de los archivos seleccionados?
-_M_STR_MSGREMOVE ¿Realmente desea borrar las etiquetas de los archivos seleccionados?
+_M_STR_MSGCUT ¿Desea borrar las etiquetas de los archivos seleccionados y copiarlas al portapapeles?
+_M_STR_MSGPASTE ¿Desea pegar los contenidos del portapapeles como etiquetas nuevas de los archivos seleccionados?
+_M_STR_MSGREMOVE ¿Desea borrar las etiquetas de los archivos seleccionados?
 _M_STR_NAME &Nombre
 _M_STR_NETWORKING Red
 _M_STR_NEXT &Siguiente >
@@ -516,9 +539,11 @@ _M_STR_OPTS_NEVER nunca
 _M_STR_PLNAME Lista de reproducción - Nombre de archivo
 _M_STR_PL_CONFIRM Crear lista de reproducción con este nombre
 _M_STR_PL_SAVEFILTER Archivo de lista de reproducción (*.m3u)|*.m3u|Archivo de lista de reproducción Unicode (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Crear &preajuste de selección...
+_M_STR_PRESETS &Preajustes
 _M_STR_PREVIEW Vista preliminar
 _M_STR_PROPERTIES Propiedades de {1}
-_M_STR_QUICK Rápido
+_M_STR_QUICK &Rápido
 _M_STR_RECURSE Subdirectorios
 _M_STR_REST Resto
 _M_STR_SAVE_NOT < sin asociación >
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES Limpieza de binarios huérfanos
 _M_STR_SB_CLEANUPDATABASE_COVERS Limpieza de carátulas huérfanas
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES Limpieza de archivos que no son de biblioteca
 _M_STR_SB_EXPORTTAGS Exportando información de etiquetas... {1} registros de {2} archivos
+_M_STR_SB_FILTER Filtering ...
 _M_STR_SB_LOADTAGS Leyendo datos de etiquetas... {1} de {2}
 _M_STR_SB_READDIRECTORY Leyendo directorio
 _M_STR_SB_REMOVETAGS Borrando datos de etiquetas... {1} de {2}
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON Este álbum en {1}
 _M_STR_TITLE Título
 _M_STR_TRYAGAIN ¿Desea volver a intentarlo?
 _M_STR_TTF Etiqueta - Nombre de archivo
+_M_STR_UNSAVED Do you want to save the changes?
 _M_STR_UPDATE_FRM Actualizaciones
 _M_STR_UPDATE_OPT_CHECK Buscar actualizaciones al iniciar
 _M_STR_UPDATE_OPT_CHECK_BETA También incluir compilaciones en desarrollo (beta)
@@ -592,7 +619,7 @@ _M_TP_CVR_NEW &Añadir carátula...
 _M_TP_CVR_SAVE &Extraer carátula...
 _M_TP_DUPLICATE Duplicar
 _M_TP_EXP_DEL E&liminar
-_M_TP_EXP_EDIT Edición
+_M_TP_EXP_EDIT Editar
 _M_TP_EXP_FILE Seleccionar archivo de exportación
 _M_TP_EXP_HLP Mostrar ayuda rápida
 _M_TP_EXP_LOAD Cargar configuración...

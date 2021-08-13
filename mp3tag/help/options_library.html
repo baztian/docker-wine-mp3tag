@@ -62,13 +62,29 @@
 			with this option. It checks whether the referenced files are still on your hard drive and removes the entries if it cannot access
 			the file anymore. Just to keep things clean and tidy :)
 		</p>
+
+		<h2>Further Tips and Troubleshooting</h2>
+		<p>
+			Sometimes even enabling the Library don't bring any perceived improvements, especially regarding loading performance. Here are some
+			things to consider and experiment with:
+			<ul>
+				<li><strong>Exclude the process <code>mp3tag.exe</code> from Windows Defender.</strong>
+					Windows Security intercepts each of the operations performed, so if you trust Mp3tag,
+					making sure Windows Defender doesn't scan the library database file on each change can speed up things significantly.</li>
+
+				<li><strong>Use Mp3tag and its settings on an SSD.</strong> Not much to say about that, only that each of the changes performed also
+					needs write operations in the Library. So the faster the drive where Mp3tag's settings are stored, the better the overall experience.
+					It's a massive difference to use Mp3tag as portable installation from a slow USB thumb drive compared to Mp3tag and it's settings
+					(incl. the library database file) running from a fast solid-state drive.</li>
+			</ul>
+		</p>
 		
 		<p>
 			<a class="index" href="index.html">Back to main page</a>
 		</p>	
 	</div>
 	
-	<p class="copyright"><strong>Made with love in Dresden.</strong> Copyright &copy; 1999-2020 <a href="https://www.mp3tag.de/en/" class="external">Florian Heidenreich</a>. All rights reserved.</p>
+	<p class="copyright"><strong>Made with love in Dresden.</strong> Copyright &copy; 1999-2021 <a href="https://www.mp3tag.de/en/" class="external">Florian Heidenreich</a>. All rights reserved.</p>
 
 	</div>
 </body>

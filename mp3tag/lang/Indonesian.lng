@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD Pintasan Papan tombol (&K)
 _C_MNU_HELP_SUPPORT Dukungan Daring...
 _C_MNU_HELP_UPGRADE Cek versi baru...
 _C_MNU_HELP_WWW &Website Mp3tag...
+_C_MNU_TAG_EDIT Edit...\tF2
+_C_MNU_TAG_NEW Add...\tIns
+_C_MNU_TAG_REMOVE Remove\tDel
 _C_MNU_TAGSOURCES Asal Tag (&S)
 _C_MNU_TOOLS Peralatan (&T)
 _C_MNU_VIEW Kenampakan (&V)
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY Otomatis terapkan saringan
 _C_MNU_VIEW_ID3 Panel tag\tCtrl+Q
 _C_MNU_VIEW_REFRESH Segarkan (&E)\tF5
 _C_MNU_VIEW_SORTBY Urut berda&sarkan
+_C_MNU_VIEW_SORTBYRANDOM &Randomize
 _C_MNU_VIEW_TAGS Tag Tambahan... (&X)\tALT+T
 _C_MNU_VIEW_TOOLBAR Bar A&lat
 _C_MNU_SB_ACTIONS Lakukan aksi pengguna (perubahan kas huruf, penggantian kata, ...) ke file terpilih.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE Ubah ukuran jendela
 _C_MULTILINE Multigaris
 _C_OK &OK
 _C_OPT_ACTIONGROUPS Grup aksi
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Apply
+_C_OPT_ACTIONGROUPS_SEL_EMPTY No action group enabled
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} action groups enabled
+_C_OPT_ACTIONGROUPS_SEL_SINGLE One action group enabled
+_C_OPT_ACTIONGROUPS_SORTBYNAME Sort by name
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Sort by state
 _C_OPT_ACTIONS Aksi
 _C_OPT_ACTIONS_TYPE Pilih jenisa aksi
 _C_OPT_ADVANCED Lebih lanjut..
 _C_OPT_ADVANCED_ID3V2LANG kode bahasa komentar ID3v2 (ISO-639-2)
 _C_OPT_ADVANCED_LISTCHAPTERS Daftar bab sebagai berkas terpisah
+_C_OPT_ADVANCED_POPULARIMETER Always display POPULARIMETER values for ID3v2 ratings
 _C_OPT_CAPTION Opsi
 _C_OPT_CDDB_CAPTION freedb
 _C_OPT_CDDB_CHK_USEPROXY Pakai Proxy (&O)
@@ -401,6 +412,11 @@ _M_STAT_PLAY Memainkan lagu : \"{1}\"...
 _M_STR_ACTION_ADJUSTCOVER Adjust cover
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Format
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Quality
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Best
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH High
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Low
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Medium
 _M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
 _M_STR_ACTION_CODEPAGE Konversi codepage
 _M_STR_ACTION_CODEPAGE_DESC Codepage
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Hilangkan isian
 _M_STR_ACTION_REM_DESC Isian untuk dihilangkan (dipisah-oleh-semicolon):
 _M_STR_ACTION_REM_EX Hilangkan isian kecuali
 _M_STR_ACTION_REM_EX_DESC Isian untuk dilewati (dipisah-oleh-semicolon):
+_M_STR_ACTION_SETCOVERPROPERTIES Set cover properties
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Cover Description:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Set for:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL All covers
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Cover Type:
 _M_STR_ACTION_SPLITFIELDS Pisah isian dengan pemisah
+_M_STR_ACTIONGROUP_CHANGED Configuration of action groups has changed.\r\n\r\nDo you want to save the changes?
 _M_STR_ACTIONGROUP_NAME Nama untuk aksi grup
 _M_STR_ALBUM Album
 _M_STR_ALBUMARTIST Artis Album
 _M_STR_ALL_FILEDLGFILTER Semua berkas (*.*)|*.*||
 _M_STR_ARTIST Artis
 _M_STR_AUTHOR Penulis
+_M_STR_AUTOSIZECOLUMNS Auto-size columns
 _M_STR_BACK < Kembali (&B)
 _M_STR_BROWSE_COPY Salin ke:
 _M_STR_BROWSE_MOVE Pindah ke:
@@ -516,6 +539,8 @@ _M_STR_OPTS_NEVER tak pernah
 _M_STR_PLNAME Daftar main - Nama berkas
 _M_STR_PL_CONFIRM Buat daftar main dengan nama ini
 _M_STR_PL_SAVEFILTER Berkas daftar main (*.m3u)|*.m3u|Berkas daftar main Unicode (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Create selection preset...
+_M_STR_PRESETS Presets
 _M_STR_PREVIEW Pratayang
 _M_STR_PROPERTIES Rincian {1}
 _M_STR_QUICK Cepat
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES Bersihkan biner tak bertuan
 _M_STR_SB_CLEANUPDATABASE_COVERS Bersihkan sampul tak bertuan
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES Bersihkan berkas non-Pustaka
 _M_STR_SB_EXPORTTAGS Mengekspor tag ke berkas ... {1} catatan dari {2} berkas
+_M_STR_SB_FILTER Filtering ...
 _M_STR_SB_LOADTAGS Membaca data tag ... {1} dari {2}
 _M_STR_SB_READDIRECTORY Membaca direktori
 _M_STR_SB_REMOVETAGS Menghilangkan data tag ... {1} dari {2}
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON Album ini di {1}
 _M_STR_TITLE Judul
 _M_STR_TRYAGAIN Anda mau mencoba lagi?
 _M_STR_TTF Tag - Nama Berkas
+_M_STR_UNSAVED Do you want to save the changes?
 _M_STR_UPDATE_FRM Perbarui
 _M_STR_UPDATE_OPT_CHECK Cek pembaruan pada pemulaian
 _M_STR_UPDATE_OPT_CHECK_BETA Termasuk pembaruan dalam pengembangan (Beta)

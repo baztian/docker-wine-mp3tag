@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD میانبرهای صفحه کلید
 _C_MNU_HELP_SUPPORT پشتیبانی آنلاین...
 _C_MNU_HELP_UPGRADE برسی نسخه جدید...
 _C_MNU_HELP_WWW وبسایت برنامه...
+_C_MNU_TAG_EDIT Edit...\tF2
+_C_MNU_TAG_NEW Add...\tIns
+_C_MNU_TAG_REMOVE Remove\tDel
 _C_MNU_TAGSOURCES منابع تگ
 _C_MNU_TOOLS ابزارها
 _C_MNU_VIEW مشاهده
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY Auto-apply filter
 _C_MNU_VIEW_ID3 پنل تگ\tCtrl+Q
 _C_MNU_VIEW_REFRESH تازه کردن\tF5
 _C_MNU_VIEW_SORTBY مرتبسازی با
+_C_MNU_VIEW_SORTBYRANDOM &Randomize
 _C_MNU_VIEW_TAGS تگ های گسترده\tALT+T
 _C_MNU_VIEW_TOOLBAR نوارابزار
 _C_MNU_SB_ACTIONS اِعمال اقدامات  توسط کاربر تعریف شده (تبدیل مورد, جایگزینی, ...) برای فایل های انتخاب شده
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE تغییر اندازه پنجره
 _C_MULTILINE چند خطی
 _C_OK تایید
 _C_OPT_ACTIONGROUPS اقدام گروه ها
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Apply
+_C_OPT_ACTIONGROUPS_SEL_EMPTY No action group enabled
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} action groups enabled
+_C_OPT_ACTIONGROUPS_SEL_SINGLE One action group enabled
+_C_OPT_ACTIONGROUPS_SORTBYNAME Sort by name
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Sort by state
 _C_OPT_ACTIONS اقدام ها
 _C_OPT_ACTIONS_TYPE نوع اقدام را انتخاب کنید
 _C_OPT_ADVANCED پیشرفته
 _C_OPT_ADVANCED_ID3V2LANG ID3v2 کد زبان توضیح (ISO-639-2)
 _C_OPT_ADVANCED_LISTCHAPTERS List chapters as separate files
+_C_OPT_ADVANCED_POPULARIMETER Always display POPULARIMETER values for ID3v2 ratings
 _C_OPT_CAPTION گزینه ها
 _C_OPT_CDDB_CAPTION پایگاه داده
 _C_OPT_CDDB_CHK_USEPROXY استفاده از پراکسی
@@ -401,6 +412,11 @@ _M_STAT_PLAY پخش فایل \"{1}\"...
 _M_STR_ACTION_ADJUSTCOVER Adjust cover
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Format
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Quality
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Best
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH High
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Low
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Medium
 _M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
 _M_STR_ACTION_CODEPAGE تبدیل کد صفحه
 _M_STR_ACTION_CODEPAGE_DESC کد صفحه
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM حذف فیلدها
 _M_STR_ACTION_REM_DESC فیلدها برای حذف (نقطه ویرگول-جداشده):
 _M_STR_ACTION_REM_EX حذف فیلدها بجز
 _M_STR_ACTION_REM_EX_DESC فیلدها برای رهاگذاشتن (نقطه ویرگول-جداشده):
+_M_STR_ACTION_SETCOVERPROPERTIES Set cover properties
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Cover Description:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Set for:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL All covers
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Cover Type:
 _M_STR_ACTION_SPLITFIELDS تقسیم فیلد با جداساز
+_M_STR_ACTIONGROUP_CHANGED Configuration of action groups has changed.\r\n\r\nDo you want to save the changes?
 _M_STR_ACTIONGROUP_NAME نام اقدام گروه
 _M_STR_ALBUM آلبوم
 _M_STR_ALBUMARTIST آلبوم هنرمند
 _M_STR_ALL_FILEDLGFILTER همه فایل ها (*.*)|*.*||
 _M_STR_ARTIST هنرمند
 _M_STR_AUTHOR نویسنده
+_M_STR_AUTOSIZECOLUMNS Auto-size columns
 _M_STR_BACK < قبلی
 _M_STR_BROWSE_COPY کپی به:
 _M_STR_BROWSE_MOVE انتقال به:
@@ -516,6 +539,8 @@ _M_STR_OPTS_NEVER هرگز
 _M_STR_PLNAME لیست پخش - نام فایل
 _M_STR_PL_CONFIRM ایجاد لیست پخش با این نام
 _M_STR_PL_SAVEFILTER فایل لیست پخش (*.m3u)|*.m3u|فایل لیست پخش یونیکد (*.m3u8)|*.m3u8|| 
+_M_STR_PRESET_SELECTION Create selection preset...
+_M_STR_PRESETS Presets
 _M_STR_PREVIEW پیشنمایش
 _M_STR_PROPERTIES {1} مشخصات
 _M_STR_QUICK سریع
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES Cleanup orphaned binaries
 _M_STR_SB_CLEANUPDATABASE_COVERS Cleanup orphaned covers
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES Cleanup non-library files
 _M_STR_SB_EXPORTTAGS خروجیگیری اطلاعات تگ {1} رکورد از {2} فایل
+_M_STR_SB_FILTER Filtering ...
 _M_STR_SB_LOADTAGS خواندن داده تگ ... {1} از {2}
 _M_STR_SB_READDIRECTORY خواندن دایرکتوری
 _M_STR_SB_REMOVETAGS حذف داده تگ ... {1} از {2}
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON این آلبوم در {1}
 _M_STR_TITLE عنوان
 _M_STR_TRYAGAIN آیا می خواهید مجددا سعی کنید؟
 _M_STR_TTF تگ - نام فایل
+_M_STR_UNSAVED Do you want to save the changes?
 _M_STR_UPDATE_FRM بروزرسانی
 _M_STR_UPDATE_OPT_CHECK بررسی بروزرسانی در اِستارت آپ
 _M_STR_UPDATE_OPT_CHECK_BETA همچنین بررسی نسخه بتا

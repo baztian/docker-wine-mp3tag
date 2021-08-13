@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD اختصارات لوحة المفاتيح
 _C_MNU_HELP_SUPPORT الدعم عبر الانترنت
 _C_MNU_HELP_UPGRADE تحقق من وجود إصدار جديد ...
 _C_MNU_HELP_WWW موقع Mp3tag ...
+_C_MNU_TAG_EDIT Edit...\tF2
+_C_MNU_TAG_NEW Add...\tIns
+_C_MNU_TAG_REMOVE Remove\tDel
 _C_MNU_TAGSOURCES مصادر البطاقات
 _C_MNU_TOOLS &أدوات
 _C_MNU_VIEW عرض
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY التصفية التلقائية
 _C_MNU_VIEW_ID3 لوحة البطاقات\tCtrl+Q
 _C_MNU_VIEW_REFRESH تحديث\tF5
 _C_MNU_VIEW_SORTBY ترتيب حسب:
+_C_MNU_VIEW_SORTBYRANDOM &Randomize
 _C_MNU_VIEW_TAGS البطاقات الموسعة...\tALT+T
 _C_MNU_VIEW_TOOLBAR شريط الأدوات
 _C_MNU_SB_ACTIONS تطبيق الإجراءات المعرفة من قبل المستخدم (تبديل الحالة، الاستبدال، ...) إلى الملفات المحددة.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE تغيير حجم النافذة
 _C_MULTILINE خطوط متعددة
 _C_OK &موافق
 _C_OPT_ACTIONGROUPS مجموعات الإجراءات
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Apply
+_C_OPT_ACTIONGROUPS_SEL_EMPTY No action group enabled
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} action groups enabled
+_C_OPT_ACTIONGROUPS_SEL_SINGLE One action group enabled
+_C_OPT_ACTIONGROUPS_SORTBYNAME Sort by name
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Sort by state
 _C_OPT_ACTIONS الإجراءات
 _C_OPT_ACTIONS_TYPE حدد نوع الإجراء
 _C_OPT_ADVANCED متقدم
 _C_OPT_ADVANCED_ID3V2LANG ID3v2 رمز لغة التعليق (ISO-639-2)
 _C_OPT_ADVANCED_LISTCHAPTERS سرد الفصول كملفات منفصلة
+_C_OPT_ADVANCED_POPULARIMETER Always display POPULARIMETER values for ID3v2 ratings
 _C_OPT_CAPTION خيارات
 _C_OPT_CDDB_CAPTION freedb
 _C_OPT_CDDB_CHK_USEPROXY استخدام بروكسي
@@ -401,6 +412,11 @@ _M_STAT_PLAY تشغيل الملف \"{1}\"...
 _M_STR_ACTION_ADJUSTCOVER Adjust cover
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Format
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Quality
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Best
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH High
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Low
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Medium
 _M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
 _M_STR_ACTION_CODEPAGE تحويل صفحة التعليمات البرمجية
 _M_STR_ACTION_CODEPAGE_DESC صفحة التعليمات البرمجية
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM إزالة الحقول
 _M_STR_ACTION_REM_DESC الحقول المراد إزالتها (مفصولة بفاصلة منقوطة):
 _M_STR_ACTION_REM_EX قم بإزالة الحقول عدا
 _M_STR_ACTION_REM_EX_DESC الحقول المراد تركها (مفصولة بفاصلة منقوطة):
+_M_STR_ACTION_SETCOVERPROPERTIES Set cover properties
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Cover Description:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Set for:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL All covers
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Cover Type:
 _M_STR_ACTION_SPLITFIELDS تقسيم الحقول بفاصل
+_M_STR_ACTIONGROUP_CHANGED Configuration of action groups has changed.\r\n\r\nDo you want to save the changes?
 _M_STR_ACTIONGROUP_NAME اسم مجموعة الإجراءات
 _M_STR_ALBUM الألبوم 
 _M_STR_ALBUMARTIST فنان الألبوم
 _M_STR_ALL_FILEDLGFILTER كل الملفات (*.*)|*.*||
 _M_STR_ARTIST الفنان
 _M_STR_AUTHOR المؤلف
+_M_STR_AUTOSIZECOLUMNS Auto-size columns
 _M_STR_BACK < لل&خلف
 _M_STR_BROWSE_COPY نسخ إلى:
 _M_STR_BROWSE_MOVE نقل إلى:
@@ -516,6 +539,8 @@ _M_STR_OPTS_NEVER أبدا
 _M_STR_PLNAME قائمة التشغيل - اسم الملف
 _M_STR_PL_CONFIRM إنشاء قائمة تشغيل بهذا الاسم
 _M_STR_PL_SAVEFILTER ملف قائمة تشغيل (*.m3u)|*.m3u|ملف قائمة تشغيل يونيكود (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Create selection preset...
+_M_STR_PRESETS Presets
 _M_STR_PREVIEW معاينة
 _M_STR_PROPERTIES {1} خصائص
 _M_STR_QUICK سريع
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES تنظيف الثنائيات المعزول�
 _M_STR_SB_CLEANUPDATABASE_COVERS تنظيف الأغلفة المعزولة
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES تنظيف الملفات التي ليست في المكتبة
 _M_STR_SB_EXPORTTAGS تصدير معلومات البطاقة... {1} سجل من {2} ملف
+_M_STR_SB_FILTER Filtering ...
 _M_STR_SB_LOADTAGS قراءة بيانات البطاقة ... {1} من {2}
 _M_STR_SB_READDIRECTORY قراءة الدليل
 _M_STR_SB_REMOVETAGS إزالة بيانات البطاقة... {1} من {2}
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON هذا الألبوم على {1}
 _M_STR_TITLE العنوان
 _M_STR_TRYAGAIN هل تريد إعادة المحاولة؟
 _M_STR_TTF البطاقة - اسم الملف
+_M_STR_UNSAVED Do you want to save the changes?
 _M_STR_UPDATE_FRM التحديثات
 _M_STR_UPDATE_OPT_CHECK التحقق من وجود تحديثات في بدء التشغيل
 _M_STR_UPDATE_OPT_CHECK_BETA تضمين إصدارات التطوير (بيتا)

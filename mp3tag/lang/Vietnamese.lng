@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD Các &phím tắt
 _C_MNU_HELP_SUPPORT Hỗ trợ trực tuyến...
 _C_MNU_HELP_UPGRADE Kiểm tra phiên bản mới...
 _C_MNU_HELP_WWW Trang &web của Mp3tag...
+_C_MNU_TAG_EDIT Edit...\tF2
+_C_MNU_TAG_NEW Add...\tIns
+_C_MNU_TAG_REMOVE Remove\tDel
 _C_MNU_TAGSOURCES Các &nguồn tag
 _C_MNU_TOOLS &Công cụ
 _C_MNU_VIEW &Xem
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY Auto-apply filter
 _C_MNU_VIEW_ID3 Bảng tag\tCtrl+Q
 _C_MNU_VIEW_REFRESH Làm tươ&i\tF5
 _C_MNU_VIEW_SORTBY Sắp &xếp theo
+_C_MNU_VIEW_SORTBYRANDOM &Randomize
 _C_MNU_VIEW_TAGS Các tag mở &rộng...\tALT+T
 _C_MNU_VIEW_TOOLBAR Thanh &công cụ
 _C_MNU_SB_ACTIONS Áp dụng các hành động do người dùng xác định (chuyển dạng chữ, thay thế,...) cho các tập tin được chọn.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE Thay đổi kích thước cửa sổ
 _C_MULTILINE Có nhiều dòng
 _C_OK Đồn&g ý
 _C_OPT_ACTIONGROUPS Các nhóm hành động
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Apply
+_C_OPT_ACTIONGROUPS_SEL_EMPTY No action group enabled
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} action groups enabled
+_C_OPT_ACTIONGROUPS_SEL_SINGLE One action group enabled
+_C_OPT_ACTIONGROUPS_SORTBYNAME Sort by name
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Sort by state
 _C_OPT_ACTIONS Các hành động
 _C_OPT_ACTIONS_TYPE Chọn kiểu hành động
 _C_OPT_ADVANCED Advanced
 _C_OPT_ADVANCED_ID3V2LANG ID3v2 comment language code (ISO-639-2)
 _C_OPT_ADVANCED_LISTCHAPTERS List chapters as separate files
+_C_OPT_ADVANCED_POPULARIMETER Always display POPULARIMETER values for ID3v2 ratings
 _C_OPT_CAPTION Tuỳ chọn
 _C_OPT_CDDB_CAPTION freedb
 _C_OPT_CDDB_CHK_USEPROXY Dùng pr&oxy
@@ -401,6 +412,11 @@ _M_STAT_PLAY Đang phát tập tin \"{1}\"...
 _M_STR_ACTION_ADJUSTCOVER Adjust cover
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Format
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Quality
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Best
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH High
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Low
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Medium
 _M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
 _M_STR_ACTION_CODEPAGE Chuyển đổi bảng mã
 _M_STR_ACTION_CODEPAGE_DESC Bảng mã
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Xoá các trường dữ liệu
 _M_STR_ACTION_REM_DESC Các trường cần xoá (ngăn cách bằng ";"):
 _M_STR_ACTION_REM_EX Xoá các trường khác, trừ các trường...
 _M_STR_ACTION_REM_EX_DESC Các trường được giữ lại (ngăn cách bằng ";"):
+_M_STR_ACTION_SETCOVERPROPERTIES Set cover properties
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Cover Description:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Set for:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL All covers
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Cover Type:
 _M_STR_ACTION_SPLITFIELDS Chia nhỏ các trường bởi dấu ngăn cách
+_M_STR_ACTIONGROUP_CHANGED Configuration of action groups has changed.\r\n\r\nDo you want to save the changes?
 _M_STR_ACTIONGROUP_NAME Tên của nhóm hành động
 _M_STR_ALBUM An-bum
 _M_STR_ALBUMARTIST Nghệ sĩ của an-bum
 _M_STR_ALL_FILEDLGFILTER Tất cả tập tin (*.*)|*.*||
 _M_STR_ARTIST Nghệ sĩ
 _M_STR_AUTHOR Tác giả
+_M_STR_AUTOSIZECOLUMNS Auto-size columns
 _M_STR_BACK < &Quay lại
 _M_STR_BROWSE_COPY Sao chép vào:
 _M_STR_BROWSE_MOVE Di chuyển tới:
@@ -516,6 +539,8 @@ _M_STR_OPTS_NEVER không bao giờ
 _M_STR_PLNAME Playlist - Tên tập tin
 _M_STR_PL_CONFIRM Tạo playlist với tên này
 _M_STR_PL_SAVEFILTER Playlist File (*.m3u)|*.m3u|Unicode Playlist File (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Create selection preset...
+_M_STR_PRESETS Presets
 _M_STR_PREVIEW Xem trước
 _M_STR_PROPERTIES {1} Các thuộc tính
 _M_STR_QUICK Nhanh
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES Cleanup orphaned binaries
 _M_STR_SB_CLEANUPDATABASE_COVERS Cleanup orphaned covers
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES Cleanup non-library files
 _M_STR_SB_EXPORTTAGS Đang xuất thông tin tag ... {1} trong {2} tập tin
+_M_STR_SB_FILTER Filtering ...
 _M_STR_SB_LOADTAGS Đang đọc dữ liệu tag... {1} trong {2}
 _M_STR_SB_READDIRECTORY Đang đọc thư mục
 _M_STR_SB_REMOVETAGS Đang xoá dữ liệu tag ... {1} trong {2}
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON An-bum này trên {1}
 _M_STR_TITLE Tựa đề
 _M_STR_TRYAGAIN Bạn muốn thử lại không?
 _M_STR_TTF Tag - Tên tập tin
+_M_STR_UNSAVED Do you want to save the changes?
 _M_STR_UPDATE_FRM Các bản cập nhật
 _M_STR_UPDATE_OPT_CHECK Kiểm tra bản cập nhật khi khởi động
 _M_STR_UPDATE_OPT_CHECK_BETA Gồm cả bản Development Builds (Beta)

@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD &Tastatur genveje
 _C_MNU_HELP_SUPPORT Online Support...
 _C_MNU_HELP_UPGRADE Tjek for ny version...
 _C_MNU_HELP_WWW Mp3tag &Website...
+_C_MNU_TAG_EDIT Edit...\tF2
+_C_MNU_TAG_NEW Add...\tIns
+_C_MNU_TAG_REMOVE Remove\tDel
 _C_MNU_TAGSOURCES &Tag kilder
 _C_MNU_TOOLS &Værktøj
 _C_MNU_VIEW &Vis
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY Auto-apply filter
 _C_MNU_VIEW_ID3 Tag panel\tCtrl+Q
 _C_MNU_VIEW_REFRESH &Opdater\tF5
 _C_MNU_VIEW_SORTBY &Sorter efter
+_C_MNU_VIEW_SORTBYRANDOM &Randomize
 _C_MNU_VIEW_TAGS Udvidede &Tags...\tALT+T
 _C_MNU_VIEW_TOOLBAR &Værktøjslinie
 _C_MNU_SB_ACTIONS Tilføj til brugerdefineret handlinger (stort/lille bogstav, erstat, ...) til valgte filer.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE Rediger vinduets størrelse
 _C_MULTILINE Multilinje
 _C_OK &OK
 _C_OPT_ACTIONGROUPS Handlingsgrupper
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Apply
+_C_OPT_ACTIONGROUPS_SEL_EMPTY No action group enabled
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} action groups enabled
+_C_OPT_ACTIONGROUPS_SEL_SINGLE One action group enabled
+_C_OPT_ACTIONGROUPS_SORTBYNAME Sort by name
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Sort by state
 _C_OPT_ACTIONS Handlinger
 _C_OPT_ACTIONS_TYPE Vælg handlingstype
 _C_OPT_ADVANCED Advanced
 _C_OPT_ADVANCED_ID3V2LANG ID3v2 comment language code (ISO-639-2)
 _C_OPT_ADVANCED_LISTCHAPTERS List chapters as separate files
+_C_OPT_ADVANCED_POPULARIMETER Always display POPULARIMETER values for ID3v2 ratings
 _C_OPT_CAPTION Valg
 _C_OPT_CDDB_CAPTION freedb
 _C_OPT_CDDB_CHK_USEPROXY Brug pr&oxy
@@ -401,6 +412,11 @@ _M_STAT_PLAY Afspil filen \"{1}\"...
 _M_STR_ACTION_ADJUSTCOVER Adjust cover
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Format
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Quality
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Best
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH High
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Low
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Medium
 _M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
 _M_STR_ACTION_CODEPAGE Konverter tegnkodningstabel
 _M_STR_ACTION_CODEPAGE_DESC tegnkodningstabel
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Fjern felter
 _M_STR_ACTION_REM_DESC Felter der fjernes (semikolon-separeret):
 _M_STR_ACTION_REM_EX Fjern felter på nær
 _M_STR_ACTION_REM_EX_DESC felter som skal undgåes (semikolon-separeret):
+_M_STR_ACTION_SETCOVERPROPERTIES Set cover properties
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Cover Description:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Set for:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL All covers
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Cover Type:
 _M_STR_ACTION_SPLITFIELDS Del felter med separator
+_M_STR_ACTIONGROUP_CHANGED Configuration of action groups has changed.\r\n\r\nDo you want to save the changes?
 _M_STR_ACTIONGROUP_NAME Navn på handlingsgruppe
 _M_STR_ALBUM Album
 _M_STR_ALBUMARTIST Album Kunstner
 _M_STR_ALL_FILEDLGFILTER Alle filer (*.*)|*.*||
 _M_STR_ARTIST Kunstner
 _M_STR_AUTHOR Forfatter
+_M_STR_AUTOSIZECOLUMNS Auto-size columns
 _M_STR_BACK < Til&bage
 _M_STR_BROWSE_COPY Kopier til:
 _M_STR_BROWSE_MOVE Flyt til:
@@ -516,6 +539,8 @@ _M_STR_OPTS_NEVER aldrig
 _M_STR_PLNAME Playlist - Filnavn
 _M_STR_PL_CONFIRM Opret afspilningsliste med dette navn
 _M_STR_PL_SAVEFILTER Playlist File (*.m3u)|*.m3u|Unicode Playlist File (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Create selection preset...
+_M_STR_PRESETS Presets
 _M_STR_PREVIEW Eksempel
 _M_STR_PROPERTIES {1} Egenskaber
 _M_STR_QUICK Hurtig
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES Cleanup orphaned binaries
 _M_STR_SB_CLEANUPDATABASE_COVERS Cleanup orphaned covers
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES Cleanup non-library files
 _M_STR_SB_EXPORTTAGS Eksporter tag information ... {1} af {2}
+_M_STR_SB_FILTER Filtering ...
 _M_STR_SB_LOADTAGS Læser tag data ... {1} af {2}
 _M_STR_SB_READDIRECTORY Læs katalog
 _M_STR_SB_REMOVETAGS Fjerner tag data ... {1} af {2}
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON Dette album på {1}
 _M_STR_TITLE Titel
 _M_STR_TRYAGAIN Vil du prøve igen?
 _M_STR_TTF Tag - Filnavn
+_M_STR_UNSAVED Do you want to save the changes?
 _M_STR_UPDATE_FRM Opdateringer
 _M_STR_UPDATE_OPT_CHECK Tjek for opdateringer ved opstart
 _M_STR_UPDATE_OPT_CHECK_BETA Brug også Development Builds (Beta-versioner)

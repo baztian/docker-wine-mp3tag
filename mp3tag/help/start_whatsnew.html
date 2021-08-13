@@ -50,6 +50,195 @@
 	</div>
 
 	<div>
+		<a id="v308"></a><h1>Mp3tag v3.08</h1>
+
+		<h2>Usability improvements for Tag Panel</h2>
+		<p>
+			Maybe it also happened to you: you started filling the fields on the Tag Panel 
+			and only later noticed that no file was selected yet. Selecting one file then 
+			replaced what was entered with what was read from the selected file &mdash; not ideal 
+			and sometimes a reason for frustration. This is a thing of the past, because the 
+			fields on the Tag Panel are now only enabled if at least one file is selected.
+		</p>
+
+		<h2>Usability improvements regarding unsaved changes</h2>
+		<p>
+			Mp3tag provides means to automatically save any changes when the selection changes 
+			(it can be enabled in the options at <a href="options_tags.html">Tools → Options → Tags</a>). But not 
+			everybody wants that and if the option is disabled, any unsaved changes were 
+			discarded on selection change. This is also not happening anymore: I’ve added a 
+			confirmation question if the Tag Panel contains unsaved changes and auto-saving 
+			is not enabled.
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			For a complete overview of all changes, please see the <a href="../Mp3tagVersion.txt">Changelog</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v307"></a><h1>Mp3tag v3.07</h1>
+
+		<h2>Support for editing cover art for Matroska MKA/MKV</h2>
+		<p>
+			This took some time and Mp3tag is finally able to also edit (and not only display) cover art
+			for Matroska MKA/MKV files. Matroska is one of the most complex tagging specs I've worked with,
+			so I'm especially happy that editing image attachments to the container is now possible.
+		</p>
+
+		<h2>Support for WebP image format</h2>
+		<p>
+			The <a href="https://developers.google.com/speed/webp">WebP image format</a> is by no means standard
+			at this point. The recommended formats for embedded cover art are still JPG and PNG. However, many
+			online sources and people are using this modern image format and I wanted to at least give the option
+			with Mp3tag. You can even use Mp3tag to convert from WebP to JPG or PNG. A modern and recommended
+			player with WebP support is <a href="https://www.foobar2000.org/">foobar2000</a>.
+		</p>
+
+		<h2>Support for iTunes and Apple Music related MP4 fields</h2>
+		<p>
+			I've extended the list of <a href="main_tags.html#mp4">supported MP4 metadata fields that are related to iTunes and Apple Music</a>:
+			<ul>
+				<li>ITUNESALBUMID (<code>plID</code>)</li>
+				<li>ITUNESARTISTID (<code>atID</code>)</li>
+				<li>ITUNESCOMPOSERID (<code>cmID</code>)</li>
+				<li>ITUNESCOUNTRYID (<code>sfID</code>)</li>
+				<li>ITUNESGENREID (<code>geID</code>)</li>
+				<li>XID (<code>xid </code>)</li>
+			</ul>
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			For a complete overview of all changes, please see the <a href="../Mp3tagVersion.txt">Changelog</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v306"></a><h1>Mp3tag v3.06</h1>
+
+		<h2>Retry for Tag Sources</h2>
+		<p>
+			If no results are returned for a certain search at Tag Sources, it's now possible to retry and having the previous
+			query already filled in. No more entering the same information twice (or trice!).<br />
+			I've also added the option to retry for error case, e.g., when the internet connection of the servers are flaky.
+		</p>
+
+		<h2>Option to disable auto-sizing of columns in Tag Source results</h2>
+		<p>
+			So far, the column width for Tag Sources results has been decided based on the content that was returned from the query.
+			While it always displays the full content, it also means that some columns are outside the dialog width and scrolling
+			is needed. You can now disable the auto-sizing of column via the context menu of the column header.
+		</p>
+
+		<h2>Undo via Ctrl+Z in Tag Panel fields</h2>
+		<p>
+			This was quite some time in the making (I've received the first bug report on that back in Jan 2014). You can now
+			undo text entry in Tag Panel fields without undoing the last tag-write or rename operation.
+		</p>
+
+		<h2>Actions and Tag Sources available via context menu</h2>
+		<p>
+			The file list context menu now also has the Actions and Tag Sources available via submenus. Sometimes it's just faster to
+			trigger them from the context menu.
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			For a complete overview of all changes, please see the <a href="../Mp3tagVersion.txt">Changelog</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v305"></a><h1>Mp3tag v3.05</h1>
+
+		<h2>Action to set cover properties</h2>
+		<p>
+			This version adds a new action type <i>Set cover properties</i> which allows for editing the cover description
+			and the cover type (front, back, ...) via Quick Actions or from within action groups.
+		</p>
+
+		<h2>Adjust cover for varying covers</h2>
+		<p>
+			So far, adjusting covers in size and image type directly from the cover window was only possible if
+			all selected files had the same embedded cover art. This version adds support for directly adjusting
+			covers for files with different covers.
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			For a complete overview of all changes, please see the <a href="../Mp3tagVersion.txt">Changelog</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v304"></a><h1>Mp3tag v3.04</h1>
+
+		<h2>Performance improvements</h2>
+		<p>
+			This version adds various improvements to make reading MP3 and MP4 files (especially MP4s with chapters) even more performant.
+			Also, the process of selecting large amounts of files (all file formats) is more snappy with this new version.
+		</p>
+
+		<h2>Album artists from MusicBrainz</h2>
+		<p>
+			This version adds support for importing album artist information from MusicBrainz. 
+			MusicBrainz also has become my favorite tag source in Mp3tag over time.
+			It has all the information I need, usually with great accuracy and excellent data quality.
+		</p>
+
+		<h2>Randomize sorting</h2>
+		<p>
+			If you ever wanted to create a playlist with tracks in randomized order, you've either
+			used Mp3tag's hidden feature to randomize the file list or resorted to manual ordering. This
+			feature is not hidden anymore but available now via "View &gt; Sort By &gt; Randomize".
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			For a complete overview of all changes, please see the <a href="../Mp3tagVersion.txt">Changelog</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v303"></a><h1>Mp3tag v3.03</h1>
+
+		<h2>Improvements for Action Groups</h2>
+		<p>
+			This version adds various improvements for the action groups dialog. You can now select, enable, and
+			move multiple action groups at once and have quick means for working with action groups via various
+			newly added keyboard shortcuts. Furthermore, I've added a new indicator that shows how many action groups
+			are currently enabled and added support for sorting of action groups.
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			For a complete overview of all changes, please see the <a href="../Mp3tagVersion.txt">Changelog</a>.
+		</p>
+	</div>
+
+	<div>
+		<a id="v302"></a><h1>Mp3tag v3.02</h1>
+
+		<h2>Support for alternative freedb servers</h2>
+		<p>
+			The current operator of the public freedb servers announced to stop its services as of March 31, 2020.
+			I've now added alternative freedb servers to Mp3tag, so that the freedb feature should be working again.
+			Furthermore, I've added support for the web-based search of gnudb.org.
+		</p>
+		<p>
+			If you're unsure about data quality from freedb or can't find newest using one of the alternative servers,
+			I can only recommend to use MusicBrainz. It's a high-quality alternative to freedb and is officially supported by Mp3tag.
+		</p>
+
+		<h2>Further changes</h2>
+		<p>
+			For a complete overview of all changes, please see the <a href="../Mp3tagVersion.txt">Changelog</a>.
+		</p>
+	</div>
+
+	<div>
 		<a id="v301"></a><h1>Mp3tag v3.01</h1>
 
 		<h2>Support for the WebM file format</h2>
@@ -1278,7 +1467,7 @@
 		</p>
 	</div>
 
-	<p class="copyright"><strong>Made with love in Dresden.</strong> Copyright &copy; 1999-2020 <a href="http://www.mp3tag.de/en/" class="external">Florian Heidenreich</a>. All rights reserved.</p>
+	<p class="copyright"><strong>Made with love in Dresden.</strong> Copyright &copy; 1999-2021 <a href="http://www.mp3tag.de/en/" class="external">Florian Heidenreich</a>. All rights reserved.</p>
 
 </div>
 </body>

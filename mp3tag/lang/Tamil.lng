@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD விசைப்பலகை குறுக்குவ�
 _C_MNU_HELP_SUPPORT ஆன்லைன் ஆதரவு...
 _C_MNU_HELP_UPGRADE புதிய பதிப்பைச் சரிபார்க்கவும்...
 _C_MNU_HELP_WWW Mp3குறி வலைத்தளம்...
+_C_MNU_TAG_EDIT Edit...\tF2
+_C_MNU_TAG_NEW Add...\tIns
+_C_MNU_TAG_REMOVE Remove\tDel
 _C_MNU_TAGSOURCES குறி ஆதாரங்கள்
 _C_MNU_TOOLS கருவிகள்
 _C_MNU_VIEW காட்சி
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY தானாக வடிப்பான் அம�
 _C_MNU_VIEW_ID3 குறி பலகை\tCtrl+Q
 _C_MNU_VIEW_REFRESH புதுப்பிப்பு\tF5
 _C_MNU_VIEW_SORTBY இதன்முலம் வரிசைப்படுத்து
+_C_MNU_VIEW_SORTBYRANDOM &Randomize
 _C_MNU_VIEW_TAGS நீட்டிக்கப்பட்ட குறிப்புகள்...\tALT+T
 _C_MNU_VIEW_TOOLBAR கருவிப்பட்டை
 _C_MNU_SB_ACTIONS தேர்ந்தெடுக்கப்பட்ட கோப்புகளை பயனர் வரையறுத்த செயல்களை (வழக்கு மாற்று, பதிலாக, ...) பயன்படுத்துகிறது.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE சாளர அளவு மாற்றவும்
 _C_MULTILINE பலவரி
 _C_OK சரி
 _C_OPT_ACTIONGROUPS செயல் குழுக்கள்
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Apply
+_C_OPT_ACTIONGROUPS_SEL_EMPTY No action group enabled
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} action groups enabled
+_C_OPT_ACTIONGROUPS_SEL_SINGLE One action group enabled
+_C_OPT_ACTIONGROUPS_SORTBYNAME Sort by name
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Sort by state
 _C_OPT_ACTIONS செயல்கள்
 _C_OPT_ACTIONS_TYPE செயல் வகை தேர்ந்தெடுக்கவும்
 _C_OPT_ADVANCED மேம்பட்ட
 _C_OPT_ADVANCED_ID3V2LANG ID3v2 கருத்து மொழி குறியீடு (ISO-639-2)
 _C_OPT_ADVANCED_LISTCHAPTERS தனி அத்தியாயங்களாக பட்டியல் அத்தியாயங்கள்
+_C_OPT_ADVANCED_POPULARIMETER Always display POPULARIMETER values for ID3v2 ratings
 _C_OPT_CAPTION விருப்பங்கள்
 _C_OPT_CDDB_CAPTION freedb
 _C_OPT_CDDB_CHK_USEPROXY பதிலாள் பயன்படுத்துக
@@ -401,6 +412,11 @@ _M_STAT_PLAY \"{1}\" கோப்பை இயக்குகிறது ...
 _M_STR_ACTION_ADJUSTCOVER Adjust cover
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Format
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Quality
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Best
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH High
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Low
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Medium
 _M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
 _M_STR_ACTION_CODEPAGE குறியீட்டுப் பக்கத்தை மாற்றவும்
 _M_STR_ACTION_CODEPAGE_DESC குறியீட்டுப் பக்கம்
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM துறைகள் நீக்கவும்
 _M_STR_ACTION_REM_DESC துறைகள் நீக்க (அரைக்கால்-பிரிக்கப்பட்ட):
 _M_STR_ACTION_REM_EX தவிர துறைகள் நீக்கவும்
 _M_STR_ACTION_REM_EX_DESC வெளியேறுவதற்கான துறைகள் (அரைக்கால்-பிரிக்கப்பட்ட):
+_M_STR_ACTION_SETCOVERPROPERTIES Set cover properties
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Cover Description:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Set for:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL All covers
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Cover Type:
 _M_STR_ACTION_SPLITFIELDS பிரிப்பான் மூலம் துறை பிரி
+_M_STR_ACTIONGROUP_CHANGED Configuration of action groups has changed.\r\n\r\nDo you want to save the changes?
 _M_STR_ACTIONGROUP_NAME நடவடிக்கை குழுவின் பெயர்
 _M_STR_ALBUM ஆல்பம்
 _M_STR_ALBUMARTIST ஆல்பம் கலைஞர்
 _M_STR_ALL_FILEDLGFILTER அனைத்து கோப்புகளும் (*.*)|*.*||
 _M_STR_ARTIST கலைஞர்
 _M_STR_AUTHOR ஆசிரியர்
+_M_STR_AUTOSIZECOLUMNS Auto-size columns
 _M_STR_BACK < பின்
 _M_STR_BROWSE_COPY இதற்கு நகலெடு:
 _M_STR_BROWSE_MOVE இதற்கு நகர்த்து:
@@ -516,6 +539,8 @@ _M_STR_OPTS_NEVER ஒருபோதும்
 _M_STR_PLNAME இயக்கு பட்டியல் - கோப்பு பெயர்
 _M_STR_PL_CONFIRM Create இயக்கு பட்டியல் with this name
 _M_STR_PL_SAVEFILTER இயக்கு பட்டியல் File (*.m3u)|*.m3u|Unicode இயக்கு பட்டியல் File (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Create selection preset...
+_M_STR_PRESETS Presets
 _M_STR_PREVIEW முன்னோட்டம்
 _M_STR_PROPERTIES {1} பண்புகள்
 _M_STR_QUICK விரைவு
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES அனாதை இருமைகள் ச�
 _M_STR_SB_CLEANUPDATABASE_COVERS அனாதையான உறைகள் சுத்தம்செய்
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES நூலகம் அல்லாத கோப்புகளை சுத்தம்செய்
 _M_STR_SB_EXPORTTAGS {2} கோப்புகளின் {1} பதிவுகளின் குறியீட்டை ஏற்றுமதி செய்கிறது
+_M_STR_SB_FILTER Filtering ...
 _M_STR_SB_LOADTAGS குறி தரவு படித்தல் ... {2} இல் {1}
 _M_STR_SB_READDIRECTORY அடைவு படித்தல்
 _M_STR_SB_REMOVETAGS குறித் தரவை நீக்குகிறது ... {2} இல் {1}
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON இந்த ஆல்பம் {1}
 _M_STR_TITLE தலைப்பு
 _M_STR_TRYAGAIN மீண்டும் முயற்சிக்க வேண்டுமா?
 _M_STR_TTF குறி - கோப்பு பெயர்
+_M_STR_UNSAVED Do you want to save the changes?
 _M_STR_UPDATE_FRM மேம்படுத்தல்கள்
 _M_STR_UPDATE_OPT_CHECK தொடக்கத்தில் புதுப்பிப்புகளை சரிபார்க்கவும்
 _M_STR_UPDATE_OPT_CHECK_BETA மேலும் அபிவிருத்தி கட்டமைப்புகள் (பீட்டா)

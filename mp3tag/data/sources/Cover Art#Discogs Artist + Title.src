@@ -7,11 +7,12 @@
 # %APPDATA%\Mp3tag\data\sources
 # and requires Mp3tag v2.97b or above.
 #
+# [2020-10-30] v1.02 CHG: changed to remove apostrophe from title
 # [2019-11-11] v1.01 CHG: changed to use album artist instead of artist if present.
 #                    CHG: changed to use double pipe symbol as search-by delimiter.
 # [2019-09-09] v1.00
 #
 # ###################################################################
 
-[SearchBy]=Artist||$if2(%albumartist%,%artist%)||&artist=%s||Title||%title%||&track=%s
+[SearchBy]=Artist||$if2(%albumartist%,%artist%)||&artist=%s||Title||$replace(%title%,'',)||&track=%s
 [Include]=Cover Art#Discogs.inc

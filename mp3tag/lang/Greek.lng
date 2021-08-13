@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD &Πλήκτρα συντόμευσης
 _C_MNU_HELP_SUPPORT Υποστήριξη Online...
 _C_MNU_HELP_UPGRADE Ελεγχος για νέα έκδοση...
 _C_MNU_HELP_WWW &Ιστοσελίδα Mp3Tag...
+_C_MNU_TAG_EDIT Edit...\tF2
+_C_MNU_TAG_NEW Add...\tIns
+_C_MNU_TAG_REMOVE Remove\tDel
 _C_MNU_TAGSOURCES Π&ηγή Ετικετών
 _C_MNU_TOOLS &Εργαλεία
 _C_MNU_VIEW &Προβολή
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY Auto-apply filter
 _C_MNU_VIEW_ID3 Πάνελ Ετικετών\tCtrl+Q
 _C_MNU_VIEW_REFRESH &Ανανέωση\tF5
 _C_MNU_VIEW_SORTBY &Ταξινόμηση
+_C_MNU_VIEW_SORTBYRANDOM &Randomize
 _C_MNU_VIEW_TAGS &Εκτεταμένες Ετικέτες...\tALT+T
 _C_MNU_VIEW_TOOLBAR Γραμμή εργα&λειών
 _C_MNU_SB_ACTIONS Εφαρμoγή προσδιορισμένων-από-τον-χρήστη ενεργειών (μετατροπή πεζών/κεφαλαίων, αντικατάσταση, ...) στα επιλεγμένα αρχεία.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE Αλλαγή μεγέθους παραθύρου
 _C_MULTILINE Multiline
 _C_OK &OK
 _C_OPT_ACTIONGROUPS Ομάδες ενεργειών
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Apply
+_C_OPT_ACTIONGROUPS_SEL_EMPTY No action group enabled
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} action groups enabled
+_C_OPT_ACTIONGROUPS_SEL_SINGLE One action group enabled
+_C_OPT_ACTIONGROUPS_SORTBYNAME Sort by name
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Sort by state
 _C_OPT_ACTIONS Ενέργειες
 _C_OPT_ACTIONS_TYPE Επιλογή τύπου ενέργειας
 _C_OPT_ADVANCED Advanced
 _C_OPT_ADVANCED_ID3V2LANG ID3v2 comment language code (ISO-639-2)
 _C_OPT_ADVANCED_LISTCHAPTERS List chapters as separate files
+_C_OPT_ADVANCED_POPULARIMETER Always display POPULARIMETER values for ID3v2 ratings
 _C_OPT_CAPTION Επιλογές
 _C_OPT_CDDB_CAPTION freedb
 _C_OPT_CDDB_CHK_USEPROXY &Χρήση proxy
@@ -401,6 +412,11 @@ _M_STAT_PLAY Αναπαραγωγή αρχείου \"{1}\"...
 _M_STR_ACTION_ADJUSTCOVER Adjust cover
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Format
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Quality
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Best
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH High
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Low
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Medium
 _M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
 _M_STR_ACTION_CODEPAGE Μετατροπή κωδικοσελίδας
 _M_STR_ACTION_CODEPAGE_DESC Κωδικοσελίδα
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Αφαίρεση πεδίων
 _M_STR_ACTION_REM_DESC Πεδία προς διαγραφή (χωρισμένα με ερωτηματικό):
 _M_STR_ACTION_REM_EX Αφαίρεση πεδίων, εκτώς από
 _M_STR_ACTION_REM_EX_DESC Πεδία προς αφαίρεση (χωρισμένα με ερωτηματικό):
+_M_STR_ACTION_SETCOVERPROPERTIES Set cover properties
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Cover Description:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Set for:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL All covers
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Cover Type:
 _M_STR_ACTION_SPLITFIELDS Split fields by separator
+_M_STR_ACTIONGROUP_CHANGED Configuration of action groups has changed.\r\n\r\nDo you want to save the changes?
 _M_STR_ACTIONGROUP_NAME 'Ονομα ομάδας ενεργειών
 _M_STR_ALBUM 'Αλμπουμ
 _M_STR_ALBUMARTIST Album Artist
 _M_STR_ALL_FILEDLGFILTER 'Ολα τα αρχεία (*.*)|*.*||
 _M_STR_ARTIST Καλλιτέχνης
 _M_STR_AUTHOR Δημιουργός
+_M_STR_AUTOSIZECOLUMNS Auto-size columns
 _M_STR_BACK < &Back
 _M_STR_BROWSE_COPY Αντιγραφή στο:
 _M_STR_BROWSE_MOVE Μετακίνηση στο:
@@ -516,6 +539,8 @@ _M_STR_OPTS_NEVER ποτέ
 _M_STR_PLNAME Λίστα αναπαραγωγής - 'Ονομα αρχείου
 _M_STR_PL_CONFIRM Δημ/γία λίστας αναπαραγωγής με αυτό το όνομα
 _M_STR_PL_SAVEFILTER Playlist File (*.m3u)|*.m3u|Unicode Playlist File (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Create selection preset...
+_M_STR_PRESETS Presets
 _M_STR_PREVIEW &Προθέαση
 _M_STR_PROPERTIES {1} Ιδιότητες
 _M_STR_QUICK Γρήγορο
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES Cleanup orphaned binaries
 _M_STR_SB_CLEANUPDATABASE_COVERS Cleanup orphaned covers
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES Cleanup non-library files
 _M_STR_SB_EXPORTTAGS Εξαγωγή πληροφοριών Ετικετών ... {1} εγγραφές από {2} αρχεία
+_M_STR_SB_FILTER Filtering ...
 _M_STR_SB_LOADTAGS Ανάγνωση δεδομένων Ετικετών ... {1} από {2}
 _M_STR_SB_READDIRECTORY Ανάγνωση Καταλόγου
 _M_STR_SB_REMOVETAGS Αφαίρεση δεδομένων Ετικετών ... {1} από {2}
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON Αυτό το 'Αλμπουμ στο {1}
 _M_STR_TITLE Τίτλος
 _M_STR_TRYAGAIN Θέλετε να προσπαθήσετε ξανά;
 _M_STR_TTF Ετικέτες - 'Ονομα αρχείου
+_M_STR_UNSAVED Do you want to save the changes?
 _M_STR_UPDATE_FRM Updates
 _M_STR_UPDATE_OPT_CHECK Check for updates on startup
 _M_STR_UPDATE_OPT_CHECK_BETA Also include Development Builds (Beta)

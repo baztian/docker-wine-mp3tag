@@ -49,7 +49,12 @@
 		</p>
 		<p>
 		    You can create, edit, duplicate, and delete action groups using the buttons on the right
-			or the context menu.
+			or the context menu.<br />
+			The up/down arrow buttons allow for rearranging the order of the selected action group.
+			If you're pressing the <span class="hotkey">Alt</span> key while moving actions, the
+			selected action group is moved to the top/bottom.
+		</p>
+		<p>
 		    The button <strong>Utils</strong> allows for saving the current selection state to a file
 		    using the <strong>Save selection...</strong> menu item. These are then listed in the menu
 		    and can be later restored by clicking on the configuration name. The <strong>Save</strong> menu
@@ -57,6 +62,26 @@
 		    the dialog via the <strong>OK</strong> button).
 		</p>
 		
+		<ul>
+			<li><a href="#resize">Adjust cover</a></li>
+			<li><a href="#case">Case conversion</a></li>
+			<li><a href="#codepage">Convert codepage</a></li>
+			<li><a href="#export">Export</a></li>
+			<li><a href="#exportcover">Export cover to file</a></li>
+			<li><a href="#format">Format value</a></li>
+			<li><a href="#guess">Guess values</a></li>
+			<li><a href="#importcover">Import cover from file</a></li>
+			<li><a href="#textfile">Import text file</a></li>
+			<li><a href="#merge">Merge duplicate fields</a></li>
+			<li><a href="#removedupes">Remove duplicate fields</a></li>
+			<li><a href="#remove">Remove fields</a></li>
+			<li><a href="#removeex">Remove fields except</a></li>
+			<li><a href="#replace">Replace</a></li>
+			<li><a href="#regexp">Replace with regular expression</a></li>
+			<li><a href="#setcoverprops">Set cover properties</a></li>
+			<li><a href="#split">Split field by separator</a></li>
+		</ul>
+
 		<h2>Keyboard shortcuts</h2>
             <table cellspacing="4" cellpadding="2">
        		<tr>
@@ -78,27 +103,57 @@
 				<td><span class="hotkey">Delete</span></td>
 				<td>Delete action (group)</td>
 			</tr>
+
+			<tr>
+				<td><span class="hotkey">Space</span></td>
+				<td>Enable action group</td>
+			</tr>
+
+			<tr>
+				<td><span class="hotkey">Ctrl</span>+<span class="hotkey">A</span></td>
+				<td>Select all action groups</td>
+			</tr>
+
+			<tr>
+				<td><span class="hotkey">Ctrl</span>+<span class="hotkey">Shift</span>+<span class="hotkey">A</span></td>
+				<td>Invert selection of action groups</td>
+			</tr>
+
+			<tr>
+				<td><span class="hotkey">Ctrl</span>+<span class="hotkey">E</span></td>
+				<td>Enable all action groups</td>
+			</tr>
+
+			<tr>
+				<td><span class="hotkey">Ctrl</span>+<span class="hotkey">D</span></td>
+				<td>Disable all action groups</td>
+			</tr>
+
+			<tr>
+				<td><span class="hotkey">Ctrl</span>+<span class="hotkey">S</span></td>
+				<td>Save current order and enabled state of action groups</td>
+			</tr>
+
+			<tr>
+				<td><span class="hotkey">Alt</span>+<span class="hotkey">Up</span></td>
+				<td>Move action group up</td>
+			</tr>
+
+			<tr>
+				<td><span class="hotkey">Alt</span>+<span class="hotkey">Down</span></td>
+				<td>Move action group down</td>
+			</tr>
+
+			<tr>
+				<td><span class="hotkey">Alt</span>+<span class="hotkey">Page Up</span></td>
+				<td>Move action group to beginning of list</td>
+			</tr>
+
+			<tr>
+				<td><span class="hotkey">Alt</span>+<span class="hotkey">Page Down</span></td>
+				<td>Move action group to end of list</td>
+			</tr>
 			</table>
-			<br />
-		
-		<ul>
-			<li><a href="#resize">Adjust cover</a></li>
-			<li><a href="#case">Case conversion</a></li>
-			<li><a href="#codepage">Convert codepage</a></li>
-			<li><a href="#export">Export</a></li>
-			<li><a href="#exportcover">Export cover to file</a></li>
-			<li><a href="#format">Format value</a></li>
-			<li><a href="#guess">Guess values</a></li>
-			<li><a href="#importcover">Import cover from file</a></li>
-			<li><a href="#textfile">Import text file</a></li>
-			<li><a href="#merge">Merge duplicate fields</a></li>
-			<li><a href="#removedupes">Remove duplicate fields</a></li>
-			<li><a href="#remove">Remove fields</a></li>
-			<li><a href="#removeex">Remove fields except</a></li>
-			<li><a href="#replace">Replace</a></li>
-			<li><a href="#regexp">Replace with regular expression</a></li>
-			<li><a href="#split">Split field by separator</a></li>
-		</ul>
 		
 		<p>
 			<a class="index" href="index.html">Back to main page</a>
@@ -274,7 +329,7 @@
 	<div>
 		<a id="removedupes"></a><h1>Remove duplicate fields</h1>
 		<p>
-			This action type removes duplicate tag fields (e.g. three artist fields) and leaves the last field from the tag.
+			This action type removes duplicate tag fields (e.g. three artist fields) and leaves the first field from the tag.
 		</p>
 		
 		<p>
@@ -513,6 +568,21 @@
 			<a class="index" href="index.html">Back to main page</a>
 		</p>
 	</div>
+
+	<div>
+		<a id="setcoverprops"></a><h1>Set cover properties</h1>
+		<p>
+			Allows for setting of cover type and/or cover description of embedded cover art.
+			If you remove the content from the description field, the description of embedded cover
+			art will also be removed.
+		</p>
+		<p>
+			You can choose to apply this action only to covers of a specific type or all covers.
+		</p>
+		<p>
+			<a class="index" href="index.html">Back to main page</a>
+		</p>
+	</div>
 	
 	<div>
 		<a id="split"></a><h1>Split field by separator</h1>
@@ -526,7 +596,7 @@
 		</p>
 	</div>
 	
-	<p class="copyright"><strong>Made with love in Dresden.</strong> Copyright &copy; 1999-2020 <a href="http://www.mp3tag.de/en/" class="external">Florian Heidenreich</a>. All rights reserved.</p>
+	<p class="copyright"><strong>Made with love in Dresden.</strong> Copyright &copy; 1999-2021 <a href="http://www.mp3tag.de/en/" class="external">Florian Heidenreich</a>. All rights reserved.</p>
 
 	</div>
 </body>

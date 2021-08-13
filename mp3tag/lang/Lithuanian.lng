@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD Spartieji &klavišai
 _C_MNU_HELP_SUPPORT Programinės įrangos priežiūra...
 _C_MNU_HELP_UPGRADE Tikrinti, ar yra naujinimų...
 _C_MNU_HELP_WWW Mp3tag svetainė...
+_C_MNU_TAG_EDIT Edit...\tF2
+_C_MNU_TAG_NEW Add...\tIns
+_C_MNU_TAG_REMOVE Remove\tDel
 _C_MNU_TAGSOURCES Gairių šaltiniai
 _C_MNU_TOOLS Įrankiai
 _C_MNU_VIEW &Rodyti
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY Auto-apply filter
 _C_MNU_VIEW_ID3 Gairių juosta\tCtrl+Q
 _C_MNU_VIEW_REFRESH At&naujinti\tF5
 _C_MNU_VIEW_SORTBY &Rikiuoti pagal...
+_C_MNU_VIEW_SORTBYRANDOM &Randomize
 _C_MNU_VIEW_TAGS Papil&domos gairės...\tALT+T
 _C_MNU_VIEW_TOOLBAR Įrank&ių juosta
 _C_MNU_SB_ACTIONS Atrinktiems failams, pritaikyti vartotojo nustatytus veiksmus.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE Pakeisti lango matmenis
 _C_MULTILINE Suliniuotas laukelis
 _C_OK &Gerai
 _C_OPT_ACTIONGROUPS Veiksmų grupės
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Apply
+_C_OPT_ACTIONGROUPS_SEL_EMPTY No action group enabled
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} action groups enabled
+_C_OPT_ACTIONGROUPS_SEL_SINGLE One action group enabled
+_C_OPT_ACTIONGROUPS_SORTBYNAME Sort by name
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Sort by state
 _C_OPT_ACTIONS Veiksmai
 _C_OPT_ACTIONS_TYPE Pasirinkite veiksmą
 _C_OPT_ADVANCED Advanced
 _C_OPT_ADVANCED_ID3V2LANG ID3v2 comment language code (ISO-639-2)
 _C_OPT_ADVANCED_LISTCHAPTERS List chapters as separate files
+_C_OPT_ADVANCED_POPULARIMETER Always display POPULARIMETER values for ID3v2 ratings
 _C_OPT_CAPTION Nuostatos
 _C_OPT_CDDB_CAPTION Duomenų bazė freedb
 _C_OPT_CDDB_CHK_USEPROXY Naudoti įgaliotąjį serverį
@@ -401,6 +412,11 @@ _M_STAT_PLAY Grojamas failas \"{1}\"...
 _M_STR_ACTION_ADJUSTCOVER Adjust cover
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Format
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Quality
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Best
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH High
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Low
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Medium
 _M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
 _M_STR_ACTION_CODEPAGE Keisti koduotę
 _M_STR_ACTION_CODEPAGE_DESC Koduotė
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Pašalinti laukelius
 _M_STR_ACTION_REM_DESC Pašalinti šiuos laukelius (atskirtus kabliataškiu):
 _M_STR_ACTION_REM_EX Pašalinti laukelius, išskyrus:
 _M_STR_ACTION_REM_EX_DESC Palikti šiuos laukelius (atskirtus kabliataškiu):
+_M_STR_ACTION_SETCOVERPROPERTIES Set cover properties
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Cover Description:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Set for:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL All covers
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Cover Type:
 _M_STR_ACTION_SPLITFIELDS Atskirti laukelius skirtuku
+_M_STR_ACTIONGROUP_CHANGED Configuration of action groups has changed.\r\n\r\nDo you want to save the changes?
 _M_STR_ACTIONGROUP_NAME Veiksmų grupės pavadinimas
 _M_STR_ALBUM Albumas
 _M_STR_ALBUMARTIST Atlikėjas
 _M_STR_ALL_FILEDLGFILTER Visi failai (*.*)|*.*||
 _M_STR_ARTIST Atlikėjas
 _M_STR_AUTHOR Autorius
+_M_STR_AUTOSIZECOLUMNS Auto-size columns
 _M_STR_BACK < &Atgal
 _M_STR_BROWSE_COPY Kopijuoti į:
 _M_STR_BROWSE_MOVE Perkelti į:
@@ -516,6 +539,8 @@ _M_STR_OPTS_NEVER niekada
 _M_STR_PLNAME Grojaraštis - Failo pavadinimas
 _M_STR_PL_CONFIRM Sukurti grojaraštį ir pavadinti šio failo vardu
 _M_STR_PL_SAVEFILTER Playlist File (*.m3u)|*.m3u|Unicode Playlist File (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Create selection preset...
+_M_STR_PRESETS Presets
 _M_STR_PREVIEW Peržiūra
 _M_STR_PROPERTIES Savybės {1}
 _M_STR_QUICK Greitai
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES Cleanup orphaned binaries
 _M_STR_SB_CLEANUPDATABASE_COVERS Cleanup orphaned covers
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES Cleanup non-library files
 _M_STR_SB_EXPORTTAGS Gairės duomenų eksportas... {1} iš {2}
+_M_STR_SB_FILTER Filtering ...
 _M_STR_SB_LOADTAGS Skaitomi gairių duomenys... {1} iš {2}
 _M_STR_SB_READDIRECTORY Tiriamas aplanko turinys
 _M_STR_SB_REMOVETAGS Šalinamos duomenų gairės ... {1} iš {2}
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON Šis albumas yra {1}
 _M_STR_TITLE Pavadinimas
 _M_STR_TRYAGAIN Gal Jūs norite pabandyti dar kartą?
 _M_STR_TTF тег - Failo pavadinimas
+_M_STR_UNSAVED Do you want to save the changes?
 _M_STR_UPDATE_FRM Naujinimai
 _M_STR_UPDATE_OPT_CHECK Paleidus programą, tikrinti, ar yra naujinimų
 _M_STR_UPDATE_OPT_CHECK_BETA Tame tarpe ir tobulinamos versijos (beta)

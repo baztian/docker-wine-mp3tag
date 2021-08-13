@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD &Sneltoetsen
 _C_MNU_HELP_SUPPORT Online ondersteuning...
 _C_MNU_HELP_UPGRADE Zoeken naar nieuwe versie...
 _C_MNU_HELP_WWW Mp3tag &Website...
+_C_MNU_TAG_EDIT Edit...\tF2
+_C_MNU_TAG_NEW Add...\tIns
+_C_MNU_TAG_REMOVE Remove\tDel
 _C_MNU_TAGSOURCES Ta&gbronnen
 _C_MNU_TOOLS &Extra
 _C_MNU_VIEW Beel&d
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY Filter automatisch toepassen
 _C_MNU_VIEW_ID3 Invoervelden\tCtrl+Q
 _C_MNU_VIEW_REFRESH &Vernieuwen\tF5
 _C_MNU_VIEW_SORTBY &Sorteren op
+_C_MNU_VIEW_SORTBYRANDOM Willekeu&rig
 _C_MNU_VIEW_TAGS &Tags...\tALT+T
 _C_MNU_VIEW_TOOLBAR &Werkbalk
 _C_MNU_SB_ACTIONS Voorgedefinieerde acties (hoofdletters, vervanging, ...) toepassen op geselecteerde bestanden.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE Venstergrootte wijzigen
 _C_MULTILINE Meerregelig
 _C_OK &OK
 _C_OPT_ACTIONGROUPS Actiegroepen
+_C_OPT_ACTIONGROUPS_BTN_APPLY Toep&assen
+_C_OPT_ACTIONGROUPS_SEL_EMPTY Geen actiegroep actief
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} actiegroepen actief
+_C_OPT_ACTIONGROUPS_SEL_SINGLE Eén actiegroep actief
+_C_OPT_ACTIONGROUPS_SORTBYNAME Sorteren op naam
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Sorteren op status
 _C_OPT_ACTIONS Acties
 _C_OPT_ACTIONS_TYPE Actietype selecteren
 _C_OPT_ADVANCED Geavanceerd
 _C_OPT_ADVANCED_ID3V2LANG Taalcode voor ID3v2 commentaarveld (ISO-639-2)
 _C_OPT_ADVANCED_LISTCHAPTERS Toon hoofdstukken als losse bestanden
+_C_OPT_ADVANCED_POPULARIMETER Always display POPULARIMETER values for ID3v2 ratings
 _C_OPT_CAPTION Opties
 _C_OPT_CDDB_CAPTION freedb
 _C_OPT_CDDB_CHK_USEPROXY Pr&oxy gebruiken
@@ -379,7 +390,7 @@ _M_ERR_PARSELINE Regel {1} kan niet geparset worden.
 _M_ERR_PLAY Bestand \"{1}\" kon niet worden afgespeeld!
 _M_ERR_READ_FILE Bestand \"{1}\" kon niet worden gelezen.
 _M_ERR_RENAME_FILE Bestand \"{1}\" kon niet worden hernoemd naar \"{2}\".
-_M_ERR_RETRY Do you want to retry?
+_M_ERR_RETRY Wilt u opnieuw proberen?
 _M_ERR_TL_NOTAGS Geen geschikt item voor bestand \"{1}\" gevonden.
 _M_ERR_WRITE_FILE Bestand \"{1}\" kon niet worden geschreven.
 _M_ERR_YN \n\nWilt u verdergaan?
@@ -398,10 +409,15 @@ _M_LOG_TFF Tag gelezen van taglijst \"{1}\" en opgeslagen in {2} van {3} bestand
 _M_LOG_TFF_S Geïmporteerde tags van \"{1}\" opgeslagen in één bestand.
 _M_LOG_TTF {1} van {2} bestanden hernoemd.
 _M_STAT_PLAY Afspelen van bestand \"{1}\"...
-_M_STR_ACTION_ADJUSTCOVER Adjust cover
-_M_STR_ACTION_ADJUSTCOVER_FORMAT Format
-_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
-_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
+_M_STR_ACTION_ADJUSTCOVER Cover aanpassen
+_M_STR_ACTION_ADJUSTCOVER_FORMAT Formaat
+_M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Origineel
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Quality
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Best
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH High
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Low
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Medium
+_M_STR_ACTION_ADJUSTCOVER_SIZE Max. Grootte
 _M_STR_ACTION_CODEPAGE Codepage converteren
 _M_STR_ACTION_CODEPAGE_DESC Codepage
 _M_STR_ACTION_EXPORTCOVER Cover exporteren naar bestand
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Velden verwijderen
 _M_STR_ACTION_REM_DESC Te verwijderen velden (gescheiden door puntkomma's):
 _M_STR_ACTION_REM_EX Velden verwijderen behalve
 _M_STR_ACTION_REM_EX_DESC Velden om te laten staan (gescheiden door puntkomma's):
+_M_STR_ACTION_SETCOVERPROPERTIES Set cover properties
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Cover Description:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Set for:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL All covers
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Cover Type:
 _M_STR_ACTION_SPLITFIELDS Velden scheiden door scheidingsteken
+_M_STR_ACTIONGROUP_CHANGED Configuratie van actiegroepen gewijzigd.\r\n\r\nWilt u de wijzigingen opslaan?
 _M_STR_ACTIONGROUP_NAME Naam van actiegroep
 _M_STR_ALBUM Album
 _M_STR_ALBUMARTIST Albumartiest
 _M_STR_ALL_FILEDLGFILTER Alle bestanden (*.*)|*.*||
 _M_STR_ARTIST Artiest
 _M_STR_AUTHOR Auteur
+_M_STR_AUTOSIZECOLUMNS Auto-size columns
 _M_STR_BACK < &Terug
 _M_STR_BROWSE_COPY Kopieren naar:
 _M_STR_BROWSE_MOVE Verplaatsen naar:
@@ -516,6 +539,8 @@ _M_STR_OPTS_NEVER nooit
 _M_STR_PLNAME Afspeellijst - Bestandsnaam
 _M_STR_PL_CONFIRM Afspeellijst aanmaken met deze bestandsnaam
 _M_STR_PL_SAVEFILTER Afspeellijstbestanden (*.m3u)|*.m3u|Unicode afspeellijstbestanden (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Create selection preset...
+_M_STR_PRESETS Presets
 _M_STR_PREVIEW Voorbeeld
 _M_STR_PROPERTIES {1} eigenschappen
 _M_STR_QUICK Snel
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES Opruimen verweesde binaries
 _M_STR_SB_CLEANUPDATABASE_COVERS Opruimen verweesde covers
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES Opruimen niet bibliotheek bestanden
 _M_STR_SB_EXPORTTAGS Tags schrijven... {1} van {2}
+_M_STR_SB_FILTER Filtering ...
 _M_STR_SB_LOADTAGS Tags lezen... {1} van {2}
 _M_STR_SB_READDIRECTORY Map lezen
 _M_STR_SB_REMOVETAGS Tags verwijderen... {1} van {2}
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON Dit album op {1}
 _M_STR_TITLE Titel
 _M_STR_TRYAGAIN Wilt u het opnieuw proberen?
 _M_STR_TTF Tag - Bestandsnaam
+_M_STR_UNSAVED Do you want to save the changes?
 _M_STR_UPDATE_FRM Updates
 _M_STR_UPDATE_OPT_CHECK Op updates controleren bij opstarten
 _M_STR_UPDATE_OPT_CHECK_BETA Inclusief ontwikkelversies (beta's)

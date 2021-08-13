@@ -120,6 +120,9 @@ _C_MNU_HELP_KEYBOARD Пречице
 _C_MNU_HELP_SUPPORT Онлајн Подршка...
 _C_MNU_HELP_UPGRADE Проверити верзију...
 _C_MNU_HELP_WWW Mp3tag Страница ...
+_C_MNU_TAG_EDIT Edit...\tF2
+_C_MNU_TAG_NEW Add...\tIns
+_C_MNU_TAG_REMOVE Remove\tDel
 _C_MNU_TAGSOURCES Извори етикета
 _C_MNU_TOOLS Алати
 _C_MNU_VIEW Изглед
@@ -129,6 +132,7 @@ _C_MNU_VIEW_FILTER_AUTOAPPLY Auto-apply filter
 _C_MNU_VIEW_ID3 Окно етикета\tCtrl+Q
 _C_MNU_VIEW_REFRESH Обновити\tF5
 _C_MNU_VIEW_SORTBY Сортирати по
+_C_MNU_VIEW_SORTBYRANDOM &Randomize
 _C_MNU_VIEW_TAGS Етикете...\tALT+T
 _C_MNU_VIEW_TOOLBAR Палета Алатки
 _C_MNU_SB_ACTIONS Урадити корисничке акције (промена слова...) одабраним фајловима.
@@ -196,11 +200,18 @@ _C_MNU_SB_WND_SIZE Променити величину прозора
 _C_MULTILINE Више линија
 _C_OK У реду
 _C_OPT_ACTIONGROUPS Акције група
+_C_OPT_ACTIONGROUPS_BTN_APPLY &Apply
+_C_OPT_ACTIONGROUPS_SEL_EMPTY No action group enabled
+_C_OPT_ACTIONGROUPS_SEL_MULTI {1} action groups enabled
+_C_OPT_ACTIONGROUPS_SEL_SINGLE One action group enabled
+_C_OPT_ACTIONGROUPS_SORTBYNAME Sort by name
+_C_OPT_ACTIONGROUPS_SORTBYSTATE Sort by state
 _C_OPT_ACTIONS Акције
 _C_OPT_ACTIONS_TYPE Одабирати тип акције
 _C_OPT_ADVANCED Advanced
 _C_OPT_ADVANCED_ID3V2LANG ID3v2 comment language code (ISO-639-2)
 _C_OPT_ADVANCED_LISTCHAPTERS List chapters as separate files
+_C_OPT_ADVANCED_POPULARIMETER Always display POPULARIMETER values for ID3v2 ratings
 _C_OPT_CAPTION Опције
 _C_OPT_CDDB_CAPTION freedb
 _C_OPT_CDDB_CHK_USEPROXY Користити прокси
@@ -401,6 +412,11 @@ _M_STAT_PLAY Слушање датотеке \"{1}\" ...
 _M_STR_ACTION_ADJUSTCOVER Adjust cover
 _M_STR_ACTION_ADJUSTCOVER_FORMAT Format
 _M_STR_ACTION_ADJUSTCOVER_FORMATKEEP Original
+_M_STR_ACTION_ADJUSTCOVER_QUALITY Quality
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_BEST Best
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_HIGH High
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_LOW Low
+_M_STR_ACTION_ADJUSTCOVER_QUALITY_MEDIUM Medium
 _M_STR_ACTION_ADJUSTCOVER_SIZE Max. Size
 _M_STR_ACTION_CODEPAGE Конвертирати лист кода
 _M_STR_ACTION_CODEPAGE_DESC Лист кода
@@ -425,13 +441,20 @@ _M_STR_ACTION_REM Скинути поља
 _M_STR_ACTION_REM_DESC Поља за скидање (одвојено са ;):
 _M_STR_ACTION_REM_EX Скидање поља осим
 _M_STR_ACTION_REM_EX_DESC Поља да се оставе (одвојено са ;):
+_M_STR_ACTION_SETCOVERPROPERTIES Set cover properties
+_M_STR_ACTION_SETCOVERPROPERTIES_DESC Cover Description:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER Set for:
+_M_STR_ACTION_SETCOVERPROPERTIES_FILTER_ALL All covers
+_M_STR_ACTION_SETCOVERPROPERTIES_TYPE Cover Type:
 _M_STR_ACTION_SPLITFIELDS Подели поља по сепаратору
+_M_STR_ACTIONGROUP_CHANGED Configuration of action groups has changed.\r\n\r\nDo you want to save the changes?
 _M_STR_ACTIONGROUP_NAME Име групе акције
 _M_STR_ALBUM Албум
 _M_STR_ALBUMARTIST Уметник албума
 _M_STR_ALL_FILEDLGFILTER Све (*.*)|*.*||
 _M_STR_ARTIST Уметник
 _M_STR_AUTHOR Аутор
+_M_STR_AUTOSIZECOLUMNS Auto-size columns
 _M_STR_BACK < Назад
 _M_STR_BROWSE_COPY Копирати у:
 _M_STR_BROWSE_MOVE Преместити у:
@@ -516,6 +539,8 @@ _M_STR_OPTS_NEVER никада
 _M_STR_PLNAME Плејлиста - Датотека
 _M_STR_PL_CONFIRM Креирати плејлисту именовану
 _M_STR_PL_SAVEFILTER Playlist File (*.m3u)|*.m3u|Unicode Playlist File (*.m3u8)|*.m3u8||
+_M_STR_PRESET_SELECTION Create selection preset...
+_M_STR_PRESETS Presets
 _M_STR_PREVIEW Преглед
 _M_STR_PROPERTIES Особине {1}
 _M_STR_QUICK Брзо
@@ -535,6 +560,7 @@ _M_STR_SB_CLEANUPDATABASE_BINARIES Cleanup orphaned binaries
 _M_STR_SB_CLEANUPDATABASE_COVERS Cleanup orphaned covers
 _M_STR_SB_CLEANUPDATABASE_NONLIBFILES Cleanup non-library files
 _M_STR_SB_EXPORTTAGS Износ инфо етикете ... {1} записа од {2} датотека
+_M_STR_SB_FILTER Filtering ...
 _M_STR_SB_LOADTAGS Читање податка етикете ... {1} од {2}
 _M_STR_SB_READDIRECTORY Читање фасцикле
 _M_STR_SB_REMOVETAGS Брисање податке етикете ... {1} од {2}
@@ -571,6 +597,7 @@ _M_STR_THISALBUMON Овај албум на {1}
 _M_STR_TITLE Назив
 _M_STR_TRYAGAIN Покушати поново?
 _M_STR_TTF Етикета - Датотека
+_M_STR_UNSAVED Do you want to save the changes?
 _M_STR_UPDATE_FRM Аћурирања
 _M_STR_UPDATE_OPT_CHECK Проверити ажурирања на покретање
 _M_STR_UPDATE_OPT_CHECK_BETA Провери и Бета верзије
